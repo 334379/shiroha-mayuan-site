@@ -1,0 +1,2818 @@
+{
+  "meta": {
+    "title": "马克思主义基本原理-第七章",
+    "questionCount": 78,
+    "volumes": 1,
+    "sourceNote": "由马原选择题题库 Word 文档转换导入。"
+  },
+  "questions": [
+    {
+      "id": "mayuan-chapter7-0001",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 1,
+      "question": "\"通过批判旧世界来发现新世界\"是( )。（1.2）",
+      "options": [
+        {
+          "key": "A",
+          "text": "空想社会主义预见未来社会的方法"
+        },
+        {
+          "key": "B",
+          "text": "唯物主义预见未来社会的方法"
+        },
+        {
+          "key": "C",
+          "text": "唯心主义预见未来社会的方法"
+        },
+        {
+          "key": "D",
+          "text": "马克思主义预见未来社会的方法"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "马克思主义预见未来社会的方法"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0002",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 2,
+      "question": "社会主义和共产主义都存在的经济关系是( )。（1.2）",
+      "options": [
+        {
+          "key": "A",
+          "text": "实行商品经济、市场经济体制"
+        },
+        {
+          "key": "B",
+          "text": "实行按劳分配原则"
+        },
+        {
+          "key": "C",
+          "text": "实行按需分配原则"
+        },
+        {
+          "key": "D",
+          "text": "实行生产资料的社会公有制"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "实行生产资料的社会公有制"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0003",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 3,
+      "question": "共产主义社会的物质基础是( )。（1.2）",
+      "options": [
+        {
+          "key": "A",
+          "text": "高新技术发达的生产力"
+        },
+        {
+          "key": "B",
+          "text": "与发达资本主义国家相同的社会生产力"
+        },
+        {
+          "key": "C",
+          "text": "比资本主义社会高的社会生产力"
+        },
+        {
+          "key": "D",
+          "text": "远远高于以往一切社会的高度发达的社会生产力"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "远远高于以往一切社会的高度发达的社会生产力"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0004",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 4,
+      "question": "中华民族走向共产主义的必由之路是建设( )。（1.2）",
+      "options": [
+        {
+          "key": "A",
+          "text": "中国特色社会主义"
+        },
+        {
+          "key": "B",
+          "text": "真正的社会主义"
+        },
+        {
+          "key": "C",
+          "text": "发达的社会主义"
+        },
+        {
+          "key": "D",
+          "text": "民主的社会主义"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "中国特色社会主义"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0005",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 5,
+      "question": "\"人的依赖性关系\"是( )。（1.2）",
+      "options": [
+        {
+          "key": "A",
+          "text": "资本主义社会以前的人与人之间的关系"
+        },
+        {
+          "key": "B",
+          "text": "资本主义社会之中的人与人之间的关系"
+        },
+        {
+          "key": "C",
+          "text": "共产主义社会之中的人与人之间的关系"
+        },
+        {
+          "key": "D",
+          "text": "社会主义社会之中的人与人之间的关系"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "资本主义社会以前的人与人之间的关系"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0006",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 6,
+      "question": "\"物的依赖性关系\"是( )。（1.2）",
+      "options": [
+        {
+          "key": "A",
+          "text": "资本主义社会之中的人与人之间的关系"
+        },
+        {
+          "key": "B",
+          "text": "资本主义社会以前的人与人之间的关系"
+        },
+        {
+          "key": "C",
+          "text": "社会主义社会之中的人与人之间的关系"
+        },
+        {
+          "key": "D",
+          "text": "共产主义社会之中的人与人之间的关系"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "资本主义社会之中的人与人之间的关系"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0007",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 7,
+      "question": "共产主义理想之所以能够实现，是因为它( )。（1.2）",
+      "options": [
+        {
+          "key": "A",
+          "text": "具有客观必然性"
+        },
+        {
+          "key": "B",
+          "text": "具有客观可能性"
+        },
+        {
+          "key": "C",
+          "text": "是人类向往的美好境界"
+        },
+        {
+          "key": "D",
+          "text": "是人类追求的目标"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "具有客观必然性"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0008",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 8,
+      "question": "马克思在( )中指出，只有在生产力增长起来，在集体财富的一切源泉都充分涌流之后，才能实行共产主义\"各尽所能，按需分配\"的分配原则。（1.2）",
+      "options": [
+        {
+          "key": "A",
+          "text": "《共产党宣言》"
+        },
+        {
+          "key": "B",
+          "text": "《哥达纲领批判》"
+        },
+        {
+          "key": "C",
+          "text": "《资本论》"
+        },
+        {
+          "key": "D",
+          "text": "《共产主义信条草案》"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "《哥达纲领批判》"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0009",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 9,
+      "question": "马克思深入研究资本主义社会，特别是研究资本主义的经济运动，揭示的内容不包括( )。（1.2）",
+      "options": [
+        {
+          "key": "A",
+          "text": "生产社会化与生产资料资本主义私人占有之间的基本矛盾"
+        },
+        {
+          "key": "B",
+          "text": "旧资本主义已经让位于国家垄断资本主义"
+        },
+        {
+          "key": "C",
+          "text": "资本主义剥削的秘密与资本主义的非正义性"
+        },
+        {
+          "key": "D",
+          "text": "工人阶级和资产阶级斗争的发展规律和趋势"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "旧资本主义已经让位于国家垄断资本主义"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0010",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 10,
+      "question": "下列关于共产主义社会的特征，说法错误的是( )。（1.2）",
+      "options": [
+        {
+          "key": "A",
+          "text": "个人利益与社会利益达成了直接统一"
+        },
+        {
+          "key": "B",
+          "text": "个人劳动与社会劳动没有达成直接统一"
+        },
+        {
+          "key": "C",
+          "text": "个人劳动直接成为社会劳动的一部分"
+        },
+        {
+          "key": "D",
+          "text": "个人利益直接在社会利益中得到实现"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "个人劳动与社会劳动没有达成直接统一"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0011",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 11,
+      "question": "下列关于马克思、恩格斯预见未来共产主义社会的基本特征的说法错误的是( )。（1.2）",
+      "options": [
+        {
+          "key": "A",
+          "text": "从社会主义社会的发展中寻找启示"
+        },
+        {
+          "key": "B",
+          "text": "从资本主义社会中寻找灵感"
+        },
+        {
+          "key": "C",
+          "text": "只从社会主义社会中寻找灵感"
+        },
+        {
+          "key": "D",
+          "text": "从社会主义社会的建设中寻找启示"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "只从社会主义社会中寻找灵感"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0012",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 12,
+      "question": "社会主义社会是共产主义社会的( )，它与共产主义社会具有根本性质上的一致性（1.2）",
+      "options": [
+        {
+          "key": "A",
+          "text": "发展阶段"
+        },
+        {
+          "key": "B",
+          "text": "萌芽阶段"
+        },
+        {
+          "key": "C",
+          "text": "初级阶段"
+        },
+        {
+          "key": "D",
+          "text": "高级阶段"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "初级阶段"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0013",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 13,
+      "question": "马克思主义产生以前曾对未来理想社会进行过详尽描述的是( )。（1.2）",
+      "options": [
+        {
+          "key": "A",
+          "text": "封建的社会主义"
+        },
+        {
+          "key": "B",
+          "text": "小资产阶级社会主义"
+        },
+        {
+          "key": "C",
+          "text": "空想社会主义"
+        },
+        {
+          "key": "D",
+          "text": "科学社会主义"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "空想社会主义"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0014",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 14,
+      "question": "不属于共产主义的是( )。（1.2）",
+      "options": [
+        {
+          "key": "A",
+          "text": "未来的社会制度"
+        },
+        {
+          "key": "B",
+          "text": "科学的理论"
+        },
+        {
+          "key": "C",
+          "text": "现实的运动"
+        },
+        {
+          "key": "D",
+          "text": "没有矛盾的社会形态"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "没有矛盾的社会形态"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0015",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 15,
+      "question": "1984年1月3日，意大利人卡内帕给恩格斯写信，请求他为即将在日内瓦出版的《新纪元》周刊的创刊号题词，而且要求尽量用简短的字句来表述未来的社会主义纪元的基本思想，以区别于伟大诗人但丁的对旧纪元所作的\"一些人统治，另一些人受苦难\"的界定。恩格斯回答说，这就是:\"代替那存在着阶级和阶级对立的资产阶级旧社会的，将是这样一个联合体，在那里，每个人的自由发展是一切人的自由发展的条件。\"这段话表明，马克思主义追求的根本价值目标是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "建立一个四海之内皆兄弟的大同世界"
+        },
+        {
+          "key": "B",
+          "text": "实现人类永恒不变的普适价值"
+        },
+        {
+          "key": "C",
+          "text": "建立一个自由、平等、博爱的理性王国"
+        },
+        {
+          "key": "D",
+          "text": "实现人的自由而全面的发展"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "实现人的自由而全面的发展"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0016",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 16,
+      "question": "阶级消灭和国家消亡是在( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "社会主义革命中实现的"
+        },
+        {
+          "key": "B",
+          "text": "社会主义初级阶段实现的"
+        },
+        {
+          "key": "C",
+          "text": "无产阶级专政建立后实现的"
+        },
+        {
+          "key": "D",
+          "text": "共产主义社会实现的"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "共产主义社会实现的"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0017",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 17,
+      "question": "马克思主义政党的最高纲领和最终奋斗目标是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "实现共产主义"
+        },
+        {
+          "key": "B",
+          "text": "成为社会主义事业的领导核心"
+        },
+        {
+          "key": "C",
+          "text": "使工人阶级成为统治阶级"
+        },
+        {
+          "key": "D",
+          "text": "建立社会主义制度"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "实现共产主义"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0018",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 18,
+      "question": "马克思主义认为，消灭\"三大差别\"的关键在于( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "消灭利益差别"
+        },
+        {
+          "key": "B",
+          "text": "消灭城市和乡村的差别"
+        },
+        {
+          "key": "C",
+          "text": "消灭工业与农业的差别"
+        },
+        {
+          "key": "D",
+          "text": "消灭脑力劳动和体力劳动的差别"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "消灭利益差别"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0019",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 19,
+      "question": "当代青年要积极投身新时代中国特色社会主义事业，勇做担当中华民族伟大复兴大任的时代新人。以下说法不正确的是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "要抓紧机遇，谋取好的工作，挣更多的钱，活出人生巅峰"
+        },
+        {
+          "key": "B",
+          "text": "投身党和人民在中国特色社会主义新时代的伟大奋斗"
+        },
+        {
+          "key": "C",
+          "text": "做走在新时代前列的奋进者、开拓者、奉献者"
+        },
+        {
+          "key": "D",
+          "text": "要投身新时代中国特色社会主义事业"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "要抓紧机遇，谋取好的工作，挣更多的钱，活出人生巅峰"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0020",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 20,
+      "question": "马克思主义指出，在共产主义社会，劳动是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "休闲的手段"
+        },
+        {
+          "key": "B",
+          "text": "人们生活的第一需要"
+        },
+        {
+          "key": "C",
+          "text": "人们谋生的手段"
+        },
+        {
+          "key": "D",
+          "text": "完全由个人自由选择的活动"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "人们生活的第一需要"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0021",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 21,
+      "question": "\"各尽所能，按需分配\"是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "资本主义的分配方式"
+        },
+        {
+          "key": "B",
+          "text": "共产主义的分配方式"
+        },
+        {
+          "key": "C",
+          "text": "原始社会的分配方式"
+        },
+        {
+          "key": "D",
+          "text": "社会主义的分配方式"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "共产主义的分配方式"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0022",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 22,
+      "question": "自由王国是指( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "社会主义社会"
+        },
+        {
+          "key": "B",
+          "text": "资本主义社会"
+        },
+        {
+          "key": "C",
+          "text": "共产主义社会"
+        },
+        {
+          "key": "D",
+          "text": "原始社会"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "共产主义社会"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0023",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 23,
+      "question": "共产主义理想的实现之所以是历史规律的必然要求，是基于( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "人类社会发展规律以及未来美好社会的基本矛盾发展"
+        },
+        {
+          "key": "B",
+          "text": "人类社会发展规律以及社会主义社会的基本矛盾发展"
+        },
+        {
+          "key": "C",
+          "text": "人类社会发展规律以及资本主义社会的基本矛盾发展"
+        },
+        {
+          "key": "D",
+          "text": "现实资本主义社会以及社会主义社会的基本矛盾发展"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "人类社会发展规律以及资本主义社会的基本矛盾发展"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0024",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 24,
+      "question": "实现了人的\"自由个性\"的发展，是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "社会主义社会之中的人的生存状态"
+        },
+        {
+          "key": "B",
+          "text": "资本主义社会之中的人的生存状态"
+        },
+        {
+          "key": "C",
+          "text": "共产主义社会之中的人的生存状态"
+        },
+        {
+          "key": "D",
+          "text": "资本主义社会以前的人的生存状态"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "共产主义社会之中的人的生存状态"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0025",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 25,
+      "question": "马克思主义认为，自由是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "人们能够摆脱必然性"
+        },
+        {
+          "key": "B",
+          "text": "人们选择的主动性"
+        },
+        {
+          "key": "C",
+          "text": "人们能够随心所欲"
+        },
+        {
+          "key": "D",
+          "text": "人们在对必然的认识基础上对客观的改造"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "人们在对必然的认识基础上对客观的改造"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0026",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 26,
+      "question": "\"代替那存在着阶级和阶级对立的资产阶级旧社会的，将是这样一个联合体，在那里，每个人的自由发展是一切人的自由发展的条件\"。出自( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "《共产主义原理》"
+        },
+        {
+          "key": "B",
+          "text": "《哥达纲领批判》"
+        },
+        {
+          "key": "C",
+          "text": "《资本论》"
+        },
+        {
+          "key": "D",
+          "text": "《共产党宣言》"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "《共产党宣言》"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0027",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 27,
+      "question": "下列现象中不属于共产主义社会特征的有( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "每个人自由而全面地发展"
+        },
+        {
+          "key": "B",
+          "text": "社会财富极大丰富，消费品按需分配"
+        },
+        {
+          "key": "C",
+          "text": "社会关系高度和谐，人们的精神境界极大提高"
+        },
+        {
+          "key": "D",
+          "text": "社会财富极大丰富，消费品按劳分配"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "社会财富极大丰富，消费品按劳分配"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0028",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 28,
+      "question": "阶级消灭和国家消亡的实现是在( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "社会主义高级阶段"
+        },
+        {
+          "key": "B",
+          "text": "社会主义革命中"
+        },
+        {
+          "key": "C",
+          "text": "社会主义初级阶段"
+        },
+        {
+          "key": "D",
+          "text": "共产主义社会"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "共产主义社会"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0029",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 29,
+      "question": "共产主义社会的必经阶段和必由之路是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "社会主义初级阶段"
+        },
+        {
+          "key": "B",
+          "text": "社会主义革命和无产阶级专政"
+        },
+        {
+          "key": "C",
+          "text": "向社会主义过渡时期"
+        },
+        {
+          "key": "D",
+          "text": "社会主义社会"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "社会主义社会"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0030",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 30,
+      "question": "属于自由王国状态的是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "共产主义社会"
+        },
+        {
+          "key": "B",
+          "text": "奴隶社会"
+        },
+        {
+          "key": "C",
+          "text": "封建社会"
+        },
+        {
+          "key": "D",
+          "text": "资本主义社会"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "共产主义社会"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0031",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 31,
+      "question": "\"必然王国\"和\"自由王国\"是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "历史性概念"
+        },
+        {
+          "key": "B",
+          "text": "空间性概念"
+        },
+        {
+          "key": "C",
+          "text": "物质概念"
+        },
+        {
+          "key": "D",
+          "text": "时间性概念"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "历史性概念"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0032",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 32,
+      "question": "美好的共产主义社会是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "人类自由自觉历史的开端"
+        },
+        {
+          "key": "B",
+          "text": "不需要进一步完善的完美状态"
+        },
+        {
+          "key": "C",
+          "text": "没有任何矛盾的社会"
+        },
+        {
+          "key": "D",
+          "text": "人类历史的终结"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "人类自由自觉历史的开端"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0033",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 33,
+      "question": "自由王国和必然王国是人类社会发展的( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "两种不同的道路"
+        },
+        {
+          "key": "B",
+          "text": "两种不同的状态"
+        },
+        {
+          "key": "C",
+          "text": "两种不同的选择"
+        },
+        {
+          "key": "D",
+          "text": "两种不同的理想"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "两种不同的状态"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0034",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 34,
+      "question": "下列关于远大理想与共同理想的关系说法错误的是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "远大理想与共同理想的关系是最终理想与阶段性理想的关系"
+        },
+        {
+          "key": "B",
+          "text": "共产主义理想不是\"共同理想\""
+        },
+        {
+          "key": "C",
+          "text": "远大理想与共同理想的关系是最高纲领与最低纲领的关系"
+        },
+        {
+          "key": "D",
+          "text": "远大理想与共同理想的关系是全人类理想与全体中国人民理想的关系"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "共产主义理想不是\"共同理想\""
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0035",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 35,
+      "question": "下列关于在共产主义社会中人的自由而全面的发展说法错误的是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "共产主义社会中人的自由而全面的发展指的是全体社会成员的发展，即每一个人的发展，而不是只有一部分人的发展"
+        },
+        {
+          "key": "B",
+          "text": "社会发展与个人发展没有实现真正的统一"
+        },
+        {
+          "key": "C",
+          "text": "人的社会联系和社会交往也得到发展"
+        },
+        {
+          "key": "D",
+          "text": "社会发展不再以牺牲某些个人的发展为代价"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "社会发展与个人发展没有实现真正的统一"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0036",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 36,
+      "question": "关于共产主义社会中的社会管理机构说法错误的是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "不再具有政治压迫的功能"
+        },
+        {
+          "key": "B",
+          "text": "具有人们自我管理的性质"
+        },
+        {
+          "key": "C",
+          "text": "仍然具有政治压迫的功能"
+        },
+        {
+          "key": "D",
+          "text": "不再具有暴力镇压的功能"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "仍然具有政治压迫的功能"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0037",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 37,
+      "question": "党的最高纲领是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "建立人民民主专政"
+        },
+        {
+          "key": "B",
+          "text": "建设中国特色社会主义"
+        },
+        {
+          "key": "C",
+          "text": "实现共产主义"
+        },
+        {
+          "key": "D",
+          "text": "进行社会主义革命"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "实现共产主义"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0038",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 38,
+      "question": "阶级社会不平等的重要表现和社会不和谐的重要根源是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "阶级斗争"
+        },
+        {
+          "key": "B",
+          "text": "国家的存在"
+        },
+        {
+          "key": "C",
+          "text": "三大差别引起的三种对立"
+        },
+        {
+          "key": "D",
+          "text": "私有制的存在"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "三大差别引起的三种对立"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0039",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 39,
+      "question": "人类社会的最高阶段是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "资本主义"
+        },
+        {
+          "key": "B",
+          "text": "社会主义"
+        },
+        {
+          "key": "C",
+          "text": "共产主义"
+        },
+        {
+          "key": "D",
+          "text": "封建社会"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "共产主义"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0040",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 40,
+      "question": "当代大学生要坚定理想信念，自觉做中国特色社会主义共同理想的坚定信仰者、忠诚实践者。以下说法不正确的是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "要坚持学而信、学而用、学而行，把学习成果转化为不可撼动的理想信念，转化为正确的世界观、人生观、价值观，用理想之光照亮奋斗之路，用信仰之力开创美好未来"
+        },
+        {
+          "key": "B",
+          "text": "要深入学习马克思主义基本原理及马克思主义中国化的理论成果，特别是学习习近平新时代中国特色社会主义思想"
+        },
+        {
+          "key": "C",
+          "text": "让真理武装我们的头脑，让真理指引我们的理想，让真理坚定我们的信仰"
+        },
+        {
+          "key": "D",
+          "text": "要积极吸收西方文化和普世价值，打造全世界的理想信念"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "要积极吸收西方文化和普世价值，打造全世界的理想信念"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0041",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 41,
+      "question": "马克思根据人的发展状况把人类历史划分为三大形态，它们是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "原始公有制社会、私有制社会、共产主义公有制社会"
+        },
+        {
+          "key": "B",
+          "text": "自然经济社会、商品经济社会、时间经济社会"
+        },
+        {
+          "key": "C",
+          "text": "农业社会、工业社会、信息社会"
+        },
+        {
+          "key": "D",
+          "text": "人的依赖性社会、物的依赖性社会、人的自由全面发展社会"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "人的依赖性社会、物的依赖性社会、人的自由全面发展社会"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0042",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 42,
+      "question": "中国特色社会主义共同理想是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "民族主义的理想"
+        },
+        {
+          "key": "B",
+          "text": "经济社会发展的理想状态"
+        },
+        {
+          "key": "C",
+          "text": "人成为自己社会关系主人的理想状态"
+        },
+        {
+          "key": "D",
+          "text": "带有中国特色的社会主义理想信念"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "带有中国特色的社会主义理想信念"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0043",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 43,
+      "question": "下列提法正确的是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "许多思想家都预见了未来社会"
+        },
+        {
+          "key": "B",
+          "text": "只有唯心主义思想家预见了未来社会"
+        },
+        {
+          "key": "C",
+          "text": "只有空想社会主义思想家预见了未来社会"
+        },
+        {
+          "key": "D",
+          "text": "只有马克思主义经典作家预见了未来社会"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "许多思想家都预见了未来社会"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0044",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 44,
+      "question": "在共产主义社会，工业活动和农业活动、城市生活和乡村生活、脑力劳动和体力劳动之间在活动方式和环节等方面的差异( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "不会完全消除"
+        },
+        {
+          "key": "B",
+          "text": "能消除"
+        },
+        {
+          "key": "C",
+          "text": "完全不消除"
+        },
+        {
+          "key": "D",
+          "text": "不能消除"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "不会完全消除"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0045",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 45,
+      "question": "马克思主义认为，共产主义社会的分配原则是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "按劳分配"
+        },
+        {
+          "key": "B",
+          "text": "各尽所能，按需分配"
+        },
+        {
+          "key": "C",
+          "text": "按生产要素分配"
+        },
+        {
+          "key": "D",
+          "text": "平均分配"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "各尽所能，按需分配"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0046",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 46,
+      "question": "共产主义社会中\"物质财富的极大丰富\"是指( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "无限地增加物质财富"
+        },
+        {
+          "key": "B",
+          "text": "足够满足所有人需要的产品生产规模"
+        },
+        {
+          "key": "C",
+          "text": "足够满足所有人欲望的产品生产规模"
+        },
+        {
+          "key": "D",
+          "text": "无限度地扩张生产力"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "足够满足所有人需要的产品生产规模"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0047",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 47,
+      "question": "我们讲社会主义，是与( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "共产主义相比较而言的"
+        },
+        {
+          "key": "B",
+          "text": "民主社会主义相比较而言的"
+        },
+        {
+          "key": "C",
+          "text": "资本主义相比较而言，也是与共产主义社会相对比而言的"
+        },
+        {
+          "key": "D",
+          "text": "资本主义相比较而言的"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "资本主义相比较而言，也是与共产主义社会相对比而言的"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0048",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 48,
+      "question": "习近平总书记指出:\"实现( )。是我们共产党人的最高理想，而这个最高理想是需要一代又一代人接力奋斗的。\"（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "中国特色社会主义"
+        },
+        {
+          "key": "B",
+          "text": "社会主义"
+        },
+        {
+          "key": "C",
+          "text": "共产主义"
+        },
+        {
+          "key": "D",
+          "text": "新时代中国特色社会主义"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "共产主义"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0049",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 49,
+      "question": "在人的发展和社会发展的关系问题上，马克思主义认为( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "前者和后者是彼此独立的历史发展过程"
+        },
+        {
+          "key": "B",
+          "text": "前者体现了个人价值，后者体现了社会价值"
+        },
+        {
+          "key": "C",
+          "text": "前者和后者互为前提和基础"
+        },
+        {
+          "key": "D",
+          "text": "前者是个人的理想，后者是社会理想"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "前者和后者互为前提和基础"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0050",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 50,
+      "question": "最终实现人类在分配上的真正平等的分配原则是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "各尽所能，按劳分配"
+        },
+        {
+          "key": "B",
+          "text": "按资本和贡献分配"
+        },
+        {
+          "key": "C",
+          "text": "各尽所能，按需分配"
+        },
+        {
+          "key": "D",
+          "text": "按生产要素分配"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "各尽所能，按需分配"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0051",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 51,
+      "question": "关于马克思主义的共产主义理论，下列说法正确的是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "共产主义是绝对真理的偶然表现"
+        },
+        {
+          "key": "B",
+          "text": "共产主义是对一种永恒的理性王国的信念"
+        },
+        {
+          "key": "C",
+          "text": "共产主义应该通过道德呼吁来实现"
+        },
+        {
+          "key": "D",
+          "text": "共产主义是关于无产阶级解放条件的学说"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "共产主义是关于无产阶级解放条件的学说"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0052",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 52,
+      "question": "无产阶级解放斗争的最终目的是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "消灭剥削"
+        },
+        {
+          "key": "B",
+          "text": "夺取政权"
+        },
+        {
+          "key": "C",
+          "text": "消灭阶级"
+        },
+        {
+          "key": "D",
+          "text": "实现共产主义"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "实现共产主义"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0053",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 53,
+      "question": "列宁指出:马克思丝毫不想制造乌托邦，不想凭空猜测无法知道的事情。马克思提出共产主义的问题，正像一个自然科学家已经知道某一新的生物变种是怎样产生以及朝哪个方向演变才提出该生物变种的发展问题一样。这句话表明马克思( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "在剖析资本主义社会旧世界中阐发未来新世界的特点"
+        },
+        {
+          "key": "B",
+          "text": "立足于揭示未来社会的一般特征"
+        },
+        {
+          "key": "C",
+          "text": "对未来社会不作详尽的细节描绘"
+        },
+        {
+          "key": "D",
+          "text": "在揭示人类社会发展一般规律基础上指明社会发展的方向"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "在揭示人类社会发展一般规律基础上指明社会发展的方向"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0054",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 54,
+      "question": "共产主义社会制度具有巨大优越性的根本保证是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "科学技术的不断进步"
+        },
+        {
+          "key": "B",
+          "text": "社会制度的和谐完善"
+        },
+        {
+          "key": "C",
+          "text": "人的精神境界极大提高"
+        },
+        {
+          "key": "D",
+          "text": "创造出前所未有的高水平的劳动生产率"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "创造出前所未有的高水平的劳动生产率"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0055",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 55,
+      "question": "共产主义社会的显著特征和一面旗帜是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "各尽所能，按劳分配"
+        },
+        {
+          "key": "B",
+          "text": "按劳分配"
+        },
+        {
+          "key": "C",
+          "text": "按需分配"
+        },
+        {
+          "key": "D",
+          "text": "各尽所能，按需分配"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "各尽所能，按需分配"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0056",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 56,
+      "question": "共产主义一定能够实现，其决定因素是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "人类社会的发展规律"
+        },
+        {
+          "key": "B",
+          "text": "共产主义的优越性"
+        },
+        {
+          "key": "C",
+          "text": "人类社会发展的曲折性"
+        },
+        {
+          "key": "D",
+          "text": "人类社会发展的多样性"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "人类社会的发展规律"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0057",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 57,
+      "question": "恩格斯在《共产主义信条草案》中明确提出，\"财产公有\"制度不是任何时候都可以实现的，它必须建立在因发展工业、农业、贸易等而产生的大量的生产力和生活资料的基础之上，建立在因使用机器、化学方法和其他辅助手段而使生产力和生产资料无限增长的可能性的基础之上。这表明，共产主义社会实现的必要条件是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "社会生产力高度发展，产品极大丰富"
+        },
+        {
+          "key": "B",
+          "text": "人们精神境界极大提高"
+        },
+        {
+          "key": "C",
+          "text": "每个人自由而全面的发展"
+        },
+        {
+          "key": "D",
+          "text": "社会关系高度和谐"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "社会生产力高度发展，产品极大丰富"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0058",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 58,
+      "question": "实现共产主义社会的根本条件和基础是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "社会生产力的高度发展"
+        },
+        {
+          "key": "B",
+          "text": "人的思想觉悟的极大提高"
+        },
+        {
+          "key": "C",
+          "text": "自然环境的优化"
+        },
+        {
+          "key": "D",
+          "text": "社会生产关系的高度发展"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "社会生产力的高度发展"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0059",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 59,
+      "question": "\"共产主义\"一词的三层含义不包括( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "共产主义思想体系"
+        },
+        {
+          "key": "B",
+          "text": "共产主义规律"
+        },
+        {
+          "key": "C",
+          "text": "共产主义社会"
+        },
+        {
+          "key": "D",
+          "text": "共产主义运动"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "共产主义规律"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0060",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 60,
+      "question": "下列关于\"工人阶级\"和\"无产阶级\"的说法错误的是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "\"工人阶级\"和\"无产阶级\"是同一个阶级的两种不同称呼"
+        },
+        {
+          "key": "B",
+          "text": "\"工人阶级\"和\"无产阶级\"是两个不同的阶级"
+        },
+        {
+          "key": "C",
+          "text": "\"工人阶级\"是从职业特征上讲的"
+        },
+        {
+          "key": "D",
+          "text": "\"无产阶级\"是从其社会地位上讲的"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "\"工人阶级\"和\"无产阶级\"是两个不同的阶级"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0061",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 61,
+      "question": "下列\"三大差别\"的说法错误的是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "\"三大差别\"之间的对立是整个社会不平等的重要表现"
+        },
+        {
+          "key": "B",
+          "text": "在共产主义社会，工业活动和农业活动、城市生活和乡村生活、脑力劳动和体力劳动之间在活动环节方面的差异会完全消失"
+        },
+        {
+          "key": "C",
+          "text": "\"三大差别\"之间的对立是社会生活不和谐的重要根源"
+        },
+        {
+          "key": "D",
+          "text": "在共产主义社会，工业活动和农业活动、城市生活和乡村生活、脑力劳动和体力劳动之间在活动方式方面的差异并不会完全消失"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "在共产主义社会，工业活动和农业活动、城市生活和乡村生活、脑力劳动和体力劳动之间在活动环节方面的差异会完全消失"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0062",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 62,
+      "question": "下列不属于\"三大差别\"的是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "城市生活和乡村生活的差异"
+        },
+        {
+          "key": "B",
+          "text": "工业活动和农业活动的差异"
+        },
+        {
+          "key": "C",
+          "text": "资产阶级和劳动者之间的差异"
+        },
+        {
+          "key": "D",
+          "text": "脑力劳动和体力劳动之间的差异"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "资产阶级和劳动者之间的差异"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0063",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 63,
+      "question": "集中体现着工业和农业之间以及脑力劳动和体力劳动的对立的是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "社会制度对立"
+        },
+        {
+          "key": "B",
+          "text": "阶级对立"
+        },
+        {
+          "key": "C",
+          "text": "城乡对立"
+        },
+        {
+          "key": "D",
+          "text": "人和人之间的对立"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "城乡对立"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0064",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 64,
+      "question": "马克思主义最崇高的社会理想和人类历史发展的必然趋势是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "消灭资本主义"
+        },
+        {
+          "key": "B",
+          "text": "建立社会主义"
+        },
+        {
+          "key": "C",
+          "text": "实现共产主义"
+        },
+        {
+          "key": "D",
+          "text": "发展生产力"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "实现共产主义"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0065",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 65,
+      "question": "共产主义实现人的全面发展，不包括( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "社会联系和社会交往的发展"
+        },
+        {
+          "key": "B",
+          "text": "体力和智力的发展"
+        },
+        {
+          "key": "C",
+          "text": "各方面才能和能力的发展"
+        },
+        {
+          "key": "D",
+          "text": "科学技术的发展"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "科学技术的发展"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0066",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 66,
+      "question": "下列关于共产主义社会的特征，说法错误的是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "在共产主义社会，战争将不复存在"
+        },
+        {
+          "key": "B",
+          "text": "共产主义社会在生产关系上将废除私有制，实行普遍的生产资料公有制"
+        },
+        {
+          "key": "C",
+          "text": "在共产主义社会，国家将会消亡"
+        },
+        {
+          "key": "D",
+          "text": "在共产主义社会，阶级仍将存在"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "在共产主义社会，阶级仍将存在"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0067",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 67,
+      "question": "共产主义和社会主义的一致性表现在( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "生产力水平一样高"
+        },
+        {
+          "key": "B",
+          "text": "表现形态是一致的"
+        },
+        {
+          "key": "C",
+          "text": "所有都是一致的"
+        },
+        {
+          "key": "D",
+          "text": "社会性质上是一致的"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "社会性质上是一致的"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0068",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 68,
+      "question": "把握和处理远大理想和共同理想的关系，以下说法不正确的是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "不能用简单化的态度来对待它，而是要用马克思主义的辩证思维和历史思维去把握它"
+        },
+        {
+          "key": "B",
+          "text": "没有远大理想的指引，就不会有共同理想的确立和坚持;没有共同理想的实现，远大理想就没有现实的基础"
+        },
+        {
+          "key": "C",
+          "text": "任何时候都要坚持远大理想和共同理想的统一，不能把它们割裂开来、对立起来"
+        },
+        {
+          "key": "D",
+          "text": "忘记远大理想只顾眼前现实工作，离开现实工作而空谈远大理想，就会脱离实际"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "忘记远大理想只顾眼前现实工作，离开现实工作而空谈远大理想，就会脱离实际"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0069",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 69,
+      "question": "我国现在尚处在社会主义社会的初级阶段，对于整个社会主义时期究竟会有多长，究竟要经历哪些发展阶段，何时才能达到共产主义社会，还需要随着历史的发展进一步去认识和探索。以下理解正确的是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "对社会主义的长期性应有充分的估计，绝不可急于迈进"
+        },
+        {
+          "key": "B",
+          "text": "探索证明共产主义和\"土豆烧牛肉\"差不多"
+        },
+        {
+          "key": "C",
+          "text": "探索证明可以跑步进入共产主义"
+        },
+        {
+          "key": "D",
+          "text": "探索证明社会主义长不了"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "对社会主义的长期性应有充分的估计，绝不可急于迈进"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0070",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 70,
+      "question": "青年一代的理想信念、精神状态、综合素质，是一个国家发展活力的重要体现，也是一个国家( )的重要因素。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "核心竞争力"
+        },
+        {
+          "key": "B",
+          "text": "未来力量"
+        },
+        {
+          "key": "C",
+          "text": "综合素质"
+        },
+        {
+          "key": "D",
+          "text": "国家实力"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "核心竞争力"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0071",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 71,
+      "question": "由于各个民族国家的历史传统和现实国情不同，建设社会主义的具体道路也会有所不同，进入社会主义时期的国家应该( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "以中国模式为范本"
+        },
+        {
+          "key": "B",
+          "text": "以具有自身特点的方式逐步向共产主义方向迈进"
+        },
+        {
+          "key": "C",
+          "text": "以苏联模式迈进共产主义"
+        },
+        {
+          "key": "D",
+          "text": "依据马恩原著原文的指示迈进"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "以具有自身特点的方式逐步向共产主义方向迈进"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0072",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 72,
+      "question": "必然王国是指( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "文明社会"
+        },
+        {
+          "key": "B",
+          "text": "共产主义社会以前的社会状态"
+        },
+        {
+          "key": "C",
+          "text": "社会主义社会"
+        },
+        {
+          "key": "D",
+          "text": "原始社会"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "共产主义社会以前的社会状态"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0073",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 73,
+      "question": "马克思、恩格斯在展望未来社会时，立足于( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "设想革命和建设的战略、策略问题"
+        },
+        {
+          "key": "B",
+          "text": "详尽描绘各种细节特征"
+        },
+        {
+          "key": "C",
+          "text": "揭示未来社会的一般特征"
+        },
+        {
+          "key": "D",
+          "text": "预测革命胜利后应采取的具体措施"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "揭示未来社会的一般特征"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0074",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 74,
+      "question": "共产主义是人类解放的实现，共产主义社会的根本特征是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "社会关系高度和谐"
+        },
+        {
+          "key": "B",
+          "text": "人们精神境界极大提高"
+        },
+        {
+          "key": "C",
+          "text": "实现人的自由而全面的发展"
+        },
+        {
+          "key": "D",
+          "text": "物质财富极大丰富，消费资料按需分配"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "实现人的自由而全面的发展"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0075",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 75,
+      "question": "马克思主义经典作家揭示了未来社会发展的( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "特殊规律"
+        },
+        {
+          "key": "B",
+          "text": "具体细节"
+        },
+        {
+          "key": "C",
+          "text": "一般特征"
+        },
+        {
+          "key": "D",
+          "text": "具体阶段"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "一般特征"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0076",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 76,
+      "question": "展望未来理想社会的基本依据是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "人类的想象空间到底有多大"
+        },
+        {
+          "key": "B",
+          "text": "运用数学方法计算"
+        },
+        {
+          "key": "C",
+          "text": "经济学家对未来的预期"
+        },
+        {
+          "key": "D",
+          "text": "马克思主义经典作家提出的方法论原则"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "马克思主义经典作家提出的方法论原则"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0077",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 77,
+      "question": "当代中国人民为之奋斗的共同理想是( )。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "国家自行消亡"
+        },
+        {
+          "key": "B",
+          "text": "实现共产主义"
+        },
+        {
+          "key": "C",
+          "text": "彻底消灭剥削"
+        },
+        {
+          "key": "D",
+          "text": "建设中国特色社会主义"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "建设中国特色社会主义"
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter7-0078",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 78,
+      "question": "社会主义社会实现了( )的原则，第一次以人的劳动而不是特权或资本作为分配的标准。（1.3）",
+      "options": [
+        {
+          "key": "A",
+          "text": "\"按资分配\""
+        },
+        {
+          "key": "B",
+          "text": "\"各尽所能，按需分配\""
+        },
+        {
+          "key": "C",
+          "text": "\"各尽所能，按劳分配\""
+        },
+        {
+          "key": "D",
+          "text": "\"按劳分配\""
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "\"各尽所能，按劳分配\""
+      ],
+      "topic": "第七章",
+      "category": "第七章",
+      "score": 1,
+      "analysis": ""
+    }
+  ]
+}

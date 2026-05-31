@@ -1,0 +1,3286 @@
+{
+  "meta": {
+    "title": "马克思主义基本原理-第六章",
+    "questionCount": 91,
+    "volumes": 1,
+    "sourceNote": "由马原选择题题库 Word 文档转换导入。"
+  },
+  "questions": [
+    {
+      "id": "mayuan-chapter6-0001",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 1,
+      "question": "除我国之外，( )也提出了仍处于社会主义初级阶段的理论。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "南斯拉夫"
+        },
+        {
+          "key": "B",
+          "text": "古巴"
+        },
+        {
+          "key": "C",
+          "text": "越南"
+        },
+        {
+          "key": "D",
+          "text": "苏联"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "越南"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0002",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 2,
+      "question": "对经济文化相对落后的国家可以先于发达资本主义国家进入社会主义，理解错误的是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "它并不违背生产关系一定要适合生产力状况的规律"
+        },
+        {
+          "key": "B",
+          "text": "它是由革命的客观形势和条件所决定的"
+        },
+        {
+          "key": "C",
+          "text": "它是\"反常现象\"，是\"畸形的早产儿\""
+        },
+        {
+          "key": "D",
+          "text": "从历史上看，社会形态的更替已有不是从最发达的地方开始而是从薄弱的或不发达的地方开始的先例"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "它是\"反常现象\"，是\"畸形的早产儿\""
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0003",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 3,
+      "question": "空想社会主义的发展经历了三个阶段，其中成为科学社会主义的直接思想来源的是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "20世纪的空想社会主义"
+        },
+        {
+          "key": "B",
+          "text": "16-17世纪的早期空想社会主义"
+        },
+        {
+          "key": "C",
+          "text": "18世纪的空想平均共产主义"
+        },
+        {
+          "key": "D",
+          "text": "19世纪初期批判的空想社会主义"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "19世纪初期批判的空想社会主义"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0004",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 4,
+      "question": "由社会主义向共产主义过渡的首要条件是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "消灭一切阶级差别、三大差别"
+        },
+        {
+          "key": "B",
+          "text": "人们的共产主义觉悟极大提高"
+        },
+        {
+          "key": "C",
+          "text": "科学文化事业的极大发展"
+        },
+        {
+          "key": "D",
+          "text": "社会主义生产力的高度发展，社会产品极为丰富"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "社会主义生产力的高度发展，社会产品极为丰富"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0005",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 5,
+      "question": "科学社会主义的直接理论来源是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "古典政治经济学"
+        },
+        {
+          "key": "B",
+          "text": "空想平均共产主义"
+        },
+        {
+          "key": "C",
+          "text": "唯物史观和剩余价值学说"
+        },
+        {
+          "key": "D",
+          "text": "19世纪初期以圣西门、傅立叶、欧文为代表的空想社会主义"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "19世纪初期以圣西门、傅立叶、欧文为代表的空想社会主义"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0006",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 6,
+      "question": "马克思主义的产生具有深刻的社会根源、阶级基础和思想渊源，其创始人马克思1818年5月5日出生在德国特利尔城的一个律师家庭，恩格斯1820年11月28日出生在德国巴门市的一个工厂主家庭，他们放弃了舒适安逸的生活，毅然选择了充满荆棘坎坷的革命道路，创立了科学社会主义，马克思、恩格斯之所以能够创立科学社会主义，主要是因为( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "社会历史条件和个人努力的相互作用"
+        },
+        {
+          "key": "B",
+          "text": "德国是当时最为发达的资本主义国家"
+        },
+        {
+          "key": "C",
+          "text": "他们对时代有着超越常人的认知能力"
+        },
+        {
+          "key": "D",
+          "text": "他们拥有优良的家庭背景和教育经历"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "社会历史条件和个人努力的相互作用"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0007",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 7,
+      "question": "社会主义的发展道路必然呈现出多样性的特点。造成社会主义发展道路多样性的现实原因是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "时代和实践的不断发展"
+        },
+        {
+          "key": "B",
+          "text": "历史文化传统的差异性"
+        },
+        {
+          "key": "C",
+          "text": "革命传统不同"
+        },
+        {
+          "key": "D",
+          "text": "无产阶级政党自身的成熟程度不同"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "时代和实践的不断发展"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0008",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 8,
+      "question": "从1944-1949年，欧亚共有( )个国家先后建立起人民民主国家，走上了社会主义道路。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "11"
+        },
+        {
+          "key": "B",
+          "text": "10"
+        },
+        {
+          "key": "C",
+          "text": "12"
+        },
+        {
+          "key": "D",
+          "text": "13"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "11"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0009",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 9,
+      "question": "马克思、恩格斯分析了资本主义社会的阶级对立，得出无产阶级是资本主义( )和共产主义建设者的结论。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "\"抗争者\""
+        },
+        {
+          "key": "B",
+          "text": "\"掘墓人\""
+        },
+        {
+          "key": "C",
+          "text": "\"终结者\""
+        },
+        {
+          "key": "D",
+          "text": "\"送葬人\""
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "\"掘墓人\""
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0010",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 10,
+      "question": "中国特色社会主义是科学社会主义在当代中国的成功实践，社会主义在世界上人口最多的国家成功创造了中国式现代化新道路，创造了人类文明新形态，鲜明地展现了社会主义的优越性，标志着( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "世界社会主义完全走出低潮"
+        },
+        {
+          "key": "B",
+          "text": "世界社会主义正在开拓新的历史征程"
+        },
+        {
+          "key": "C",
+          "text": "世界社会主义在世界上逐渐占据上风"
+        },
+        {
+          "key": "D",
+          "text": "世界认识到了社会主义的优越性"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "世界社会主义正在开拓新的历史征程"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0011",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 11,
+      "question": "苏联解体、东欧剧变的最根本原因是( )出了问题。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "经济政策"
+        },
+        {
+          "key": "B",
+          "text": "政治方向"
+        },
+        {
+          "key": "C",
+          "text": "经济制度"
+        },
+        {
+          "key": "D",
+          "text": "政治理论"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "政治方向"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0012",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 12,
+      "question": "为捍卫苏维埃政权，苏维埃实行以( )和取消商品货币关系为主要特征的战时共产主义政策。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "粮食税制"
+        },
+        {
+          "key": "B",
+          "text": "余粮收集制"
+        },
+        {
+          "key": "C",
+          "text": "允许私人小工业企业发展"
+        },
+        {
+          "key": "D",
+          "text": "试行租让制"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "余粮收集制"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0013",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 13,
+      "question": "( )促进了马克思主义的传播及其与国际工人运动的结合，初步确立了马克思主义在工人运动中的指导地位。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "十月革命胜利"
+        },
+        {
+          "key": "B",
+          "text": "第二国际"
+        },
+        {
+          "key": "C",
+          "text": "第一国际"
+        },
+        {
+          "key": "D",
+          "text": "\"七月事变\""
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "第一国际"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0014",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 14,
+      "question": "关于社会主义在实践探索中曲折前进的下列说法中，观点错误的是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "社会主义必然取代资本主义"
+        },
+        {
+          "key": "B",
+          "text": "社会主义取代资本主义是一个长期的曲折的过程"
+        },
+        {
+          "key": "C",
+          "text": "社会主义在若干国家的严重挫折改变了资本主义必然灭亡的命运"
+        },
+        {
+          "key": "D",
+          "text": "社会主义正经历从逐渐走出低潮到走向振兴的重要时期"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "社会主义在若干国家的严重挫折改变了资本主义必然灭亡的命运"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0015",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 15,
+      "question": "新经济政策的主要特征是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "实行社会主义计划经济"
+        },
+        {
+          "key": "B",
+          "text": "取消商品货币关系"
+        },
+        {
+          "key": "C",
+          "text": "发展商品经济"
+        },
+        {
+          "key": "D",
+          "text": "实行社会主义市场经济"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "发展商品经济"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0016",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 16,
+      "question": "\"民主社会主义\"的实质是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "社会主义不同模式的一种"
+        },
+        {
+          "key": "B",
+          "text": "发达国家的社会主义"
+        },
+        {
+          "key": "C",
+          "text": "社会主义的最佳模式"
+        },
+        {
+          "key": "D",
+          "text": "改良的资本主义"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "改良的资本主义"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0017",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 17,
+      "question": "在理论上第一次将共产主义社会第一阶段称为社会主义的是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "斯大林"
+        },
+        {
+          "key": "B",
+          "text": "恩格斯"
+        },
+        {
+          "key": "C",
+          "text": "马克思"
+        },
+        {
+          "key": "D",
+          "text": "列宁"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "列宁"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0018",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 18,
+      "question": "无产阶级革命的根本问题是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "农民问题"
+        },
+        {
+          "key": "B",
+          "text": "统一战线中的领导权问题"
+        },
+        {
+          "key": "C",
+          "text": "武装斗争问题"
+        },
+        {
+          "key": "D",
+          "text": "国家政权问题"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "国家政权问题"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0019",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 19,
+      "question": "科学社会主义创立的理论基石是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "唯物史观和剩余价值学说"
+        },
+        {
+          "key": "B",
+          "text": "空想社会主义学说"
+        },
+        {
+          "key": "C",
+          "text": "英国古典政治经济学"
+        },
+        {
+          "key": "D",
+          "text": "德国古典哲学"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "唯物史观和剩余价值学说"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0020",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 20,
+      "question": "人类社会发展规律是( )的根本依据。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "资本主义必然灭亡，社会主义必然胜利"
+        },
+        {
+          "key": "B",
+          "text": "\"两个决不会\""
+        },
+        {
+          "key": "C",
+          "text": "生产资料公有制"
+        },
+        {
+          "key": "D",
+          "text": "建立无产阶级专政"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "资本主义必然灭亡，社会主义必然胜利"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0021",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 21,
+      "question": "下列说法中，正确的观点是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "经济文化相对落后的国家率先进入社会主义是历史发展规律作用的结果"
+        },
+        {
+          "key": "B",
+          "text": "经济文化相对落后的国家率先进入社会主义是\"反常现象\""
+        },
+        {
+          "key": "C",
+          "text": "经济文化相对落后的国家率先进入社会主义违背了科学社会主义原理"
+        },
+        {
+          "key": "D",
+          "text": "经济文化相对落后的国家率先进入社会主义违反了历史发展规律"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "经济文化相对落后的国家率先进入社会主义是历史发展规律作用的结果"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0022",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 22,
+      "question": "社会主义由空想到科学的标志是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "无产阶级革命的胜利"
+        },
+        {
+          "key": "B",
+          "text": "《共产党宣言》的发表"
+        },
+        {
+          "key": "C",
+          "text": "\"共产主义者同盟\"的建立"
+        },
+        {
+          "key": "D",
+          "text": "空想社会主义理想的破灭"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "《共产党宣言》的发表"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0023",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 23,
+      "question": "社会主义各个阶段的划分最终应以( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "生产关系为标准"
+        },
+        {
+          "key": "B",
+          "text": "生产力的发展为标准"
+        },
+        {
+          "key": "C",
+          "text": "生产资料的公有制程度为标准"
+        },
+        {
+          "key": "D",
+          "text": "以阶级斗争为标准"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "生产力的发展为标准"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0024",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 24,
+      "question": "列宁得出\"社会主义可能在一国或数国首先取得胜利\"这个结论的依据是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "无产阶级是最先进、最革命的阶级的原理"
+        },
+        {
+          "key": "B",
+          "text": "帝国主义时代资本主义政治经济发展不平衡的绝对规律"
+        },
+        {
+          "key": "C",
+          "text": "资本主义必然灭亡、社会主义和共产主义必然胜利的规律"
+        },
+        {
+          "key": "D",
+          "text": "资本主义国家无产阶级与资产阶级斗争的规律"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "帝国主义时代资本主义政治经济发展不平衡的绝对规律"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0025",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 25,
+      "question": "实现社会主义的必要政治前提是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "建立广泛的革命统一战线"
+        },
+        {
+          "key": "B",
+          "text": "无产阶级政党的领导"
+        },
+        {
+          "key": "C",
+          "text": "建立无产阶级专政"
+        },
+        {
+          "key": "D",
+          "text": "无产阶级的革命斗争"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "建立无产阶级专政"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0026",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 26,
+      "question": "社会主义民主的本质是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "公正"
+        },
+        {
+          "key": "B",
+          "text": "平等"
+        },
+        {
+          "key": "C",
+          "text": "人民当家作主"
+        },
+        {
+          "key": "D",
+          "text": "共同富裕"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "人民当家作主"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0027",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 27,
+      "question": "坚持四项基本原则的核心是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚持社会主义道路"
+        },
+        {
+          "key": "B",
+          "text": "坚持人民民主专政"
+        },
+        {
+          "key": "C",
+          "text": "坚持党的领导"
+        },
+        {
+          "key": "D",
+          "text": "坚持马列主义、毛泽东思想"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "坚持党的领导"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0028",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 28,
+      "question": "( )是社会主义国家凝聚和激励人民的重要力量，是社会主义国家综合国力的重要标志。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "中国精神"
+        },
+        {
+          "key": "B",
+          "text": "马克思主义"
+        },
+        {
+          "key": "C",
+          "text": "社会主义先进文化"
+        },
+        {
+          "key": "D",
+          "text": "中华优秀传统文化"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "社会主义先进文化"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0029",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 29,
+      "question": "\"两个必然\"和\"两个决不会\"( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "是有着内在联系的"
+        },
+        {
+          "key": "B",
+          "text": "是矛盾的"
+        },
+        {
+          "key": "C",
+          "text": "是两回事"
+        },
+        {
+          "key": "D",
+          "text": "是内容和形式的关系"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "是有着内在联系的"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0030",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 30,
+      "question": "执政最根本的是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "维护主权安全"
+        },
+        {
+          "key": "B",
+          "text": "人心向背"
+        },
+        {
+          "key": "C",
+          "text": "勇于自我革命"
+        },
+        {
+          "key": "D",
+          "text": "科学执政"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "人心向背"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0031",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 31,
+      "question": "共同富裕是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "少数人的富裕"
+        },
+        {
+          "key": "B",
+          "text": "全体人民的富裕"
+        },
+        {
+          "key": "C",
+          "text": "平均富裕"
+        },
+        {
+          "key": "D",
+          "text": "\"杀富济贫\""
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "全体人民的富裕"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0032",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 32,
+      "question": "空想社会主义产生于( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "15世纪初期"
+        },
+        {
+          "key": "B",
+          "text": "16世纪末期"
+        },
+        {
+          "key": "C",
+          "text": "16世纪初期"
+        },
+        {
+          "key": "D",
+          "text": "17世纪初期"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "16世纪初期"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0033",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 33,
+      "question": "根据马克思、恩格斯的论述及社会主义现实的启示所概括的科学社会主义的基本原则中，社会主义生产的根本目的是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "全面建设社会主义，逐步进入共产主义"
+        },
+        {
+          "key": "B",
+          "text": "发展生产力，不断推动社会发展进步"
+        },
+        {
+          "key": "C",
+          "text": "满足全体社会成员的需要"
+        },
+        {
+          "key": "D",
+          "text": "实现现代化，建设社会主义强国"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "满足全体社会成员的需要"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0034",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 34,
+      "question": "从空想社会主义诞生到《共产党宣言》问世,其间空想社会主义经历了三百多年的发展历程。空想社会主义的开山之作是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "《论法制或法律的原则》"
+        },
+        {
+          "key": "B",
+          "text": "《太阳城》"
+        },
+        {
+          "key": "C",
+          "text": "《自然法典》"
+        },
+        {
+          "key": "D",
+          "text": "《乌托邦》"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "《乌托邦》"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0035",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 35,
+      "question": "社会主义基本特征中，最重要的是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "各尽所能、按劳分配"
+        },
+        {
+          "key": "B",
+          "text": "以人为本，构建和谐社会"
+        },
+        {
+          "key": "C",
+          "text": "工人阶级和劳动人民的政权"
+        },
+        {
+          "key": "D",
+          "text": "公有制为主体和共同富裕"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "公有制为主体和共同富裕"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0036",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 36,
+      "question": "社会主义从理论到实践的飞跃，具体途径是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "实践"
+        },
+        {
+          "key": "B",
+          "text": "通过改革和革命实现的"
+        },
+        {
+          "key": "C",
+          "text": "通过对人民群众的教育和灌输实现的"
+        },
+        {
+          "key": "D",
+          "text": "通过无产阶级革命实现的"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "通过无产阶级革命实现的"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0037",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 37,
+      "question": "社会主义是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "历史发展的必然"
+        },
+        {
+          "key": "B",
+          "text": "消灭了矛盾的"
+        },
+        {
+          "key": "C",
+          "text": "是单一性的"
+        },
+        {
+          "key": "D",
+          "text": "一成不变的东西"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "历史发展的必然"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0038",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 38,
+      "question": "马克思、恩格斯指出( )是造成生态问题的根本原因。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "资本主义制度"
+        },
+        {
+          "key": "B",
+          "text": "生产力发展"
+        },
+        {
+          "key": "C",
+          "text": "工业革命"
+        },
+        {
+          "key": "D",
+          "text": "社会发展"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "资本主义制度"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0039",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 39,
+      "question": "( )是反抗资产阶级斗争的最高形式。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "无产阶级革命"
+        },
+        {
+          "key": "B",
+          "text": "资产阶级革命"
+        },
+        {
+          "key": "C",
+          "text": "社会主义革命"
+        },
+        {
+          "key": "D",
+          "text": "共产主义革命"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "无产阶级革命"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0040",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 40,
+      "question": "\"资本主义必然灭亡，社会主义必然胜利\"是科学社会主义的( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "主流思想"
+        },
+        {
+          "key": "B",
+          "text": "核心命题"
+        },
+        {
+          "key": "C",
+          "text": "理想表述"
+        },
+        {
+          "key": "D",
+          "text": "基本遵循"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "核心命题"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0041",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 41,
+      "question": "以江泽民同志为核心的党中央团结带领全党全国人民，战胜了来自国内和国际的、经济社会和自然的多方面挑战，承前启后、继往开来，( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "开创了社会主义建设新时期"
+        },
+        {
+          "key": "B",
+          "text": "成功把中国特色社会主义推向21世纪"
+        },
+        {
+          "key": "C",
+          "text": "在新的历史起点上开始了全面建设小康社会的新征程"
+        },
+        {
+          "key": "D",
+          "text": "推动当代中国取得了历史性成就，发生了历史性变革"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "成功把中国特色社会主义推向21世纪"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0042",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 42,
+      "question": "下列对无产阶级革命的特点描述不正确的是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "无产阶级革命是不断前进的历史过程"
+        },
+        {
+          "key": "B",
+          "text": "无产阶级革命是为受苦人谋利益的运动"
+        },
+        {
+          "key": "C",
+          "text": "无产阶级革命是要彻底消灭一切阶级和阶级统治的革命"
+        },
+        {
+          "key": "D",
+          "text": "无产阶级革命是彻底消灭私有制、代之以生产资料公有制的革命"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "无产阶级革命是为受苦人谋利益的运动"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0043",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 43,
+      "question": "( )的胜利，证实了社会主义革命有可能首先在一个或者几个国家内取得胜利的科学论断。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "工人运动"
+        },
+        {
+          "key": "B",
+          "text": "巴黎公社革命"
+        },
+        {
+          "key": "C",
+          "text": "俄国十月革命"
+        },
+        {
+          "key": "D",
+          "text": "\"七月事变\""
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "俄国十月革命"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0044",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 44,
+      "question": "不属于列宁领导苏维埃俄国对社会主义道路的探索时期的是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "战时共产主义时期"
+        },
+        {
+          "key": "B",
+          "text": "进一步巩固苏维埃政权时期"
+        },
+        {
+          "key": "C",
+          "text": "和平发展时期"
+        },
+        {
+          "key": "D",
+          "text": "战时共产主义转变为新经济政策时期"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "和平发展时期"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0045",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 45,
+      "question": "马克思在《哥达纲领批判》中，把未来社会划分为第一阶段和高级阶段。列宁在《国家与革命》中则明确地把共产主义社会第一阶段称为( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "社会主义初级阶段社会"
+        },
+        {
+          "key": "B",
+          "text": "发达的社会主义社会"
+        },
+        {
+          "key": "C",
+          "text": "社会主义社会"
+        },
+        {
+          "key": "D",
+          "text": "不发达的社会主义社会"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "社会主义社会"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0046",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 46,
+      "question": "两极终结的标志是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "中国的强大"
+        },
+        {
+          "key": "B",
+          "text": "东欧剧变"
+        },
+        {
+          "key": "C",
+          "text": "苏联解体"
+        },
+        {
+          "key": "D",
+          "text": "第三世界的崛起"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "苏联解体"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0047",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 47,
+      "question": "社会主义的根本任务是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "进行阶级斗争"
+        },
+        {
+          "key": "B",
+          "text": "改革生产资料所有制"
+        },
+        {
+          "key": "C",
+          "text": "进行政治体制改革、经济体制改革"
+        },
+        {
+          "key": "D",
+          "text": "解放和发展社会生产力"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "解放和发展社会生产力"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0048",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 48,
+      "question": "苏维埃俄国对社会主义道路探索的三个时期，1918年夏-1921年春，是外国武装干涉和国内战争时期，即( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "新经济政策时期"
+        },
+        {
+          "key": "B",
+          "text": "进一步巩固苏维埃政权时期"
+        },
+        {
+          "key": "C",
+          "text": "由战时共产主义转变为新经济政策时期"
+        },
+        {
+          "key": "D",
+          "text": "战时共产主义时期"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "战时共产主义时期"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0049",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 49,
+      "question": "无产阶级夺取政权的根本目的是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "改变无产阶级及其他劳动群众受剥削、受压迫的地位"
+        },
+        {
+          "key": "B",
+          "text": "彻底打碎旧的资产阶级国家机器"
+        },
+        {
+          "key": "C",
+          "text": "实现共产主义"
+        },
+        {
+          "key": "D",
+          "text": "解放和促进社会生产力的发展"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "解放和促进社会生产力的发展"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0050",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 50,
+      "question": "马克思主义理论体系的核心是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "科学社会主义"
+        },
+        {
+          "key": "B",
+          "text": "哲学"
+        },
+        {
+          "key": "C",
+          "text": "政治经济学"
+        },
+        {
+          "key": "D",
+          "text": "历史学"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "科学社会主义"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0051",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 51,
+      "question": "无产阶级革命取得胜利的根本保证是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "无产阶级政党的正确领导"
+        },
+        {
+          "key": "B",
+          "text": "建立革命的统一战线"
+        },
+        {
+          "key": "C",
+          "text": "国家政权问题"
+        },
+        {
+          "key": "D",
+          "text": "人民群众的革命积极性的极大提高"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "无产阶级政党的正确领导"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0052",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 52,
+      "question": "无产阶级专政的最终目标是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "消灭剥削、消灭阶级，进入无阶级社会"
+        },
+        {
+          "key": "B",
+          "text": "取得国家政权"
+        },
+        {
+          "key": "C",
+          "text": "建立社会主义制度"
+        },
+        {
+          "key": "D",
+          "text": "消灭资产阶级"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "消灭剥削、消灭阶级，进入无阶级社会"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0053",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 53,
+      "question": "( )是资本主义不可克服的内在矛盾，决定了社会主义必然代替资本主义。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "个别企业有组织的生产与整个社会生产无政府状态之间的矛盾"
+        },
+        {
+          "key": "B",
+          "text": "生产的社会化与资本主义私人占有制之间的矛盾"
+        },
+        {
+          "key": "C",
+          "text": "现代无产阶级的日益壮大"
+        },
+        {
+          "key": "D",
+          "text": "无产阶级与资产阶级斗争尖锐化"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "生产的社会化与资本主义私人占有制之间的矛盾"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0054",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 54,
+      "question": "历史上最广泛、最彻底、最深刻的，不同于以往一切革命的最新类型的革命是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "农民起义"
+        },
+        {
+          "key": "B",
+          "text": "无产阶级革命"
+        },
+        {
+          "key": "C",
+          "text": "封建革命"
+        },
+        {
+          "key": "D",
+          "text": "资产阶级革命"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "无产阶级革命"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0055",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 55,
+      "question": "无产阶级专政的实质，就是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "领导和组织社会主义建设"
+        },
+        {
+          "key": "B",
+          "text": "无产阶级作为统治阶级掌握国家政权"
+        },
+        {
+          "key": "C",
+          "text": "要消灭剥削、消灭阶级，进到无阶级社会"
+        },
+        {
+          "key": "D",
+          "text": "镇压敌对阶级的反抗和破坏活动"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "无产阶级作为统治阶级掌握国家政权"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0056",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 56,
+      "question": "东欧一些社会主义国家因为照搬( )造成\"水土不服\"引发了经济社会危机。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "波兰模式"
+        },
+        {
+          "key": "B",
+          "text": "捷克模式"
+        },
+        {
+          "key": "C",
+          "text": "苏联模式"
+        },
+        {
+          "key": "D",
+          "text": "南斯拉夫模式"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "苏联模式"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0057",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 57,
+      "question": "无产阶级反对资产阶级的斗争中，最具决定意义的是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "理论斗争"
+        },
+        {
+          "key": "B",
+          "text": "经济斗争"
+        },
+        {
+          "key": "C",
+          "text": "政治斗争"
+        },
+        {
+          "key": "D",
+          "text": "议会斗争"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "政治斗争"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0058",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 58,
+      "question": "无产阶级夺取政权的第一次伟大尝试是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "1917年俄国的\"二月革命\""
+        },
+        {
+          "key": "B",
+          "text": "1917年列宁领导的十月革命和由此建立的第一个无产阶级专政的国家政权"
+        },
+        {
+          "key": "C",
+          "text": "1871年巴黎公社革命"
+        },
+        {
+          "key": "D",
+          "text": "19世纪40年代英国宪章运动及法、德、意工人运动"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "1871年巴黎公社革命"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0059",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 59,
+      "question": "社会主义发展史上的第一次飞跃为( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "社会主义从一国到多国的发展"
+        },
+        {
+          "key": "B",
+          "text": "苏联社会主义制度的建立"
+        },
+        {
+          "key": "C",
+          "text": "社会主义从理论到实践的飞跃"
+        },
+        {
+          "key": "D",
+          "text": "社会主义从空想发展到科学"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "社会主义从空想发展到科学"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0060",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 60,
+      "question": "( )是中国共产党区别于其他政党的显著标志。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "勇于自我革命"
+        },
+        {
+          "key": "B",
+          "text": "党的领导"
+        },
+        {
+          "key": "C",
+          "text": "理论先进"
+        },
+        {
+          "key": "D",
+          "text": "依法治国"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "勇于自我革命"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0061",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 61,
+      "question": "伴随社会主义国家的不断发展，资本主义国家对社会主义国家的进攻方式变为( )——促使社会主义国家改变社会制度。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "武力演变"
+        },
+        {
+          "key": "B",
+          "text": "\"和平演变\""
+        },
+        {
+          "key": "C",
+          "text": "\"颜色革命\""
+        },
+        {
+          "key": "D",
+          "text": "文化渗透"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "\"和平演变\""
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0062",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 62,
+      "question": "马克思主义与空想社会主义在预见未来上的根本区别在于( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "是否提出未来社会的具体方案"
+        },
+        {
+          "key": "B",
+          "text": "是否准确无误地预测未来"
+        },
+        {
+          "key": "C",
+          "text": "是否坚持科学的立场、观点和方法"
+        },
+        {
+          "key": "D",
+          "text": "是否批判资本主义旧世界"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "是否坚持科学的立场、观点和方法"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0063",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 63,
+      "question": "经济和政治发展的不平衡是资本主义的绝对规律，由此应当得出的结论是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "社会主义可能在经济文化相对发达的国家首先取得胜利"
+        },
+        {
+          "key": "B",
+          "text": "无产阶级革命至少将在几个主要的资本主义国家同时发生"
+        },
+        {
+          "key": "C",
+          "text": "社会主义可能在经济文化相对落后的俄国首先取得胜利"
+        },
+        {
+          "key": "D",
+          "text": "社会主义可能首先在少数甚至在单独一个资本主义国家内获得胜利"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "社会主义可能首先在少数甚至在单独一个资本主义国家内获得胜利"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0064",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 64,
+      "question": "民主的根本性质最终取决于( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "其经济基础的性质"
+        },
+        {
+          "key": "B",
+          "text": "是不是全民的民主"
+        },
+        {
+          "key": "C",
+          "text": "统治阶级如何来进行统治"
+        },
+        {
+          "key": "D",
+          "text": "由谁来进行统治"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "由谁来进行统治"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0065",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 65,
+      "question": "20世纪是一个不平凡的伟大世纪，在这个世纪里，对人类历史发生了最深刻的影响，并将继续影响21世纪进程的是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "中华人民共和国的成立"
+        },
+        {
+          "key": "B",
+          "text": "苏联解体"
+        },
+        {
+          "key": "C",
+          "text": "联合国通过人权宣言"
+        },
+        {
+          "key": "D",
+          "text": "社会主义革命的成功与社会主义制度的建立和发展"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "社会主义革命的成功与社会主义制度的建立和发展"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0066",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 66,
+      "question": "一国或几国的社会主义革命取得胜利以后，社会主义国家尚处于强大的资本主义世界的包围之中，受到资本主义列强的遏制和扼杀，面临异常严峻的国际环境。这体现了经济文化相对落后国家建设社会主义的长期性的哪方面特征?( )（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "社会主义制度的优越性"
+        },
+        {
+          "key": "B",
+          "text": "经济基础和上层建筑发展状况的制约"
+        },
+        {
+          "key": "C",
+          "text": "生产力发展状况的制约"
+        },
+        {
+          "key": "D",
+          "text": "国际环境的严峻挑战"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "国际环境的严峻挑战"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0067",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 67,
+      "question": "科学社会主义的核心内容是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "无产阶级专政和社会主义民主"
+        },
+        {
+          "key": "B",
+          "text": "唯物史观"
+        },
+        {
+          "key": "C",
+          "text": "国家政权"
+        },
+        {
+          "key": "D",
+          "text": "生产资料公有制"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "无产阶级专政和社会主义民主"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0068",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 68,
+      "question": "社会主义民主( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "既是手段又是目的，是手段和目的的统一"
+        },
+        {
+          "key": "B",
+          "text": "手段"
+        },
+        {
+          "key": "C",
+          "text": "目的"
+        },
+        {
+          "key": "D",
+          "text": "既不是手段也不是目的"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "既是手段又是目的，是手段和目的的统一"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0069",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 69,
+      "question": "苏联解体、东欧剧变的教训，不包括( )（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "进行社会主义体制改革"
+        },
+        {
+          "key": "B",
+          "text": "放弃社会主义道路"
+        },
+        {
+          "key": "C",
+          "text": "不注重发展生产力，改善人民生活水平"
+        },
+        {
+          "key": "D",
+          "text": "放弃共产党的领导地位"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "进行社会主义体制改革"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0070",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 70,
+      "question": "( )是社会主义事业发展规律的集中体现，是马克思主义政党领导人民进行社会主义革命、建设、改革的基本遵循。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "党的领导"
+        },
+        {
+          "key": "B",
+          "text": "科学社会主义基本原则"
+        },
+        {
+          "key": "C",
+          "text": "坚持社会主义民主"
+        },
+        {
+          "key": "D",
+          "text": "依法治国"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "科学社会主义基本原则"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0071",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 71,
+      "question": "《乌托邦》的作者是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "康帕内拉"
+        },
+        {
+          "key": "B",
+          "text": "托马斯·莫尔"
+        },
+        {
+          "key": "C",
+          "text": "摩莱里"
+        },
+        {
+          "key": "D",
+          "text": "马布利"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "托马斯·莫尔"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0072",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 72,
+      "question": "1936年12月，在苏维埃第( )次非常代表大会通过的宪法中，宣布苏联已经建成了社会主义。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "一"
+        },
+        {
+          "key": "B",
+          "text": "八"
+        },
+        {
+          "key": "C",
+          "text": "四"
+        },
+        {
+          "key": "D",
+          "text": "七"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "八"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0073",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 73,
+      "question": "反对无产阶级革命，主张通过和平的议会斗争和改良措施，使资本主义\"和平长入\"社会主义的是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "新民主主义"
+        },
+        {
+          "key": "B",
+          "text": "民主社会主义"
+        },
+        {
+          "key": "C",
+          "text": "伯恩施坦修正主义"
+        },
+        {
+          "key": "D",
+          "text": "改良主义"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "伯恩施坦修正主义"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0074",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 74,
+      "question": "社会主义建设的领导核心是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "科技文化精英人士"
+        },
+        {
+          "key": "B",
+          "text": "工人阶级先进分子"
+        },
+        {
+          "key": "C",
+          "text": "马克思主义政党"
+        },
+        {
+          "key": "D",
+          "text": "无产阶级领袖集团"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "马克思主义政党"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0075",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 75,
+      "question": "党的十九届六中全会指出:\"党的十一届三中全会以后，以邓小平同志为主要代表的中国共产党人，团结带领全党全国各族人民，深刻总结新中国成立以来正反两方面经验，围绕( )这一根本问题，借鉴世界社会主义历史经验，创立了邓小平理论。\"（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "建设什么样的国家、怎样建设国家"
+        },
+        {
+          "key": "B",
+          "text": "建设什么样的党、怎样建设党"
+        },
+        {
+          "key": "C",
+          "text": "什么是社会主义、怎样建设社会主义"
+        },
+        {
+          "key": "D",
+          "text": "实现什么样的发展、怎样发展"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "什么是社会主义、怎样建设社会主义"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0076",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 76,
+      "question": "列宁对社会主义革命学说的重大贡献是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "提出了新经济政策"
+        },
+        {
+          "key": "B",
+          "text": "提出了利用国家资本主义过渡社会主义的理论"
+        },
+        {
+          "key": "C",
+          "text": "提出了战时共产主义政策"
+        },
+        {
+          "key": "D",
+          "text": "提出了社会主义革命将首先在一国或数国取得胜利的理论"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "提出了社会主义革命将首先在一国或数国取得胜利的理论"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0077",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 77,
+      "question": "经济文化相对落后的国家可以先于发达资本主义国家进入社会主义，其根本原因是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "它是以高度社会化的资本主义大生产作为社会主义革命的物质前提的"
+        },
+        {
+          "key": "B",
+          "text": "经济文化相对落后的国家具有较高的精神文明"
+        },
+        {
+          "key": "C",
+          "text": "社会主义生产关系可以在旧社会的内部孕育生长起来"
+        },
+        {
+          "key": "D",
+          "text": "革命的客观形势和条件所决定的"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "革命的客观形势和条件所决定的"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0078",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 78,
+      "question": "美苏冷战全面展开的标志是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "马歇尔计划的提出"
+        },
+        {
+          "key": "B",
+          "text": "两大阵营的形成"
+        },
+        {
+          "key": "C",
+          "text": "丘吉尔的铁幕演说"
+        },
+        {
+          "key": "D",
+          "text": "杜鲁门主义的提出"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "杜鲁门主义的提出"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0079",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 79,
+      "question": "社会主义政治制度的基本特征是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚持社会主义方向"
+        },
+        {
+          "key": "B",
+          "text": "马克思主义的指导"
+        },
+        {
+          "key": "C",
+          "text": "无产阶级政党的领导"
+        },
+        {
+          "key": "D",
+          "text": "无产阶级专政的政权"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "无产阶级专政的政权"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0080",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 80,
+      "question": "列宁说:\"没有革命的理论，就不会有革命的运动。\"这句话应理解为( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "革命理论对革命实践具有重要指导作用"
+        },
+        {
+          "key": "B",
+          "text": "革命理论对革命实践具有最终的决定作用"
+        },
+        {
+          "key": "C",
+          "text": "革命运动是由革命理论派生的"
+        },
+        {
+          "key": "D",
+          "text": "革命理论是革命运动的基础"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "革命理论对革命实践具有重要指导作用"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0081",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 81,
+      "question": "马克思说:\"暴力是每一个孕育着新社会的旧社会的助产婆。\"这说明( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "暴力革命是无产阶级革命的主要的基本形式"
+        },
+        {
+          "key": "B",
+          "text": "暴力革命与和平发展可以相互取代"
+        },
+        {
+          "key": "C",
+          "text": "暴力革命是无产阶级革命的唯一形式"
+        },
+        {
+          "key": "D",
+          "text": "暴力革命与和平发展互相排斥"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "暴力革命是无产阶级革命的主要的基本形式"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0082",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 82,
+      "question": "社会主义发展史上的第二次飞跃为( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "社会主义由一种模式到多种模式的发展"
+        },
+        {
+          "key": "B",
+          "text": "社会主义从理论到实践的飞跃"
+        },
+        {
+          "key": "C",
+          "text": "社会主义从一国到多国的发展"
+        },
+        {
+          "key": "D",
+          "text": "社会主义从空想发展到科学"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "社会主义从理论到实践的飞跃"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0083",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 83,
+      "question": "经济政治发展的不平衡是资本主义的绝对规律，由此可得出结论:社会主义可能首先在少数或者甚至在单独一个资本主义国家内获得胜利。提出这一著名论断的是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "斯大林"
+        },
+        {
+          "key": "B",
+          "text": "列宁"
+        },
+        {
+          "key": "C",
+          "text": "恩格斯"
+        },
+        {
+          "key": "D",
+          "text": "马克思"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "列宁"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0084",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 84,
+      "question": "马列主义关于无产阶级政党学说的核心内容是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "党的战略和策略问题"
+        },
+        {
+          "key": "B",
+          "text": "党的领导地位和作用问题"
+        },
+        {
+          "key": "C",
+          "text": "党的路线和组织原则问题"
+        },
+        {
+          "key": "D",
+          "text": "党的性质和奋斗目标问题"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "党的领导地位和作用问题"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0085",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 85,
+      "question": "建设社会主义的根本目的是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "巩固共产党的领导"
+        },
+        {
+          "key": "B",
+          "text": "消灭剥削、消除两极分化，最终达到共同富裕"
+        },
+        {
+          "key": "C",
+          "text": "实行无产阶级专政"
+        },
+        {
+          "key": "D",
+          "text": "镇压资产阶级的反抗"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "消灭剥削、消除两极分化，最终达到共同富裕"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0086",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 86,
+      "question": "1889年7月，在恩格斯的指导下，国际社会主义者在巴黎举行代表大会，标志着( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "第一国际的诞生"
+        },
+        {
+          "key": "B",
+          "text": "法国共产党的诞生"
+        },
+        {
+          "key": "C",
+          "text": "第二国际的诞生"
+        },
+        {
+          "key": "D",
+          "text": "共产国际的诞生"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "第二国际的诞生"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0087",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 87,
+      "question": "无产阶级政党的组织原则是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "集体领导"
+        },
+        {
+          "key": "B",
+          "text": "理论联系实际"
+        },
+        {
+          "key": "C",
+          "text": "民主集中制"
+        },
+        {
+          "key": "D",
+          "text": "实事求是"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "民主集中制"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0088",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 88,
+      "question": "邓小平指出:\"社会主义究竟是个什么样子，苏联搞了很多年，也并没有完全搞清楚，可能列宁的思路比较好，搞了个新经济政策。但是后来苏联的模式僵化了。\"列宁新经济政策关于社会主义的思路之所以\"比较好\"是因为( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "提出了比较系统的社会主义建设纲领"
+        },
+        {
+          "key": "B",
+          "text": "为俄国找到一种比较成熟的社会主义发展模式"
+        },
+        {
+          "key": "C",
+          "text": "根据俄国的实际情况来探索社会主义建设的道路"
+        },
+        {
+          "key": "D",
+          "text": "按照马克思、恩格斯关于未来的设想来建设社会主义"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "根据俄国的实际情况来探索社会主义建设的道路"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0089",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 89,
+      "question": "社会主义社会打破和改变了资本主义社会( )的原则。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "\"按劳分配\""
+        },
+        {
+          "key": "B",
+          "text": "\"按资分配\""
+        },
+        {
+          "key": "C",
+          "text": "\"按生产要素分配\""
+        },
+        {
+          "key": "D",
+          "text": "\"平均分配\""
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "\"按资分配\""
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0090",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 90,
+      "question": "21世纪，世界资本主义处于( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "衰退期"
+        },
+        {
+          "key": "B",
+          "text": "低潮期"
+        },
+        {
+          "key": "C",
+          "text": "复苏期"
+        },
+        {
+          "key": "D",
+          "text": "振兴期"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "衰退期"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter6-0091",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 91,
+      "question": "( )，标志着我们党在自觉把科学社会主义基本原则与中国实际和时代特征相结合上达到了新的境界。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "毛泽东思想"
+        },
+        {
+          "key": "B",
+          "text": "习近平新时代中国特色社会主义思想"
+        },
+        {
+          "key": "C",
+          "text": "邓小平理论"
+        },
+        {
+          "key": "D",
+          "text": "科学发展观"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "习近平新时代中国特色社会主义思想"
+      ],
+      "topic": "第六章",
+      "category": "第六章",
+      "score": 1,
+      "analysis": ""
+    }
+  ]
+}

@@ -1,0 +1,1450 @@
+{
+  "meta": {
+    "title": "马克思主义基本原理-导论",
+    "questionCount": 40,
+    "volumes": 1,
+    "sourceNote": "由马原选择题题库 Word 文档转换导入。"
+  },
+  "questions": [
+    {
+      "id": "mayuan-daolun-0001",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 1,
+      "question": "马克思主义中国化最新理论成果是( )。（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "邓小平理论"
+        },
+        {
+          "key": "B",
+          "text": "习近平新时代中国特色社会主义思想"
+        },
+        {
+          "key": "C",
+          "text": "毛泽东思想"
+        },
+        {
+          "key": "D",
+          "text": "科学发展观"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "习近平新时代中国特色社会主义思想"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-daolun-0002",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 2,
+      "question": "马克思主义最鲜明的政治立场是( )。（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "建立无产阶级专政"
+        },
+        {
+          "key": "B",
+          "text": "一切理论和奋斗都应致力于实现最广大人民的根本利益"
+        },
+        {
+          "key": "C",
+          "text": "实现共产主义"
+        },
+        {
+          "key": "D",
+          "text": "推翻资本主义制度"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "一切理论和奋斗都应致力于实现最广大人民的根本利益"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-daolun-0003",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 3,
+      "question": "下列关于马克思主义基本原理的说法错误的是( )。（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "马克思主义基本原理体现马克思主义科学性和革命性的统一"
+        },
+        {
+          "key": "B",
+          "text": "马克思主义基本原理是对马克思主义立场、观点、方法的集中概括"
+        },
+        {
+          "key": "C",
+          "text": "马克思主义基本原理没有体现马克思主义的根本性质和整体特征"
+        },
+        {
+          "key": "D",
+          "text": "相对于特定历史条件下所作的个别理论判断和具体结论，马克思主义基本原理具有普遍的、根本的和长远的指导意义"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "马克思主义基本原理没有体现马克思主义的根本性质和整体特征"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-daolun-0004",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 4,
+      "question": "在马克思主义理论体系中，科学社会主义是其( )。（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "指导原则"
+        },
+        {
+          "key": "B",
+          "text": "理论基础"
+        },
+        {
+          "key": "C",
+          "text": "核心内容"
+        },
+        {
+          "key": "D",
+          "text": "前提条件"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "核心内容"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-daolun-0005",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 5,
+      "question": "在19世纪的三大工人运动中，无产阶级反对资产阶级的斗争是一种( )。（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "矛头指向资本主义制度的政治斗争"
+        },
+        {
+          "key": "B",
+          "text": "反对资产阶级自私自利价值观的思想斗争"
+        },
+        {
+          "key": "C",
+          "text": "反对部分资本家残酷剥削的政治斗争"
+        },
+        {
+          "key": "D",
+          "text": "自发的、零散的经济斗争"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "反对部分资本家残酷剥削的政治斗争"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-daolun-0006",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 6,
+      "question": "马克思主义哲学为人们认识历史和时代问题提供了( )。（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "一种阶级斗争学说"
+        },
+        {
+          "key": "B",
+          "text": "一种人道主义学说"
+        },
+        {
+          "key": "C",
+          "text": "崭新的世界观和方法论原则"
+        },
+        {
+          "key": "D",
+          "text": "对资本主义本质的实证分析"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "崭新的世界观和方法论原则"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-daolun-0007",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 7,
+      "question": "以下属于马克思主义重要理论品质的是( )。（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "科学严谨"
+        },
+        {
+          "key": "B",
+          "text": "吐故纳新"
+        },
+        {
+          "key": "C",
+          "text": "与时俱进"
+        },
+        {
+          "key": "D",
+          "text": "博大精深"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "与时俱进"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-daolun-0008",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 8,
+      "question": "马克思主义产生于( )。（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "19世纪30年代"
+        },
+        {
+          "key": "B",
+          "text": "19世纪50年代"
+        },
+        {
+          "key": "C",
+          "text": "19世纪20年代"
+        },
+        {
+          "key": "D",
+          "text": "19世纪40年代"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "19世纪40年代"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-daolun-0009",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 9,
+      "question": "\"哲学把无产阶级当作自己的物质武器，同样，无产阶级把哲学当作自己的精神武器\"，这个论断的含义是( )。（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "无产阶级掌握哲学就由自为阶级转变为自在阶级"
+        },
+        {
+          "key": "B",
+          "text": "无产阶级的存在方式是精神"
+        },
+        {
+          "key": "C",
+          "text": "哲学的存在方式是物质"
+        },
+        {
+          "key": "D",
+          "text": "马克思主义是无产阶级的世界观和方法论"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "马克思主义是无产阶级的世界观和方法论"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-daolun-0010",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 10,
+      "question": "标志马克思主义公开问世的文献是( )。（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "《德意志意识形态》"
+        },
+        {
+          "key": "B",
+          "text": "《反杜林论》"
+        },
+        {
+          "key": "C",
+          "text": "《马克思主义的三个来源和三个组成部分》"
+        },
+        {
+          "key": "D",
+          "text": "《共产党宣言》"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "《共产党宣言》"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-daolun-0011",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 11,
+      "question": "马克思主义中国化第二个伟大理论成果是( )。（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "毛泽东思想"
+        },
+        {
+          "key": "B",
+          "text": "科学发展观"
+        },
+        {
+          "key": "C",
+          "text": "\"三个代表\"重要思想"
+        },
+        {
+          "key": "D",
+          "text": "邓小平理论"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "邓小平理论"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-daolun-0012",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 12,
+      "question": "学习马克思主义基本原理的根本方法是( )。（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "理论联系实际"
+        },
+        {
+          "key": "B",
+          "text": "实事求是"
+        },
+        {
+          "key": "C",
+          "text": "一切从实际出发"
+        },
+        {
+          "key": "D",
+          "text": "认真学习马克思主义的著作"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "理论联系实际"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-daolun-0013",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 13,
+      "question": "马克思主义与其他理论相比所具有的显著特征是( )。（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚持实践的观点"
+        },
+        {
+          "key": "B",
+          "text": "坚持唯物主义"
+        },
+        {
+          "key": "C",
+          "text": "坚持可知论"
+        },
+        {
+          "key": "D",
+          "text": "坚持辩证法"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "坚持实践的观点"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-daolun-0014",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 14,
+      "question": "在19世纪三大工人运动中，集中反映工人政治要求的是( )。（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "英国宪章运动"
+        },
+        {
+          "key": "B",
+          "text": "法国里昂工人起义"
+        },
+        {
+          "key": "C",
+          "text": "芝加哥工人起义"
+        },
+        {
+          "key": "D",
+          "text": "德国西里西亚纺织工人起义"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "英国宪章运动"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-daolun-0015",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 15,
+      "question": "2018年是《共产党宣言》发表170周年。《共产党宣言》之所以成为马克思主义诞生的标志，主要是因为它( )。（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "第一次完整、系统地阐述了马克思主义的基本原理"
+        },
+        {
+          "key": "B",
+          "text": "是第一个国际共产主义运动的纲领"
+        },
+        {
+          "key": "C",
+          "text": "第一次提出辩证法的思想"
+        },
+        {
+          "key": "D",
+          "text": "是马克思、恩格斯亲自起草的"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "第一次完整、系统地阐述了马克思主义的基本原理"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-daolun-0016",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 16,
+      "question": "在马克思主义理论体系中，马克思主义哲学是( )。（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "理论基础"
+        },
+        {
+          "key": "B",
+          "text": "核心内容"
+        },
+        {
+          "key": "C",
+          "text": "指导原则"
+        },
+        {
+          "key": "D",
+          "text": "前提条件"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "理论基础"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-daolun-0017",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 17,
+      "question": "人类历史发展到今天，与马克思所处的时代相比已经发生了巨大而深刻的变化，但从人类历史发展的大视野来看，世界仍然处于马克思主义所指明的从资本主义走向社会主义的大时代。以下说法错误的是( )。（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "人类的未来仍然需要马克思主义的启迪和指引"
+        },
+        {
+          "key": "B",
+          "text": "马克思主义可以从根本上解决社会面临的各种问题"
+        },
+        {
+          "key": "C",
+          "text": "马克思主义所展现的真理光芒，对于人类走向未来具有引领价值"
+        },
+        {
+          "key": "D",
+          "text": "马克思主义仍然是当今时代的真理"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "马克思主义可以从根本上解决社会面临的各种问题"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-daolun-0018",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 18,
+      "question": "马克思主义产生以前，长期占统治地位的历史观是( )。（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "激变论"
+        },
+        {
+          "key": "B",
+          "text": "唯心史观"
+        },
+        {
+          "key": "C",
+          "text": "唯物史观"
+        },
+        {
+          "key": "D",
+          "text": "庸俗进化论"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "唯心史观"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-daolun-0019",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 19,
+      "question": "马克思主义产生的阶级基础和实践基础是( )。（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "工人运动得到了\"农民的合唱\""
+        },
+        {
+          "key": "B",
+          "text": "无产阶级作为一支独立的政治力量登上了历史舞台"
+        },
+        {
+          "key": "C",
+          "text": "工人罢工和起义"
+        },
+        {
+          "key": "D",
+          "text": "资本主义的剥削和压迫"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "无产阶级作为一支独立的政治力量登上了历史舞台"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-daolun-0020",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 20,
+      "question": "下列观点正确的是( )。（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "马克思主义科学地揭示了国家垄断资本主义的本质特征"
+        },
+        {
+          "key": "B",
+          "text": "马克思主义科学地揭示了资本主义社会的本质及其发展的一般规律"
+        },
+        {
+          "key": "C",
+          "text": "马克思主义科学地揭示了自由资本主义时代的本质和规律"
+        },
+        {
+          "key": "D",
+          "text": "马克思主义科学地揭示了私人垄断资本主义的本质特征"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "马克思主义科学地揭示了资本主义社会的本质及其发展的一般规律"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-daolun-0021",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 21,
+      "question": "对待马克思主义的正确态度应是( )。（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "产生于19世纪的马克思主义已经\"过时了\""
+        },
+        {
+          "key": "B",
+          "text": "在实践中坚持和发展马克思主义"
+        },
+        {
+          "key": "C",
+          "text": "凡是经典著作中阐述的思想我们都必须坚持"
+        },
+        {
+          "key": "D",
+          "text": "用儒家思想取代马克思主义在意识形态中的主导地位"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "在实践中坚持和发展马克思主义"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-daolun-0022",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 22,
+      "question": "关于当代科学技术革命的兴起和发展对马克思主义产生影响的错误理解是( )。（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "丰富和发展了马克思主义"
+        },
+        {
+          "key": "B",
+          "text": "证伪了马克思主义"
+        },
+        {
+          "key": "C",
+          "text": "证实了马克思主义"
+        },
+        {
+          "key": "D",
+          "text": "提出了一系列新的问题"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "证伪了马克思主义"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-daolun-0023",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 23,
+      "question": "马克思、恩格斯合写的著作不包括( )。（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "《共产党宣言》"
+        },
+        {
+          "key": "B",
+          "text": "《反杜林论》"
+        },
+        {
+          "key": "C",
+          "text": "《神圣家族》"
+        },
+        {
+          "key": "D",
+          "text": "《德意志意识形态》"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "《反杜林论》"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-daolun-0024",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 24,
+      "question": "马克思主义最崇高的社会理想是( )。（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "实现个人的绝对自由"
+        },
+        {
+          "key": "B",
+          "text": "实现人权"
+        },
+        {
+          "key": "C",
+          "text": "实现共产主义"
+        },
+        {
+          "key": "D",
+          "text": "消灭阶级、消灭国家"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "实现共产主义"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-daolun-0025",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 25,
+      "question": "产生于19世纪的马克思主义，至今仍然具有强大的生命力的根本原因在于( )。（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "马克思恩格斯具有高尚的人格魅力"
+        },
+        {
+          "key": "B",
+          "text": "马克思科学地预见了全球化的性质和结果"
+        },
+        {
+          "key": "C",
+          "text": "它是以实践为基础的科学性与革命性的统一"
+        },
+        {
+          "key": "D",
+          "text": "马克思对资本主义罪恶的正确批判"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "它是以实践为基础的科学性与革命性的统一"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-daolun-0026",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 26,
+      "question": "马克思主义在指导中国革命、建设、改革的过程中，形成了一系列马克思主义中国化理论成果，鲜明地体现了马克思主义( )的品格。（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "无产阶级立场"
+        },
+        {
+          "key": "B",
+          "text": "人民至上"
+        },
+        {
+          "key": "C",
+          "text": "创新发展"
+        },
+        {
+          "key": "D",
+          "text": "批判精神"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "创新发展"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-daolun-0027",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 27,
+      "question": "马克思恩格斯批判继承了德国古典哲学的( )。（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "唯物史观思想"
+        },
+        {
+          "key": "B",
+          "text": "阶级斗争理论"
+        },
+        {
+          "key": "C",
+          "text": "辩证法思想"
+        },
+        {
+          "key": "D",
+          "text": "认识论思想"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "辩证法思想"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-daolun-0028",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 28,
+      "question": "马克思、恩格斯进一步发展和完善的英国古典政治经济学理论是( )。（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "辩证法"
+        },
+        {
+          "key": "B",
+          "text": "历史观"
+        },
+        {
+          "key": "C",
+          "text": "剩余价值论"
+        },
+        {
+          "key": "D",
+          "text": "劳动价值论"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "劳动价值论"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-daolun-0029",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 29,
+      "question": "马克思主义最根本的世界观和方法论是( )。（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "唯物论和辩证法"
+        },
+        {
+          "key": "B",
+          "text": "科学社会主义"
+        },
+        {
+          "key": "C",
+          "text": "政治经济学"
+        },
+        {
+          "key": "D",
+          "text": "辩证唯物主义和历史唯物主义"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "辩证唯物主义和历史唯物主义"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-daolun-0030",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 30,
+      "question": "马克思主义是在实践中产生的，并且在实践中不断丰富和发展。马克思、恩格斯曾经认为社会主义革命将首先在几个主要的资本主义国家内同时发生。列宁认真总结了当时变化了的新情况，深刻论述了社会主义革命可能在一国或者数国首先发生并取得胜利的论断。列宁得出社会主义革命可能在一国或者数国首先发生并取得胜利的理论依据是( )。（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "无产阶级政党的成熟程度"
+        },
+        {
+          "key": "B",
+          "text": "无产阶级与资产阶级斗争的尖锐化"
+        },
+        {
+          "key": "C",
+          "text": "民族解放运动的空前高涨"
+        },
+        {
+          "key": "D",
+          "text": "帝国主义阶段资本主义经济政治发展的不平衡"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "帝国主义阶段资本主义经济政治发展的不平衡"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-daolun-0031",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 31,
+      "question": "马克思恩格斯实现从唯心主义向唯物主义、从革命民主主义向共产主义转变的根本原因是( )。（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "英法三大空想社会主义的学说对马克思主义的影响"
+        },
+        {
+          "key": "B",
+          "text": "费尔巴哈的人本学思想对马克思恩格斯的影响"
+        },
+        {
+          "key": "C",
+          "text": "青年黑格尔运动对马克思恩格斯的影响"
+        },
+        {
+          "key": "D",
+          "text": "马克思恩格斯在社会实践中所认识到的经济和政治的实际问题"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "马克思恩格斯在社会实践中所认识到的经济和政治的实际问题"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-daolun-0032",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 32,
+      "question": "马克思主义形成的重要标志是( )。（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "《反杜林论》的出版"
+        },
+        {
+          "key": "B",
+          "text": "《德意志意识形态》的出版"
+        },
+        {
+          "key": "C",
+          "text": "《资本论》的出版"
+        },
+        {
+          "key": "D",
+          "text": "《共产党宣言》的公开发表"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "《共产党宣言》的公开发表"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-daolun-0033",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 33,
+      "question": "马克思主义是对自然、社会和人类思维发展本质和规律的正确反映。它是在社会实践和科学发展的基础上产生的，并在自身发展过程中不断总结实践经验，吸取自然科学和社会科学发展的最新成就。这体现了马克思主义鲜明特征的哪方面内容?( )（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "科学性"
+        },
+        {
+          "key": "B",
+          "text": "实践性"
+        },
+        {
+          "key": "C",
+          "text": "人民性"
+        },
+        {
+          "key": "D",
+          "text": "发展性"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "科学性"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-daolun-0034",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 34,
+      "question": "马克思主义的基本特征是( )。（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "科学性和革命性相统一"
+        },
+        {
+          "key": "B",
+          "text": "思想性和艺术性相统一"
+        },
+        {
+          "key": "C",
+          "text": "唯物主义和辩证法相统一"
+        },
+        {
+          "key": "D",
+          "text": "思想和认识相统一"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "科学性和革命性相统一"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-daolun-0035",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 35,
+      "question": "下列选项中不属于马克思主义直接理论来源的是( )。（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "法国启蒙思想"
+        },
+        {
+          "key": "B",
+          "text": "英法两国空想社会主义"
+        },
+        {
+          "key": "C",
+          "text": "德国古典哲学"
+        },
+        {
+          "key": "D",
+          "text": "英国古典政治经济学"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "法国启蒙思想"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-daolun-0036",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 36,
+      "question": "( )是马克思主义中国化最新成果，并为马克思主义的发展作出了时代性、原创性贡献。（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "习近平新时代中国特色社会主义思想"
+        },
+        {
+          "key": "B",
+          "text": "科学发展观"
+        },
+        {
+          "key": "C",
+          "text": "邓小平思想"
+        },
+        {
+          "key": "D",
+          "text": "\"三个代表\"重要思想"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "习近平新时代中国特色社会主义思想"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-daolun-0037",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 37,
+      "question": "马克思主义产生的经济根源是( )。（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "资本主义社会生产力和生产关系的矛盾运动"
+        },
+        {
+          "key": "B",
+          "text": "资本主义经济危机"
+        },
+        {
+          "key": "C",
+          "text": "阶级斗争"
+        },
+        {
+          "key": "D",
+          "text": "工业革命"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "资本主义社会生产力和生产关系的矛盾运动"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-daolun-0038",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 38,
+      "question": "无产阶级的科学世界观和方法论是( )。（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "历史唯物主义"
+        },
+        {
+          "key": "B",
+          "text": "辩证唯物主义和历史唯物主义"
+        },
+        {
+          "key": "C",
+          "text": "唯物主义"
+        },
+        {
+          "key": "D",
+          "text": "辩证唯物主义"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "辩证唯物主义和历史唯物主义"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-daolun-0039",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 39,
+      "question": "促成马克思列宁主义在中国传播的重大历史事件是( )。（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "中国共产党成立"
+        },
+        {
+          "key": "B",
+          "text": "十月革命"
+        },
+        {
+          "key": "C",
+          "text": "辛亥革命"
+        },
+        {
+          "key": "D",
+          "text": "五四运动"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "十月革命"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-daolun-0040",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 40,
+      "question": "党的十九大强调了\"不忘初心、牢记使命\"的意义，指出:\"中国共产党人的初心和使命，就是为中国人民谋幸福，为中华民族谋复兴。这个初心和使命是激励中国共产党人不断前进的根本动力。\"习近平总书记的这句话最能体现( )。（2.5）",
+      "options": [
+        {
+          "key": "A",
+          "text": "马克思主义是指引当代中国发展的精神旗帜"
+        },
+        {
+          "key": "B",
+          "text": "马克思主义是推动当代中国发展的精神动力"
+        },
+        {
+          "key": "C",
+          "text": "马克思主义是引领当代中国实践的行动指南"
+        },
+        {
+          "key": "D",
+          "text": "马克思主义是引领人类社会进步的科学真理"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "马克思主义是推动当代中国发展的精神动力"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": ""
+    }
+  ]
+}

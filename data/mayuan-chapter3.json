@@ -1,0 +1,3646 @@
+{
+  "meta": {
+    "title": "马克思主义基本原理-第三章",
+    "questionCount": 101,
+    "volumes": 1,
+    "sourceNote": "由马原选择题题库 Word 文档转换导入。"
+  },
+  "questions": [
+    {
+      "id": "mayuan-chapter3-0001",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 1,
+      "question": "下列各组社会意识形式中，全部属于意识形态范围的是( )。（0.9）",
+      "options": [
+        {
+          "key": "A",
+          "text": "法律思想、哲学、艺术"
+        },
+        {
+          "key": "B",
+          "text": "政治思想、语言学、艺术"
+        },
+        {
+          "key": "C",
+          "text": "法律思想、逻辑学、宗教"
+        },
+        {
+          "key": "D",
+          "text": "自然科学、道德、宗教"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "法律思想、哲学、艺术"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0002",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 2,
+      "question": "历史人物在历史上的作用表现为( )。（0.9）",
+      "options": [
+        {
+          "key": "A",
+          "text": "改变历史发展的方向"
+        },
+        {
+          "key": "B",
+          "text": "加速或延缓历史的发展"
+        },
+        {
+          "key": "C",
+          "text": "决定历史时代的根本特点"
+        },
+        {
+          "key": "D",
+          "text": "改变历史发展的规律"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "加速或延缓历史的发展"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0003",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 3,
+      "question": "在经济基础和上层建筑这对矛盾中( )。（0.9）",
+      "options": [
+        {
+          "key": "A",
+          "text": "上层建筑各部分随着经济基础的变更立即发生变化"
+        },
+        {
+          "key": "B",
+          "text": "上层建筑决定经济基础的性质"
+        },
+        {
+          "key": "C",
+          "text": "上层建筑对经济基础具有反作用"
+        },
+        {
+          "key": "D",
+          "text": "上层建筑决定经济基础的变革要求"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "上层建筑对经济基础具有反作用"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0004",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 4,
+      "question": "下列各项属于历史唯心主义的是( )。（0.9）",
+      "options": [
+        {
+          "key": "A",
+          "text": "在社会中占统治地位的思想都是统治阶级的思想"
+        },
+        {
+          "key": "B",
+          "text": "社会意识随社会存在的变化而变化"
+        },
+        {
+          "key": "C",
+          "text": "社会意识对社会存在起决定作用"
+        },
+        {
+          "key": "D",
+          "text": "在阶级社会里社会意识具有阶级性"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "社会意识对社会存在起决定作用"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0005",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 5,
+      "question": "卢梭在《论人类不平等的起源和基础》中说道:\"我认为，在人类的一切知识中，最有用但也最不完善的知识就是关于人的知识。\"马克思的唯物史观破解了人是什么这一\"司芬克斯之谜\"，马克思在《关于费尔巴哈的提纲》中指出，人的本质在其现实性上是( )。（0.9）",
+      "options": [
+        {
+          "key": "A",
+          "text": "自然属性和社会属性的内在统一"
+        },
+        {
+          "key": "B",
+          "text": "自由理性的外化"
+        },
+        {
+          "key": "C",
+          "text": "所有人共同属性的概括"
+        },
+        {
+          "key": "D",
+          "text": "一切社会关系的总和"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "一切社会关系的总和"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0006",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 6,
+      "question": "马克思主义认为，人的价值在于( )。（0.9）",
+      "options": [
+        {
+          "key": "A",
+          "text": "个人主体性的增强和摆脱社会的约束"
+        },
+        {
+          "key": "B",
+          "text": "个人的自由选择和自由发展"
+        },
+        {
+          "key": "C",
+          "text": "个人的自我创造和自我实现"
+        },
+        {
+          "key": "D",
+          "text": "个人对社会的贡献和社会对个人的尊重"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "个人对社会的贡献和社会对个人的尊重"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0007",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 7,
+      "question": "下列各项正确揭示科学的本质的是( )。（0.9）",
+      "options": [
+        {
+          "key": "A",
+          "text": "科学是知识的理论体系"
+        },
+        {
+          "key": "B",
+          "text": "科学是在实践中产生的知识"
+        },
+        {
+          "key": "C",
+          "text": "科学是各种知识的总和"
+        },
+        {
+          "key": "D",
+          "text": "科学对实践有指导作用"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "科学是知识的理论体系"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0008",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 8,
+      "question": "下列关于英雄史观的说法错误的是( )。（0.9）",
+      "options": [
+        {
+          "key": "A",
+          "text": "英雄史观从社会存在决定社会意识的基本前提出发"
+        },
+        {
+          "key": "B",
+          "text": "英雄史观否认物质资料的生产方式是社会发展的决定力量"
+        },
+        {
+          "key": "C",
+          "text": "英雄史观抹杀人民群众的历史作用"
+        },
+        {
+          "key": "D",
+          "text": "英雄史观宣扬少数英雄人物创造历史"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "英雄史观从社会存在决定社会意识的基本前提出发"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0009",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 9,
+      "question": "20世纪中期以后出现的科技革命的主要标志不包括( )。（0.9）",
+      "options": [
+        {
+          "key": "A",
+          "text": "原子能的利用"
+        },
+        {
+          "key": "B",
+          "text": "电力的广泛运用"
+        },
+        {
+          "key": "C",
+          "text": "电子计算机和空间技术的发展"
+        },
+        {
+          "key": "D",
+          "text": "信息技术、新材料、新能源、生物工程、海洋工程等高科技的出现"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "电力的广泛运用"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0010",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 10,
+      "question": "国体指的是( )。（0.9）",
+      "options": [
+        {
+          "key": "A",
+          "text": "国家政权的政治职能"
+        },
+        {
+          "key": "B",
+          "text": "社会各阶级在国家中的地位"
+        },
+        {
+          "key": "C",
+          "text": "国家政权的社会职能"
+        },
+        {
+          "key": "D",
+          "text": "国家政权的组织形式和管理形式"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "社会各阶级在国家中的地位"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0011",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 11,
+      "question": "下列各组上层建筑中，全部属于政治上层建筑范围的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "国家政权机构、政党、哲学"
+        },
+        {
+          "key": "B",
+          "text": "宗教、法庭、监狱"
+        },
+        {
+          "key": "C",
+          "text": "政党、军队、警察"
+        },
+        {
+          "key": "D",
+          "text": "政治法律思想、政党、军队"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "政党、军队、警察"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0012",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 12,
+      "question": "人民群众既是历史的\"剧中人\"，又是历史的\"剧作者\"，这是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "唯心主义的观点"
+        },
+        {
+          "key": "B",
+          "text": "折中主义的观点"
+        },
+        {
+          "key": "C",
+          "text": "历史唯物主义的观点"
+        },
+        {
+          "key": "D",
+          "text": "历史循环论的观点"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "历史唯物主义的观点"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0013",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 13,
+      "question": "社会形态发展是自然历史过程，指的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "社会形态的发展与自然界的发展完全一样"
+        },
+        {
+          "key": "B",
+          "text": "社会形态的发展是纯粹自发的过程"
+        },
+        {
+          "key": "C",
+          "text": "社会形态的发展与主体的选择无关"
+        },
+        {
+          "key": "D",
+          "text": "社会形态的发展是一种客观的有规律的运动过程"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "社会形态的发展是一种客观的有规律的运动过程"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0014",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 14,
+      "question": "一个阶级在群众中乃至在社会生活中的地位，取决于该阶级与怎样的生产力相联系，在生产关系体系中的地位，以及该阶级成员的数量和质量状况，活动的积极性和组织化程度等，其中( )是主要因素。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "该阶级在生产关系体系中的地位"
+        },
+        {
+          "key": "B",
+          "text": "该阶级与怎样的生产力相联系"
+        },
+        {
+          "key": "C",
+          "text": "该阶级成员的数量和质量"
+        },
+        {
+          "key": "D",
+          "text": "该阶级活动的积极性和组织化程度"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "该阶级在生产关系体系中的地位"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0015",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 15,
+      "question": "乡愁是一湾浅浅的海峡，我在这头，大陆在那头。阻隔了中国人半个多世纪之久的\"浅浅的海峡\"，在今天被两岸直航的包机轻盈地直接飞越。正是两岸的亲情、共同的利益，让两岸关系一步接着一步向前发展。\"飞起来了，就不要再停下来……\"是两岸民众的共同愿望。这一愿望体现的哲学道理是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "社会存在决定社会意识，社会意识反映社会存在"
+        },
+        {
+          "key": "B",
+          "text": "质变是指事物性质的变化，质变比量变更重要"
+        },
+        {
+          "key": "C",
+          "text": "事物总是处在绝对运动之中，静止是不存在的"
+        },
+        {
+          "key": "D",
+          "text": "解决了主要矛盾，其他矛盾就迎刃而解了"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "社会存在决定社会意识，社会意识反映社会存在"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0016",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 16,
+      "question": "下列关于世界历史的说法错误的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "生产方式的发展变革是世界历史形成和发展的基础"
+        },
+        {
+          "key": "B",
+          "text": "资本主义在世界历史发展进程中发挥的作用并不重要"
+        },
+        {
+          "key": "C",
+          "text": "普遍交往是世界历史的基本特征"
+        },
+        {
+          "key": "D",
+          "text": "世界历史的形成与发展为共产主义的实现提供了条件和路径"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "资本主义在世界历史发展进程中发挥的作用并不重要"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0017",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 17,
+      "question": "以习近平同志为核心的党中央运用和发展了唯物史观关于人民群众创造历史的基本原理，提出坚持( )的思想。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "以全心全意为人民服务为宗旨"
+        },
+        {
+          "key": "B",
+          "text": "以人民为中心"
+        },
+        {
+          "key": "C",
+          "text": "以工人阶级为领导阶级"
+        },
+        {
+          "key": "D",
+          "text": "以群众观点为指导"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "以人民为中心"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0018",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 18,
+      "question": "社会意识相对独立性的最突出表现是它( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "同社会存在的发展具有不平衡性"
+        },
+        {
+          "key": "B",
+          "text": "对社会存在具有能动的反作用"
+        },
+        {
+          "key": "C",
+          "text": "同社会存在的发展具有不完全同步性"
+        },
+        {
+          "key": "D",
+          "text": "具有历史继承性"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "对社会存在具有能动的反作用"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0019",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 19,
+      "question": "马克思主义认为，阶级产生的基本前提是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "通过放高利贷而获取高额利息"
+        },
+        {
+          "key": "B",
+          "text": "通过做投机生意而攫取高额利润"
+        },
+        {
+          "key": "C",
+          "text": "由于生产力发展而出现剩余产品"
+        },
+        {
+          "key": "D",
+          "text": "通过发动战争掠夺其他氏族的财产"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "由于生产力发展而出现剩余产品"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0020",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 20,
+      "question": "阶级斗争对阶级社会发展的推动作用突出表现在( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "生产力的发展"
+        },
+        {
+          "key": "B",
+          "text": "科技的进步"
+        },
+        {
+          "key": "C",
+          "text": "社会形态的更替"
+        },
+        {
+          "key": "D",
+          "text": "生产关系的变革"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "社会形态的更替"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0021",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 21,
+      "question": "从群众中来，到群众中去的过程，从认识论上看，就是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "理性认识-感性认识-理性认识的过程"
+        },
+        {
+          "key": "B",
+          "text": "认识-实践-认识的过程"
+        },
+        {
+          "key": "C",
+          "text": "感性认识-理性认识-感性认识的过程"
+        },
+        {
+          "key": "D",
+          "text": "实践-认识-实践的过程"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "实践-认识-实践的过程"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0022",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 22,
+      "question": "下列关于生产力的说法错误的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "只有在生产力发展的基础上，才有可能充分满足人民群众的物质生活和精神生活的需要"
+        },
+        {
+          "key": "B",
+          "text": "生产力发展是社会物质文明发展的基本内容"
+        },
+        {
+          "key": "C",
+          "text": "生产力发展是制约政治文明、精神文明的基本物质条件"
+        },
+        {
+          "key": "D",
+          "text": "生产力发展不制约生态文明"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "生产力发展不制约生态文明"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0023",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 23,
+      "question": "正确评价历史人物的方法是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "全盘否定的分析方法"
+        },
+        {
+          "key": "B",
+          "text": "彻底批判的革命精神"
+        },
+        {
+          "key": "C",
+          "text": "古为今用方针"
+        },
+        {
+          "key": "D",
+          "text": "历史分析方法"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "历史分析方法"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0024",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 24,
+      "question": "党的十九大指出，中国特色社会主义进入新时代，我国社会主要矛盾已经转化为( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "人民日益增长的美好生活需要和不平衡不充分的发展之间的矛盾"
+        },
+        {
+          "key": "B",
+          "text": "经济基础和上层建筑的矛盾"
+        },
+        {
+          "key": "C",
+          "text": "人民日益增长的物质文化需要同落后的社会生产之间的矛盾"
+        },
+        {
+          "key": "D",
+          "text": "生产力和生产关系的矛盾"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "人民日益增长的美好生活需要和不平衡不充分的发展之间的矛盾"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0025",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 25,
+      "question": "人们对于社会形态的历史选择不取决于( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "杰出人物的根本意愿"
+        },
+        {
+          "key": "B",
+          "text": "人民群众的根本利益"
+        },
+        {
+          "key": "C",
+          "text": "人民群众的根本意愿"
+        },
+        {
+          "key": "D",
+          "text": "人民群众对社会发展规律的把握和顺应程度"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "杰出人物的根本意愿"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0026",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 26,
+      "question": "阶级斗争在阶级社会发展中的作用表现为，它是阶级社会发展的( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "唯一动力"
+        },
+        {
+          "key": "B",
+          "text": "直接动力"
+        },
+        {
+          "key": "C",
+          "text": "根本动力"
+        },
+        {
+          "key": "D",
+          "text": "最终动力"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "直接动力"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0027",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 27,
+      "question": "生产关系包括多方面的内容，其中起决定作用的内容是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "生产资料的所有制形式"
+        },
+        {
+          "key": "B",
+          "text": "产品的分配形式"
+        },
+        {
+          "key": "C",
+          "text": "产品的交换方式"
+        },
+        {
+          "key": "D",
+          "text": "人们在生产过程中的相互关系"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "生产资料的所有制形式"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0028",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 28,
+      "question": "阶级斗争的最深刻的根源在于( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "人口过多和资源匮乏的矛盾"
+        },
+        {
+          "key": "B",
+          "text": "先进文化和落后文化的矛盾"
+        },
+        {
+          "key": "C",
+          "text": "生产力和生产关系的矛盾"
+        },
+        {
+          "key": "D",
+          "text": "先进生产力和落后生产力的矛盾"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "生产力和生产关系的矛盾"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0029",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 29,
+      "question": "许多事情我们可以讲一千个理由、一万个理由，但老百姓吃不上饭，就没有理由。\"民以食为天。\"这段话说明( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "人的生理需求是历史的基础"
+        },
+        {
+          "key": "B",
+          "text": "人的物质欲望是社会发展的根本动力"
+        },
+        {
+          "key": "C",
+          "text": "人们首先必须解决衣食住行等基本物质生活资料问题，才能从事其他社会活动"
+        },
+        {
+          "key": "D",
+          "text": "人的自然属性决定着人的本质"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "人们首先必须解决衣食住行等基本物质生活资料问题，才能从事其他社会活动"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0030",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 30,
+      "question": "0.015，0.04毫米，这是\"90后\"铣工张志坤在第43届世界技能大赛控铣项目中摘得金牌的精度，然而像张志坤这样的人还是凤毛麟角。今天，我们呼唤工匠精神，呼唤的不仅是一个个技艺超群的职业英雄，更是一群爱岗敬业、创新创业的广大职工和基层群众。这是因为( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "群众路线是无产阶级政党的领导方法"
+        },
+        {
+          "key": "B",
+          "text": "社会历史首先是物质生产发展的历史"
+        },
+        {
+          "key": "C",
+          "text": "劳动群众是我国人民群众的主体部分"
+        },
+        {
+          "key": "D",
+          "text": "人民群众是推动历史发展的决定力量"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "人民群众是推动历史发展的决定力量"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0031",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 31,
+      "question": "划分阶级的唯一标准是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "社会标准"
+        },
+        {
+          "key": "B",
+          "text": "道德标准"
+        },
+        {
+          "key": "C",
+          "text": "政治标准"
+        },
+        {
+          "key": "D",
+          "text": "经济标准"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "经济标准"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0032",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 32,
+      "question": "社会革命根源于( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "少数英雄人物组织暴动"
+        },
+        {
+          "key": "B",
+          "text": "人口太多"
+        },
+        {
+          "key": "C",
+          "text": "先进思想和革命理论的传播"
+        },
+        {
+          "key": "D",
+          "text": "社会基本矛盾的尖锐化"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "社会基本矛盾的尖锐化"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0033",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 33,
+      "question": "下列概念中，反映人与人之间经济关系的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "生产关系"
+        },
+        {
+          "key": "B",
+          "text": "生产力"
+        },
+        {
+          "key": "C",
+          "text": "生产方式"
+        },
+        {
+          "key": "D",
+          "text": "生产资料"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "生产关系"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0034",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 34,
+      "question": "\"任何英雄人物的历史作用都不能超出他们所处历史条件所许可的范围。\"这种观点属于( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "历史唯物主义观点"
+        },
+        {
+          "key": "B",
+          "text": "否认个人历史作用的观点"
+        },
+        {
+          "key": "C",
+          "text": "历史宿命论观点"
+        },
+        {
+          "key": "D",
+          "text": "机械决定论观点"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "历史唯物主义观点"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0035",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 35,
+      "question": "以科技革命对社会经济结构变化的作用而言，新的技术革命在推动传统产业现代化的同时，使( )在国民经济中所占的比重日益提高。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "第二产业"
+        },
+        {
+          "key": "B",
+          "text": "第三产业"
+        },
+        {
+          "key": "C",
+          "text": "建筑业"
+        },
+        {
+          "key": "D",
+          "text": "第一产业"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "第三产业"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0036",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 36,
+      "question": "党的十九大报告指出，文化自信是一个国家、一个民族发展中更基本、更深沉、更持久的力量。必须坚持马克思主义，牢固树立共产主义远大理想和中国特色社会主义共同理想，培育和践行社会主义核心价值观，不断增强意识形态领域主导权和话语权，推动中华优秀传统文化创造性转化、创新性发展，继承革命文化，发展社会主义先进文化，不忘本来、吸收外来、面向未来，更好构筑中国精神、中国价值、中国力量，为人民提供精神指引。这说明( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "生产力决定生产关系"
+        },
+        {
+          "key": "B",
+          "text": "社会意识对社会存在具有能动的反作用"
+        },
+        {
+          "key": "C",
+          "text": "经济基础决定上层建筑"
+        },
+        {
+          "key": "D",
+          "text": "社会存在决定社会意识"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "社会意识对社会存在具有能动的反作用"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0037",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 37,
+      "question": "狭义的社会革命主要是指( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "人与人的社会关系的重大变革"
+        },
+        {
+          "key": "B",
+          "text": "人与自然的关系的重大变革"
+        },
+        {
+          "key": "C",
+          "text": "社会形态的变更"
+        },
+        {
+          "key": "D",
+          "text": "人的思维方式、思想观念的重大变革"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "社会形态的变更"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0038",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 38,
+      "question": "在社会发展中起决定性的因素是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "社会风气"
+        },
+        {
+          "key": "B",
+          "text": "人口因素"
+        },
+        {
+          "key": "C",
+          "text": "生产方式"
+        },
+        {
+          "key": "D",
+          "text": "地理环境"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "生产方式"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0039",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 39,
+      "question": "下列关于科技革命的说法错误的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "科技革命改变了社会经济结构"
+        },
+        {
+          "key": "B",
+          "text": "科技革命改变了社会生产力的构成要素"
+        },
+        {
+          "key": "C",
+          "text": "科技革命改变了人们的劳动形式"
+        },
+        {
+          "key": "D",
+          "text": "科技革命不能导致产业结构发生变革"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "科技革命不能导致产业结构发生变革"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0040",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 40,
+      "question": "\"每一个社会时代都需要有自己的伟大人物，如果没有这样的人物，它就要把他们创造出来。\"这种观点( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确说明了杰出人物的产生和作用"
+        },
+        {
+          "key": "B",
+          "text": "否认了人民群众是历史发展的决定力量"
+        },
+        {
+          "key": "C",
+          "text": "属于英雄创造历史的唯心史观"
+        },
+        {
+          "key": "D",
+          "text": "违背了党的群众观点和群众路线在历史发展中的作用"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "正确说明了杰出人物的产生和作用"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0041",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 41,
+      "question": "理解人类社会发展的钥匙是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "劳动发展史"
+        },
+        {
+          "key": "B",
+          "text": "文化发展史"
+        },
+        {
+          "key": "C",
+          "text": "阶级斗争史"
+        },
+        {
+          "key": "D",
+          "text": "思想发展史"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "劳动发展史"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0042",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 42,
+      "question": "在生产力和生产关系这对矛盾中( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "生产力落后于生产关系的变化"
+        },
+        {
+          "key": "B",
+          "text": "生产力决定生产关系"
+        },
+        {
+          "key": "C",
+          "text": "生产关系是生产力的物质基础"
+        },
+        {
+          "key": "D",
+          "text": "生产关系可以超越生产力的发展水平"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "生产力决定生产关系"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0043",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 43,
+      "question": "人民群众创造历史的活动受历史条件的制约。这种观点是说( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "人民群众不能推动社会形态的更替"
+        },
+        {
+          "key": "B",
+          "text": "人民群众不能随心所欲地创造历史"
+        },
+        {
+          "key": "C",
+          "text": "人民群众不是社会历史活动的主体"
+        },
+        {
+          "key": "D",
+          "text": "人民群众不是社会发展的决定力量"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "人民群众不能随心所欲地创造历史"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0044",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 44,
+      "question": "国家政权主要代表( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "先进阶级的利益"
+        },
+        {
+          "key": "B",
+          "text": "统治阶级的利益"
+        },
+        {
+          "key": "C",
+          "text": "劳动人民的利益"
+        },
+        {
+          "key": "D",
+          "text": "剥削阶级的利益"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "统治阶级的利益"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0045",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 45,
+      "question": "我国社会主义初级阶段实行以公有制为主体、多种所有制经济共同发展的基本经济制度，促进了生产力的发展，说明实行这种制度遵循了( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "经济基础决定上层建筑的原理"
+        },
+        {
+          "key": "B",
+          "text": "社会经济制度决定生产力状况的原理"
+        },
+        {
+          "key": "C",
+          "text": "生产力决定生产关系的原理"
+        },
+        {
+          "key": "D",
+          "text": "生产力具有自我增殖能力的原理"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "生产力决定生产关系的原理"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0046",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 46,
+      "question": "物质生产方式包括( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "劳动者和劳动工具两个方面"
+        },
+        {
+          "key": "B",
+          "text": "生产关系和生产资料两个方面"
+        },
+        {
+          "key": "C",
+          "text": "生产力和生产关系两个方面"
+        },
+        {
+          "key": "D",
+          "text": "劳动资料和劳动对象两个方面"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "生产力和生产关系两个方面"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0047",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 47,
+      "question": "\"蒸汽、电力和自动纺织机甚至是比巴尔贝斯、拉斯拜尔和布朗基诸位公民更危险万分的革命家。\"这一论断的含义是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "科技革命是对统治阶级的极大威胁"
+        },
+        {
+          "key": "B",
+          "text": "科技革命导致社会政治革命"
+        },
+        {
+          "key": "C",
+          "text": "科技革命对变革社会制度具有直接的决定作用"
+        },
+        {
+          "key": "D",
+          "text": "滥用科技革命的成果会对人类造成\"危险\""
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "滥用科技革命的成果会对人类造成\"危险\""
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0048",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 48,
+      "question": "生产力范畴反映的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "人与人之间的思想关系"
+        },
+        {
+          "key": "B",
+          "text": "人与人之间的政治关系"
+        },
+        {
+          "key": "C",
+          "text": "人与人之间的经济关系"
+        },
+        {
+          "key": "D",
+          "text": "人与自然之间的关系"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "人与自然之间的关系"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0049",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 49,
+      "question": "社会主义改革的根本目的在于( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "完善社会主义制度"
+        },
+        {
+          "key": "B",
+          "text": "改变社会主义制度"
+        },
+        {
+          "key": "C",
+          "text": "实现社会公平"
+        },
+        {
+          "key": "D",
+          "text": "解放和发展生产力"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "解放和发展生产力"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0050",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 50,
+      "question": "政体问题说的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "国家政权的组织形式和管理形式"
+        },
+        {
+          "key": "B",
+          "text": "社会各阶级在国家政权中的作用"
+        },
+        {
+          "key": "C",
+          "text": "哪个阶级掌握国家政权"
+        },
+        {
+          "key": "D",
+          "text": "一党执政还是多党共同执政"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "国家政权的组织形式和管理形式"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0051",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 51,
+      "question": "以下关于经济体制的说法错误的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "经济体制在实践中不与社会的基本经济制度结合在一起"
+        },
+        {
+          "key": "B",
+          "text": "经济基础与经济体制具有内在联系"
+        },
+        {
+          "key": "C",
+          "text": "经济体制是社会基本经济制度所采取的组织形式和管理形式"
+        },
+        {
+          "key": "D",
+          "text": "经济体制是生产关系的具体实现形式"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "经济体制在实践中不与社会的基本经济制度结合在一起"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0052",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 52,
+      "question": "划分唯物史观和唯心史观的根本标准是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "是否承认社会存在决定社会意识"
+        },
+        {
+          "key": "B",
+          "text": "是否承认社会发展有其规律性"
+        },
+        {
+          "key": "C",
+          "text": "是否承认社会发展是前进性和曲折性的统一"
+        },
+        {
+          "key": "D",
+          "text": "是否承认社会意识具有相对独立性"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "是否承认社会存在决定社会意识"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0053",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 53,
+      "question": "历史发展是\"合力\"作用的结果，这就是说( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "历史发展无规律可循"
+        },
+        {
+          "key": "B",
+          "text": "社会中的每个人不都是\"合力\"的一部分"
+        },
+        {
+          "key": "C",
+          "text": "历史发展的因素是复杂的"
+        },
+        {
+          "key": "D",
+          "text": "历史发展是无法认识的"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "历史发展的因素是复杂的"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0054",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 54,
+      "question": "\"无论哪一个社会形态，在它所能容纳的全部生产力发挥出来以前，是决不会灭亡的;而新的更高的生产关系，在它的物质存在条件在旧社会的胎胞里成熟以前，是决不会出现的。\"马克思这段话阐明了( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "否定之否定规律"
+        },
+        {
+          "key": "B",
+          "text": "量变质变规律"
+        },
+        {
+          "key": "C",
+          "text": "生产关系一定要适合生产力状况的规律"
+        },
+        {
+          "key": "D",
+          "text": "生产关系对生产力具有能动的反作用的规律"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "生产关系一定要适合生产力状况的规律"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0055",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 55,
+      "question": "人类全部社会关系中最基础的关系是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "血缘关系"
+        },
+        {
+          "key": "B",
+          "text": "思想关系"
+        },
+        {
+          "key": "C",
+          "text": "政治关系"
+        },
+        {
+          "key": "D",
+          "text": "生产关系"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "生产关系"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0056",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 56,
+      "question": "越来越多的人进行网络购物，这主要体现的是科技革命影响人们的( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "劳动方式"
+        },
+        {
+          "key": "B",
+          "text": "思维方式"
+        },
+        {
+          "key": "C",
+          "text": "生产方式"
+        },
+        {
+          "key": "D",
+          "text": "生活方式"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "生活方式"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0057",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 57,
+      "question": "《国家中长期教育改革和发展规划纲要(2010-2020)》颁布后，人们认识到，观念变革是改革的先导，教育改革的第一步应该是转变观念。这一认识的依据是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "社会意识是对社会存在的反映"
+        },
+        {
+          "key": "B",
+          "text": "社会意识对社会发展起推动作用"
+        },
+        {
+          "key": "C",
+          "text": "社会历史是由社会发展规律决定的"
+        },
+        {
+          "key": "D",
+          "text": "社会意识具有相对独立性"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "社会意识具有相对独立性"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0058",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 58,
+      "question": "关于评价无产阶级领袖人物，以下说法错误的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "要忽略他们在认识和行动上所存在的历史局限性"
+        },
+        {
+          "key": "B",
+          "text": "要坚持历史分析方法"
+        },
+        {
+          "key": "C",
+          "text": "高度肯定他们带领人民群众推动历史发展的伟大功绩"
+        },
+        {
+          "key": "D",
+          "text": "要坚持阶级分析方法"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "要忽略他们在认识和行动上所存在的历史局限性"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0059",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 59,
+      "question": "英雄和人民群众共同创造历史，这个观点的实质是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "历史主义"
+        },
+        {
+          "key": "B",
+          "text": "历史唯心主义"
+        },
+        {
+          "key": "C",
+          "text": "历史唯物主义"
+        },
+        {
+          "key": "D",
+          "text": "自然主义"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "历史唯心主义"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0060",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 60,
+      "question": "\"革命是解放生产力，改革也是解放生产力。\"这一论断表明社会改革与社会革命( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "都不需要采取暴力冲突的形式"
+        },
+        {
+          "key": "B",
+          "text": "都是要解决社会基本矛盾"
+        },
+        {
+          "key": "C",
+          "text": "都以夺取国家政权为目的"
+        },
+        {
+          "key": "D",
+          "text": "都不改变社会制度的根本性质"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "都是要解决社会基本矛盾"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0061",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 61,
+      "question": "下列关于改革的说法错误的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "改革是在一定程度上解决社会基本矛盾的有效途径和手段"
+        },
+        {
+          "key": "B",
+          "text": "改革是同一种社会形态发展过程中的量变和质变"
+        },
+        {
+          "key": "C",
+          "text": "改革是在一定程度上促进生产力发展的有效途径和手段"
+        },
+        {
+          "key": "D",
+          "text": "改革是在一定程度上推动社会进步的有效途径和手段"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "改革是同一种社会形态发展过程中的量变和质变"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0062",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 62,
+      "question": "下列概念中，反映人与人之间的经济关系的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "生产力"
+        },
+        {
+          "key": "B",
+          "text": "社会存在"
+        },
+        {
+          "key": "C",
+          "text": "生产关系"
+        },
+        {
+          "key": "D",
+          "text": "劳动对象"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "生产关系"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0063",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 63,
+      "question": "坚持以人民为中心，就必须坚持人民主体地位，坚持立党为公、执政为民，践行全心全意为人民服务的根本宗旨，把党的群众路线贯彻到治国理政全部活动之中，把人民对美好生活的向往作为奋斗目标。\"坚持以人民为中心\"的理论基础是唯物史观关于( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "总体的人在总体的历史过程中的主体地位的原理"
+        },
+        {
+          "key": "B",
+          "text": "人民群众的活动受到社会历史条件制约的原理"
+        },
+        {
+          "key": "C",
+          "text": "人民群众是历史的创造者的原理"
+        },
+        {
+          "key": "D",
+          "text": "人的本质是一切社会关系的总和的原理"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "人民群众是历史的创造者的原理"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0064",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 64,
+      "question": "下列关于社会历史的说法错误的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "社会历史是以一定的物质生产方式为基础的社会形成和演进过程"
+        },
+        {
+          "key": "B",
+          "text": "社会历史发展过程离不开个体的人的活动"
+        },
+        {
+          "key": "C",
+          "text": "社会历史就其整体而言，是一定的群体(集体、阶级、民族乃至全人类)的认识活动和实践活动及其产物的演进过程"
+        },
+        {
+          "key": "D",
+          "text": "整体的社会历史是个体的历史的堆砌"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "整体的社会历史是个体的历史的堆砌"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0065",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 65,
+      "question": "下列关于唯物史观的说法错误的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "唯物史观立足于局部的社会历史过程来探究谁是历史的创造者"
+        },
+        {
+          "key": "B",
+          "text": "唯物史观立足于现实的人及其本质来把握历史的创造者"
+        },
+        {
+          "key": "C",
+          "text": "唯物史观从社会历史发展的必然性入手来考察和说明谁是历史的创造者"
+        },
+        {
+          "key": "D",
+          "text": "唯物史观从人与历史关系的不同层次上考察谁是历史的创造者"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "唯物史观立足于局部的社会历史过程来探究谁是历史的创造者"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0066",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 66,
+      "question": "下列关于阶级分析方法的说法错误的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "运用阶级分析方法不需要把握各阶级之间的关系和阶级力量的对比及其变化"
+        },
+        {
+          "key": "B",
+          "text": "阶级分析方法要求全面、动态地分析阶级状况"
+        },
+        {
+          "key": "C",
+          "text": "阶级分析方法要求全面、动态地分析各阶级的经济地位、政治立场和意识形态"
+        },
+        {
+          "key": "D",
+          "text": "在认识和处理阶级矛盾时，要严格区分阶级矛盾和非阶级矛盾、对抗阶级之间的矛盾和非对抗阶级之间的矛盾，以及敌我矛盾和人民内部矛盾"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "运用阶级分析方法不需要把握各阶级之间的关系和阶级力量的对比及其变化"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0067",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 67,
+      "question": "唯物史观和唯心史观在历史创造者问题上的根本对立在于是否承认( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "剥削阶级代表人物在历史发展中的作用"
+        },
+        {
+          "key": "B",
+          "text": "人民群众是推动历史发展的决定力量"
+        },
+        {
+          "key": "C",
+          "text": "个人在历史发展中的作用"
+        },
+        {
+          "key": "D",
+          "text": "思想动机在社会发展中的作用"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "人民群众是推动历史发展的决定力量"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0068",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 68,
+      "question": "在人类社会发展中起决定作用的因素是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "社会意识"
+        },
+        {
+          "key": "B",
+          "text": "生产方式"
+        },
+        {
+          "key": "C",
+          "text": "地理条件"
+        },
+        {
+          "key": "D",
+          "text": "人口因素"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "生产方式"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0069",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 69,
+      "question": "经济基础决定上层建筑，说的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "上层建筑任何部分的变化都与经济基础的变化同步"
+        },
+        {
+          "key": "B",
+          "text": "上层建筑任何部分的性质都由经济基础直接决定"
+        },
+        {
+          "key": "C",
+          "text": "任何社会的上层建筑都根源于它的经济基础"
+        },
+        {
+          "key": "D",
+          "text": "任何社会的上层建筑都产生于它的经济基础之后"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "任何社会的上层建筑都根源于它的经济基础"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0070",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 70,
+      "question": "历史创造者问题上，马克思主义的基本观点是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "个人都是社会历史的主人，都是历史的创造者"
+        },
+        {
+          "key": "B",
+          "text": "人民群众和英雄人物都是社会历史的主人，他们共同创造了历史"
+        },
+        {
+          "key": "C",
+          "text": "人民群众是社会历史的主体，是历史的创造者"
+        },
+        {
+          "key": "D",
+          "text": "英雄人物是社会历史的主人，是历史的创造者"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "人民群众是社会历史的主体，是历史的创造者"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0071",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 71,
+      "question": "上层建筑是一个庞大的系统，由两部分构成。这两部分是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "行政机关和立法机关"
+        },
+        {
+          "key": "B",
+          "text": "政治思想和法律思想"
+        },
+        {
+          "key": "C",
+          "text": "政治上层建筑和观念上层建筑"
+        },
+        {
+          "key": "D",
+          "text": "政治制度和法律制度"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "政治上层建筑和观念上层建筑"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0072",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 72,
+      "question": "地理环境在社会发展中的作用是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "决定社会形态的更替"
+        },
+        {
+          "key": "B",
+          "text": "决定社会制度的性质"
+        },
+        {
+          "key": "C",
+          "text": "影响社会结构的划分"
+        },
+        {
+          "key": "D",
+          "text": "影响社会发展的速度"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "影响社会发展的速度"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0073",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 73,
+      "question": "我国的改革是社会主义制度的自我完善和发展。从根本上说，这是由( )决定的。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "党的正确的路线、方针、政策"
+        },
+        {
+          "key": "B",
+          "text": "和平与发展是时代主题的国际环境"
+        },
+        {
+          "key": "C",
+          "text": "广大人民群众积极主动地参与改革"
+        },
+        {
+          "key": "D",
+          "text": "我国社会主义社会基本矛盾的性质和特点"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "我国社会主义社会基本矛盾的性质和特点"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0074",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 74,
+      "question": "下列关于社会基本矛盾的说法错误的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "社会改革不根源于社会基本矛盾"
+        },
+        {
+          "key": "B",
+          "text": "社会基本矛盾的运动从根本上决定了各种社会矛盾的产生和发展"
+        },
+        {
+          "key": "C",
+          "text": "社会基本矛盾的运动从根本上决定了各种社会矛盾之间的关系及其转变"
+        },
+        {
+          "key": "D",
+          "text": "社会基本矛盾的运动从根本上决定了社会形态由低级向高级的发展"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "社会改革不根源于社会基本矛盾"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0075",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 75,
+      "question": "社会存在是指社会物质生活条件，它有多方面的内容，其中最能集中体现人类社会性质的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "物质生产方式"
+        },
+        {
+          "key": "B",
+          "text": "社会形态"
+        },
+        {
+          "key": "C",
+          "text": "人口因素"
+        },
+        {
+          "key": "D",
+          "text": "地理环境"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "物质生产方式"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0076",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 76,
+      "question": "下列关于交往的说法错误的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "精神交往是物质交往的基础和根源"
+        },
+        {
+          "key": "B",
+          "text": "根据交往内容和交往方式不同，交往可以划分为物质交往和精神交往"
+        },
+        {
+          "key": "C",
+          "text": "在当今时代，信息交往、文化交往是精神交往的重要方面"
+        },
+        {
+          "key": "D",
+          "text": "精神交往是物质交往的产物"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "精神交往是物质交往的基础和根源"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0077",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 77,
+      "question": "生产关系是反映( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "人与社会之间关系的范畴"
+        },
+        {
+          "key": "B",
+          "text": "人与人之间经济关系的范畴"
+        },
+        {
+          "key": "C",
+          "text": "人与人之间利害关系的范畴"
+        },
+        {
+          "key": "D",
+          "text": "人与自然之间关系的范畴"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "人与人之间经济关系的范畴"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0078",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 78,
+      "question": "在下列选项中，属于非意识形态的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "艺术"
+        },
+        {
+          "key": "B",
+          "text": "宗教"
+        },
+        {
+          "key": "C",
+          "text": "逻辑学"
+        },
+        {
+          "key": "D",
+          "text": "哲学"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "逻辑学"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0079",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 79,
+      "question": "人类社会的基本矛盾是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "先进和落后、正确和错误之间的矛盾"
+        },
+        {
+          "key": "B",
+          "text": "个人和社会、自然界和社会之间的矛盾"
+        },
+        {
+          "key": "C",
+          "text": "生产力和生产关系、经济基础和上层建筑之间的矛盾"
+        },
+        {
+          "key": "D",
+          "text": "人和自然界、人和人之间的矛盾"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "生产力和生产关系、经济基础和上层建筑之间的矛盾"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0080",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 80,
+      "question": "历史人物中的杰出人物不包括( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "无产阶级的伟大政治家和思想家"
+        },
+        {
+          "key": "B",
+          "text": "历史上被剥削阶级的革命领袖"
+        },
+        {
+          "key": "C",
+          "text": "对历史发展起促进作用的伟大人物"
+        },
+        {
+          "key": "D",
+          "text": "占统治地位的剥削阶级"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "占统治地位的剥削阶级"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0081",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 81,
+      "question": "制约人民群众创造历史的决定性条件是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "传统观念"
+        },
+        {
+          "key": "B",
+          "text": "文化水平"
+        },
+        {
+          "key": "C",
+          "text": "法律制度"
+        },
+        {
+          "key": "D",
+          "text": "经济条件"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "经济条件"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0082",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 82,
+      "question": "经济基础是一定社会中( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "占统治地位的生产关系各方面的总和"
+        },
+        {
+          "key": "B",
+          "text": "生产力系统各要素的总和"
+        },
+        {
+          "key": "C",
+          "text": "占统治地位的各种社会关系的总和"
+        },
+        {
+          "key": "D",
+          "text": "生产力和生产关系的总和"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "占统治地位的生产关系各方面的总和"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0083",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 83,
+      "question": "近年来马克思的《资本论》在西方一些国家销量大增。列宁曾说，马克思的《资本论》的成就之所以如此之大，是由于这本书使读者看到整个资本主义社会形态是个活生生的形态，既有\"骨骼\"，又有\"血肉\"。人类社会作为一种活的有机体，其\"骨骼\"系统是指( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "与一定的生产力相适应的生产关系"
+        },
+        {
+          "key": "B",
+          "text": "建立在一定经济基础之上的政治法律制度及设施"
+        },
+        {
+          "key": "C",
+          "text": "地理环境、人口因素和物质生产方式等社会物质生活条件"
+        },
+        {
+          "key": "D",
+          "text": "由政治法律思想、道德、宗教、哲学等构成的意识形态"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "与一定的生产力相适应的生产关系"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0084",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 84,
+      "question": "下列关于科学技术的说法错误的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "科学技术的作用受到利益关系的影响"
+        },
+        {
+          "key": "B",
+          "text": "科学技术的作用不会受到人们的认识水平的影响"
+        },
+        {
+          "key": "C",
+          "text": "科学技术的作用受到人们的观念的影响"
+        },
+        {
+          "key": "D",
+          "text": "科学技术的作用受到社会制度的影响"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "科学技术的作用不会受到人们的认识水平的影响"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0085",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 85,
+      "question": "在个人还是人民群众是历史的创造者问题上，唯心史观的根本错误在于( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "承认伟大人物的思想动机在历史发展中的作用"
+        },
+        {
+          "key": "B",
+          "text": "否认人民群众推动历史发展的决定性作用"
+        },
+        {
+          "key": "C",
+          "text": "承认政治权力和暴力在历史发展中的作用"
+        },
+        {
+          "key": "D",
+          "text": "否认英雄和群众共同创造历史"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "否认人民群众推动历史发展的决定性作用"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0086",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 86,
+      "question": "人类社会发展最基本的规律是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "社会存在决定社会意识的规律"
+        },
+        {
+          "key": "B",
+          "text": "生产关系必须适合生产力状况的规律"
+        },
+        {
+          "key": "C",
+          "text": "社会形态由低级到高级依次更替的规律"
+        },
+        {
+          "key": "D",
+          "text": "阶级斗争推动社会发展的规律"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "生产关系必须适合生产力状况的规律"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0087",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 87,
+      "question": "世界历史发展的一般规律，不仅丝毫不排斥个别发展阶段在发展的形式或顺序上表现出特殊性，反而是以此为前提的。这是对( )辩证关系的概括。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "社会形态更替的必然性和历史选择性"
+        },
+        {
+          "key": "B",
+          "text": "社会形态更替的超前性和滞后性"
+        },
+        {
+          "key": "C",
+          "text": "社会形态更替的统一性和多样性"
+        },
+        {
+          "key": "D",
+          "text": "社会形态更替的前进性和曲折性"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "社会形态更替的统一性和多样性"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0088",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 88,
+      "question": "( )指出，无产阶级政党要是\"不学会把领袖和阶级、领袖和群众结成一个整体，结成一个不可分离的整体，它便不配拥有这种称号\"。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "恩格斯"
+        },
+        {
+          "key": "B",
+          "text": "马克思"
+        },
+        {
+          "key": "C",
+          "text": "列宁"
+        },
+        {
+          "key": "D",
+          "text": "费尔巴哈"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "列宁"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0089",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 89,
+      "question": "下列关于人的本质的说法错误的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "人的本质是永恒不变的"
+        },
+        {
+          "key": "B",
+          "text": "人的本质属性是社会属性"
+        },
+        {
+          "key": "C",
+          "text": "人的本质属性表现在各种社会关系中"
+        },
+        {
+          "key": "D",
+          "text": "人的本质是变化、发展的"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "人的本质是永恒不变的"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0090",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 90,
+      "question": "根据社会意识反映社会存在的程度和特点，可以把社会意识划分为( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "先进意识和落后意识"
+        },
+        {
+          "key": "B",
+          "text": "意识形态和非意识形态"
+        },
+        {
+          "key": "C",
+          "text": "个体意识和群体意识"
+        },
+        {
+          "key": "D",
+          "text": "社会心理和思想体系"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "先进意识和落后意识"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0091",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 91,
+      "question": "人类社会发展的基本动力是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "社会基本矛盾"
+        },
+        {
+          "key": "B",
+          "text": "阶级斗争"
+        },
+        {
+          "key": "C",
+          "text": "改革开放"
+        },
+        {
+          "key": "D",
+          "text": "科学技术革命"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "社会基本矛盾"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0092",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 92,
+      "question": "下列关于交往的说法错误的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "交往是与生产力的发展相伴随的"
+        },
+        {
+          "key": "B",
+          "text": "社会生产力的发展水平，不制约交往的水平"
+        },
+        {
+          "key": "C",
+          "text": "孤立、封闭、隔绝总是与落后的社会生产力水平相联系"
+        },
+        {
+          "key": "D",
+          "text": "交流、交往、开放往往与先进的社会生产力水平相联系"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "社会生产力的发展水平，不制约交往的水平"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0093",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 93,
+      "question": "党的十一届三中全会以来，我们党制定的一系列正确的路线、方针、政策促进了我国经济的迅猛发展，这说明( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "经济基础发展的道路是由上层建筑决定的"
+        },
+        {
+          "key": "B",
+          "text": "上层建筑对经济基础具有积极的能动作用"
+        },
+        {
+          "key": "C",
+          "text": "上层建筑的发展决定经济基础的发展方向"
+        },
+        {
+          "key": "D",
+          "text": "社会主义社会的发展不受经济基础决定上层建筑规律的制约"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "上层建筑对经济基础具有积极的能动作用"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0094",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 94,
+      "question": "从社会意识反映社会存在的水平高低不同的层次，可以把社会意识划分为( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "有阶级性的意识与无阶级性的意识"
+        },
+        {
+          "key": "B",
+          "text": "个体意识与群体意识"
+        },
+        {
+          "key": "C",
+          "text": "社会心理与社会意识形式"
+        },
+        {
+          "key": "D",
+          "text": "先进意识与落后意识"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "社会心理与社会意识形式"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0095",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 95,
+      "question": "\"社会形态的发展是一种自然历史过程\"这句话说的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "社会规律与自然规律没有差别"
+        },
+        {
+          "key": "B",
+          "text": "人的思想动机对社会发展不起作用"
+        },
+        {
+          "key": "C",
+          "text": "社会发展具有不以人的意志为转移的客观规律性"
+        },
+        {
+          "key": "D",
+          "text": "社会发展是纯粹自发的过程"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "社会发展具有不以人的意志为转移的客观规律性"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0096",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 96,
+      "question": "我国当前进行的改革是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "对社会根本经济制度的变革"
+        },
+        {
+          "key": "B",
+          "text": "对社会根本政治制度的变革"
+        },
+        {
+          "key": "C",
+          "text": "社会主义制度的自我完善和发展"
+        },
+        {
+          "key": "D",
+          "text": "对思想观念的根本变革"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "社会主义制度的自我完善和发展"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0097",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 97,
+      "question": "历史观的基本问题是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "生产力与生产关系的关系问题"
+        },
+        {
+          "key": "B",
+          "text": "社会生产与社会消费的关系问题"
+        },
+        {
+          "key": "C",
+          "text": "经济基础与上层建筑的关系问题"
+        },
+        {
+          "key": "D",
+          "text": "社会存在与社会意识的关系问题"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "社会存在与社会意识的关系问题"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0098",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 98,
+      "question": "既承认社会发展的客观规律，又承认主体选择的作用，这种观点属于( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "相对主义观点"
+        },
+        {
+          "key": "B",
+          "text": "历史唯心主义观点"
+        },
+        {
+          "key": "C",
+          "text": "折中主义观点"
+        },
+        {
+          "key": "D",
+          "text": "历史唯物主义观点"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "历史唯物主义观点"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0099",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 99,
+      "question": "从特定的社会环境来说，先进生产力有其特定的表现形态。比如火的发现与应用，骨制工具、石器、青铜器、铁器，文字的发明与应用，中国的四大发明，特别是蒸汽机、电气、原子能、计算机，等等，都曾经是先进的生产力。今天的知识化、数字化、信息化、网络化、系统集成化和时空一体化的生产力，是高科技、高集成且具有全球时空一体化特征的先进生产力，即当代的先进生产力。这一切说明，生产力具有( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "历史性"
+        },
+        {
+          "key": "B",
+          "text": "社会性"
+        },
+        {
+          "key": "C",
+          "text": "时代性"
+        },
+        {
+          "key": "D",
+          "text": "客观性"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "历史性"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0100",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 100,
+      "question": "最有利于促进社会发展的人口因素是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "与社会生产状况相适应的人口"
+        },
+        {
+          "key": "B",
+          "text": "数量少、密度大、增长适度"
+        },
+        {
+          "key": "C",
+          "text": "数量少、密度小、增长慢"
+        },
+        {
+          "key": "D",
+          "text": "数量多、密度大、增长快"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "与社会生产状况相适应的人口"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter3-0101",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 101,
+      "question": "联结人与自然的中介是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "生产劳动"
+        },
+        {
+          "key": "B",
+          "text": "地理环境"
+        },
+        {
+          "key": "C",
+          "text": "社会关系"
+        },
+        {
+          "key": "D",
+          "text": "社会意识"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "生产劳动"
+      ],
+      "topic": "第三章",
+      "category": "第三章",
+      "score": 1,
+      "analysis": ""
+    }
+  ]
+}

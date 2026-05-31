@@ -1,0 +1,3250 @@
+{
+  "meta": {
+    "title": "马克思主义基本原理-第四章",
+    "questionCount": 90,
+    "volumes": 1,
+    "sourceNote": "由马原选择题题库 Word 文档转换导入。"
+  },
+  "questions": [
+    {
+      "id": "mayuan-chapter4-0001",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 1,
+      "question": "资本主义经济危机的实质是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "生产过剩的危机"
+        },
+        {
+          "key": "B",
+          "text": "生产绝对过剩的危机"
+        },
+        {
+          "key": "C",
+          "text": "生产相对过剩的危机"
+        },
+        {
+          "key": "D",
+          "text": "生产不足的危机"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "生产相对过剩的危机"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0002",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 2,
+      "question": "商品内在的使用价值和价值的矛盾，根源于( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "商品与货币的对立"
+        },
+        {
+          "key": "B",
+          "text": "具体劳动与抽象劳动的对立"
+        },
+        {
+          "key": "C",
+          "text": "商品与商品的对立"
+        },
+        {
+          "key": "D",
+          "text": "私人劳动与社会劳动的对立"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "私人劳动与社会劳动的对立"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0003",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 3,
+      "question": "作为商品的计算机软件，其价值的物质承担者是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "软件磁盘本身"
+        },
+        {
+          "key": "B",
+          "text": "应用软件的计算机"
+        },
+        {
+          "key": "C",
+          "text": "购买软件的货币"
+        },
+        {
+          "key": "D",
+          "text": "软件的有用性"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "软件的有用性"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0004",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 4,
+      "question": "在资本主义社会里，资本家雇佣工人进行劳动并支付相应的工资。资本主义工资的本质是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "工人劳动力的价值或价格"
+        },
+        {
+          "key": "B",
+          "text": "工人所创造的剩余价值的一部分"
+        },
+        {
+          "key": "C",
+          "text": "工人全部劳动的报酬"
+        },
+        {
+          "key": "D",
+          "text": "工人所获得的资本家的预付资本"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "工人劳动力的价值或价格"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0005",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 5,
+      "question": "货币转化为资本的前提是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "勤俭节约"
+        },
+        {
+          "key": "B",
+          "text": "货币在性质上发生变化"
+        },
+        {
+          "key": "C",
+          "text": "流通中的不等价交换"
+        },
+        {
+          "key": "D",
+          "text": "劳动力成为商品"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "劳动力成为商品"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0006",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 6,
+      "question": "某资本家投资100万元，每次投资所得的利润是15万元，假定其预付资本的有机构成是4∶1，那么该资本家每次投资所实现的剩余价值率为( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "75%"
+        },
+        {
+          "key": "B",
+          "text": "125%"
+        },
+        {
+          "key": "C",
+          "text": "100%"
+        },
+        {
+          "key": "D",
+          "text": "15%"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "75%"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0007",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 7,
+      "question": "平均利润的形成是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "不同部门之间竞争的结果"
+        },
+        {
+          "key": "B",
+          "text": "部门内部竞争的结果"
+        },
+        {
+          "key": "C",
+          "text": "资本有机构成提高的结果"
+        },
+        {
+          "key": "D",
+          "text": "资本积累的结果"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "不同部门之间竞争的结果"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0008",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 8,
+      "question": "剩余价值的实现是在产业资本循环的( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "销售阶段"
+        },
+        {
+          "key": "B",
+          "text": "生产阶段"
+        },
+        {
+          "key": "C",
+          "text": "购买阶段"
+        },
+        {
+          "key": "D",
+          "text": "流通阶段"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "销售阶段"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0009",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 9,
+      "question": "资本主义再生产过程的实质是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "物质资料再生产与资本主义生产关系再生产的统一"
+        },
+        {
+          "key": "B",
+          "text": "劳动过程和价值增殖过程的统一"
+        },
+        {
+          "key": "C",
+          "text": "劳动过程和价值形成过程的统一"
+        },
+        {
+          "key": "D",
+          "text": "物质资料再生产与劳动力再生产的统一"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "物质资料再生产与资本主义生产关系再生产的统一"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0010",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 10,
+      "question": "以劳动力形式存在的那部分资本被称为可变资本是因为( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "它的价值会转移到产品中去"
+        },
+        {
+          "key": "B",
+          "text": "劳动力不仅能创造出自身价值，还能创造出剩余价值"
+        },
+        {
+          "key": "C",
+          "text": "它的价值不仅会发生转移，而且会自行增值"
+        },
+        {
+          "key": "D",
+          "text": "劳动力仅能创造出相当于自身价值的价值"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "劳动力不仅能创造出自身价值，还能创造出剩余价值"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0011",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 11,
+      "question": "资本主义再生产的特征是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "粗放再生产"
+        },
+        {
+          "key": "B",
+          "text": "扩大再生产"
+        },
+        {
+          "key": "C",
+          "text": "集约再生产"
+        },
+        {
+          "key": "D",
+          "text": "简单再生产"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "扩大再生产"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0012",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 12,
+      "question": "剩余价值和利润二者之间的关系是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "利润是剩余价值的本质，剩余价值是利润的转化形式"
+        },
+        {
+          "key": "B",
+          "text": "剩余价值表现为全部预付资本的产物，利润是可变资本的产物"
+        },
+        {
+          "key": "C",
+          "text": "剩余价值是利润的本质，利润是剩余价值的转化形式"
+        },
+        {
+          "key": "D",
+          "text": "剩余价值和利润在质上相同，在量上相等"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "剩余价值是利润的本质，利润是剩余价值的转化形式"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0013",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 13,
+      "question": "某钢厂因煤炭价格上涨而增加资本支出，它影响该厂的( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "资本有机构成"
+        },
+        {
+          "key": "B",
+          "text": "资本物质构成"
+        },
+        {
+          "key": "C",
+          "text": "资本价值构成"
+        },
+        {
+          "key": "D",
+          "text": "资本技术构成"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "资本价值构成"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0014",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 14,
+      "question": "使用价值不同的商品可以以一定的数量比例关系相交换，是因为它们都有( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "效用"
+        },
+        {
+          "key": "B",
+          "text": "交换价值"
+        },
+        {
+          "key": "C",
+          "text": "价值"
+        },
+        {
+          "key": "D",
+          "text": "价格"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "价值"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0015",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 15,
+      "question": "反映资本家对雇佣工人剥削程度的是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "利息率"
+        },
+        {
+          "key": "B",
+          "text": "剩余价值率"
+        },
+        {
+          "key": "C",
+          "text": "利润率"
+        },
+        {
+          "key": "D",
+          "text": "剩余价值量"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "剩余价值率"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0016",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 16,
+      "question": "商品的二因素是对立统一的，这对矛盾的解决有赖于( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "劳动生产率的不断提高"
+        },
+        {
+          "key": "B",
+          "text": "货币的出现并充当交换媒介"
+        },
+        {
+          "key": "C",
+          "text": "商品价值的转移"
+        },
+        {
+          "key": "D",
+          "text": "商品交换的实现"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "商品交换的实现"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0017",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 17,
+      "question": "马克思说:\"一切商品对它们的所有者是非使用价值，对它们的非所有者是使用价值。\"这句话表明( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "有使用价值的不一定有价值"
+        },
+        {
+          "key": "B",
+          "text": "商品的使用价值是对它的购买消费者而言的"
+        },
+        {
+          "key": "C",
+          "text": "商品所有者同时获得使用价值和价值"
+        },
+        {
+          "key": "D",
+          "text": "商品是使用价值和价值的对立统一"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "商品是使用价值和价值的对立统一"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0018",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 18,
+      "question": "社会总产品从实物形态上分为生产资料和消费资料的主要依据是其( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "物质形态"
+        },
+        {
+          "key": "B",
+          "text": "社会属性"
+        },
+        {
+          "key": "C",
+          "text": "最终用途"
+        },
+        {
+          "key": "D",
+          "text": "自然属性"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "最终用途"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0019",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 19,
+      "question": "马克思通过对资本主义生产中价值增殖过程的分析，把雇佣工人的劳动时间分为( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "再生产劳动力价值的时间和生产剩余价值的时间"
+        },
+        {
+          "key": "B",
+          "text": "生产使用价值的时间和生产价值的时间"
+        },
+        {
+          "key": "C",
+          "text": "转移旧价值的时间和创造新价值的时间"
+        },
+        {
+          "key": "D",
+          "text": "生产劳动力价值的时间和生产剩余价值的时间"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "再生产劳动力价值的时间和生产剩余价值的时间"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0020",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 20,
+      "question": "\"没有等同性就不能交换，没有通约性就不能等同\"，这是亚里士多德关于商品交换价值决定的见解。这段话表明商品的交换价值是由( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "商品的价值决定的"
+        },
+        {
+          "key": "B",
+          "text": "商品的使用价值决定的"
+        },
+        {
+          "key": "C",
+          "text": "商品的供求因素决定的"
+        },
+        {
+          "key": "D",
+          "text": "商品的效用决定的"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "商品的价值决定的"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0021",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 21,
+      "question": "平均利润和生产价格形成后，市场价格波动的中心是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "生产价格"
+        },
+        {
+          "key": "B",
+          "text": "价值"
+        },
+        {
+          "key": "C",
+          "text": "成本价格"
+        },
+        {
+          "key": "D",
+          "text": "垄断价格"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "价值"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0022",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 22,
+      "question": "劳动力商品使用价值的特殊性在于( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "保持资本价值"
+        },
+        {
+          "key": "B",
+          "text": "能创造出大于自身价值的价值"
+        },
+        {
+          "key": "C",
+          "text": "转移生产资料价值"
+        },
+        {
+          "key": "D",
+          "text": "生产劳动产品"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "能创造出大于自身价值的价值"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0023",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 23,
+      "question": "资本集中最强有力的杠杆是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "竞争和剩余价值的资本化"
+        },
+        {
+          "key": "B",
+          "text": "竞争和信用"
+        },
+        {
+          "key": "C",
+          "text": "资本积聚和资本积累"
+        },
+        {
+          "key": "D",
+          "text": "简单再生产和扩大再生产"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "竞争和信用"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0024",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 24,
+      "question": "社会必要劳动时间是在现有的社会正常生产条件下，在社会平均劳动熟练程度和劳动强度下制造某种使用价值所需要的劳动时间，它是以( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "复杂劳动为尺度的"
+        },
+        {
+          "key": "B",
+          "text": "简单劳动为尺度的"
+        },
+        {
+          "key": "C",
+          "text": "具体劳动为尺度的"
+        },
+        {
+          "key": "D",
+          "text": "个别劳动为尺度的"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "简单劳动为尺度的"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0025",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 25,
+      "question": "利润率和剩余价值率在量上( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "二者没有关系"
+        },
+        {
+          "key": "B",
+          "text": "二者相等"
+        },
+        {
+          "key": "C",
+          "text": "利润率小于剩余价值率"
+        },
+        {
+          "key": "D",
+          "text": "利润率大于剩余价值率"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "利润率小于剩余价值率"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0026",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 26,
+      "question": "商品价格随着供求关系的变化围绕价值上下波动是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "价值规律在商品经济中的作用"
+        },
+        {
+          "key": "B",
+          "text": "价值规律作用的表现形式"
+        },
+        {
+          "key": "C",
+          "text": "价值规律的本质规定"
+        },
+        {
+          "key": "D",
+          "text": "价值规律的内容要求"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "价值规律的本质规定"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0027",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 27,
+      "question": "如果1双皮鞋=2件上衣符合等价交换原则，现在生产皮鞋的社会必要劳动时间增加一倍，而生产上衣的社会必要劳动时间减少一倍，那么一双皮鞋可以交换到( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "1件上农"
+        },
+        {
+          "key": "B",
+          "text": "4件上衣"
+        },
+        {
+          "key": "C",
+          "text": "8件上衣"
+        },
+        {
+          "key": "D",
+          "text": "16件上衣"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "8件上衣"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0028",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 28,
+      "question": "资本主义政党制度的实质是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "允许马克思主义政党独立执政"
+        },
+        {
+          "key": "B",
+          "text": "允许工人阶级及其政党参与国家政治生活"
+        },
+        {
+          "key": "C",
+          "text": "不受资本主义国家政权的资本主义性质制约"
+        },
+        {
+          "key": "D",
+          "text": "资产阶级选择自己的国家管理者，实现其内部利益平衡的政治机制"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "资产阶级选择自己的国家管理者，实现其内部利益平衡的政治机制"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0029",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 29,
+      "question": "绝对剩余价值和相对剩余价值都是依靠( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "降低工人的工资而获得的"
+        },
+        {
+          "key": "B",
+          "text": "提高劳动生产率而获得的"
+        },
+        {
+          "key": "C",
+          "text": "延长工人工作日而获得的"
+        },
+        {
+          "key": "D",
+          "text": "增加剩余劳动时间而获得的"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "增加剩余劳动时间而获得的"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0030",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 30,
+      "question": "投入某种物质商品生产过程中的活劳动量不变，如果劳动生产率提高，在单位劳动时间内生产的商品数量和单位商品的价值量的变化表现为( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "商品数量增加，价值量不变"
+        },
+        {
+          "key": "B",
+          "text": "商品数量不变，价值量增大"
+        },
+        {
+          "key": "C",
+          "text": "商品数量增加，价值量增大"
+        },
+        {
+          "key": "D",
+          "text": "商品数量增加，价值量减少"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "商品数量增加，价值量减少"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0031",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 31,
+      "question": "下列生产要素中既属于不变资本又属于固定资本的是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "厂房、设备"
+        },
+        {
+          "key": "B",
+          "text": "燃料"
+        },
+        {
+          "key": "C",
+          "text": "原料"
+        },
+        {
+          "key": "D",
+          "text": "劳动力"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "厂房、设备"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0032",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 32,
+      "question": "加快资本周转，可以增加年剩余价值量和提高年剩余价值率，根本是因为( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "预付的资本总量增加了"
+        },
+        {
+          "key": "B",
+          "text": "流通对生产的反作用"
+        },
+        {
+          "key": "C",
+          "text": "实际发挥作用的可变资本增加了"
+        },
+        {
+          "key": "D",
+          "text": "剩余价值率提高了"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "实际发挥作用的可变资本增加了"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0033",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 33,
+      "question": "区分不变资本和可变资本的依据是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "它们在流通中采取的形态不同"
+        },
+        {
+          "key": "B",
+          "text": "它们的价值周转方式不同"
+        },
+        {
+          "key": "C",
+          "text": "它们在生产使用价值过程中的作用不同"
+        },
+        {
+          "key": "D",
+          "text": "它们在价值增殖过程中的作用不同"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "它们在价值增殖过程中的作用不同"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0034",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 34,
+      "question": "劳动力成为商品是货币转化为资本的前提条件，这是因为( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "劳动力自身的价值能够在消费过程中转移到新的商品中去"
+        },
+        {
+          "key": "B",
+          "text": "资本家购买的是劳动力的价值"
+        },
+        {
+          "key": "C",
+          "text": "劳动力商品具有价值和使用价值"
+        },
+        {
+          "key": "D",
+          "text": "货币所有者购买的劳动力能够带来剩余价值"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "货币所有者购买的劳动力能够带来剩余价值"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0035",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 35,
+      "question": "下列关于商品、价值、使用价值的表述中，完全正确的是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "一切商品都有使用价值"
+        },
+        {
+          "key": "B",
+          "text": "没有使用价值或者没有价值的东西都不是商品"
+        },
+        {
+          "key": "C",
+          "text": "一切商品都有价值"
+        },
+        {
+          "key": "D",
+          "text": "只要获得商品，就能获得商品的使用价值和价值"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "一切商品都有使用价值"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0036",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 36,
+      "question": "资本积累是指( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "分散的小资本合并成大资本"
+        },
+        {
+          "key": "B",
+          "text": "企业之间的兼并"
+        },
+        {
+          "key": "C",
+          "text": "大资本吞并小资本"
+        },
+        {
+          "key": "D",
+          "text": "剩余价值转化成资本"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "剩余价值转化成资本"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0037",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 37,
+      "question": "在市场上，一台笔记本电脑的标价是12000元，此时执行价值尺度职能的货币是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "观念上的货币"
+        },
+        {
+          "key": "B",
+          "text": "实在的货币"
+        },
+        {
+          "key": "C",
+          "text": "现金"
+        },
+        {
+          "key": "D",
+          "text": "信用货币"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "观念上的货币"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0038",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 38,
+      "question": "生产商品的劳动二重性是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "具体劳动和抽象劳动"
+        },
+        {
+          "key": "B",
+          "text": "私人劳动和社会劳动"
+        },
+        {
+          "key": "C",
+          "text": "必要劳动和剩余劳动"
+        },
+        {
+          "key": "D",
+          "text": "简单劳动和复杂劳动"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "具体劳动和抽象劳动"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0039",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 39,
+      "question": "年剩余价值率是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "年剩余价值量与预付可变资本的比率"
+        },
+        {
+          "key": "B",
+          "text": "年剩余价值量与流动资本的比率"
+        },
+        {
+          "key": "C",
+          "text": "年剩余价值量与预付不变资本的比率"
+        },
+        {
+          "key": "D",
+          "text": "年剩余价值量与全部预付资本的比率"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "年剩余价值量与预付可变资本的比率"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0040",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 40,
+      "question": "商品的使用价值与一般物品的使用价值的区别在于( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "前者是为他人生产的，后者是为自己生产的"
+        },
+        {
+          "key": "B",
+          "text": "商品的使用价值是商品价值的物质承担者"
+        },
+        {
+          "key": "C",
+          "text": "前者构成社会财富的物质内容，后者不是社会财富"
+        },
+        {
+          "key": "D",
+          "text": "前者是劳动生产出来的，后者是天然具有的"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "商品的使用价值是商品价值的物质承担者"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0041",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 41,
+      "question": "某钢铁厂因铁矿石价格上涨，增加了该厂的预付资本数量，这使得该厂的资本构成发生了变化，所变化的资本构成是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "资本技术构成"
+        },
+        {
+          "key": "B",
+          "text": "资本价值构成"
+        },
+        {
+          "key": "C",
+          "text": "资本物质构成"
+        },
+        {
+          "key": "D",
+          "text": "资本有机构成"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "资本价值构成"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0042",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 42,
+      "question": "《资本论》(德文版)第一卷于1867年9月在汉堡出版，其影响力历经150余年风雨而不衰，至今对我们分析、理解现实经济问题依然具有很强的指导意义。马克思主义政治经济学的理论十分丰富，其中\"理解政治经济学的枢纽\"的理论是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "价值规律理论"
+        },
+        {
+          "key": "B",
+          "text": "劳动二重性理论"
+        },
+        {
+          "key": "C",
+          "text": "剩余价值理论"
+        },
+        {
+          "key": "D",
+          "text": "商品二因素理论"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "劳动二重性理论"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0043",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 43,
+      "question": "《资本论》中有这样的表述，\"对上衣来说，无论是裁缝自己穿还是他的顾客穿，都是一样的\"，这主要是因为无论谁穿，( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "上衣都起着价值的作用"
+        },
+        {
+          "key": "B",
+          "text": "上衣都是抽象劳动的结果"
+        },
+        {
+          "key": "C",
+          "text": "上衣都起着使用价值的作用"
+        },
+        {
+          "key": "D",
+          "text": "上衣都是社会劳动的结果"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "上衣都起着使用价值的作用"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0044",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 44,
+      "question": "资本主义生产过程的本质特征是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "劳动过程"
+        },
+        {
+          "key": "B",
+          "text": "价值平均过程"
+        },
+        {
+          "key": "C",
+          "text": "价值增殖过程"
+        },
+        {
+          "key": "D",
+          "text": "价值形成过程"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "价值增殖过程"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0045",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 45,
+      "question": "资本主义经济危机呈现出周期性的原因在于( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "资本主义基本矛盾"
+        },
+        {
+          "key": "B",
+          "text": "资本主义再生产的周期性"
+        },
+        {
+          "key": "C",
+          "text": "资本主义的基本矛盾周期性"
+        },
+        {
+          "key": "D",
+          "text": "资本主义基本矛盾运动的特点"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "资本主义基本矛盾运动的特点"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0046",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 46,
+      "question": "在资本运动中不仅能占有剩余价值而且能够创造剩余价值的资本是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "商业资本"
+        },
+        {
+          "key": "B",
+          "text": "银行资本"
+        },
+        {
+          "key": "C",
+          "text": "借贷资本"
+        },
+        {
+          "key": "D",
+          "text": "产业资本"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "产业资本"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0047",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 47,
+      "question": "最鲜明体现资本主义国家实质的国家职能是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "经济职能"
+        },
+        {
+          "key": "B",
+          "text": "社会职能"
+        },
+        {
+          "key": "C",
+          "text": "对外交往职能"
+        },
+        {
+          "key": "D",
+          "text": "政治职能"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "政治职能"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0048",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 48,
+      "question": "资本有机构成是指( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "固定资本与流动资本的比例关系"
+        },
+        {
+          "key": "B",
+          "text": "企业的生产资料与劳动力之间的数量比例关系"
+        },
+        {
+          "key": "C",
+          "text": "不变资本与可变资本的比例关系"
+        },
+        {
+          "key": "D",
+          "text": "由资本技术构成决定并反映技术构成变化的资本价值构成"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "由资本技术构成决定并反映技术构成变化的资本价值构成"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0049",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 49,
+      "question": "马克思指出:\"黑人就是黑人。只有在一定的关系下，他才成为奴隶。纺织机是纺织棉花的机器，只有在一定的关系下，它才成为资本。脱离了这种关系，它也就不是资本了，就像黄金本身并不是货币，砂糖并不是砂糖的价格一样。\"\"一定的关系\"是指( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "资产阶级社会的生产关系"
+        },
+        {
+          "key": "B",
+          "text": "封建社会的生产关系"
+        },
+        {
+          "key": "C",
+          "text": "雇佣与被雇佣的关系"
+        },
+        {
+          "key": "D",
+          "text": "奴役与被奴役的生产关系"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "资产阶级社会的生产关系"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0050",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 50,
+      "question": "资本周转时间包括( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "生产时间和流通时间"
+        },
+        {
+          "key": "B",
+          "text": "购买时间和生产时间"
+        },
+        {
+          "key": "C",
+          "text": "生产时间和销售时间"
+        },
+        {
+          "key": "D",
+          "text": "购买时间和销售时间"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "生产时间和流通时间"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0051",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 51,
+      "question": "假设原来工作日为8小时，其中必要劳动时间为4小时，剩余劳动时间为4小时，若分别采用绝对剩余价值生产方法和相对剩余价值生产方法，使剩余劳动时间各延长2小时，则它们的剩余价值率应分别为( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "150%，300%"
+        },
+        {
+          "key": "B",
+          "text": "100%，200%"
+        },
+        {
+          "key": "C",
+          "text": "150%，200%"
+        },
+        {
+          "key": "D",
+          "text": "150%，100%"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "150%，300%"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0052",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 52,
+      "question": "某资本家经营的企业通过改进技术、提高劳动生产率，使其生产商品花费的劳动时间比社会必要劳动时间少10%，由此形成商品个别价值低于社会价值的那部分是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "绝对剩余价值"
+        },
+        {
+          "key": "B",
+          "text": "超额剩余价值"
+        },
+        {
+          "key": "C",
+          "text": "相对剩余价值"
+        },
+        {
+          "key": "D",
+          "text": "平均利润"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "超额剩余价值"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0053",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 53,
+      "question": "某资本家投资100万元，资本有机构成4:1，m＇=100%，一年周转4次，其年剩余价值量和年剩余价值率分别为( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "40万，100%"
+        },
+        {
+          "key": "B",
+          "text": "80万，400%"
+        },
+        {
+          "key": "C",
+          "text": "40万，400%"
+        },
+        {
+          "key": "D",
+          "text": "80万，100%"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "80万，400%"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0054",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 54,
+      "question": "货币之所以能执行价值尺度的职能，是因为( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "它能衡量其他商品价值的大小"
+        },
+        {
+          "key": "B",
+          "text": "它是社会劳动的产物，本身具有价值"
+        },
+        {
+          "key": "C",
+          "text": "它可以是观念上的货币"
+        },
+        {
+          "key": "D",
+          "text": "它具有计量单位"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "它是社会劳动的产物，本身具有价值"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0055",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 55,
+      "question": "资本是一种运动，资本循环是从( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "资本运动的速度方面研究资本的运动"
+        },
+        {
+          "key": "B",
+          "text": "资本运动的实现条件方面研究资本的运动"
+        },
+        {
+          "key": "C",
+          "text": "资本运动的形式和条件方面研究资本的运动"
+        },
+        {
+          "key": "D",
+          "text": "资本运动的矛盾性方面研究资本的运动"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "资本运动的形式和条件方面研究资本的运动"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0056",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 56,
+      "question": "商品的价值量决定于( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "剩余劳动时间"
+        },
+        {
+          "key": "B",
+          "text": "必要劳动时间"
+        },
+        {
+          "key": "C",
+          "text": "社会必要劳动时间"
+        },
+        {
+          "key": "D",
+          "text": "个别劳动时间"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "社会必要劳动时间"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0057",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 57,
+      "question": "研究个别资本循环的核心问题在于( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "考察产业资本运动的速度"
+        },
+        {
+          "key": "B",
+          "text": "考察社会总产品的实现问题"
+        },
+        {
+          "key": "C",
+          "text": "考察产业资本连续运动的条件"
+        },
+        {
+          "key": "D",
+          "text": "考察产业资本增殖的程度"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "考察产业资本连续运动的条件"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0058",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 58,
+      "question": "生产商品的社会必要劳动时间随着生产技术的进步和劳动生产率的提高而发生变化，这时，库存的已生产的商品的( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "价值与价格将随之发生反方向的变化"
+        },
+        {
+          "key": "B",
+          "text": "价值不变，价格发生反方向变化"
+        },
+        {
+          "key": "C",
+          "text": "价格不变，价值发生反方向变化"
+        },
+        {
+          "key": "D",
+          "text": "价值与价格将随之发生同方向的变化"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "价值与价格将随之发生同方向的变化"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0059",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 59,
+      "question": "正确认识价值创造和财富生产的关系，关键是运用( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "剩余价值学说"
+        },
+        {
+          "key": "B",
+          "text": "平均利润学说"
+        },
+        {
+          "key": "C",
+          "text": "资本有机构成学说"
+        },
+        {
+          "key": "D",
+          "text": "劳动二重性学说"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "劳动二重性学说"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0060",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 60,
+      "question": "商品经济产生和存在的一般基础和条件是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "劳动力成为商品"
+        },
+        {
+          "key": "B",
+          "text": "自然分工"
+        },
+        {
+          "key": "C",
+          "text": "货币转化为资本"
+        },
+        {
+          "key": "D",
+          "text": "社会分工"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "社会分工"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0061",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 61,
+      "question": "货币资本的职能是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "为剩余价值生产准备条件"
+        },
+        {
+          "key": "B",
+          "text": "为剩余价值实现准备条件"
+        },
+        {
+          "key": "C",
+          "text": "实现剩余价值"
+        },
+        {
+          "key": "D",
+          "text": "生产剩余价值"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "为剩余价值生产准备条件"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0062",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 62,
+      "question": "下列实物形态的资本中，同时属于生产资本、不变资本和固定资本的是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "原料和燃料"
+        },
+        {
+          "key": "B",
+          "text": "商业设施"
+        },
+        {
+          "key": "C",
+          "text": "辅助材料"
+        },
+        {
+          "key": "D",
+          "text": "机器设备"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "机器设备"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0063",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 63,
+      "question": "美国采取权力制衡的组织形式，其中立法权属于( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "总统"
+        },
+        {
+          "key": "B",
+          "text": "最高检察院"
+        },
+        {
+          "key": "C",
+          "text": "最高法院"
+        },
+        {
+          "key": "D",
+          "text": "国会"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "国会"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0064",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 64,
+      "question": "资本主义意识形态的核心是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "自由、平等与博爱"
+        },
+        {
+          "key": "B",
+          "text": "拜金主义"
+        },
+        {
+          "key": "C",
+          "text": "享乐主义"
+        },
+        {
+          "key": "D",
+          "text": "个人主义"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "个人主义"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0065",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 65,
+      "question": "根据生产资本不同部分的价值周转方式不同，可将其划分为( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "借贷资本、银行资本"
+        },
+        {
+          "key": "B",
+          "text": "货币资本、商品资本"
+        },
+        {
+          "key": "C",
+          "text": "固定资本、流动资本"
+        },
+        {
+          "key": "D",
+          "text": "不变资本、可变资本"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "不变资本、可变资本"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0066",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 66,
+      "question": "对\"劳动是财富之父，土地是财富之母\"这句话的正确解释是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "劳动必须和自然物相结合才能创造出物质财富"
+        },
+        {
+          "key": "B",
+          "text": "劳动是创造价值的外部条件，土地是价值的真正源泉"
+        },
+        {
+          "key": "C",
+          "text": "劳动和土地都是价值的源泉"
+        },
+        {
+          "key": "D",
+          "text": "劳动创造使用价值，土地形成价值"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "劳动必须和自然物相结合才能创造出物质财富"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0067",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 67,
+      "question": "资本的本质是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "带来剩余价值的价值"
+        },
+        {
+          "key": "B",
+          "text": "购买商品的货币"
+        },
+        {
+          "key": "C",
+          "text": "购买生产资料的货币"
+        },
+        {
+          "key": "D",
+          "text": "购买劳动力的货币"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "带来剩余价值的价值"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0068",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 68,
+      "question": "劳动力商品的最重要的特征是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "劳动力的使用价值是商品价值的源泉"
+        },
+        {
+          "key": "B",
+          "text": "劳动力存在于健康的人体内"
+        },
+        {
+          "key": "C",
+          "text": "劳动力价值的决定受历史因素的影响"
+        },
+        {
+          "key": "D",
+          "text": "劳动力在一定条件下可以成为商品"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "劳动力的使用价值是商品价值的源泉"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0069",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 69,
+      "question": "马克思说:\"我们不可能从对小麦的品尝当中，来判定它是由封建社会的农奴生产的，还是由资本主义制度下雇佣劳动者生产的。\"这句话表明( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "使用价值以价值的存在为前提，反映人和自然的关系"
+        },
+        {
+          "key": "B",
+          "text": "使用价值是商品的自然属性，它本身不反映人们的社会生产关系"
+        },
+        {
+          "key": "C",
+          "text": "使用价值是商品和其他产品的共有属性，它体现人类社会共同的经济关系"
+        },
+        {
+          "key": "D",
+          "text": "使用价值是价值的物质承担者，与价值共同反映人们的社会生产关系"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "使用价值是商品的自然属性，它本身不反映人们的社会生产关系"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0070",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 70,
+      "question": "产业资本循环具有决定意义的阶段是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "购买阶段"
+        },
+        {
+          "key": "B",
+          "text": "生产阶段"
+        },
+        {
+          "key": "C",
+          "text": "销售阶段"
+        },
+        {
+          "key": "D",
+          "text": "流通阶段"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "生产阶段"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0071",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 71,
+      "question": "在商品经济中，形成价值的抽象劳动的支出必须借助于( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "商品的生产形式"
+        },
+        {
+          "key": "B",
+          "text": "具体劳动"
+        },
+        {
+          "key": "C",
+          "text": "剩余劳动"
+        },
+        {
+          "key": "D",
+          "text": "资本主义生产方式"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "具体劳动"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0072",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 72,
+      "question": "产业资本循环依次经过的三个阶段是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "流通、生产、储备"
+        },
+        {
+          "key": "B",
+          "text": "流动、生产、流通"
+        },
+        {
+          "key": "C",
+          "text": "购买、生产、售卖"
+        },
+        {
+          "key": "D",
+          "text": "流动、生产、销售"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "购买、生产、售卖"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0073",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 73,
+      "question": "加快资本周转之所以能增加年剩余价值量和提高年剩余价值率，最根本的原因是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "剩余价值率提高"
+        },
+        {
+          "key": "B",
+          "text": "流通对生产的反作用"
+        },
+        {
+          "key": "C",
+          "text": "实际发挥作用的可变资本增加"
+        },
+        {
+          "key": "D",
+          "text": "预付的资本量增加"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "实际发挥作用的可变资本增加"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0074",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 74,
+      "question": "商品生产者要获得更多收益必须使生产商品的( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "个别劳动时间等于倍加的社会必要劳动时间"
+        },
+        {
+          "key": "B",
+          "text": "个别劳动时间大于社会必要劳动时间"
+        },
+        {
+          "key": "C",
+          "text": "个别劳动时间等于社会必要劳动时间"
+        },
+        {
+          "key": "D",
+          "text": "个别劳动时间小于社会必要劳动时间"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "个别劳动时间小于社会必要劳动时间"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0075",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 75,
+      "question": "如果部门劳动生产率下降，同一劳动在单位时间内创造的( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "价值量减少，单位产品的价值量减少"
+        },
+        {
+          "key": "B",
+          "text": "使用价值量减少，单位产品的价值量减少"
+        },
+        {
+          "key": "C",
+          "text": "价值量增加，单位产品的价值量增加"
+        },
+        {
+          "key": "D",
+          "text": "使用价值量减少，单位产品的价值量增加"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "使用价值量减少，单位产品的价值量增加"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0076",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 76,
+      "question": "马克思把商品转换成货币称为\"商品的惊险的跳跃\"，\"这个跳跃如果不成熟，坏的不是商品，但一定是商品占有者\"。这是因为只有商品变为货币，( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "抽象劳动才能转化为具体劳动"
+        },
+        {
+          "key": "B",
+          "text": "价值才能转化为使用价值"
+        },
+        {
+          "key": "C",
+          "text": "货币才能转化为资本"
+        },
+        {
+          "key": "D",
+          "text": "私人劳动才能转化为社会劳动"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "私人劳动才能转化为社会劳动"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0077",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 77,
+      "question": "具体劳动和抽象劳动是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "生产商品同一劳动的两个方面"
+        },
+        {
+          "key": "B",
+          "text": "体力劳动同脑力劳动的不同表现"
+        },
+        {
+          "key": "C",
+          "text": "先后两次劳动过程"
+        },
+        {
+          "key": "D",
+          "text": "两个并列的劳动过程"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "生产商品同一劳动的两个方面"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0078",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 78,
+      "question": "生产商品的劳动分具体劳动和抽象劳动，其中具体劳动的作用是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "创造使用价值"
+        },
+        {
+          "key": "B",
+          "text": "创造必要价值"
+        },
+        {
+          "key": "C",
+          "text": "创造新价值"
+        },
+        {
+          "key": "D",
+          "text": "创造剩余价值"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "创造使用价值"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0079",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 79,
+      "question": "个别企业生产商品的劳动时间缩短意味着( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "该企业劳动生产率提高"
+        },
+        {
+          "key": "B",
+          "text": "商品价值量的增加"
+        },
+        {
+          "key": "C",
+          "text": "商品价值量的减少"
+        },
+        {
+          "key": "D",
+          "text": "社会必要劳动时间减少"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "该企业劳动生产率提高"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0080",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 80,
+      "question": "资本循环的三种职能形式是( )。（1.1）",
+      "options": [
+        {
+          "key": "A",
+          "text": "货币资本、生产资本、商品资本"
+        },
+        {
+          "key": "B",
+          "text": "固定资本、流动资本、生产资本"
+        },
+        {
+          "key": "C",
+          "text": "不变资本、可变资本、流通资本"
+        },
+        {
+          "key": "D",
+          "text": "产业资本、商业资本、借贷资本"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "货币资本、生产资本、商品资本"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0081",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 81,
+      "question": "以私有制为基础的商品经济的基本矛盾是( )。（1.2）",
+      "options": [
+        {
+          "key": "A",
+          "text": "价值和交换价值的矛盾"
+        },
+        {
+          "key": "B",
+          "text": "私人劳动和社会劳动的矛盾"
+        },
+        {
+          "key": "C",
+          "text": "具体劳动和抽象劳动的矛盾"
+        },
+        {
+          "key": "D",
+          "text": "使用价值和价值的矛盾"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "私人劳动和社会劳动的矛盾"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0082",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 82,
+      "question": "产业资本划分为货币资本、生产资本、商品资本的依据是资本各个部分( )。（1.2）",
+      "options": [
+        {
+          "key": "A",
+          "text": "价值周转方式不同"
+        },
+        {
+          "key": "B",
+          "text": "在循环中的职能不同"
+        },
+        {
+          "key": "C",
+          "text": "存在的物质形态不同"
+        },
+        {
+          "key": "D",
+          "text": "在价值增殖过程中的作用不同"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "在循环中的职能不同"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0083",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 83,
+      "question": "商品经济是通过商品货币关系实行等价交换的经济形式，它的基本规律是( )。（1.2）",
+      "options": [
+        {
+          "key": "A",
+          "text": "剩余价值规律"
+        },
+        {
+          "key": "B",
+          "text": "价值规律"
+        },
+        {
+          "key": "C",
+          "text": "货币流通规律"
+        },
+        {
+          "key": "D",
+          "text": "竞争规律"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "价值规律"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0084",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 84,
+      "question": "社会生产是连续不断进行的，这种连续不断重复的生产就是再生产。每次经济危机发生期间，总有许多企业或因为产品积压，或因订单缺乏等无法继续进行再生产而被迫倒闭。那些因产品积压而倒闭的企业主要是由于无法实现其生产过程中的( )。（1.2）",
+      "options": [
+        {
+          "key": "A",
+          "text": "实物补偿"
+        },
+        {
+          "key": "B",
+          "text": "劳动补偿"
+        },
+        {
+          "key": "C",
+          "text": "价值补偿"
+        },
+        {
+          "key": "D",
+          "text": "增殖补偿"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "价值补偿"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0085",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 85,
+      "question": "资本的最初表现形式是( )。（1.2）",
+      "options": [
+        {
+          "key": "A",
+          "text": "劳动力"
+        },
+        {
+          "key": "B",
+          "text": "厂房、设备"
+        },
+        {
+          "key": "C",
+          "text": "货币"
+        },
+        {
+          "key": "D",
+          "text": "工具"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "货币"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0086",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 86,
+      "question": "资本有机构成提高，是指C∶V中( )。（1.2）",
+      "options": [
+        {
+          "key": "A",
+          "text": "V的比重扩大"
+        },
+        {
+          "key": "B",
+          "text": "C与V同比例上升"
+        },
+        {
+          "key": "C",
+          "text": "C的比重扩大"
+        },
+        {
+          "key": "D",
+          "text": "C与V同比例下降"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "C的比重扩大"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0087",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 87,
+      "question": "资本主义社会的商品价值中，既是新创造价值的一部分，又是生产成本的一部分的，用公式表示是( )。（1.2）",
+      "options": [
+        {
+          "key": "A",
+          "text": "v+m"
+        },
+        {
+          "key": "B",
+          "text": "m"
+        },
+        {
+          "key": "C",
+          "text": "c+v"
+        },
+        {
+          "key": "D",
+          "text": "v"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "v"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0088",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 88,
+      "question": "在资本主义生产过程中，生产资料的价值( )。（1.2）",
+      "options": [
+        {
+          "key": "A",
+          "text": "能发生价值增殖"
+        },
+        {
+          "key": "B",
+          "text": "借助于抽象劳动而再生产出来"
+        },
+        {
+          "key": "C",
+          "text": "是逐渐消失的"
+        },
+        {
+          "key": "D",
+          "text": "借助于具体劳动转移到新产品中去"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "借助于具体劳动转移到新产品中去"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0089",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 89,
+      "question": "商品的本质因素是( )。（1.2）",
+      "options": [
+        {
+          "key": "A",
+          "text": "价格"
+        },
+        {
+          "key": "B",
+          "text": "交换价值"
+        },
+        {
+          "key": "C",
+          "text": "使用价值"
+        },
+        {
+          "key": "D",
+          "text": "价值"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "价值"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter4-0090",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 90,
+      "question": "\"一手交钱一手交货\"中的\"钱\"所充当的货币职能是( )。（1.2）",
+      "options": [
+        {
+          "key": "A",
+          "text": "贮藏手段"
+        },
+        {
+          "key": "B",
+          "text": "支付手段"
+        },
+        {
+          "key": "C",
+          "text": "价值尺度"
+        },
+        {
+          "key": "D",
+          "text": "流通手段"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "流通手段"
+      ],
+      "topic": "第四章",
+      "category": "第四章",
+      "score": 1,
+      "analysis": ""
+    }
+  ]
+}

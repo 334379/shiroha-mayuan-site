@@ -1,0 +1,3610 @@
+{
+  "meta": {
+    "title": "马克思主义基本原理-第二章",
+    "questionCount": 100,
+    "volumes": 1,
+    "sourceNote": "由马原选择题题库 Word 文档转换导入。"
+  },
+  "questions": [
+    {
+      "id": "mayuan-chapter2-0001",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 1,
+      "question": "马克思主义认为，主客体之间的价值关系是指( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "客体对于主体的有用性和效益性"
+        },
+        {
+          "key": "B",
+          "text": "主体对客体的改造和变革的结果"
+        },
+        {
+          "key": "C",
+          "text": "主体对客体的物质欲望和要求"
+        },
+        {
+          "key": "D",
+          "text": "主体对客体的能动反映"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "客体对于主体的有用性和效益性"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0002",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 2,
+      "question": "下列关于真理尺度与价值尺度的说法错误的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "价值尺度可以脱离真理尺度"
+        },
+        {
+          "key": "B",
+          "text": "任何成功的实践都是真理尺度和价值尺度的统一"
+        },
+        {
+          "key": "C",
+          "text": "脱离了价值尺度，真理就缺失了主体意义"
+        },
+        {
+          "key": "D",
+          "text": "真理尺度与价值尺度是否达到了具体的、历史的统一，必须通过实践来验证"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "价值尺度可以脱离真理尺度"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0003",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 3,
+      "question": "真理是时间的女儿，不是权威的女儿。这句名言是指( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "真理要靠历史和实践来检验"
+        },
+        {
+          "key": "B",
+          "text": "真理与权威是相互排斥的"
+        },
+        {
+          "key": "C",
+          "text": "只有服从真理，才能成为权威"
+        },
+        {
+          "key": "D",
+          "text": "真理与权威是相互依存的"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "真理要靠历史和实践来检验"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0004",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 4,
+      "question": "辩证唯物主义认识论的基本观点是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "可知论的观点"
+        },
+        {
+          "key": "B",
+          "text": "实践的观点"
+        },
+        {
+          "key": "C",
+          "text": "辩证法的观点"
+        },
+        {
+          "key": "D",
+          "text": "反映论的观点"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "实践的观点"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0005",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 5,
+      "question": "不登高山,不知天之高也;不临深溪,不知地之厚也。作者是在强调( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "没有知就没有行"
+        },
+        {
+          "key": "B",
+          "text": "先行后知,重在行"
+        },
+        {
+          "key": "C",
+          "text": "知对行的指导作用"
+        },
+        {
+          "key": "D",
+          "text": "知行并进"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "先行后知,重在行"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0006",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 6,
+      "question": "下列命题中，正确阐述了实践含义的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "实践是主观创造客观的活动"
+        },
+        {
+          "key": "B",
+          "text": "实践是个人的日常生活活动"
+        },
+        {
+          "key": "C",
+          "text": "实践是主体改造客体的活动"
+        },
+        {
+          "key": "D",
+          "text": "实践是主体应付外部环境的活动"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "实践是主体改造客体的活动"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0007",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 7,
+      "question": "下列选项中，属于感性认识的特点的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "形象性"
+        },
+        {
+          "key": "B",
+          "text": "间接性"
+        },
+        {
+          "key": "C",
+          "text": "主观性"
+        },
+        {
+          "key": "D",
+          "text": "全面性"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "形象性"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0008",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 8,
+      "question": "通过实践和调查，获得十分丰富的感性材料，然后运用科学的思维方法对这些感性材料进行加工制作，透过现象，抓住本质。从认识发展过程看，这是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "从感性认识到理性认识的飞跃"
+        },
+        {
+          "key": "B",
+          "text": "从认识到实践的飞跃"
+        },
+        {
+          "key": "C",
+          "text": "从意识到物质的飞跃"
+        },
+        {
+          "key": "D",
+          "text": "从感觉到知觉的飞跃"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "从感性认识到理性认识的飞跃"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0009",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 9,
+      "question": "王夫之认为:\"知也者,固以行为功者也;行也者，不以知为功者也。行焉,可以得知之效;知焉，未可得行之效也。\"他的这种观点是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "主张行先知后"
+        },
+        {
+          "key": "B",
+          "text": "以行为基础的知行合一"
+        },
+        {
+          "key": "C",
+          "text": "主张知之明也，因知进行"
+        },
+        {
+          "key": "D",
+          "text": "主张知易行难"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "以行为基础的知行合一"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0010",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 10,
+      "question": "由于塑料袋产生的垃圾对地球污染日益严重，各国都在积极采取对策。一方面呼吁人们\"远离塑料袋\"\"拒用塑料袋\";另一方面是依靠科技进步，努力探索用回收利用和降解相结合的办法去解决。这反映了( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "认识的最终目的是把理性认识应用于实践"
+        },
+        {
+          "key": "B",
+          "text": "实践不断为人们提供新的课题，促使人们去解决"
+        },
+        {
+          "key": "C",
+          "text": "认识需要实践的检验"
+        },
+        {
+          "key": "D",
+          "text": "认识是在变革社会的实践中发生的"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "实践不断为人们提供新的课题，促使人们去解决"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0011",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 11,
+      "question": "人们为获得经济利益，不断毁林造田、开荒种地，结果造成水土流失严重，洪水泛滥。从认识论说，这表明( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "既违背真理原则又违背价值原则"
+        },
+        {
+          "key": "B",
+          "text": "价值原则违背了真理原则"
+        },
+        {
+          "key": "C",
+          "text": "真理原则违背了价值原则"
+        },
+        {
+          "key": "D",
+          "text": "真理原则和价值原则不能并存"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "价值原则违背了真理原则"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0012",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 12,
+      "question": "实践作为检验认识真理性的标准具有不确定性，这种不确定性是指( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "实践不是检验真理的唯一标准"
+        },
+        {
+          "key": "B",
+          "text": "实践标准具有历史局限性，它对真理的检验是一个过程"
+        },
+        {
+          "key": "C",
+          "text": "实践标准是不可靠的"
+        },
+        {
+          "key": "D",
+          "text": "逻辑证明也是检验真理的途径"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "实践标准具有历史局限性，它对真理的检验是一个过程"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0013",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 13,
+      "question": "下列选项中，属于理性认识的特点的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "主观性"
+        },
+        {
+          "key": "B",
+          "text": "摹写性"
+        },
+        {
+          "key": "C",
+          "text": "抽象性"
+        },
+        {
+          "key": "D",
+          "text": "直接性"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "抽象性"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0014",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 14,
+      "question": "对客观事物的反映即是真理，这是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "辩证唯物主义的真理观"
+        },
+        {
+          "key": "B",
+          "text": "一切唯物主义的真理观"
+        },
+        {
+          "key": "C",
+          "text": "混淆了真理性认识与一般认识的错误观点"
+        },
+        {
+          "key": "D",
+          "text": "混淆了真理的客观性与规律客观性"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "混淆了真理性认识与一般认识的错误观点"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0015",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 15,
+      "question": "以下关于自由的说法错误的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "只有在认识必然性的基础上才有自由的活动"
+        },
+        {
+          "key": "B",
+          "text": "马克思主义认为，自由是表示人的活动状态的范畴"
+        },
+        {
+          "key": "C",
+          "text": "人可以摆脱必然性的制约"
+        },
+        {
+          "key": "D",
+          "text": "认识必然只是取得了获得自由的前提，并不等于在实际上达到了自由"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "人可以摆脱必然性的制约"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0016",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 16,
+      "question": "关于价值评价的最高标准，以下说法错误的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "是否维护、满足了最广大人民的需要和根本利益"
+        },
+        {
+          "key": "B",
+          "text": "是否推动社会历史进步"
+        },
+        {
+          "key": "C",
+          "text": "是否符合社会发展趋势"
+        },
+        {
+          "key": "D",
+          "text": "是否满足了每个人的利益"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "是否满足了每个人的利益"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0017",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 17,
+      "question": "\"生活、实践的观点，应该是认识论的首要的和基本的观点\"是( )提出的?（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "费尔巴哈"
+        },
+        {
+          "key": "B",
+          "text": "马克思"
+        },
+        {
+          "key": "C",
+          "text": "恩格斯"
+        },
+        {
+          "key": "D",
+          "text": "列宁"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "列宁"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0018",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 18,
+      "question": "真理和谬误的界限在于( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "是否符合马克思主义"
+        },
+        {
+          "key": "B",
+          "text": "是否为大多数人所接受"
+        },
+        {
+          "key": "C",
+          "text": "是否符合人的利益和愿望"
+        },
+        {
+          "key": "D",
+          "text": "是否反映了客观事物的本质和规律"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "是否反映了客观事物的本质和规律"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0019",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 19,
+      "question": "认为\"凡是在理性中所有的，最初无不在感觉之中\"的观点( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "否认了理性认识是对感性认识的发展、飞跃"
+        },
+        {
+          "key": "B",
+          "text": "否认了感性认识在认识过程中的重要作用"
+        },
+        {
+          "key": "C",
+          "text": "揭示了感性认识和理性认识的辩证关系"
+        },
+        {
+          "key": "D",
+          "text": "揭示了感性认识是认识的基础阶段"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "否认了理性认识是对感性认识的发展、飞跃"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0020",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 20,
+      "question": "在中国，为了治疗疾病，古代就产生了中医学。这说明( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "认识产生于实践的需要"
+        },
+        {
+          "key": "B",
+          "text": "认识是实践的目的"
+        },
+        {
+          "key": "C",
+          "text": "实践是认识的本质"
+        },
+        {
+          "key": "D",
+          "text": "实践是检验认识的标准"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "认识产生于实践的需要"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0021",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 21,
+      "question": "当代自然科学的发展日新月异，新的研究成果层出不穷。从根本上说，这是由( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "环境和资源的状况决定的"
+        },
+        {
+          "key": "B",
+          "text": "正确的科技政策决定的"
+        },
+        {
+          "key": "C",
+          "text": "科学家的聪明才智决定的"
+        },
+        {
+          "key": "D",
+          "text": "生产实践的需要决定的"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "生产实践的需要决定的"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0022",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 22,
+      "question": "认识发展过程的第一次飞跃是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "从认识到实践的过程"
+        },
+        {
+          "key": "B",
+          "text": "从意识到物质的过程"
+        },
+        {
+          "key": "C",
+          "text": "从感性认识到理性认识的过程"
+        },
+        {
+          "key": "D",
+          "text": "从感觉和知觉到表象的过程"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "从感性认识到理性认识的过程"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0023",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 23,
+      "question": "感觉、知觉、表象是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "社会心理的三种形式"
+        },
+        {
+          "key": "B",
+          "text": "理性认识的三种形式"
+        },
+        {
+          "key": "C",
+          "text": "感性认识的三种形式"
+        },
+        {
+          "key": "D",
+          "text": "社会意识形态的三种形式"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "感性认识的三种形式"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0024",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 24,
+      "question": "主观和客观、认识和实践的统一是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "抽象的不变的统一"
+        },
+        {
+          "key": "B",
+          "text": "必然和偶然的统一"
+        },
+        {
+          "key": "C",
+          "text": "具体的历史的统一"
+        },
+        {
+          "key": "D",
+          "text": "本质和现象的统一"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "具体的历史的统一"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0025",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 25,
+      "question": "价值评价是一种关于价值现象的认识活动，它有多种特点。在当代社会，对各种观点和事物如何做出科学的评价，不同的价值主体会得出不同的结论。从价值评价的观点分析，这说明( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "价值评价并不是一种主观随意性的认识活动，而是具有客观性的认识活动"
+        },
+        {
+          "key": "B",
+          "text": "价值评价是以主客体的价值关系为认识对象的"
+        },
+        {
+          "key": "C",
+          "text": "价值评价的结果正确与否依赖于相关知识性的认识"
+        },
+        {
+          "key": "D",
+          "text": "价值评价结果与评价主体有直接联系，是依主体的特点而转移的"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "价值评价结果与评价主体有直接联系，是依主体的特点而转移的"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0026",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 26,
+      "question": "对马克思主义既要坚持，又要发展。这种正确态度的理论基础是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "能动的反映是摹写和创造统一的原理性"
+        },
+        {
+          "key": "B",
+          "text": "实践是认识的来源和目的的原理"
+        },
+        {
+          "key": "C",
+          "text": "认识的本质与过程"
+        },
+        {
+          "key": "D",
+          "text": "真理是绝对性和相对性统一的原理"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "真理是绝对性和相对性统一的原理"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0027",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 27,
+      "question": "古人云:\"思所以危则安矣，思所以乱则治矣，思所以亡则存矣。\"这表明( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "内因是事物变化的根本原因"
+        },
+        {
+          "key": "B",
+          "text": "人的认识需要不断深化,扩展和推移"
+        },
+        {
+          "key": "C",
+          "text": "个人的认识能力是无限的"
+        },
+        {
+          "key": "D",
+          "text": "正确的意识对客观事物的发展具有促进作用"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "正确的意识对客观事物的发展具有促进作用"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0028",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 28,
+      "question": "承认我们知识的相对性就( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "可以防止认识的僵化"
+        },
+        {
+          "key": "B",
+          "text": "必然归结为怀疑主义"
+        },
+        {
+          "key": "C",
+          "text": "必然归结为诡辩论"
+        },
+        {
+          "key": "D",
+          "text": "必然归结为不可知论"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "可以防止认识的僵化"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0029",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 29,
+      "question": "认识的本质是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "主体在实践基础上对客体的能动反映"
+        },
+        {
+          "key": "B",
+          "text": "主体头脑中固有的"
+        },
+        {
+          "key": "C",
+          "text": "主体对客体的直观反映"
+        },
+        {
+          "key": "D",
+          "text": "绝对观念在头脑中的显现"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "主体在实践基础上对客体的能动反映"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0030",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 30,
+      "question": "驳斥不可知论最有力的论据是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "指出社会实践可以证明人能够正确认识客观世界"
+        },
+        {
+          "key": "B",
+          "text": "指出感性认识可以上升到理论认识"
+        },
+        {
+          "key": "C",
+          "text": "指出物质是可以通过感觉感知的"
+        },
+        {
+          "key": "D",
+          "text": "指出人的认识可以透过现象揭示本质"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "指出社会实践可以证明人能够正确认识客观世界"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0031",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 31,
+      "question": "一个完整的认识过程是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "概念-判断-推理"
+        },
+        {
+          "key": "B",
+          "text": "实践-认识-实践"
+        },
+        {
+          "key": "C",
+          "text": "感觉-知觉-表象"
+        },
+        {
+          "key": "D",
+          "text": "感性认识-理性认识-感性认识"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "实践-认识-实践"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0032",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 32,
+      "question": "我国古代发达的农学思想对我国古代农业生产的发展产生重要影响，如《吕氏春秋》载:\"夫稼，为之者人也，生之者地也，养之者天也。\"这段材料主要体现的哲学道理是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "要按客观规律办事"
+        },
+        {
+          "key": "B",
+          "text": "意识对物质具有反作用"
+        },
+        {
+          "key": "C",
+          "text": "事物的联系有利于事物的发展"
+        },
+        {
+          "key": "D",
+          "text": "实践是认识的基础"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "意识对物质具有反作用"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0033",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 33,
+      "question": "社会一旦有技术上的需要，则这种需要会比十所大学更能把科学推向前进。这说明( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "技术推动了科学的发展"
+        },
+        {
+          "key": "B",
+          "text": "实践是认识发展的动力"
+        },
+        {
+          "key": "C",
+          "text": "科学进步是实践的目的"
+        },
+        {
+          "key": "D",
+          "text": "实践是认识的来源"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "实践是认识发展的动力"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0034",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 34,
+      "question": "科学家尼葛庞蒂说:\"预测未来的最好办法就是把它创造出来。\"从认识和实践的关系看，这句话对我们的启示是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "实践高于认识，因为它不仅具有普遍性的品格，而且具有直接现实性的品格"
+        },
+        {
+          "key": "B",
+          "text": "认识总是滞后于实践"
+        },
+        {
+          "key": "C",
+          "text": "实践和认识互为先导"
+        },
+        {
+          "key": "D",
+          "text": "实践与认识是合一的"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "实践高于认识，因为它不仅具有普遍性的品格，而且具有直接现实性的品格"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0035",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 35,
+      "question": "下列关于解放思想与实事求是的说法错误的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "实事求是是解放思想的内在要求"
+        },
+        {
+          "key": "B",
+          "text": "坚持实事求是，不仅要坚持一切从实际出发，还必须坚持解放思想"
+        },
+        {
+          "key": "C",
+          "text": "解放思想与实事求是是辩证统一的"
+        },
+        {
+          "key": "D",
+          "text": "解放思想，就是使思想和实际相符合，使主观和客观相符合，就是实事求是"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "实事求是是解放思想的内在要求"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0036",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 36,
+      "question": "下列关于知识性认识与评价性认识的说法错误的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "评价性认识以客观事物及其规律为对象"
+        },
+        {
+          "key": "B",
+          "text": "评价性认识追求\"应该怎样\""
+        },
+        {
+          "key": "C",
+          "text": "知识性认识以求\"真\"为认识目的"
+        },
+        {
+          "key": "D",
+          "text": "评价性认识以求\"善\"和\"美\"为认识目的"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "评价性认识以客观事物及其规律为对象"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0037",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 37,
+      "question": "下列活动中，属于最基本的实践活动的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "医生给病人做手术"
+        },
+        {
+          "key": "B",
+          "text": "农民收割庄稼"
+        },
+        {
+          "key": "C",
+          "text": "交通警察维持交通秩序"
+        },
+        {
+          "key": "D",
+          "text": "运动员参加体育比赛"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "农民收割庄稼"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0038",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 38,
+      "question": "人的价值形成的客观基础是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "机遇"
+        },
+        {
+          "key": "B",
+          "text": "实践活动"
+        },
+        {
+          "key": "C",
+          "text": "自我设计、自我选择"
+        },
+        {
+          "key": "D",
+          "text": "自我奋斗"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "实践活动"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0039",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 39,
+      "question": "人的智力是按人如何学会改造自然界而发展的，这句话说明( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "人具有改造自然的能力"
+        },
+        {
+          "key": "B",
+          "text": "实践是认识的动力"
+        },
+        {
+          "key": "C",
+          "text": "人的认识具有主观能动性"
+        },
+        {
+          "key": "D",
+          "text": "实践是认识的来源"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "实践是认识的动力"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0040",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 40,
+      "question": "党的\"从群众中来，到群众中去\"的群众路线的工作方法的哲学理论基础是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "认识辩证运动过程的原理"
+        },
+        {
+          "key": "B",
+          "text": "物质决定意识的原理"
+        },
+        {
+          "key": "C",
+          "text": "矛盾推动事物发展的原理"
+        },
+        {
+          "key": "D",
+          "text": "认识能动作用的原理"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "认识辩证运动过程的原理"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0041",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 41,
+      "question": "下列关于科学实践观的说法错误的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "科学实践观只强调实践在改造世界中的能动作用"
+        },
+        {
+          "key": "B",
+          "text": "克服了旧唯物主义的根本缺陷，为辩证唯物主义奠定了科学的理论基础"
+        },
+        {
+          "key": "C",
+          "text": "建立了科学的、能动的、革命的反映论，实现了人类认识史上的变革"
+        },
+        {
+          "key": "D",
+          "text": "在人类思想史上第一次揭示了社会生活的实践本质，为创建科学的历史观奠定了理论基础"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "科学实践观只强调实践在改造世界中的能动作用"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0042",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 42,
+      "question": "关于\"学习\"有两种观点:其一，\"人之岁月精神有限,诵说中度一日，习行中错一日;纸墨上多一分，身世上少一分\"。其二，\"教人必欲使其读尽天下书，将道全看在书上，将学全看在读上\"。这两种观点没有处理好( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "实践与认识的关系"
+        },
+        {
+          "key": "B",
+          "text": "真理与价值的关系"
+        },
+        {
+          "key": "C",
+          "text": "量变与质变的关系"
+        },
+        {
+          "key": "D",
+          "text": "物质与意识的关系"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "实践与认识的关系"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0043",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 43,
+      "question": "对于哲学史上长期争论不休的唯理论和经验论两大派别的正确评价是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "唯理论是正确的，经验论是错误的"
+        },
+        {
+          "key": "B",
+          "text": "唯理论和经验论各有片面的真理性"
+        },
+        {
+          "key": "C",
+          "text": "唯理论和经验论都是完全错误的"
+        },
+        {
+          "key": "D",
+          "text": "经验论是正确的，唯理论是错误的"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "唯理论和经验论各有片面的真理性"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0044",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 44,
+      "question": "一个正确的认识需要经过多次反复才能完成，整个人类的认识是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "理论与实践的统一"
+        },
+        {
+          "key": "B",
+          "text": "有限与无限的统一"
+        },
+        {
+          "key": "C",
+          "text": "正确与错误的统一"
+        },
+        {
+          "key": "D",
+          "text": "感性与理性的统一"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "有限与无限的统一"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0045",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 45,
+      "question": "根据认识的发展规律，在认识的\"熟知\"与\"真知\"问题上的正确观点是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "熟知起源于真知"
+        },
+        {
+          "key": "B",
+          "text": "熟知不等于真知"
+        },
+        {
+          "key": "C",
+          "text": "熟知必然转化为真知"
+        },
+        {
+          "key": "D",
+          "text": "熟知即真知"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "熟知不等于真知"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0046",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 46,
+      "question": "没有抽象的真理，真理总是具体的。这一命题的根据在于( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "真理是感性的存在，不是理性的抽象"
+        },
+        {
+          "key": "B",
+          "text": "真理的内容和形式都是客观的、实在的"
+        },
+        {
+          "key": "C",
+          "text": "真理是事物多方面规定的综合、多样性的统一"
+        },
+        {
+          "key": "D",
+          "text": "真理是与人的具体利益相联系的"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "真理是事物多方面规定的综合、多样性的统一"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0047",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 47,
+      "question": "真理的一元性是由( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "真理的多样性决定的"
+        },
+        {
+          "key": "B",
+          "text": "真理的相对性决定的"
+        },
+        {
+          "key": "C",
+          "text": "真理的客观性决定的"
+        },
+        {
+          "key": "D",
+          "text": "真理的主观性决定的"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "真理的客观性决定的"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0048",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 48,
+      "question": "改造主观世界的核心是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "丰富人的情感世界"
+        },
+        {
+          "key": "B",
+          "text": "提高人的认识能力"
+        },
+        {
+          "key": "C",
+          "text": "改造世界观"
+        },
+        {
+          "key": "D",
+          "text": "提升人的意志品质"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "改造世界观"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0049",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 49,
+      "question": "列宁说:\"没有革命的理论，就不会有革命的行动。\"这一命题的含义是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "革命运动是革命理论的派生物"
+        },
+        {
+          "key": "B",
+          "text": "革命理论最终决定革命运动的成败"
+        },
+        {
+          "key": "C",
+          "text": "革命理论对革命实践具有指导作用"
+        },
+        {
+          "key": "D",
+          "text": "革命理论比革命行动更重要"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "革命理论对革命实践具有指导作用"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0050",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 50,
+      "question": "实践是认识的来源。以下观点正确的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "书本知识是次要的"
+        },
+        {
+          "key": "B",
+          "text": "只要参加实践活动就能获得正确认识"
+        },
+        {
+          "key": "C",
+          "text": "一切认识都要直接参加实践活动才能获得"
+        },
+        {
+          "key": "D",
+          "text": "直接经验是源，间接经验是流"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "直接经验是源，间接经验是流"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0051",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 51,
+      "question": "感性认识和理性认识的根本区别在于( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "感性认识产生于日常生活，理性认识则产生于科学实验"
+        },
+        {
+          "key": "B",
+          "text": "感性认识来源于社会实践，理性认识则来源于抽象思维"
+        },
+        {
+          "key": "C",
+          "text": "感性认识包含错误，理性认识则完全正确"
+        },
+        {
+          "key": "D",
+          "text": "感性认识反映事物的现象，理性认识则反映事物的本质"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "感性认识反映事物的现象，理性认识则反映事物的本质"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0052",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 52,
+      "question": "随着信息技术的发展，包括核试验在内的许多科学研究都可以用计算机进行模拟实验，这样既可以达到实验效果，又可以节省实验费用，降低实验风险。从认识论角度看，上述事实说明( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "科学理论对实践具有指导作用"
+        },
+        {
+          "key": "B",
+          "text": "有些认识不需要通过实践即可获得"
+        },
+        {
+          "key": "C",
+          "text": "人们可以认识和利用规律"
+        },
+        {
+          "key": "D",
+          "text": "实践的发展提供了新的认识工具和手段"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "实践的发展提供了新的认识工具和手段"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0053",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 53,
+      "question": "直接经验和间接经验的区别在于( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "前者是自己亲身实践得到的认识，后者是从他人那里(包括从书本中)得到的知识"
+        },
+        {
+          "key": "B",
+          "text": "前者是认识的低级阶段，后者是认识的高级阶段"
+        },
+        {
+          "key": "C",
+          "text": "前者是事物的现象，后者反映事物的本质"
+        },
+        {
+          "key": "D",
+          "text": "前者的源泉是实践，后者的源泉是书本知识"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "前者是自己亲身实践得到的认识，后者是从他人那里(包括从书本中)得到的知识"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0054",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 54,
+      "question": "要判断一种观点的是非对错，下列说法中正确的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "以是否在实践中得到证明定是非"
+        },
+        {
+          "key": "B",
+          "text": "以吾心之是非为是非"
+        },
+        {
+          "key": "C",
+          "text": "以伟人之是非为是非"
+        },
+        {
+          "key": "D",
+          "text": "以众人的意见定是非"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "以是否在实践中得到证明定是非"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0055",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 55,
+      "question": "理性认识的形式是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "感觉、知觉、表象"
+        },
+        {
+          "key": "B",
+          "text": "概念、判断、推理"
+        },
+        {
+          "key": "C",
+          "text": "感觉、分析、综合"
+        },
+        {
+          "key": "D",
+          "text": "识记、联想、判断"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "概念、判断、推理"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0056",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 56,
+      "question": "两条根本对立的认识路线是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "经验论和唯理论"
+        },
+        {
+          "key": "B",
+          "text": "能动革命的反映论和直观被动的反映论"
+        },
+        {
+          "key": "C",
+          "text": "唯物主义反映论和唯心主义先验论"
+        },
+        {
+          "key": "D",
+          "text": "可知论和不可知论"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "唯物主义反映论和唯心主义先验论"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0057",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 57,
+      "question": "\"马克思列宁主义并没有结束真理\"。这主要是指马克思列宁主义( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "不是对自然、社会和思维规律的真理性认识"
+        },
+        {
+          "key": "B",
+          "text": "仅仅反映了自然和社会的发展规律"
+        },
+        {
+          "key": "C",
+          "text": "是随着实践的发展而不断深化和扩展的真理"
+        },
+        {
+          "key": "D",
+          "text": "只是对自然、社会和思维发展规律的片面性认识"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "是随着实践的发展而不断深化和扩展的真理"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0058",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 58,
+      "question": "马克思指出:\"搬运夫和哲学家之间的原始差别要比家犬和猎犬之间的差别小得多，它们之间的鸿沟是分工掘成的。\"这表明( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "人的聪明才智无先天区别"
+        },
+        {
+          "key": "B",
+          "text": "人的聪明才智由人的社会政治地位决定"
+        },
+        {
+          "key": "C",
+          "text": "人的聪明才智主要来源于后天实践"
+        },
+        {
+          "key": "D",
+          "text": "人的聪明才智的大小主要取决于主观努力的程度"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "人的聪明才智主要来源于后天实践"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0059",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 59,
+      "question": "实践基础上的理论创新，是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "一个国家兴旺发达的最终源泉"
+        },
+        {
+          "key": "B",
+          "text": "决定着社会变革力度"
+        },
+        {
+          "key": "C",
+          "text": "决定了社会发展趋势"
+        },
+        {
+          "key": "D",
+          "text": "社会发展和变革的先导"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "社会发展和变革的先导"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0060",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 60,
+      "question": "实际工作中的教条主义违背了感性认识和理性认识辩证关系原理，犯了类似哲学上( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "诡辩论的错误"
+        },
+        {
+          "key": "B",
+          "text": "相对主义的错误"
+        },
+        {
+          "key": "C",
+          "text": "经验论的错误"
+        },
+        {
+          "key": "D",
+          "text": "唯理论的错误"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "唯理论的错误"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0061",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 61,
+      "question": "党的十九大报告指出，十八大以来，国内外形势变化和我国各项事业发展提出了一个重大时代课题，就是必须从理论和实践结合上系统回答新时代坚持和发展什么样的中国特色社会主义、怎样坚持和发展中国特色社会主义，包括新时代坚持和发展中国特色社会主义的总目标、总任务、总体布局、战略布局和发展方向、发展方式、发展动力、战略步骤、外部条件、政治保证等基本问题，并且要根据新的实践对经济、政治、法治、科技、文化、教育、民生、民族、宗教、社会、生态文明、国家安全、国防和军队、\"一国两制\"和祖国统一、统一战线、外交、党的建设等各方面作出理论分析和政策指导，以利于更好坚持和发展中国特色社会主义。表明了( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "原因和结果的辩证关系"
+        },
+        {
+          "key": "B",
+          "text": "物质和意识的辩证关系"
+        },
+        {
+          "key": "C",
+          "text": "现象和本质的辩证关系"
+        },
+        {
+          "key": "D",
+          "text": "真理和价值在实践中的辩证统一"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "真理和价值在实践中的辩证统一"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0062",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 62,
+      "question": "真理与谬误之间的相互关系是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "在一定条件下可以互相转化"
+        },
+        {
+          "key": "B",
+          "text": "在任何情况下都是绝对对立的"
+        },
+        {
+          "key": "C",
+          "text": "没有相互转化的可能性"
+        },
+        {
+          "key": "D",
+          "text": "两者之间没有原则区别"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "在一定条件下可以互相转化"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0063",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 63,
+      "question": "下列关于价值评价的特点说法错误的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "评价结果不与评价主体直接相关"
+        },
+        {
+          "key": "B",
+          "text": "评价以主客体的价值关系为认识对象"
+        },
+        {
+          "key": "C",
+          "text": "评价结果的正确与否依赖于对客体状况和主体需要的认识"
+        },
+        {
+          "key": "D",
+          "text": "价值评价有科学与非科学之别"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "评价结果不与评价主体直接相关"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0064",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 64,
+      "question": "没有抽象的真理，真理总是具体的。这一命题强调( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "在同一条件下对于特定的认识客体的真理性认识只有一个"
+        },
+        {
+          "key": "B",
+          "text": "真理是感性的直观，不是理性的抽象"
+        },
+        {
+          "key": "C",
+          "text": "真理是与人的具体利益相联系的"
+        },
+        {
+          "key": "D",
+          "text": "真理的内容是客观的，形式是主观的"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "在同一条件下对于特定的认识客体的真理性认识只有一个"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0065",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 65,
+      "question": "真理观上的相对主义，错误在于( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "只讲真理的客观性，否认真理的相对性"
+        },
+        {
+          "key": "B",
+          "text": "夸大真理的相对性，否认真理的绝对性"
+        },
+        {
+          "key": "C",
+          "text": "夸大真理的绝对性，否认真理的相对性"
+        },
+        {
+          "key": "D",
+          "text": "认为关于同一对象真理性的认识只有一个"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "夸大真理的相对性，否认真理的绝对性"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0066",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 66,
+      "question": "认识开始于感觉，这是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "辩证唯物主义的观点"
+        },
+        {
+          "key": "B",
+          "text": "唯物主义和唯心主义都接受的观点"
+        },
+        {
+          "key": "C",
+          "text": "唯心主义的观点"
+        },
+        {
+          "key": "D",
+          "text": "唯物主义才承认的观点"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "唯物主义和唯心主义都接受的观点"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0067",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 67,
+      "question": "太空科技助力\"健康中国\"。\"天舟一号\"上开展的太空干细胞实验，旨在更细致地解释人体干细胞定向分化为骨细胞的过程，该研究有助于老年人骨质疏松的治疗。医学科技的探索不局限于地球表面，也能在太空中开展，这表明( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "真理最基本的属性是主观性，但需要依赖于客观实践"
+        },
+        {
+          "key": "B",
+          "text": "实践是认识的基础，实践发展能为认识深化提供新条件"
+        },
+        {
+          "key": "C",
+          "text": "人类意识来源于客观对象，它不是无缘无故产生的"
+        },
+        {
+          "key": "D",
+          "text": "掌握和运用系统优化的方法，才能促成认识的发展"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "实践是认识的基础，实践发展能为认识深化提供新条件"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0068",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 68,
+      "question": "( )曾经把从事实出发看作唯物主义思想路线的根本点。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "恩格斯"
+        },
+        {
+          "key": "B",
+          "text": "马克思"
+        },
+        {
+          "key": "C",
+          "text": "列宁"
+        },
+        {
+          "key": "D",
+          "text": "黑格尔"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "恩格斯"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0069",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 69,
+      "question": "下列关于客观世界与主观世界的说法错误的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "主观世界与客观世界不能相互转化"
+        },
+        {
+          "key": "B",
+          "text": "客观世界与主观世界具有不同的存在方式"
+        },
+        {
+          "key": "C",
+          "text": "客观世界与主观世界的发展具有不完全同步性"
+        },
+        {
+          "key": "D",
+          "text": "主观世界的运动规律与客观世界的运动规律具有同一性"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "主观世界与客观世界不能相互转化"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0070",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 70,
+      "question": "要正确实现理性认识到实践的飞跃，必须使理论为群众所掌握，化为群众的自觉行动。这是因为( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "群众是人口中的大多数"
+        },
+        {
+          "key": "B",
+          "text": "群众是社会实践的主体"
+        },
+        {
+          "key": "C",
+          "text": "群众的行动都是合理的"
+        },
+        {
+          "key": "D",
+          "text": "群众的意见都是正确的"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "群众是社会实践的主体"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0071",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 71,
+      "question": "一个完整的认识过程需要经过两次飞跃。下列各项属于第二次飞跃的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "深入思考，形成理论"
+        },
+        {
+          "key": "B",
+          "text": "执行计划，付诸实践"
+        },
+        {
+          "key": "C",
+          "text": "调查研究，了解情况"
+        },
+        {
+          "key": "D",
+          "text": "精心安排，制定计划"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "执行计划，付诸实践"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0072",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 72,
+      "question": "纸上得来终觉浅，绝知此事要躬行。这一名句强调的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "实践是推动认识发展的动力"
+        },
+        {
+          "key": "B",
+          "text": "实践是认识的目的"
+        },
+        {
+          "key": "C",
+          "text": "实践是认识的来源"
+        },
+        {
+          "key": "D",
+          "text": "间接经验毫无用处"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "实践是认识的目的"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0073",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 73,
+      "question": "人对一定问题的判断越是自由，这个判断的内容所具有的必然性就越大，这句话指的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "包含必然性越大的判断，就越是自由的判断"
+        },
+        {
+          "key": "B",
+          "text": "自由是必然的根据"
+        },
+        {
+          "key": "C",
+          "text": "必然是自由的限度"
+        },
+        {
+          "key": "D",
+          "text": "没有超时间、超历史的绝对的自由"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "包含必然性越大的判断，就越是自由的判断"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0074",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 74,
+      "question": "科学家指出，\"当黑洞或坍缩星等大型天体在太空加速时，会产生引力波。但由于它非常微弱，我们一直无法探测到\"。科学家拟实施\"激光干涉仪太空天线\"实验，以探测这种引力波。科学家断言尚未探测到的引力波的存在，在辩证唯物主义看来其依据是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "理性认识比感性认识更深刻，具有预测功能"
+        },
+        {
+          "key": "B",
+          "text": "尚未探测到的事物迟早要为实践证实其存在"
+        },
+        {
+          "key": "C",
+          "text": "建立在正确理论基础上的理性推测是可靠的"
+        },
+        {
+          "key": "D",
+          "text": "只有尚未认识的事物，没有不可认识的事物"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "理性认识比感性认识更深刻，具有预测功能"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0075",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 75,
+      "question": "我国著名数学家华罗庚说:\"科学没有平坦的大道，真理长河中有无数礁石和险滩，只有不畏攀登的采药者，只有不怕巨浪的弄潮儿，才能登上高峰采得仙草，深入水底觅得骊珠。\"从哲学上讲，这段话的寓意是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "意志对人的认识的进行是一种重要的支撑力量和推动力量"
+        },
+        {
+          "key": "B",
+          "text": "科学创新是理性因素和非理性因素综合作用的结果"
+        },
+        {
+          "key": "C",
+          "text": "非理性因素是人的重要认识能力"
+        },
+        {
+          "key": "D",
+          "text": "科学需要创新才能发展"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "意志对人的认识的进行是一种重要的支撑力量和推动力量"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0076",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 76,
+      "question": "法国科学家路易·巴斯德说:\"在观察事物之际，机遇偏爱有准备的头脑。\"这句话强调了( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "人们获得感性经验至关重要"
+        },
+        {
+          "key": "B",
+          "text": "人们在认识事物时要有理性的指导"
+        },
+        {
+          "key": "C",
+          "text": "人们只有发挥主观能动性才能认识事物"
+        },
+        {
+          "key": "D",
+          "text": "人们不仅要善于观察事物，而且要善于思考问题"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "人们在认识事物时要有理性的指导"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0077",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 77,
+      "question": "认识过程中的两次飞跃是指( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "从感觉到知觉，从知觉到表象"
+        },
+        {
+          "key": "B",
+          "text": "从实践到认识，从认识到实践"
+        },
+        {
+          "key": "C",
+          "text": "从感性到理性，从理性到感性"
+        },
+        {
+          "key": "D",
+          "text": "从概念到判断，从判断到推理"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "从实践到认识，从认识到实践"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0078",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 78,
+      "question": "随着科技的进步尤其是\"互联网+\"的发展，出现了代驾、陪购师、网络主播等新兴职业。这些新兴职业在给社会带来效率或便利的同时，也面临着如何规范的问题，制定相关的法律法规刻不容缓。由此可见( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "实践是认识的最终目的"
+        },
+        {
+          "key": "B",
+          "text": "实践是认识发展的动力"
+        },
+        {
+          "key": "C",
+          "text": "实践具有直接现实性"
+        },
+        {
+          "key": "D",
+          "text": "实践具有客观物质性"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "实践是认识发展的动力"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0079",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 79,
+      "question": "经过实践证实的理论也不是终极真理，而是不断发展的，从根本上说，是因为一定条件下的实践( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "都具有社会性"
+        },
+        {
+          "key": "B",
+          "text": "都具有能动性"
+        },
+        {
+          "key": "C",
+          "text": "都具有历史局限性"
+        },
+        {
+          "key": "D",
+          "text": "都具有客观性"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "都具有历史局限性"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0080",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 80,
+      "question": "下列关于价值评价的说法错误的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "非科学的评价是歪曲、遮蔽客观的价值关系的评价"
+        },
+        {
+          "key": "B",
+          "text": "科学的评价是客观公正、全面有效的评价"
+        },
+        {
+          "key": "C",
+          "text": "评价作为一种价值判断活动，具有主观随意性"
+        },
+        {
+          "key": "D",
+          "text": "只有正确反映价值关系的评价才是正确的评价"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "评价作为一种价值判断活动，具有主观随意性"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0081",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 81,
+      "question": "以下关于必然与自由的关系的说法错误的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "必然与自由的关系是人类存在和发展的永恒矛盾"
+        },
+        {
+          "key": "B",
+          "text": "必然与自由的关系贯穿于人类存在和发展的始终"
+        },
+        {
+          "key": "C",
+          "text": "必然与自由的矛盾无法解决"
+        },
+        {
+          "key": "D",
+          "text": "必然与自由的关系是人类存在和发展的永恒动力"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "必然与自由的矛盾无法解决"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0082",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 82,
+      "question": "马克思主义认识论与旧唯物主义认识论的根本区别在于( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "是否坚持可知论的观点"
+        },
+        {
+          "key": "B",
+          "text": "是否坚持反映论的观点"
+        },
+        {
+          "key": "C",
+          "text": "是否坚持唯理论的观点"
+        },
+        {
+          "key": "D",
+          "text": "是否坚持实践第一的观点"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "是否坚持实践第一的观点"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0083",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 83,
+      "question": "把实践理解为主体自我实现的精神活动的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "恩格斯"
+        },
+        {
+          "key": "B",
+          "text": "康德"
+        },
+        {
+          "key": "C",
+          "text": "费尔巴哈"
+        },
+        {
+          "key": "D",
+          "text": "黑格尔"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "黑格尔"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0084",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 84,
+      "question": "列宁在谈到检验真理的实践标准时指出:\"这个标准也是这样的'不确定'，以便不至于使人的知识变成'绝对'，同时它又是这样的确定，以便同唯心主义和不可知论的一切变种进行无情的斗争。\"这句话说明( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "有些真理无法通过实践来检验"
+        },
+        {
+          "key": "B",
+          "text": "实践标准是不确定的"
+        },
+        {
+          "key": "C",
+          "text": "实践标准的形式具有多样性"
+        },
+        {
+          "key": "D",
+          "text": "实践标准是绝对性和相对性的统一"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "实践标准是绝对性和相对性的统一"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0085",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 85,
+      "question": "马克思在( )中系统论述了实践的观点。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "《资本论》"
+        },
+        {
+          "key": "B",
+          "text": "《哥达纲领批判》"
+        },
+        {
+          "key": "C",
+          "text": "《德意志意识形态》"
+        },
+        {
+          "key": "D",
+          "text": "《关于费尔巴哈的提纲》"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "《关于费尔巴哈的提纲》"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0086",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 86,
+      "question": "任何真理都不是\"终极真理\"，真理是一个不断发展的过程。这是因为真理具有( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "相对性"
+        },
+        {
+          "key": "B",
+          "text": "客观性"
+        },
+        {
+          "key": "C",
+          "text": "全面性"
+        },
+        {
+          "key": "D",
+          "text": "绝对性"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "相对性"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0087",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 87,
+      "question": "马克思主义认识论的本质规定是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "主观与客观的统一"
+        },
+        {
+          "key": "B",
+          "text": "认识与实践的统一"
+        },
+        {
+          "key": "C",
+          "text": "真理与价值的统一"
+        },
+        {
+          "key": "D",
+          "text": "主体与客体的统一"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "认识与实践的统一"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0088",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 88,
+      "question": "\"公说公有理，婆说婆有理\"与\"仁者见仁，智者见智\"这两种说法( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "都揭示了真理具有主观性"
+        },
+        {
+          "key": "B",
+          "text": "前者是对客观真理的否定，后者揭示了认识主体的差别性"
+        },
+        {
+          "key": "C",
+          "text": "前者揭示了认识主体的差别性，后者是对客观真理的否定"
+        },
+        {
+          "key": "D",
+          "text": "都是对客观真理的否定"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "前者是对客观真理的否定，后者揭示了认识主体的差别性"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0089",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 89,
+      "question": "时间定格在2017年9月15日晚23时23分:中国\"天眼\"之父、著名天文学家南仁东因病去世，享年72岁。他的离开，就像他生前那般低调——在一个缺乏耐心和专注力的时代，这名始终站在\"天眼\"背后的科学家，倾注了生命中近1/3的时光，只为打造世界第一大、水平第一高的射电望远镜。2016年9月在贵州平塘竣工的FAST(全称500米口径球面射电望远镜)是世界上最大单口径射电望远镜，与号称\"地面最大的机器\"的德国波恩100米望远镜相比，灵敏度提高约10倍,FAST将在未来20~30年保持世界一流设备的地位。这表明( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "人们在实践中不断检验和发展真理"
+        },
+        {
+          "key": "B",
+          "text": "认识工具的发展是人类获得真理性发现的关键"
+        },
+        {
+          "key": "C",
+          "text": "人类认识世界的工具随着实践的发展而发展"
+        },
+        {
+          "key": "D",
+          "text": "人们的实践能力依赖于认识工具的发展"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "人类认识世界的工具随着实践的发展而发展"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0090",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 90,
+      "question": "实践的中介是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "构成事物一切要素的总和"
+        },
+        {
+          "key": "B",
+          "text": "受命于主观，见之于客观的活动"
+        },
+        {
+          "key": "C",
+          "text": "各种形式的工具、手段及其运用的程序和方法"
+        },
+        {
+          "key": "D",
+          "text": "对一事物存在和发展有联系的各种要素的总和"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "各种形式的工具、手段及其运用的程序和方法"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0091",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 91,
+      "question": "从物到感觉和思想与从思想和感觉到物的对立，反映的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "可知论和不可知论的对立"
+        },
+        {
+          "key": "B",
+          "text": "形而上学与辩证法的对立"
+        },
+        {
+          "key": "C",
+          "text": "唯物主义反映论与唯心主义先验论的对立"
+        },
+        {
+          "key": "D",
+          "text": "经验论和唯理论的对立"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "唯物主义反映论与唯心主义先验论的对立"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0092",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 92,
+      "question": "恩格斯说:\"鹰比人看得远得多，但是人的眼睛识别的东西远胜于鹰。狗比人具有锐敏得多的嗅觉，但是它连被人当作为各种物的特定标志的不同气味的百分之一也辨别不出来。\"人的感官的识别能力高于动物，除了人脑及感官发育得更完美之外，还因为( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "人不仅有理性还有非理性"
+        },
+        {
+          "key": "B",
+          "text": "人不仅有直觉还有想象"
+        },
+        {
+          "key": "C",
+          "text": "人不仅有生理机能还有心理活动"
+        },
+        {
+          "key": "D",
+          "text": "人不仅有感觉还有思维"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "人不仅有感觉还有思维"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0093",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 93,
+      "question": "1633年，伽利略因宣传\"日心说\"被教廷判处终身监禁。1979年11月10日罗马教皇在公开集会上正式承认伽利略在340多年前受到的教廷审判是不公正的，公开为伽利略平反。这说明( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "真理在一定条件下可以转化为谬误"
+        },
+        {
+          "key": "B",
+          "text": "真理是不断发展的"
+        },
+        {
+          "key": "C",
+          "text": "谬误在一定条件下可以转化为真理"
+        },
+        {
+          "key": "D",
+          "text": "真理终将战胜谬误"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "真理终将战胜谬误"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0094",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 94,
+      "question": "古希腊哲学家说:没有理性，眼睛是最坏的见证人。对这句话分析正确的是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "强调理性认识的重要作用,完全否认了感性对认识的作用"
+        },
+        {
+          "key": "B",
+          "text": "揭示了感性认识是整个认识过程的起点"
+        },
+        {
+          "key": "C",
+          "text": "揭示了感性认识和理性认识的辩证统一"
+        },
+        {
+          "key": "D",
+          "text": "认为理性认识可以脱离感性认识而存在，是错误的观点"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "强调理性认识的重要作用,完全否认了感性对认识的作用"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0095",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 95,
+      "question": "\"真理是人造的供人使用的工具\"的看法是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "主观唯心主义"
+        },
+        {
+          "key": "B",
+          "text": "机械唯物主义"
+        },
+        {
+          "key": "C",
+          "text": "辩证唯物主义"
+        },
+        {
+          "key": "D",
+          "text": "客观唯心主义"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "主观唯心主义"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0096",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 96,
+      "question": "在认识论中坚持反映论的原则( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "是所有唯物主义的观点"
+        },
+        {
+          "key": "B",
+          "text": "只是机械唯物主义的观点"
+        },
+        {
+          "key": "C",
+          "text": "仅是辩证唯物主义的观点"
+        },
+        {
+          "key": "D",
+          "text": "是朴素唯物主义的观点"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "是所有唯物主义的观点"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0097",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 97,
+      "question": "听其言必责其用，观其行必求其功。这种观点是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "认为认识可以脱离实践"
+        },
+        {
+          "key": "B",
+          "text": "强调实践对认识的检验作用"
+        },
+        {
+          "key": "C",
+          "text": "强调认识对实践的作用"
+        },
+        {
+          "key": "D",
+          "text": "认为实践可以脱离认识"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "强调实践对认识的检验作用"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0098",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 98,
+      "question": "马克思说:\"一个忧心忡忡的穷人对最美的风景都没有感觉;贩卖矿物的商人只看矿物的商业价值，他没有矿物学的感觉。\"这是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "先验论的观点"
+        },
+        {
+          "key": "B",
+          "text": "说明人的感觉具有主体性"
+        },
+        {
+          "key": "C",
+          "text": "经验论的观点"
+        },
+        {
+          "key": "D",
+          "text": "主观唯心主义的观点"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "说明人的感觉具有主体性"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0099",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 99,
+      "question": "一种认识是不是真理，要看它( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "是否能满足人的需要"
+        },
+        {
+          "key": "B",
+          "text": "是否与客观事物及其规律相一致"
+        },
+        {
+          "key": "C",
+          "text": "是否被社会普遍承认"
+        },
+        {
+          "key": "D",
+          "text": "是否被大多数人拥护"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "是否与客观事物及其规律相一致"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "mayuan-chapter2-0100",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 100,
+      "question": "主观真理论与客观真理论的关系是( )。（1.0）",
+      "options": [
+        {
+          "key": "A",
+          "text": "主观真理论是对客观真理论的反映"
+        },
+        {
+          "key": "B",
+          "text": "主观真理论与客观真理论是辩证统一的"
+        },
+        {
+          "key": "C",
+          "text": "唯心主义与唯物主义的关系"
+        },
+        {
+          "key": "D",
+          "text": "主观真理论是对客观真理论的抽象"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "唯心主义与唯物主义的关系"
+      ],
+      "topic": "第二章",
+      "category": "第二章",
+      "score": 1,
+      "analysis": ""
+    }
+  ]
+}
