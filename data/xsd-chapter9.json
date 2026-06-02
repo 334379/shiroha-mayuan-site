@@ -1,0 +1,1362 @@
+{
+  "meta": {
+    "title": "习近平新时代中国特色社会主义思想概论-第八章",
+    "questionCount": 38,
+    "volumes": 1,
+    "sourceNote": "由习近平新时代中国特色社会主义思想概论期末复习题库 Word 文档转换导入。"
+  },
+  "questions": [
+    {
+      "id": "xsd-chapter9-0001",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 1,
+      "question": "坚定中国特色社会主义制度自信，首先要坚定对中国特色社会主义（）的自信",
+      "options": [
+        {
+          "key": "A",
+          "text": "经济制度"
+        },
+        {
+          "key": "B",
+          "text": "政治制度"
+        },
+        {
+          "key": "C",
+          "text": "文化制度"
+        },
+        {
+          "key": "D",
+          "text": "社保制度"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "政治制度"
+      ],
+      "topic": "第八章 发展全过程人民民主",
+      "category": "第八章 发展全过程人民民主",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter9-0002",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 2,
+      "question": "一个国家是不是民主，应该由这个国家的（ ）来评判，而不应该由外部少数人指手画脚来评判",
+      "options": [
+        {
+          "key": "A",
+          "text": "人民"
+        },
+        {
+          "key": "B",
+          "text": "执政党"
+        },
+        {
+          "key": "C",
+          "text": "社会团体"
+        },
+        {
+          "key": "D",
+          "text": "国家性质"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "人民"
+      ],
+      "topic": "第八章 发展全过程人民民主",
+      "category": "第八章 发展全过程人民民主",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter9-0003",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 3,
+      "question": "（ ）是中国发展全过程人民民主的根本保证",
+      "options": [
+        {
+          "key": "A",
+          "text": "人民当家作主"
+        },
+        {
+          "key": "B",
+          "text": "中国特色社会主义制度"
+        },
+        {
+          "key": "C",
+          "text": "人民民主专政"
+        },
+        {
+          "key": "D",
+          "text": "中国共产党的领导"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "中国共产党的领导"
+      ],
+      "topic": "第八章 发展全过程人民民主",
+      "category": "第八章 发展全过程人民民主",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter9-0004",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 4,
+      "question": "（ ）是党克敌制胜、执政兴国的重要法宝，是团结海内外全体中华儿女实现中华民族伟大复兴的重要法宝",
+      "options": [
+        {
+          "key": "A",
+          "text": "协商民主"
+        },
+        {
+          "key": "B",
+          "text": "统一战线"
+        },
+        {
+          "key": "C",
+          "text": "全过程人民民主"
+        },
+        {
+          "key": "D",
+          "text": "实现中华民族伟大复兴"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "统一战线"
+      ],
+      "topic": "第八章 发展全过程人民民主",
+      "category": "第八章 发展全过程人民民主",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter9-0005",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 5,
+      "question": "我国是工人阶级领导的、以工农联盟为基础的( )的社会主义国家，国家一切权力属于人民",
+      "options": [
+        {
+          "key": "A",
+          "text": "人民民主专政"
+        },
+        {
+          "key": "B",
+          "text": "人民当家作主"
+        },
+        {
+          "key": "C",
+          "text": "中国共产党领导"
+        },
+        {
+          "key": "D",
+          "text": "民主专政"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "人民民主专政"
+      ],
+      "topic": "第八章 发展全过程人民民主",
+      "category": "第八章 发展全过程人民民主",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter9-0006",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 6,
+      "question": "统战工作的关键是要( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚持求同存异"
+        },
+        {
+          "key": "B",
+          "text": "坚持党的领导"
+        },
+        {
+          "key": "C",
+          "text": "坚持同一性"
+        },
+        {
+          "key": "D",
+          "text": "坚持多样性"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "坚持求同存异"
+      ],
+      "topic": "第八章 发展全过程人民民主",
+      "category": "第八章 发展全过程人民民主",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter9-0007",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 7,
+      "question": "社会主义民主的实质是( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "民主集中制"
+        },
+        {
+          "key": "B",
+          "text": "人民当家作主"
+        },
+        {
+          "key": "C",
+          "text": "人民代表大会制度"
+        },
+        {
+          "key": "D",
+          "text": "中华民族大团结"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "人民当家作主"
+      ],
+      "topic": "第八章 发展全过程人民民主",
+      "category": "第八章 发展全过程人民民主",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter9-0008",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 8,
+      "question": "（ ）是社会主义的生命，没有民主就没有社会主义",
+      "options": [
+        {
+          "key": "A",
+          "text": "人民民主"
+        },
+        {
+          "key": "B",
+          "text": "人民当家作主"
+        },
+        {
+          "key": "C",
+          "text": "以人民为中心"
+        },
+        {
+          "key": "D",
+          "text": "坚持人民的主体地位"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "人民民主"
+      ],
+      "topic": "第八章 发展全过程人民民主",
+      "category": "第八章 发展全过程人民民主",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter9-0009",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 9,
+      "question": "（ ）是统一战线最核心、最根本的问题",
+      "options": [
+        {
+          "key": "A",
+          "text": "大团结大联合"
+        },
+        {
+          "key": "B",
+          "text": "广交朋友"
+        },
+        {
+          "key": "C",
+          "text": "凝聚人心"
+        },
+        {
+          "key": "D",
+          "text": "坚持党的领导"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "坚持党的领导"
+      ],
+      "topic": "第八章 发展全过程人民民主",
+      "category": "第八章 发展全过程人民民主",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter9-0010",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 10,
+      "question": "（ ）是指民主的制度安排，实质民主是指民主始终追求的价值目标，二者有机结合",
+      "options": [
+        {
+          "key": "A",
+          "text": "程序民主"
+        },
+        {
+          "key": "B",
+          "text": "协商民主"
+        },
+        {
+          "key": "C",
+          "text": "人民民主"
+        },
+        {
+          "key": "D",
+          "text": "全过程人民民主"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "程序民主"
+      ],
+      "topic": "第八章 发展全过程人民民主",
+      "category": "第八章 发展全过程人民民主",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter9-0011",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 11,
+      "question": "统战工作解决的是（ ）问题",
+      "options": [
+        {
+          "key": "A",
+          "text": "人心和力量问题"
+        },
+        {
+          "key": "B",
+          "text": "人民当家作主"
+        },
+        {
+          "key": "C",
+          "text": "党派"
+        },
+        {
+          "key": "D",
+          "text": "民族"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "人心和力量问题"
+      ],
+      "topic": "第八章 发展全过程人民民主",
+      "category": "第八章 发展全过程人民民主",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter9-0012",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 12,
+      "question": "统一战线工作范围不包括（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "民主党派人员"
+        },
+        {
+          "key": "B",
+          "text": "无党派人士"
+        },
+        {
+          "key": "C",
+          "text": "少数民族人士"
+        },
+        {
+          "key": "D",
+          "text": "妇女"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "妇女"
+      ],
+      "topic": "第八章 发展全过程人民民主",
+      "category": "第八章 发展全过程人民民主",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter9-0013",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 13,
+      "question": "我国的根本政治制度是（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "人民代表大会制度"
+        },
+        {
+          "key": "B",
+          "text": "民族区域自治制度"
+        },
+        {
+          "key": "C",
+          "text": "中国共产党领导的多党合作和政治协商制度"
+        },
+        {
+          "key": "D",
+          "text": "基础群众自治制度"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "人民代表大会制度"
+      ],
+      "topic": "第八章 发展全过程人民民主",
+      "category": "第八章 发展全过程人民民主",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter9-0014",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 14,
+      "question": "全过程人民民族的环节不包括（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "民主选举"
+        },
+        {
+          "key": "B",
+          "text": "民主协商"
+        },
+        {
+          "key": "C",
+          "text": "基层民主"
+        },
+        {
+          "key": "D",
+          "text": "全链条"
+        },
+        {
+          "key": "E",
+          "text": "最广泛"
+        },
+        {
+          "key": "F",
+          "text": "最真实"
+        },
+        {
+          "key": "G",
+          "text": "最管用"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "全链条"
+      ],
+      "topic": "第八章 发展全过程人民民主",
+      "category": "第八章 发展全过程人民民主",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter9-0015",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 15,
+      "question": "全过程人民民主各个环节紧密联系、相互贯通、相辅相成，体现的是（ ）特征",
+      "options": [
+        {
+          "key": "A",
+          "text": "最广泛"
+        },
+        {
+          "key": "B",
+          "text": "全覆盖"
+        },
+        {
+          "key": "C",
+          "text": "全方位"
+        },
+        {
+          "key": "D",
+          "text": "全链条"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "全链条"
+      ],
+      "topic": "第八章 发展全过程人民民主",
+      "category": "第八章 发展全过程人民民主",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter9-0016",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 16,
+      "question": "在中国共产党领导下，人民内部各方面围绕改革发展稳定重大问题和涉及群众切实利益的实际问题，在决策前和决策实施之中开展广泛协商，努力形成共识的重要民主形式是（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "选举民主"
+        },
+        {
+          "key": "B",
+          "text": "协商民主"
+        },
+        {
+          "key": "C",
+          "text": "谈判民主"
+        },
+        {
+          "key": "D",
+          "text": "代议民主"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "协商民主"
+      ],
+      "topic": "第八章 发展全过程人民民主",
+      "category": "第八章 发展全过程人民民主",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter9-0017",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 17,
+      "question": "一个国家的民主好不好，（ ）最有发言权",
+      "options": [
+        {
+          "key": "A",
+          "text": "人民"
+        },
+        {
+          "key": "B",
+          "text": "执政党"
+        },
+        {
+          "key": "C",
+          "text": "外国人"
+        },
+        {
+          "key": "D",
+          "text": "人大代表"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "人民"
+      ],
+      "topic": "第八章 发展全过程人民民主",
+      "category": "第八章 发展全过程人民民主",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter9-0018",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 18,
+      "question": "（ ）是中国社会主义民主政治中独特的、独有的、独到的民主形式",
+      "options": [
+        {
+          "key": "A",
+          "text": "选举民主"
+        },
+        {
+          "key": "B",
+          "text": "协商民主"
+        },
+        {
+          "key": "C",
+          "text": "谈判民主"
+        },
+        {
+          "key": "D",
+          "text": "代议民主"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "协商民主"
+      ],
+      "topic": "第八章 发展全过程人民民主",
+      "category": "第八章 发展全过程人民民主",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter9-0019",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 19,
+      "question": "( )是指民主的制度安排，实质民主是指民主始终追求的价值目标，二者有机结合",
+      "options": [
+        {
+          "key": "A",
+          "text": "程序民主"
+        },
+        {
+          "key": "B",
+          "text": "协商民主"
+        },
+        {
+          "key": "C",
+          "text": "人民民主"
+        },
+        {
+          "key": "D",
+          "text": "全过程人民民主"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "程序民主"
+      ],
+      "topic": "第八章 发展全过程人民民主",
+      "category": "第八章 发展全过程人民民主",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter9-0020",
+      "volume": 1,
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "number": 20,
+      "question": "人民民主是社会主义的生命，没有民主（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "就没有社会主义"
+        },
+        {
+          "key": "B",
+          "text": "就没有社会主义的现代化"
+        },
+        {
+          "key": "C",
+          "text": "就没有中华民族伟大复兴"
+        },
+        {
+          "key": "D",
+          "text": "就没有新中国"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C"
+      ],
+      "answerText": [
+        "就没有社会主义",
+        "就没有社会主义的现代化",
+        "就没有中华民族伟大复兴"
+      ],
+      "topic": "第八章 发展全过程人民民主",
+      "category": "第八章 发展全过程人民民主",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter9-0021",
+      "volume": 1,
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "number": 21,
+      "question": "（ ）构成我国的基本政治制度",
+      "options": [
+        {
+          "key": "A",
+          "text": "中国共产党领导的多党合作和政治协商制度"
+        },
+        {
+          "key": "B",
+          "text": "民族区域自治制度"
+        },
+        {
+          "key": "C",
+          "text": "基层群众自治制度"
+        },
+        {
+          "key": "D",
+          "text": "人民代表大会制度"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C"
+      ],
+      "answerText": [
+        "中国共产党领导的多党合作和政治协商制度",
+        "民族区域自治制度",
+        "基层群众自治制度"
+      ],
+      "topic": "第八章 发展全过程人民民主",
+      "category": "第八章 发展全过程人民民主",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter9-0022",
+      "volume": 1,
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "number": 22,
+      "question": "中国特色社会主义政治制度（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "既把握了长期形成的历史传承，又把握了走过的发展道路"
+        },
+        {
+          "key": "B",
+          "text": "把握了现实要求、着眼解决现实问题"
+        },
+        {
+          "key": "C",
+          "text": "注重历史和现实、理论和实践、形式和内容有机统一"
+        },
+        {
+          "key": "D",
+          "text": "具有鲜明的中国特色、民族特色、时代特色"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answerText": [
+        "既把握了长期形成的历史传承，又把握了走过的发展道路",
+        "把握了现实要求、着眼解决现实问题",
+        "注重历史和现实、理论和实践、形式和内容有机统一",
+        "具有鲜明的中国特色、民族特色、时代特色"
+      ],
+      "topic": "第八章 发展全过程人民民主",
+      "category": "第八章 发展全过程人民民主",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter9-0023",
+      "volume": 1,
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "number": 23,
+      "question": "中国特色社会主义政治制度的巨大优势体现在（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "能够有效保证人民享有更加广泛的权利和自由"
+        },
+        {
+          "key": "B",
+          "text": "能够有效调节国家政治关系，形成安定团结的政治局面"
+        },
+        {
+          "key": "C",
+          "text": "能够集中力量办大事，有效促进社会生产力解放和发展"
+        },
+        {
+          "key": "D",
+          "text": "能够有效维护国家独立自主,有力维护国家主权、安全、发展利益"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answerText": [
+        "能够有效保证人民享有更加广泛的权利和自由",
+        "能够有效调节国家政治关系，形成安定团结的政治局面",
+        "能够集中力量办大事，有效促进社会生产力解放和发展",
+        "能够有效维护国家独立自主,有力维护国家主权、安全、发展利益"
+      ],
+      "topic": "第八章 发展全过程人民民主",
+      "category": "第八章 发展全过程人民民主",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter9-0024",
+      "volume": 1,
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "number": 24,
+      "question": "中华人民共和国的一切权力属于人民，人民行使国家权力的机关是（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "全国人民代表大会"
+        },
+        {
+          "key": "B",
+          "text": "地方各级人民代表大会"
+        },
+        {
+          "key": "C",
+          "text": "国务院"
+        },
+        {
+          "key": "D",
+          "text": "人民代表"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B"
+      ],
+      "answerText": [
+        "全国人民代表大会",
+        "地方各级人民代表大会"
+      ],
+      "topic": "第八章 发展全过程人民民主",
+      "category": "第八章 发展全过程人民民主",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter9-0025",
+      "volume": 1,
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "number": 25,
+      "question": "全过程人民民主是最真实的民主,具体体现在（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "把党的主张、国家意志、人民意愿紧密融合在一起，彰显了人民民主的真实性"
+        },
+        {
+          "key": "B",
+          "text": "真实反映人民的期盼、希望和诉求"
+        },
+        {
+          "key": "C",
+          "text": "人民的意愿和呼声，经过民主决策程序成为党和国家的方针政策"
+        },
+        {
+          "key": "D",
+          "text": "真真切切落实到国家政治生活和社会生活各方面"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answerText": [
+        "把党的主张、国家意志、人民意愿紧密融合在一起，彰显了人民民主的真实性",
+        "真实反映人民的期盼、希望和诉求",
+        "人民的意愿和呼声，经过民主决策程序成为党和国家的方针政策",
+        "真真切切落实到国家政治生活和社会生活各方面"
+      ],
+      "topic": "第八章 发展全过程人民民主",
+      "category": "第八章 发展全过程人民民主",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter9-0026",
+      "volume": 1,
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "number": 26,
+      "question": "全过程人民民主是最广泛的民主, 具体体现在（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "人民既充分享有民主选举权利，又充分享有民主协商、民主决策、民主管理、民主监督权利"
+        },
+        {
+          "key": "B",
+          "text": "既参与国家事务管理，又参与经济和文化事业以及社会事务管理"
+        },
+        {
+          "key": "C",
+          "text": "既参与国家发展顶层设计的意见建议征询，又参与地方公共事务治理"
+        },
+        {
+          "key": "D",
+          "text": "不同地域、不同领域、不同层级、不同群体均实现全面覆盖"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answerText": [
+        "人民既充分享有民主选举权利，又充分享有民主协商、民主决策、民主管理、民主监督权利",
+        "既参与国家事务管理，又参与经济和文化事业以及社会事务管理",
+        "既参与国家发展顶层设计的意见建议征询，又参与地方公共事务治理",
+        "不同地域、不同领域、不同层级、不同群体均实现全面覆盖"
+      ],
+      "topic": "第八章 发展全过程人民民主",
+      "category": "第八章 发展全过程人民民主",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter9-0027",
+      "volume": 1,
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "number": 27,
+      "question": "全过程人民民主是最管用的民主, 具体体现在（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "保证在党的领导下有效治理国家，切实防止出现一盘散沙的现象"
+        },
+        {
+          "key": "B",
+          "text": "保证人民依法行使权利，切实防止出现选举时漫天许诺、选举后无人过问的现象"
+        },
+        {
+          "key": "C",
+          "text": "加强社会各种力量的合作协调，切实防止出现党争纷沓、相互倾轧的现象"
+        },
+        {
+          "key": "D",
+          "text": "巩固平等团结互助和谐的社会主义民族关系，切实防止出现民族隔阂、民族冲突的现象"
+        },
+        {
+          "key": "E",
+          "text": "发展基层民主，切实防止出现人民形式上有权、实际上无权的现象"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answerText": [
+        "保证在党的领导下有效治理国家，切实防止出现一盘散沙的现象",
+        "保证人民依法行使权利，切实防止出现选举时漫天许诺、选举后无人过问的现象",
+        "加强社会各种力量的合作协调，切实防止出现党争纷沓、相互倾轧的现象",
+        "巩固平等团结互助和谐的社会主义民族关系，切实防止出现民族隔阂、民族冲突的现象",
+        "发展基层民主，切实防止出现人民形式上有权、实际上无权的现象"
+      ],
+      "topic": "第八章 发展全过程人民民主",
+      "category": "第八章 发展全过程人民民主",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter9-0028",
+      "volume": 1,
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "number": 28,
+      "question": "全过程人民民主实现了（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "过程民主和成果民主相统一"
+        },
+        {
+          "key": "B",
+          "text": "程序民主和实质民主相统一"
+        },
+        {
+          "key": "C",
+          "text": "直接民主和间接民主相统一"
+        },
+        {
+          "key": "D",
+          "text": "人民民主和国家意志相统一"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answerText": [
+        "过程民主和成果民主相统一",
+        "程序民主和实质民主相统一",
+        "直接民主和间接民主相统一",
+        "人民民主和国家意志相统一"
+      ],
+      "topic": "第八章 发展全过程人民民主",
+      "category": "第八章 发展全过程人民民主",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter9-0029",
+      "volume": 1,
+      "type": "judge",
+      "typeLabel": "判断题",
+      "number": 29,
+      "question": "坚持走中国特色社会主义政治发展道路，全面发展全过程人民民主，社会主义民主政治制度化、规范化、程序化全面推进。（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "正确"
+      ],
+      "topic": "第八章 发展全过程人民民主",
+      "category": "第八章 发展全过程人民民主",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter9-0030",
+      "volume": 1,
+      "type": "judge",
+      "typeLabel": "判断题",
+      "number": 30,
+      "question": "人民民主是社会主义的生命，没有民主就没有社会主义。（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "正确"
+      ],
+      "topic": "第八章 发展全过程人民民主",
+      "category": "第八章 发展全过程人民民主",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter9-0031",
+      "volume": 1,
+      "type": "judge",
+      "typeLabel": "判断题",
+      "number": 31,
+      "question": "中国共产党领导的多党合作和政治协商制度、民族区域自治制度以及基层群众自治制度构成我国的根本政治制度。（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "错误"
+      ],
+      "topic": "第八章 发展全过程人民民主",
+      "category": "第八章 发展全过程人民民主",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter9-0032",
+      "volume": 1,
+      "type": "judge",
+      "typeLabel": "判断题",
+      "number": 32,
+      "question": "我国的各项国家制度都是围绕人民当家作主构建的，国家治理体系都是围绕实现人民当家作主运转的。（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "正确"
+      ],
+      "topic": "第八章 发展全过程人民民主",
+      "category": "第八章 发展全过程人民民主",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter9-0033",
+      "volume": 1,
+      "type": "judge",
+      "typeLabel": "判断题",
+      "number": 33,
+      "question": "民主就是指民主选举，不搞“一人一票”竞选就是“不民主”。（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "错误"
+      ],
+      "topic": "第八章 发展全过程人民民主",
+      "category": "第八章 发展全过程人民民主",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter9-0034",
+      "volume": 1,
+      "type": "judge",
+      "typeLabel": "判断题",
+      "number": 34,
+      "question": "做统战工作要把握好固守圆心和扩大共识、潜绩和显绩、原则性和灵活性 、团结和斗争的关系。（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "正确"
+      ],
+      "topic": "第八章 发展全过程人民民主",
+      "category": "第八章 发展全过程人民民主",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter9-0035",
+      "volume": 1,
+      "type": "judge",
+      "typeLabel": "判断题",
+      "number": 35,
+      "question": "人民民主是社会主义的生命，全过程人民民主是社会主义民主政治的本质属性。（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "正确"
+      ],
+      "topic": "第八章 发展全过程人民民主",
+      "category": "第八章 发展全过程人民民主",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter9-0036",
+      "volume": 1,
+      "type": "judge",
+      "typeLabel": "判断题",
+      "number": 36,
+      "question": "一个国家实行什么样的民主制度，走什么样的民主发展道路，与这个国家的国情无关。（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "错误"
+      ],
+      "topic": "第八章 发展全过程人民民主",
+      "category": "第八章 发展全过程人民民主",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter9-0037",
+      "volume": 1,
+      "type": "judge",
+      "typeLabel": "判断题",
+      "number": 37,
+      "question": "实现民主的道路并非只有一条，社会性质不同、现实国情不同，则民主道路不同、民主形态各异。（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "正确"
+      ],
+      "topic": "第八章 发展全过程人民民主",
+      "category": "第八章 发展全过程人民民主",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter9-0038",
+      "volume": 1,
+      "type": "judge",
+      "typeLabel": "判断题",
+      "number": 38,
+      "question": "统一战线是中国共产党夺取革命、建设、改革事业胜利的重要法宝，也是实现中华民族伟大复兴的重要法宝。（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "正确"
+      ],
+      "topic": "第八章 发展全过程人民民主",
+      "category": "第八章 发展全过程人民民主",
+      "score": 1,
+      "analysis": ""
+    }
+  ]
+}

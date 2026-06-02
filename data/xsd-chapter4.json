@@ -1,0 +1,702 @@
+{
+  "meta": {
+    "title": "习近平新时代中国特色社会主义思想概论-第三章",
+    "questionCount": 20,
+    "volumes": 1,
+    "sourceNote": "由习近平新时代中国特色社会主义思想概论期末复习题库 Word 文档转换导入。"
+  },
+  "questions": [
+    {
+      "id": "xsd-chapter4-0001",
+      "volume": 1,
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "number": 1,
+      "question": "中国共产党是最高政治领导力量，主要体现在（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "引领政治方向"
+        },
+        {
+          "key": "B",
+          "text": "统领政治体系"
+        },
+        {
+          "key": "C",
+          "text": "决断重大事项"
+        },
+        {
+          "key": "D",
+          "text": "领导社会治理"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answerText": [
+        "引领政治方向",
+        "统领政治体系",
+        "决断重大事项",
+        "领导社会治理"
+      ],
+      "topic": "第三章 坚持党的全面领导",
+      "category": "第三章 坚持党的全面领导",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter4-0002",
+      "volume": 1,
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "number": 2,
+      "question": "社区治理得好，关键在基层党组织、在广大党员，在办好一件件老百姓操心事、烦心事中提升群众（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "获得感"
+        },
+        {
+          "key": "B",
+          "text": "幸福感"
+        },
+        {
+          "key": "C",
+          "text": "安全感"
+        },
+        {
+          "key": "D",
+          "text": "优越感"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C"
+      ],
+      "answerText": [
+        "获得感",
+        "幸福感",
+        "安全感"
+      ],
+      "topic": "第三章 坚持党的全面领导",
+      "category": "第三章 坚持党的全面领导",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter4-0003",
+      "volume": 1,
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "number": 3,
+      "question": "中国共产党是中国特色社会主义事业的（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "开创者"
+        },
+        {
+          "key": "B",
+          "text": "推动者"
+        },
+        {
+          "key": "C",
+          "text": "引领者"
+        },
+        {
+          "key": "D",
+          "text": "跟跑者"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C"
+      ],
+      "answerText": [
+        "开创者",
+        "推动者",
+        "引领者"
+      ],
+      "topic": "第三章 坚持党的全面领导",
+      "category": "第三章 坚持党的全面领导",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter4-0004",
+      "volume": 1,
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "number": 4,
+      "question": "党领导一切，包括党领导（ ）、审判机关、检察机关、武装力量、人民团体、企事业单位、基层群众性自治组织、社会组织等",
+      "options": [
+        {
+          "key": "A",
+          "text": "人大"
+        },
+        {
+          "key": "B",
+          "text": "政府"
+        },
+        {
+          "key": "C",
+          "text": "政协"
+        },
+        {
+          "key": "D",
+          "text": "监察机关"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answerText": [
+        "人大",
+        "政府",
+        "政协",
+        "监察机关"
+      ],
+      "topic": "第三章 坚持党的全面领导",
+      "category": "第三章 坚持党的全面领导",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter4-0005",
+      "volume": 1,
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "number": 5,
+      "question": "党领导一切，必须体现到（ ）、生态文明建设和国防军队、祖国统一、外交工作、党的建设等各方面",
+      "options": [
+        {
+          "key": "A",
+          "text": "经济建设"
+        },
+        {
+          "key": "B",
+          "text": "政治建设"
+        },
+        {
+          "key": "C",
+          "text": "文化建设"
+        },
+        {
+          "key": "D",
+          "text": "社会建设"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answerText": [
+        "经济建设",
+        "政治建设",
+        "文化建设",
+        "社会建设"
+      ],
+      "topic": "第三章 坚持党的全面领导",
+      "category": "第三章 坚持党的全面领导",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter4-0006",
+      "volume": 1,
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "number": 6,
+      "question": "坚持党的全面领导，既要政治过硬，也要本领高强。要着力提高党（ ）的能力和定力，善于处理各种复杂矛盾，勇于战胜各种艰难险阻，牢牢把握工作主动权，把党总揽全局、协调各方落到实处",
+      "options": [
+        {
+          "key": "A",
+          "text": "把方向"
+        },
+        {
+          "key": "B",
+          "text": "谋大局"
+        },
+        {
+          "key": "C",
+          "text": "定政策"
+        },
+        {
+          "key": "D",
+          "text": "催改革"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answerText": [
+        "把方向",
+        "谋大局",
+        "定政策",
+        "催改革"
+      ],
+      "topic": "第三章 坚持党的全面领导",
+      "category": "第三章 坚持党的全面领导",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter4-0007",
+      "volume": 1,
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "number": 7,
+      "question": "2004年至2023年又连续20年发布以“三农”（ ）为主题的中央一号文件，强调了“三农”问题在中国社会主义现代化建设中“重中之重”的地位",
+      "options": [
+        {
+          "key": "A",
+          "text": "农业"
+        },
+        {
+          "key": "B",
+          "text": "农村"
+        },
+        {
+          "key": "C",
+          "text": "农民"
+        },
+        {
+          "key": "D",
+          "text": "农民工"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C"
+      ],
+      "answerText": [
+        "农业",
+        "农村",
+        "农民"
+      ],
+      "topic": "第三章 坚持党的全面领导",
+      "category": "第三章 坚持党的全面领导",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter4-0008",
+      "volume": 1,
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "number": 8,
+      "question": "2013年12月30日，中共中央政治局召开会议，决定成立中央全面深化改革领导小组，负责改革（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "总体设计"
+        },
+        {
+          "key": "B",
+          "text": "统筹协调"
+        },
+        {
+          "key": "C",
+          "text": "整体推进"
+        },
+        {
+          "key": "D",
+          "text": "督促落实"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answerText": [
+        "总体设计",
+        "统筹协调",
+        "整体推进",
+        "督促落实"
+      ],
+      "topic": "第三章 坚持党的全面领导",
+      "category": "第三章 坚持党的全面领导",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter4-0009",
+      "volume": 1,
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "number": 9,
+      "question": "（ ）是党的领导决策核心",
+      "options": [
+        {
+          "key": "A",
+          "text": "中央委员会"
+        },
+        {
+          "key": "B",
+          "text": "中央政治局"
+        },
+        {
+          "key": "C",
+          "text": "中央政治局常委会"
+        },
+        {
+          "key": "D",
+          "text": "人民政府"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C"
+      ],
+      "answerText": [
+        "中央委员会",
+        "中央政治局",
+        "中央政治局常委会"
+      ],
+      "topic": "第三章 坚持党的全面领导",
+      "category": "第三章 坚持党的全面领导",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter4-0010",
+      "volume": 1,
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "number": 10,
+      "question": "2016年10月，党的十八届六中全会正式确立习近平总书记党中央的核心、全党的核心地位，要求全党必须牢固树立“四个意识”。“四个意识”是（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "政治意识"
+        },
+        {
+          "key": "B",
+          "text": "核心意识"
+        },
+        {
+          "key": "C",
+          "text": "看齐意识"
+        },
+        {
+          "key": "D",
+          "text": "大局意识"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answerText": [
+        "政治意识",
+        "核心意识",
+        "看齐意识",
+        "大局意识"
+      ],
+      "topic": "第三章 坚持党的全面领导",
+      "category": "第三章 坚持党的全面领导",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter4-0011",
+      "volume": 1,
+      "type": "judge",
+      "typeLabel": "判断题",
+      "number": 11,
+      "question": "中国共产党是最高政治力量。 （ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "错误"
+      ],
+      "topic": "第三章 坚持党的全面领导",
+      "category": "第三章 坚持党的全面领导",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter4-0012",
+      "volume": 1,
+      "type": "judge",
+      "typeLabel": "判断题",
+      "number": 12,
+      "question": "中国共产党是最高政治领导力量。 （ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "正确"
+      ],
+      "topic": "第三章 坚持党的全面领导",
+      "category": "第三章 坚持党的全面领导",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter4-0013",
+      "volume": 1,
+      "type": "judge",
+      "typeLabel": "判断题",
+      "number": 13,
+      "question": "民主是正确集中的前提和基础，离开民主讲集中，集中就成了个人专权专断。集中是民主的必然要求和归宿，离开集中搞民主，就会导致极端民主化和无政府状态。（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "正确"
+      ],
+      "topic": "第三章 坚持党的全面领导",
+      "category": "第三章 坚持党的全面领导",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter4-0014",
+      "volume": 1,
+      "type": "judge",
+      "typeLabel": "判断题",
+      "number": 14,
+      "question": "维护党中央权威和集中统一领导同坚持民主集中制是完全一致的。 （ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "正确"
+      ],
+      "topic": "第三章 坚持党的全面领导",
+      "category": "第三章 坚持党的全面领导",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter4-0015",
+      "volume": 1,
+      "type": "judge",
+      "typeLabel": "判断题",
+      "number": 15,
+      "question": "党的任何组织和成员必须以实际行动维护党中央的权威，必须服从党中央集中统一领导，这是党的领导的最高原则。 （ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "正确"
+      ],
+      "topic": "第三章 坚持党的全面领导",
+      "category": "第三章 坚持党的全面领导",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter4-0016",
+      "volume": 1,
+      "type": "judge",
+      "typeLabel": "判断题",
+      "number": 16,
+      "question": "坚决维护习近平总书记党中央的核心、全党的核心地位，必须自觉同以习近平同志为核心的党中央保持高度一致，在思想上高度认同，政治上坚决维护，组织上自觉服从，行动上紧紧跟随，把“四个意识”落实到一言一行之中。 （ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "正确"
+      ],
+      "topic": "第三章 坚持党的全面领导",
+      "category": "第三章 坚持党的全面领导",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter4-0017",
+      "volume": 1,
+      "type": "judge",
+      "typeLabel": "判断题",
+      "number": 17,
+      "question": "改革开放是决定当代中国命运的关键一招，也是实现“两个一百年”奋斗目标、实现中华民族伟大复兴的关键一招。 （ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "正确"
+      ],
+      "topic": "第三章 坚持党的全面领导",
+      "category": "第三章 坚持党的全面领导",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter4-0018",
+      "volume": 1,
+      "type": "judge",
+      "typeLabel": "判断题",
+      "number": 18,
+      "question": "我们既不走封闭僵化的老路，也不走改旗易帜的邪路，要坚定不移走中国特色社会主义道路。 （ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "正确"
+      ],
+      "topic": "第三章 坚持党的全面领导",
+      "category": "第三章 坚持党的全面领导",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter4-0019",
+      "volume": 1,
+      "type": "judge",
+      "typeLabel": "判断题",
+      "number": 19,
+      "question": "中国特色社会主义最大的优势是人民民主专政。 （ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "错误"
+      ],
+      "topic": "第三章 坚持党的全面领导",
+      "category": "第三章 坚持党的全面领导",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter4-0020",
+      "volume": 1,
+      "type": "judge",
+      "typeLabel": "判断题",
+      "number": 20,
+      "question": "中国特色社会主义最本质的特征是中国共产党的领导。 （ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "正确"
+      ],
+      "topic": "第三章 坚持党的全面领导",
+      "category": "第三章 坚持党的全面领导",
+      "score": 1,
+      "analysis": ""
+    }
+  ]
+}

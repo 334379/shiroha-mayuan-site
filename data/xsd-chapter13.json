@@ -1,0 +1,1418 @@
+{
+  "meta": {
+    "title": "习近平新时代中国特色社会主义思想概论-第十二章",
+    "questionCount": 39,
+    "volumes": 1,
+    "sourceNote": "由习近平新时代中国特色社会主义思想概论期末复习题库 Word 文档转换导入。"
+  },
+  "questions": [
+    {
+      "id": "xsd-chapter13-0001",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 1,
+      "question": "（ ）提出：“要像保护眼睛一样保护生态环境，像对待生命一样对待生态环境，”",
+      "options": [
+        {
+          "key": "A",
+          "text": "邓小平"
+        },
+        {
+          "key": "B",
+          "text": "江泽民"
+        },
+        {
+          "key": "C",
+          "text": "胡锦涛"
+        },
+        {
+          "key": "D",
+          "text": "习近平"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "习近平"
+      ],
+      "topic": "第十二章 建设社会主义生态文明",
+      "category": "第十二章 建设社会主义生态文明",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter13-0002",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 2,
+      "question": "（ ）是工业文明发展到一定阶段的产物",
+      "options": [
+        {
+          "key": "A",
+          "text": "农业文明"
+        },
+        {
+          "key": "B",
+          "text": "中华文明"
+        },
+        {
+          "key": "C",
+          "text": "生态文明"
+        },
+        {
+          "key": "D",
+          "text": "文明交流"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "生态文明"
+      ],
+      "topic": "第十二章 建设社会主义生态文明",
+      "category": "第十二章 建设社会主义生态文明",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter13-0003",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 3,
+      "question": "“天地与我并生，而万物与我为一”的“天人合一”思想，代表着我们祖先对处理（ ）的关系的重要认识",
+      "options": [
+        {
+          "key": "A",
+          "text": "天与地"
+        },
+        {
+          "key": "B",
+          "text": "人与自然"
+        },
+        {
+          "key": "C",
+          "text": "人与社会"
+        },
+        {
+          "key": "D",
+          "text": "人与人"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "人与自然"
+      ],
+      "topic": "第十二章 建设社会主义生态文明",
+      "category": "第十二章 建设社会主义生态文明",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter13-0004",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 4,
+      "question": "处理好绿水青山和金山银山的关系，关键在人，关键在（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "效益"
+        },
+        {
+          "key": "B",
+          "text": "钱"
+        },
+        {
+          "key": "C",
+          "text": "思路"
+        },
+        {
+          "key": "D",
+          "text": "高质量发展"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "思路"
+      ],
+      "topic": "第十二章 建设社会主义生态文明",
+      "category": "第十二章 建设社会主义生态文明",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter13-0005",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 5,
+      "question": "习近平指出：“（ ）是最公平的公共产品，是最普惠的民生福祉。”",
+      "options": [
+        {
+          "key": "A",
+          "text": "一带一路"
+        },
+        {
+          "key": "B",
+          "text": "法律面前人人平等"
+        },
+        {
+          "key": "C",
+          "text": "良好的生态环境"
+        },
+        {
+          "key": "D",
+          "text": "按劳分配"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "良好的生态环境"
+      ],
+      "topic": "第十二章 建设社会主义生态文明",
+      "category": "第十二章 建设社会主义生态文明",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter13-0006",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 6,
+      "question": "（ ）是全面建设社会主义现代化国家的重要目标，也是满足人民日益增长的优美生态环境需要的必然要求",
+      "options": [
+        {
+          "key": "A",
+          "text": "依法治国"
+        },
+        {
+          "key": "B",
+          "text": "建设美丽中国"
+        },
+        {
+          "key": "C",
+          "text": "共同富裕"
+        },
+        {
+          "key": "D",
+          "text": "建设文化强国"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "建设美丽中国"
+      ],
+      "topic": "第十二章 建设社会主义生态文明",
+      "category": "第十二章 建设社会主义生态文明",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter13-0007",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 7,
+      "question": "要树立尊重自然、顺应自然、保护自然的生态文明理念，增强（ ）的意识",
+      "options": [
+        {
+          "key": "A",
+          "text": "金山银山不如绿水青山"
+        },
+        {
+          "key": "B",
+          "text": "绿水青山就是金山银山"
+        },
+        {
+          "key": "C",
+          "text": "金山银山就是绿水青山"
+        },
+        {
+          "key": "D",
+          "text": "绿水青山胜过金山银山"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "绿水青山就是金山银山"
+      ],
+      "topic": "第十二章 建设社会主义生态文明",
+      "category": "第十二章 建设社会主义生态文明",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter13-0008",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 8,
+      "question": "加快构建生态文明体系，确保到（ ）美丽中国目标基本实现",
+      "options": [
+        {
+          "key": "A",
+          "text": "2020年"
+        },
+        {
+          "key": "B",
+          "text": "2025年"
+        },
+        {
+          "key": "C",
+          "text": "2030年"
+        },
+        {
+          "key": "D",
+          "text": "2035年"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "2035年"
+      ],
+      "topic": "第十二章 建设社会主义生态文明",
+      "category": "第十二章 建设社会主义生态文明",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter13-0009",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 9,
+      "question": "人因自然而生，人与自然是一种( )",
+      "options": [
+        {
+          "key": "A",
+          "text": "利用关系"
+        },
+        {
+          "key": "B",
+          "text": "共生关系"
+        },
+        {
+          "key": "C",
+          "text": "敌对关系"
+        },
+        {
+          "key": "D",
+          "text": "生存关系"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "共生关系"
+      ],
+      "topic": "第十二章 建设社会主义生态文明",
+      "category": "第十二章 建设社会主义生态文明",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter13-0010",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 10,
+      "question": "习近平“两山论”的突出贡献是（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "马克思主义生产力观的新成果"
+        },
+        {
+          "key": "B",
+          "text": "马克思主义唯物史观的新成果"
+        },
+        {
+          "key": "C",
+          "text": "马克思主义文明观的新成果"
+        },
+        {
+          "key": "D",
+          "text": "马克思主义世界观的新成果"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "马克思主义生产力观的新成果"
+      ],
+      "topic": "第十二章 建设社会主义生态文明",
+      "category": "第十二章 建设社会主义生态文明",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter13-0011",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 11,
+      "question": "中国特色社会主义事业总体布局中，最新纳入其中的是（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "政治建设"
+        },
+        {
+          "key": "B",
+          "text": "社会建设"
+        },
+        {
+          "key": "C",
+          "text": "文化建设"
+        },
+        {
+          "key": "D",
+          "text": "生态文明建设"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "生态文明建设"
+      ],
+      "topic": "第十二章 建设社会主义生态文明",
+      "category": "第十二章 建设社会主义生态文明",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter13-0012",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 12,
+      "question": "生态文明是（ ）发展到一定阶段的产物，是人类社会进步的重大成果",
+      "options": [
+        {
+          "key": "A",
+          "text": "人类文明"
+        },
+        {
+          "key": "B",
+          "text": "原始文明"
+        },
+        {
+          "key": "C",
+          "text": "农业文明"
+        },
+        {
+          "key": "D",
+          "text": "工业文明"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "工业文明"
+      ],
+      "topic": "第十二章 建设社会主义生态文明",
+      "category": "第十二章 建设社会主义生态文明",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter13-0013",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 13,
+      "question": "恩格斯在《自然辩证法》中写道：“美索不达米亚、希腊、小亚细亚以及其他各地的居民，为了得到耕地，毁灭了森林，但是他们做梦也想不到，这些地方今天竟因此而成为不毛之地”。这句话表明（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "人与自然之间是对立的关系"
+        },
+        {
+          "key": "B",
+          "text": "生态环境变化直接影响文明的兴衰演替"
+        },
+        {
+          "key": "C",
+          "text": "生态文明是人类文明发展的历史趋势"
+        },
+        {
+          "key": "D",
+          "text": "人依赖和从属于自然"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "生态环境变化直接影响文明的兴衰演替"
+      ],
+      "topic": "第十二章 建设社会主义生态文明",
+      "category": "第十二章 建设社会主义生态文明",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter13-0014",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 14,
+      "question": "从根本上讲，生态环境保护和经济发展是（ ）的关系",
+      "options": [
+        {
+          "key": "A",
+          "text": "辩证统一、相辅相成"
+        },
+        {
+          "key": "B",
+          "text": "矛盾对立"
+        },
+        {
+          "key": "C",
+          "text": "相互独立"
+        },
+        {
+          "key": "D",
+          "text": "从属"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "辩证统一、相辅相成"
+      ],
+      "topic": "第十二章 建设社会主义生态文明",
+      "category": "第十二章 建设社会主义生态文明",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter13-0015",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 15,
+      "question": "上世纪八九十年代，浙江安吉县余村是全县有名的工业村、污染严重村。2005年开始，余村深入实施“千村示范 万村整治”工程，淘汰重污染企业，开展村庄整治，转型发展农家乐休闲旅游。2019年，全村农家乐经营业主38家，年接待游客50万人次，旅游总收入3600多万元。安吉余村的实践体现了习近平生态文明思想中（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚持生态兴则文明兴"
+        },
+        {
+          "key": "B",
+          "text": "坚持人与自然和谐共生"
+        },
+        {
+          "key": "C",
+          "text": "坚持绿水青山就是金山银山"
+        },
+        {
+          "key": "D",
+          "text": "坚持良好生态环境是最普惠的民生福祉"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "坚持绿水青山就是金山银山"
+      ],
+      "topic": "第十二章 建设社会主义生态文明",
+      "category": "第十二章 建设社会主义生态文明",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter13-0016",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 16,
+      "question": "习近平指出：“生态是统一的自然系统，是相互依存、紧密联系的有机链条。人的命脉在田，田的命脉在水，水的命脉在山，山的命脉在土，土的命脉在林和草，这个生命共同体是人类生存发展的物质基础。”这段话突出体现了习近平新时代中国特色社会主义思想的世界观和方法论中的（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚持人民至上"
+        },
+        {
+          "key": "B",
+          "text": "坚持问题导向"
+        },
+        {
+          "key": "C",
+          "text": "坚持系统观念"
+        },
+        {
+          "key": "D",
+          "text": "坚持胸怀天下"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "坚持系统观念"
+      ],
+      "topic": "第十二章 建设社会主义生态文明",
+      "category": "第十二章 建设社会主义生态文明",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter13-0017",
+      "volume": 1,
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 17,
+      "question": "保护环境是全人类的共同责任，在应对气候变化问题上，应（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚持共同的责任原则"
+        },
+        {
+          "key": "B",
+          "text": "坚持有区别的责任原则"
+        },
+        {
+          "key": "C",
+          "text": "坚持共同但有区别的责任原则"
+        },
+        {
+          "key": "D",
+          "text": "坚持历史责任原则"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "坚持共同但有区别的责任原则"
+      ],
+      "topic": "第十二章 建设社会主义生态文明",
+      "category": "第十二章 建设社会主义生态文明",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter13-0018",
+      "volume": 1,
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "number": 18,
+      "question": "绿水青山是（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "自然财富"
+        },
+        {
+          "key": "B",
+          "text": "生态财富"
+        },
+        {
+          "key": "C",
+          "text": "社会财富"
+        },
+        {
+          "key": "D",
+          "text": "经济财富"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answerText": [
+        "自然财富",
+        "生态财富",
+        "社会财富",
+        "经济财富"
+      ],
+      "topic": "第十二章 建设社会主义生态文明",
+      "category": "第十二章 建设社会主义生态文明",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter13-0019",
+      "volume": 1,
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "number": 19,
+      "question": "生态文明建设是（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "重大的经济问题"
+        },
+        {
+          "key": "B",
+          "text": "关系党的使命宗旨的重大政治问题"
+        },
+        {
+          "key": "C",
+          "text": "关系民生福祉的重大社会问题"
+        },
+        {
+          "key": "D",
+          "text": "“五位一体”总体布局之一"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answerText": [
+        "重大的经济问题",
+        "关系党的使命宗旨的重大政治问题",
+        "关系民生福祉的重大社会问题",
+        "“五位一体”总体布局之一"
+      ],
+      "topic": "第十二章 建设社会主义生态文明",
+      "category": "第十二章 建设社会主义生态文明",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter13-0020",
+      "volume": 1,
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "number": 20,
+      "question": "对“绿水青山就是金山银山”的理解，正确的观点是（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "这是重要的发展理念"
+        },
+        {
+          "key": "B",
+          "text": "也是推进现代化建设的重大原则"
+        },
+        {
+          "key": "C",
+          "text": "阐明了经济发展与生态环境保护之间的关系"
+        },
+        {
+          "key": "D",
+          "text": "揭示了保护生态环境就是保护生产力、改善生态环境就是发展生产力的道理"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answerText": [
+        "这是重要的发展理念",
+        "也是推进现代化建设的重大原则",
+        "阐明了经济发展与生态环境保护之间的关系",
+        "揭示了保护生态环境就是保护生产力、改善生态环境就是发展生产力的道理"
+      ],
+      "topic": "第十二章 建设社会主义生态文明",
+      "category": "第十二章 建设社会主义生态文明",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter13-0021",
+      "volume": 1,
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "number": 21,
+      "question": "加快形成绿色生产方式和生活方式,要（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "加快推动产业结构、能源结构、交通运输结构等调整优化"
+        },
+        {
+          "key": "B",
+          "text": "推进各类资源节约集约利用"
+        },
+        {
+          "key": "C",
+          "text": "积极稳妥推进碳达峰碳中和"
+        },
+        {
+          "key": "D",
+          "text": "健全绿色发展的保障体系"
+        },
+        {
+          "key": "E",
+          "text": "把建设美丽中国转化为全体人民的自觉行动"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answerText": [
+        "加快推动产业结构、能源结构、交通运输结构等调整优化",
+        "推进各类资源节约集约利用",
+        "积极稳妥推进碳达峰碳中和",
+        "健全绿色发展的保障体系",
+        "把建设美丽中国转化为全体人民的自觉行动"
+      ],
+      "topic": "第十二章 建设社会主义生态文明",
+      "category": "第十二章 建设社会主义生态文明",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter13-0022",
+      "volume": 1,
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "number": 22,
+      "question": "共建清洁美丽世界，必须（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚持以人为本"
+        },
+        {
+          "key": "B",
+          "text": "坚持多边主义"
+        },
+        {
+          "key": "C",
+          "text": "坚持共同但有区别的责任原则"
+        },
+        {
+          "key": "D",
+          "text": "坚持科学治理"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answerText": [
+        "坚持以人为本",
+        "坚持多边主义",
+        "坚持共同但有区别的责任原则",
+        "坚持科学治理"
+      ],
+      "topic": "第十二章 建设社会主义生态文明",
+      "category": "第十二章 建设社会主义生态文明",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter13-0023",
+      "volume": 1,
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "number": 23,
+      "question": "把建设美丽中国转化为全体人民自觉行动,要做到（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚持用最严格制度最严密法治保护生态环境的同时，激发起全社会共同呵护生态环境的内生动力"
+        },
+        {
+          "key": "B",
+          "text": "增强全民节约意识、环保意识、生态意识"
+        },
+        {
+          "key": "C",
+          "text": "培育生态道德和行为准则，开展全民绿色行动"
+        },
+        {
+          "key": "D",
+          "text": "动员全社会都以实际行动减少能源资源消耗和污染排放"
+        },
+        {
+          "key": "E",
+          "text": "加快形成绿色生产方式和生活方式"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answerText": [
+        "坚持用最严格制度最严密法治保护生态环境的同时，激发起全社会共同呵护生态环境的内生动力",
+        "增强全民节约意识、环保意识、生态意识",
+        "培育生态道德和行为准则，开展全民绿色行动",
+        "动员全社会都以实际行动减少能源资源消耗和污染排放",
+        "加快形成绿色生产方式和生活方式"
+      ],
+      "topic": "第十二章 建设社会主义生态文明",
+      "category": "第十二章 建设社会主义生态文明",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter13-0024",
+      "volume": 1,
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "number": 24,
+      "question": "保护生态环境必须依靠制度、依靠法治,要做到（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "构建产权清晰、多元参与、激励约束并重、系统完整的生态文明制度体系"
+        },
+        {
+          "key": "B",
+          "text": "实行最严格的生态环境保护制度"
+        },
+        {
+          "key": "C",
+          "text": "全面建立资源高效利用制度"
+        },
+        {
+          "key": "D",
+          "text": "严明生态环境保护责任制度"
+        },
+        {
+          "key": "E",
+          "text": "严格执行制度"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answerText": [
+        "构建产权清晰、多元参与、激励约束并重、系统完整的生态文明制度体系",
+        "实行最严格的生态环境保护制度",
+        "全面建立资源高效利用制度",
+        "严明生态环境保护责任制度",
+        "严格执行制度"
+      ],
+      "topic": "第十二章 建设社会主义生态文明",
+      "category": "第十二章 建设社会主义生态文明",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter13-0025",
+      "volume": 1,
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "number": 25,
+      "question": "对共同但有区别的责任原则的理解，正确的说法是（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "必须充分考虑历史责任、各国国情和生态治理能力"
+        },
+        {
+          "key": "B",
+          "text": "坚持各尽所能、国家自主决定贡献的制度安排"
+        },
+        {
+          "key": "C",
+          "text": "必须充分肯定发展中国家应对气候变化所作的贡献，照顾其特殊困难和关切"
+        },
+        {
+          "key": "D",
+          "text": "发达国家应该主动承担历史责任，为发展中国家提供资金、技术、能力建设等方面支持"
+        },
+        {
+          "key": "E",
+          "text": "发达国家和发展中国家处于不同发展阶段，但在环境问题上的历史责任相同"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answerText": [
+        "必须充分考虑历史责任、各国国情和生态治理能力",
+        "坚持各尽所能、国家自主决定贡献的制度安排",
+        "必须充分肯定发展中国家应对气候变化所作的贡献，照顾其特殊困难和关切",
+        "发达国家应该主动承担历史责任，为发展中国家提供资金、技术、能力建设等方面支持"
+      ],
+      "topic": "第十二章 建设社会主义生态文明",
+      "category": "第十二章 建设社会主义生态文明",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter13-0026",
+      "volume": 1,
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "number": 26,
+      "question": "推动全球可持续发展,我国必须（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "积极参与全球气候治理"
+        },
+        {
+          "key": "B",
+          "text": "积极推进全球生物多样性治理"
+        },
+        {
+          "key": "C",
+          "text": "积极打造绿色“一带一路”"
+        },
+        {
+          "key": "D",
+          "text": "积极落实联合国生态系统恢复十年行动计划，实施生物多样性保护修复重大工程"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answerText": [
+        "积极参与全球气候治理",
+        "积极推进全球生物多样性治理",
+        "积极打造绿色“一带一路”",
+        "积极落实联合国生态系统恢复十年行动计划，实施生物多样性保护修复重大工程"
+      ],
+      "topic": "第十二章 建设社会主义生态文明",
+      "category": "第十二章 建设社会主义生态文明",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter13-0027",
+      "volume": 1,
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "number": 27,
+      "question": "在整个发展过程中，我们都要坚持（ ）的方针，要像保护眼睛一样保护生态环境",
+      "options": [
+        {
+          "key": "A",
+          "text": "节约优先"
+        },
+        {
+          "key": "B",
+          "text": "发展为主"
+        },
+        {
+          "key": "C",
+          "text": "保护优先"
+        },
+        {
+          "key": "D",
+          "text": "自然恢复为主"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "C",
+        "D"
+      ],
+      "answerText": [
+        "节约优先",
+        "保护优先",
+        "自然恢复为主"
+      ],
+      "topic": "第十二章 建设社会主义生态文明",
+      "category": "第十二章 建设社会主义生态文明",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter13-0028",
+      "volume": 1,
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "number": 28,
+      "question": "绿水青山就是金山银山，阐述了（ ）的关系",
+      "options": [
+        {
+          "key": "A",
+          "text": "社会和谐"
+        },
+        {
+          "key": "B",
+          "text": "经济发展"
+        },
+        {
+          "key": "C",
+          "text": "生态环境保护"
+        },
+        {
+          "key": "D",
+          "text": "人类生存"
+        }
+      ],
+      "answerKeys": [
+        "B",
+        "C"
+      ],
+      "answerText": [
+        "经济发展",
+        "生态环境保护"
+      ],
+      "topic": "第十二章 建设社会主义生态文明",
+      "category": "第十二章 建设社会主义生态文明",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter13-0029",
+      "volume": 1,
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "number": 29,
+      "question": "实现（ ）是我国向世界作出的庄严承诺，也是一场广泛而深刻的经济社会变革，绝不是轻轻松松就能实现的",
+      "options": [
+        {
+          "key": "A",
+          "text": "碳达峰"
+        },
+        {
+          "key": "B",
+          "text": "碳中和"
+        },
+        {
+          "key": "C",
+          "text": "建设美丽世界"
+        },
+        {
+          "key": "D",
+          "text": "构建人与自然的生命共同体"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B"
+      ],
+      "answerText": [
+        "碳达峰",
+        "碳中和"
+      ],
+      "topic": "第十二章 建设社会主义生态文明",
+      "category": "第十二章 建设社会主义生态文明",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter13-0030",
+      "volume": 1,
+      "type": "judge",
+      "typeLabel": "判断题",
+      "number": 30,
+      "question": "“天地与我并生，而万物与我为一”的“天人合一”思想是中华文明的鲜明特色和独特标识，代表着我们祖先对处理人与自然关系的重要认识。（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "正确"
+      ],
+      "topic": "第十二章 建设社会主义生态文明",
+      "category": "第十二章 建设社会主义生态文明",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter13-0031",
+      "volume": 1,
+      "type": "judge",
+      "typeLabel": "判断题",
+      "number": 31,
+      "question": "绿水青山可带来金山银山，金山银山也可买到绿水青山。（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "错误"
+      ],
+      "topic": "第十二章 建设社会主义生态文明",
+      "category": "第十二章 建设社会主义生态文明",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter13-0032",
+      "volume": 1,
+      "type": "judge",
+      "typeLabel": "判断题",
+      "number": 32,
+      "question": "生态环境保护和经济发展是矛盾对立的关系，是鱼和熊掌不可兼得的。（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "错误"
+      ],
+      "topic": "第十二章 建设社会主义生态文明",
+      "category": "第十二章 建设社会主义生态文明",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter13-0033",
+      "volume": 1,
+      "type": "judge",
+      "typeLabel": "判断题",
+      "number": 33,
+      "question": "建设生态文明是顺应人类文明进程.实现人与自然和谐共生的必然要求，具有历史必然性。（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "正确"
+      ],
+      "topic": "第十二章 建设社会主义生态文明",
+      "category": "第十二章 建设社会主义生态文明",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter13-0034",
+      "volume": 1,
+      "type": "judge",
+      "typeLabel": "判断题",
+      "number": 34,
+      "question": "良好生态环境是最普惠的民生福祉。（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "正确"
+      ],
+      "topic": "第十二章 建设社会主义生态文明",
+      "category": "第十二章 建设社会主义生态文明",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter13-0035",
+      "volume": 1,
+      "type": "judge",
+      "typeLabel": "判断题",
+      "number": 35,
+      "question": "我们要优化国土空间开发保护格局，在自然保护地开发房地产。（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "错误"
+      ],
+      "topic": "第十二章 建设社会主义生态文明",
+      "category": "第十二章 建设社会主义生态文明",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter13-0036",
+      "volume": 1,
+      "type": "judge",
+      "typeLabel": "判断题",
+      "number": 36,
+      "question": "人和自然是生命共同体，人与自然是一种共生关系。（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "正确"
+      ],
+      "topic": "第十二章 建设社会主义生态文明",
+      "category": "第十二章 建设社会主义生态文明",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter13-0037",
+      "volume": 1,
+      "type": "judge",
+      "typeLabel": "判断题",
+      "number": 37,
+      "question": "要实现我国经济社会的可持续发展，必须着力开发利用传统能源，提高资源利用效率。（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "错误"
+      ],
+      "topic": "第十二章 建设社会主义生态文明",
+      "category": "第十二章 建设社会主义生态文明",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter13-0038",
+      "volume": 1,
+      "type": "judge",
+      "typeLabel": "判断题",
+      "number": 38,
+      "question": "发达国家应减少的是“奢侈排放”，中国则是最大限度地克制“生存和发展排放”。（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "错误"
+      ],
+      "topic": "第十二章 建设社会主义生态文明",
+      "category": "第十二章 建设社会主义生态文明",
+      "score": 1,
+      "analysis": ""
+    },
+    {
+      "id": "xsd-chapter13-0039",
+      "volume": 1,
+      "type": "judge",
+      "typeLabel": "判断题",
+      "number": 39,
+      "question": "党的十八大以来，以习近平同志为核心的党中央坚持的绿水青山就是金山银山理念，把生态文明建设摆在全局工作的突出位置。（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "正确"
+      ],
+      "topic": "第十二章 建设社会主义生态文明",
+      "category": "第十二章 建设社会主义生态文明",
+      "score": 1,
+      "analysis": ""
+    }
+  ]
+}

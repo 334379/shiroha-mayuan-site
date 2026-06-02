@@ -68,5 +68,138 @@
     "count": 78,
     "file": "data/mayuan-chapter7.json",
     "description": "由马原选择题题库 Word 文档转换导入。"
+  },
+  {
+    "id": "xsd-full",
+    "name": "习近平新时代中国特色社会主义思想概论",
+    "count": 558,
+    "file": "data/xsd-full.json",
+    "description": "由习近平新时代中国特色社会主义思想概论期末复习题库 Word 文档转换导入。"
+  },
+  {
+    "id": "xsd-chapter1",
+    "name": "习近平新时代中国特色社会主义思想概论-导论",
+    "count": 42,
+    "file": "data/xsd-chapter1.json",
+    "description": "由习近平新时代中国特色社会主义思想概论期末复习题库 Word 文档转换导入。"
+  },
+  {
+    "id": "xsd-chapter2",
+    "name": "习近平新时代中国特色社会主义思想概论-第一章",
+    "count": 20,
+    "file": "data/xsd-chapter2.json",
+    "description": "由习近平新时代中国特色社会主义思想概论期末复习题库 Word 文档转换导入。"
+  },
+  {
+    "id": "xsd-chapter3",
+    "name": "习近平新时代中国特色社会主义思想概论-第二章",
+    "count": 14,
+    "file": "data/xsd-chapter3.json",
+    "description": "由习近平新时代中国特色社会主义思想概论期末复习题库 Word 文档转换导入。"
+  },
+  {
+    "id": "xsd-chapter4",
+    "name": "习近平新时代中国特色社会主义思想概论-第三章",
+    "count": 20,
+    "file": "data/xsd-chapter4.json",
+    "description": "由习近平新时代中国特色社会主义思想概论期末复习题库 Word 文档转换导入。"
+  },
+  {
+    "id": "xsd-chapter5",
+    "name": "习近平新时代中国特色社会主义思想概论-第四章",
+    "count": 34,
+    "file": "data/xsd-chapter5.json",
+    "description": "由习近平新时代中国特色社会主义思想概论期末复习题库 Word 文档转换导入。"
+  },
+  {
+    "id": "xsd-chapter6",
+    "name": "习近平新时代中国特色社会主义思想概论-第五章",
+    "count": 36,
+    "file": "data/xsd-chapter6.json",
+    "description": "由习近平新时代中国特色社会主义思想概论期末复习题库 Word 文档转换导入。"
+  },
+  {
+    "id": "xsd-chapter7",
+    "name": "习近平新时代中国特色社会主义思想概论-第六章",
+    "count": 37,
+    "file": "data/xsd-chapter7.json",
+    "description": "由习近平新时代中国特色社会主义思想概论期末复习题库 Word 文档转换导入。"
+  },
+  {
+    "id": "xsd-chapter8",
+    "name": "习近平新时代中国特色社会主义思想概论-第七章",
+    "count": 34,
+    "file": "data/xsd-chapter8.json",
+    "description": "由习近平新时代中国特色社会主义思想概论期末复习题库 Word 文档转换导入。"
+  },
+  {
+    "id": "xsd-chapter9",
+    "name": "习近平新时代中国特色社会主义思想概论-第八章",
+    "count": 38,
+    "file": "data/xsd-chapter9.json",
+    "description": "由习近平新时代中国特色社会主义思想概论期末复习题库 Word 文档转换导入。"
+  },
+  {
+    "id": "xsd-chapter10",
+    "name": "习近平新时代中国特色社会主义思想概论-第九章",
+    "count": 34,
+    "file": "data/xsd-chapter10.json",
+    "description": "由习近平新时代中国特色社会主义思想概论期末复习题库 Word 文档转换导入。"
+  },
+  {
+    "id": "xsd-chapter11",
+    "name": "习近平新时代中国特色社会主义思想概论-第十章",
+    "count": 31,
+    "file": "data/xsd-chapter11.json",
+    "description": "由习近平新时代中国特色社会主义思想概论期末复习题库 Word 文档转换导入。"
+  },
+  {
+    "id": "xsd-chapter12",
+    "name": "习近平新时代中国特色社会主义思想概论-第十一章",
+    "count": 10,
+    "file": "data/xsd-chapter12.json",
+    "description": "由习近平新时代中国特色社会主义思想概论期末复习题库 Word 文档转换导入。"
+  },
+  {
+    "id": "xsd-chapter13",
+    "name": "习近平新时代中国特色社会主义思想概论-第十二章",
+    "count": 39,
+    "file": "data/xsd-chapter13.json",
+    "description": "由习近平新时代中国特色社会主义思想概论期末复习题库 Word 文档转换导入。"
+  },
+  {
+    "id": "xsd-chapter14",
+    "name": "习近平新时代中国特色社会主义思想概论-第十三章",
+    "count": 41,
+    "file": "data/xsd-chapter14.json",
+    "description": "由习近平新时代中国特色社会主义思想概论期末复习题库 Word 文档转换导入。"
+  },
+  {
+    "id": "xsd-chapter15",
+    "name": "习近平新时代中国特色社会主义思想概论-第十四章",
+    "count": 37,
+    "file": "data/xsd-chapter15.json",
+    "description": "由习近平新时代中国特色社会主义思想概论期末复习题库 Word 文档转换导入。"
+  },
+  {
+    "id": "xsd-chapter16",
+    "name": "习近平新时代中国特色社会主义思想概论-第十五章",
+    "count": 38,
+    "file": "data/xsd-chapter16.json",
+    "description": "由习近平新时代中国特色社会主义思想概论期末复习题库 Word 文档转换导入。"
+  },
+  {
+    "id": "xsd-chapter17",
+    "name": "习近平新时代中国特色社会主义思想概论-第十六章",
+    "count": 13,
+    "file": "data/xsd-chapter17.json",
+    "description": "由习近平新时代中国特色社会主义思想概论期末复习题库 Word 文档转换导入。"
+  },
+  {
+    "id": "xsd-chapter18",
+    "name": "习近平新时代中国特色社会主义思想概论-第十七章",
+    "count": 40,
+    "file": "data/xsd-chapter18.json",
+    "description": "由习近平新时代中国特色社会主义思想概论期末复习题库 Word 文档转换导入。"
   }
 ]
