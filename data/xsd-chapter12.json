@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "习近平新时代中国特色社会主义思想概论-第十一章",
-    "questionCount": 48,
+    "questionCount": 50,
     "volumes": 1,
     "sourceNote": "由 25-26-2 习概题库 Word 文档转换导入，主观题供自评。"
   },
@@ -621,19 +621,91 @@
     {
       "type": "single",
       "typeLabel": "单选题",
-      "question": "习近平指出：“（ ）是最大的民生工程、民心工程、根基工程，必须抓紧抓实抓好。” （ ）是民生之源，是改善民生、实现发展成果由人民共享最重要最直接的方式。 近平指出，保障和改善民生没有终点，只有连续不断的新起点，要采取针对性更强、覆盖面更大、作用更直接、效果更明显的举措，实实在在帮群众解难题、为群众增福祉、让群众享公平。保障和改善民生没有终点，只有连续不断的新起点，对于其措施，下列表述不当的是（ ） 。",
+      "question": "习近平指出：“（ ）是最大的民生工程、民心工程、根基工程，必须抓紧抓实抓好。”",
+      "options": [
+        {
+          "key": "A",
+          "text": "教育"
+        },
+        {
+          "key": "C",
+          "text": "医疗"
+        },
+        {
+          "key": "B",
+          "text": "住房"
+        },
+        {
+          "key": "D",
+          "text": "就业"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "就业"
+      ],
+      "topic": "第十一章 以保障和改善民生为重点加强社会建设",
+      "category": "第十一章 以保障和改善民生为重点加强社会建设",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-chapter12-0018",
+      "number": 18,
+      "volume": 1
+    },
+    {
+      "type": "single",
+      "typeLabel": "单选题",
+      "question": "（ ）是民生之源，是改善民生、实现发展成果由人民共享最重要最直接的方式。",
+      "options": [
+        {
+          "key": "A",
+          "text": "收入"
+        },
+        {
+          "key": "C",
+          "text": "就业"
+        },
+        {
+          "key": "B",
+          "text": "经济发展"
+        },
+        {
+          "key": "D",
+          "text": "依法治国"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "收入"
+      ],
+      "topic": "第十一章 以保障和改善民生为重点加强社会建设",
+      "category": "第十一章 以保障和改善民生为重点加强社会建设",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-chapter12-0019",
+      "number": 19,
+      "volume": 1
+    },
+    {
+      "type": "single",
+      "typeLabel": "单选题",
+      "question": "近平指出，保障和改善民生没有终点，只有连续不断的新起点，要采取针对性更强、覆盖面更大、作用更直接、效果更明显的举措，实实在在帮群众解难题、为群众增福祉、让群众享公平。保障和改善民生没有终点，只有连续不断的新起点，对于其措施，下列表述不当的是（ ） 。",
       "options": [
         {
           "key": "A",
           "text": "我们要形成的是共建、共治、共享的社会保障体系"
         },
         {
-          "key": "C",
-          "text": "改善民生是国家繁荣发展的必由之路"
-        },
-        {
           "key": "B",
           "text": "构建初次分配、再分配、三次分配协调配套的基础性制度安排"
+        },
+        {
+          "key": "C",
+          "text": "改善民生是国家繁荣发展的必由之路"
         },
         {
           "key": "D",
@@ -650,8 +722,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter12-0018",
-      "number": 18,
+      "id": "xsd-chapter12-0020",
+      "number": 20,
       "volume": 1
     },
     {
@@ -690,8 +762,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter12-0019",
-      "number": 19,
+      "id": "xsd-chapter12-0021",
+      "number": 21,
       "volume": 1
     },
     {
@@ -732,8 +804,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter12-0020",
-      "number": 20,
+      "id": "xsd-chapter12-0022",
+      "number": 22,
       "volume": 1
     },
     {
@@ -774,8 +846,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter12-0021",
-      "number": 21,
+      "id": "xsd-chapter12-0023",
+      "number": 23,
       "volume": 1
     },
     {
@@ -814,8 +886,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter12-0022",
-      "number": 22,
+      "id": "xsd-chapter12-0024",
+      "number": 24,
       "volume": 1
     },
     {
@@ -856,8 +928,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter12-0023",
-      "number": 23,
+      "id": "xsd-chapter12-0025",
+      "number": 25,
       "volume": 1
     },
     {
@@ -898,8 +970,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter12-0024",
-      "number": 24,
+      "id": "xsd-chapter12-0026",
+      "number": 26,
       "volume": 1
     },
     {
@@ -946,8 +1018,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter12-0025",
-      "number": 25,
+      "id": "xsd-chapter12-0027",
+      "number": 27,
       "volume": 1
     },
     {
@@ -994,8 +1066,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter12-0026",
-      "number": 26,
+      "id": "xsd-chapter12-0028",
+      "number": 28,
       "volume": 1
     },
     {
@@ -1036,8 +1108,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter12-0027",
-      "number": 27,
+      "id": "xsd-chapter12-0029",
+      "number": 29,
       "volume": 1
     },
     {
@@ -1074,8 +1146,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter12-0028",
-      "number": 28,
+      "id": "xsd-chapter12-0030",
+      "number": 30,
       "volume": 1
     },
     {
@@ -1112,8 +1184,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter12-0029",
-      "number": 29,
+      "id": "xsd-chapter12-0031",
+      "number": 31,
       "volume": 1
     },
     {
@@ -1160,8 +1232,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter12-0030",
-      "number": 30,
+      "id": "xsd-chapter12-0032",
+      "number": 32,
       "volume": 1
     },
     {
@@ -1208,8 +1280,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter12-0031",
-      "number": 31,
+      "id": "xsd-chapter12-0033",
+      "number": 33,
       "volume": 1
     },
     {
@@ -1246,8 +1318,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter12-0032",
-      "number": 32,
+      "id": "xsd-chapter12-0034",
+      "number": 34,
       "volume": 1
     },
     {
@@ -1288,8 +1360,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter12-0033",
-      "number": 33,
+      "id": "xsd-chapter12-0035",
+      "number": 35,
       "volume": 1
     },
     {
@@ -1328,8 +1400,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter12-0034",
-      "number": 34,
+      "id": "xsd-chapter12-0036",
+      "number": 36,
       "volume": 1
     },
     {
@@ -1370,8 +1442,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter12-0035",
-      "number": 35,
+      "id": "xsd-chapter12-0037",
+      "number": 37,
       "volume": 1
     },
     {
@@ -1412,8 +1484,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter12-0036",
-      "number": 36,
+      "id": "xsd-chapter12-0038",
+      "number": 38,
       "volume": 1
     },
     {
@@ -1454,8 +1526,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter12-0037",
-      "number": 37,
+      "id": "xsd-chapter12-0039",
+      "number": 39,
       "volume": 1
     },
     {
@@ -1496,62 +1568,6 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter12-0038",
-      "number": 38,
-      "volume": 1
-    },
-    {
-      "type": "judge",
-      "typeLabel": "判断题",
-      "question": "发展是解决民生问题的“总钥匙”，民生是发展的“指南针”。（ ）",
-      "options": [
-        {
-          "key": "A",
-          "text": "正确"
-        },
-        {
-          "key": "B",
-          "text": "错误"
-        }
-      ],
-      "answerKeys": [
-        "A"
-      ],
-      "answerText": [
-        "正确"
-      ],
-      "topic": "第十一章 以保障和改善民生为重点加强社会建设",
-      "category": "第十一章 以保障和改善民生为重点加强社会建设",
-      "score": 1,
-      "analysis": "",
-      "id": "xsd-chapter12-0039",
-      "number": 39,
-      "volume": 1
-    },
-    {
-      "type": "judge",
-      "typeLabel": "判断题",
-      "question": "要完善党委领导、政府负责、民主协商、社会协同、公众参与、法治保障、科技支撑的社会治理体系。（ ）",
-      "options": [
-        {
-          "key": "A",
-          "text": "正确"
-        },
-        {
-          "key": "B",
-          "text": "错误"
-        }
-      ],
-      "answerKeys": [
-        "A"
-      ],
-      "answerText": [
-        "正确"
-      ],
-      "topic": "第十一章 以保障和改善民生为重点加强社会建设",
-      "category": "第十一章 以保障和改善民生为重点加强社会建设",
-      "score": 1,
-      "analysis": "",
       "id": "xsd-chapter12-0040",
       "number": 40,
       "volume": 1
@@ -1559,7 +1575,7 @@
     {
       "type": "judge",
       "typeLabel": "判断题",
-      "question": "社会保障体系是由国家立法规定并以国家作为给付主体，为保障社会成员的基本生活和福利，对生活困难成员给予物质或服务帮助的各项措施的统称，主要涉及社会保险、社会救助、社会福利、社会优抚等方面。（ ）",
+      "question": "发展是解决民生问题的“总钥匙”，民生是发展的“指南针”。（ ）",
       "options": [
         {
           "key": "A",
@@ -1587,7 +1603,7 @@
     {
       "type": "judge",
       "typeLabel": "判断题",
-      "question": "社会建设主要包括两个方面重点：一是提高保障和改善民生水平、二是加强和创新社会治理。（ ）",
+      "question": "要完善党委领导、政府负责、民主协商、社会协同、公众参与、法治保障、科技支撑的社会治理体系。（ ）",
       "options": [
         {
           "key": "A",
@@ -1615,7 +1631,7 @@
     {
       "type": "judge",
       "typeLabel": "判断题",
-      "question": "保障和改善民生的重要原则是只要尽力而为，不要量力而行。（ ）",
+      "question": "社会保障体系是由国家立法规定并以国家作为给付主体，为保障社会成员的基本生活和福利，对生活困难成员给予物质或服务帮助的各项措施的统称，主要涉及社会保险、社会救助、社会福利、社会优抚等方面。（ ）",
       "options": [
         {
           "key": "A",
@@ -1627,10 +1643,10 @@
         }
       ],
       "answerKeys": [
-        "B"
+        "A"
       ],
       "answerText": [
-        "错误"
+        "正确"
       ],
       "topic": "第十一章 以保障和改善民生为重点加强社会建设",
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
@@ -1643,7 +1659,7 @@
     {
       "type": "judge",
       "typeLabel": "判断题",
-      "question": "推进社会治理现代化的目标是建设人人有责、人人尽责、人人享有的社会治理共同体。（ ）",
+      "question": "社会建设主要包括两个方面重点：一是提高保障和改善民生水平、二是加强和创新社会治理。（ ）",
       "options": [
         {
           "key": "A",
@@ -1671,7 +1687,7 @@
     {
       "type": "judge",
       "typeLabel": "判断题",
-      "question": "发展是解决民生问题的“总钥匙”，民生是发展的“指南针”。要在发展过程中始终注重民生、保障民生、改善民生。（ ）",
+      "question": "保障和改善民生的重要原则是只要尽力而为，不要量力而行。（ ）",
       "options": [
         {
           "key": "A",
@@ -1683,10 +1699,10 @@
         }
       ],
       "answerKeys": [
-        "A"
+        "B"
       ],
       "answerText": [
-        "正确"
+        "错误"
       ],
       "topic": "第十一章 以保障和改善民生为重点加强社会建设",
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
@@ -1699,7 +1715,7 @@
     {
       "type": "judge",
       "typeLabel": "判断题",
-      "question": "解决人民群众最关心最直接最现实的利益问题，是保障和改善民生的重中之重。（ ）",
+      "question": "推进社会治理现代化的目标是建设人人有责、人人尽责、人人享有的社会治理共同体。（ ）",
       "options": [
         {
           "key": "A",
@@ -1727,7 +1743,7 @@
     {
       "type": "judge",
       "typeLabel": "判断题",
-      "question": "人民健康是社会文明进步的基础，是民族昌盛和国家富强的重要标志，是促进人的全面发展的必然要求。（ ）",
+      "question": "发展是解决民生问题的“总钥匙”，民生是发展的“指南针”。要在发展过程中始终注重民生、保障民生、改善民生。（ ）",
       "options": [
         {
           "key": "A",
@@ -1755,6 +1771,62 @@
     {
       "type": "judge",
       "typeLabel": "判断题",
+      "question": "解决人民群众最关心最直接最现实的利益问题，是保障和改善民生的重中之重。（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "正确"
+      ],
+      "topic": "第十一章 以保障和改善民生为重点加强社会建设",
+      "category": "第十一章 以保障和改善民生为重点加强社会建设",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-chapter12-0048",
+      "number": 48,
+      "volume": 1
+    },
+    {
+      "type": "judge",
+      "typeLabel": "判断题",
+      "question": "人民健康是社会文明进步的基础，是民族昌盛和国家富强的重要标志，是促进人的全面发展的必然要求。（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "正确"
+      ],
+      "topic": "第十一章 以保障和改善民生为重点加强社会建设",
+      "category": "第十一章 以保障和改善民生为重点加强社会建设",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-chapter12-0049",
+      "number": 49,
+      "volume": 1
+    },
+    {
+      "type": "judge",
+      "typeLabel": "判断题",
       "question": "坚持以人民为中心的发展思想，在高质量发展中促进共同富裕，正确处理公正与法治的关系，构建初次分配、再分配、三次分配协调配套的基础性制度安排。（ ）",
       "options": [
         {
@@ -1776,8 +1848,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter12-0048",
-      "number": 48,
+      "id": "xsd-chapter12-0050",
+      "number": 50,
       "volume": 1
     }
   ]

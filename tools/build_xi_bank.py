@@ -16,7 +16,7 @@ SUBQUESTION_RE = re.compile(r"^\s*[（(](\d{1,2})[）)]\s*(.+)$")
 ANSWER_LINE_RE = re.compile(r"^\s*(?:正确答案|参考答案|答案)\s*[:：;；]?\s*([A-G]+|[√✓✔×XxVvFf]|正确|错误|对|错)?\s*$")
 REFERENCE_RE = re.compile(r"^\s*参考答案(?:要点)?\s*[:：]?\s*(.*)$")
 OPTION_MARK_RE = re.compile(r"(?<![A-Za-z])([A-G])(?:\s*[.．、]\s*|\s+(?=\S)|(?=[\u3400-\u9fff]))")
-EMBEDDED_ANSWER_RE = re.compile(r"[（(]\s*([A-G]{1,7}|[√✓✔×XxVvFf]|正确|错误|对|错)\s*[.。]?\s*[）)]")
+EMBEDDED_ANSWER_RE = re.compile(r"[（(][\s?]*([A-G]{1,7}|[√✓✔×XxVvFf]|正确|错误|对|错)[\s?.。]*[）)]")
 ANSWER_POINT_RE = re.compile(r"^(?:[①②③④⑤⑥⑦⑧⑨⑩]|第[一二三四五六七八九十]+[，、.]|[一二三四五六七八九十]+是)")
 SOURCE_ANSWER_OVERRIDES = {
     "“十四个坚持”的基本方略": ["A", "B", "C", "D"],
@@ -26,7 +26,11 @@ SOURCE_ANSWER_OVERRIDES = {
 
 def clean(value: str) -> str:
     value = value.replace("\u00a0", " ").replace("\u3000", " ")
-    return re.sub(r"[ \t]+", " ", value).strip()
+    value = re.sub(r"[ \t]+", " ", value).strip()
+    value = re.sub(r"^\?+", "", value).strip()
+    value = re.sub(r"\?+([，。、；：！？）】》])", r"\1", value)
+    value = re.sub(r"([，。、；：！？）】》])\?+", r"\1", value)
+    return value.strip()
 
 
 def normalized_lines(text: str) -> list[str]:

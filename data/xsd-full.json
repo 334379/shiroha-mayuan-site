@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "习近平新时代中国特色社会主义思想概论",
-    "questionCount": 735,
+    "questionCount": 751,
     "volumes": 1,
     "sourceNote": "由 25-26-2 习概题库 Word 文档转换导入，主观题供自评。"
   },
@@ -229,7 +229,7 @@
       "options": [
         {
           "key": "A",
-          "text": "发展与共享"
+          "text": "发展与共享?"
         },
         {
           "key": "B",
@@ -1821,15 +1821,15 @@
       "options": [
         {
           "key": "A",
-          "text": "历史维度"
+          "text": "历史维度? ? ?"
         },
         {
           "key": "B",
-          "text": "战略方向"
+          "text": "战略方向? ?"
         },
         {
           "key": "C",
-          "text": "战略格局"
+          "text": "战略格局??"
         },
         {
           "key": "D",
@@ -2009,7 +2009,7 @@
         },
         {
           "key": "C",
-          "text": "已经改变"
+          "text": "已经改变? ? ??"
         },
         {
           "key": "D",
@@ -2337,15 +2337,15 @@
       "options": [
         {
           "key": "A",
-          "text": "中国社会发展的必然选择"
+          "text": "中国社会发展的必然选择?????"
         },
         {
           "key": "B",
-          "text": "历史和人民的选择"
+          "text": "历史和人民的选择??"
         },
         {
           "key": "C",
-          "text": "中国道路的必然选择"
+          "text": "中国道路的必然选择? ? ? ? ?"
         },
         {
           "key": "D",
@@ -2357,8 +2357,8 @@
         "B"
       ],
       "answerText": [
-        "中国社会发展的必然选择",
-        "历史和人民的选择"
+        "中国社会发展的必然选择?????",
+        "历史和人民的选择??"
       ],
       "topic": "第一章 新时代坚持和发展中国特色社会主义",
       "category": "第一章 新时代坚持和发展中国特色社会主义",
@@ -3697,7 +3697,7 @@
         },
         {
           "key": "D",
-          "text": "是实现中华民族伟大复兴的必由之路"
+          "text": "是实现中华民族伟大复兴的必由之路?"
         }
       ],
       "answerKeys": [
@@ -3710,7 +3710,7 @@
         "中国特色社会主义道路是历史和人民的选择",
         "它符合中国国情，具有独特优势",
         "能够引领中国实现国家富强、人民幸福",
-        "是实现中华民族伟大复兴的必由之路"
+        "是实现中华民族伟大复兴的必由之路?"
       ],
       "topic": "第二章 以中国式现代化全面推进中华民族伟大复兴",
       "category": "第二章 以中国式现代化全面推进中华民族伟大复兴",
@@ -4189,7 +4189,43 @@
     {
       "type": "single",
       "typeLabel": "单选题",
-      "question": "善于抓问题、想办法、（ ）是党的领导水平和执政本领的集中体现。 坚定走中国道路，把(",
+      "question": "善于抓问题、想办法、（ ）是党的领导水平和执政本领的集中体现。",
+      "options": [
+        {
+          "key": "A",
+          "text": "议而不决"
+        },
+        {
+          "key": "B",
+          "text": "决而不行"
+        },
+        {
+          "key": "C",
+          "text": "决断重大事项"
+        },
+        {
+          "key": "D",
+          "text": "不议不决"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "决断重大事项"
+      ],
+      "topic": "第三章 坚持党的全面领导",
+      "category": "第三章 坚持党的全面领导",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-full-0119",
+      "number": 119,
+      "volume": 1
+    },
+    {
+      "type": "single",
+      "typeLabel": "单选题",
+      "question": "坚定走中国道路，把（ ）多人民凝聚成中国力量，焕发出中国精神，把新时代中国特色社会主义这篇大文章继续写好、写精彩，从根本上要靠党的全面领导，靠党把好方向盘。",
       "options": [
         {
           "key": "A",
@@ -4218,8 +4254,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0119",
-      "number": 119,
+      "id": "xsd-full-0120",
+      "number": 120,
       "volume": 1
     },
     {
@@ -4254,8 +4290,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0120",
-      "number": 120,
+      "id": "xsd-full-0121",
+      "number": 121,
       "volume": 1
     },
     {
@@ -4290,8 +4326,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0121",
-      "number": 121,
+      "id": "xsd-full-0122",
+      "number": 122,
       "volume": 1
     },
     {
@@ -4326,8 +4362,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0122",
-      "number": 122,
+      "id": "xsd-full-0123",
+      "number": 123,
       "volume": 1
     },
     {
@@ -4362,8 +4398,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0123",
-      "number": 123,
+      "id": "xsd-full-0124",
+      "number": 124,
       "volume": 1
     },
     {
@@ -4398,8 +4434,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0124",
-      "number": 124,
+      "id": "xsd-full-0125",
+      "number": 125,
       "volume": 1
     },
     {
@@ -4434,8 +4470,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0125",
-      "number": 125,
+      "id": "xsd-full-0126",
+      "number": 126,
       "volume": 1
     },
     {
@@ -4470,8 +4506,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0126",
-      "number": 126,
+      "id": "xsd-full-0127",
+      "number": 127,
       "volume": 1
     },
     {
@@ -4502,8 +4538,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0127",
-      "number": 127,
+      "id": "xsd-full-0128",
+      "number": 128,
       "volume": 1
     },
     {
@@ -4538,8 +4574,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0128",
-      "number": 128,
+      "id": "xsd-full-0129",
+      "number": 129,
       "volume": 1
     },
     {
@@ -4574,8 +4610,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0129",
-      "number": 129,
+      "id": "xsd-full-0130",
+      "number": 130,
       "volume": 1
     },
     {
@@ -4610,8 +4646,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0130",
-      "number": 130,
+      "id": "xsd-full-0131",
+      "number": 131,
       "volume": 1
     },
     {
@@ -4646,8 +4682,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0131",
-      "number": 131,
+      "id": "xsd-full-0132",
+      "number": 132,
       "volume": 1
     },
     {
@@ -4682,14 +4718,82 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0132",
-      "number": 132,
+      "id": "xsd-full-0133",
+      "number": 133,
       "volume": 1
     },
     {
       "type": "single",
       "typeLabel": "单选题",
-      "question": "从（ ）年开始，我国已经编制实施了14个五年规划，对我们创造出世所罕见的经济快速发展奇迹和社会长期稳定奇迹，发挥了卓有成效的作用。 “两个一百年”奋斗目标、已经实现了的是（ 全面建成小康社会 全面达到碳中和 中国共产党第十九届中央委员会第六次全体会议公报指出，党确立习近平同志党中央的核心、全党的核心地位，确立习近平新时代中国特色社会主义思想的指导地位，反映了全党全军全国各族人民共同心愿，对新时代党和国家事业发展、对推进中华民族伟大复兴历史进程具有（",
+      "question": "从（ ）年开始，我国已经编制实施了14个五年规划，对我们创造出世所罕见的经济快速发展奇迹和社会长期稳定奇迹，发挥了卓有成效的作用。",
+      "options": [
+        {
+          "key": "A",
+          "text": "1953"
+        },
+        {
+          "key": "B",
+          "text": "1992"
+        },
+        {
+          "key": "C",
+          "text": "1978"
+        },
+        {
+          "key": "D",
+          "text": "2012"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "1953"
+      ],
+      "topic": "第三章 坚持党的全面领导",
+      "category": "第三章 坚持党的全面领导",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-full-0134",
+      "number": 134,
+      "volume": 1
+    },
+    {
+      "type": "single",
+      "typeLabel": "单选题",
+      "question": "“两个一百年”奋斗目标、已经实现了的是（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "全面建成小康社会"
+        },
+        {
+          "key": "B",
+          "text": "全面达到碳中和"
+        },
+        {
+          "key": "D",
+          "text": "全面达到碳达峰"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "全面建成小康社会"
+      ],
+      "topic": "第三章 坚持党的全面领导",
+      "category": "第三章 坚持党的全面领导",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-full-0135",
+      "number": 135,
+      "volume": 1
+    },
+    {
+      "type": "single",
+      "typeLabel": "单选题",
+      "question": "中国共产党第十九届中央委员会第六次全体会议公报指出，党确立习近平同志党中央的核心、全党的核心地位，确立习近平新时代中国特色社会主义思想的指导地位，反映了全党全军全国各族人民共同心愿，对新时代党和国家事业发展、对推进中华民族伟大复兴历史进程具有（ ）意义。",
       "options": [
         {
           "key": "A",
@@ -4709,17 +4813,17 @@
         }
       ],
       "answerKeys": [
-        "A"
+        "C"
       ],
       "answerText": [
-        "基础性"
+        "决定性"
       ],
       "topic": "第三章 坚持党的全面领导",
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0133",
-      "number": 133,
+      "id": "xsd-full-0136",
+      "number": 136,
       "volume": 1
     },
     {
@@ -4760,8 +4864,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0134",
-      "number": 134,
+      "id": "xsd-full-0137",
+      "number": 137,
       "volume": 1
     },
     {
@@ -4800,8 +4904,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0135",
-      "number": 135,
+      "id": "xsd-full-0138",
+      "number": 138,
       "volume": 1
     },
     {
@@ -4840,8 +4944,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0136",
-      "number": 136,
+      "id": "xsd-full-0139",
+      "number": 139,
       "volume": 1
     },
     {
@@ -4882,8 +4986,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0137",
-      "number": 137,
+      "id": "xsd-full-0140",
+      "number": 140,
       "volume": 1
     },
     {
@@ -4924,8 +5028,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0138",
-      "number": 138,
+      "id": "xsd-full-0141",
+      "number": 141,
       "volume": 1
     },
     {
@@ -4966,8 +5070,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0139",
-      "number": 139,
+      "id": "xsd-full-0142",
+      "number": 142,
       "volume": 1
     },
     {
@@ -5006,8 +5110,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0140",
-      "number": 140,
+      "id": "xsd-full-0143",
+      "number": 143,
       "volume": 1
     },
     {
@@ -5048,8 +5152,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0141",
-      "number": 141,
+      "id": "xsd-full-0144",
+      "number": 144,
       "volume": 1
     },
     {
@@ -5088,8 +5192,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0142",
-      "number": 142,
+      "id": "xsd-full-0145",
+      "number": 145,
       "volume": 1
     },
     {
@@ -5130,8 +5234,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0143",
-      "number": 143,
+      "id": "xsd-full-0146",
+      "number": 146,
       "volume": 1
     },
     {
@@ -5158,90 +5262,6 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0144",
-      "number": 144,
-      "volume": 1
-    },
-    {
-      "type": "judge",
-      "typeLabel": "判断题",
-      "question": "中国共产党是最高政治领导力量。 （ ）",
-      "options": [
-        {
-          "key": "A",
-          "text": "正确"
-        },
-        {
-          "key": "B",
-          "text": "错误"
-        }
-      ],
-      "answerKeys": [
-        "A"
-      ],
-      "answerText": [
-        "正确"
-      ],
-      "topic": "第三章 坚持党的全面领导",
-      "category": "第三章 坚持党的全面领导",
-      "score": 1,
-      "analysis": "",
-      "id": "xsd-full-0145",
-      "number": 145,
-      "volume": 1
-    },
-    {
-      "type": "judge",
-      "typeLabel": "判断题",
-      "question": "民主是正确集中的前提和基础，离开民主讲集中，集中就成了个人专权专断。集中是民主的必然要求和归宿，离开集中搞民主，就会导致极端民主化和无政府状态。（ ）",
-      "options": [
-        {
-          "key": "A",
-          "text": "正确"
-        },
-        {
-          "key": "B",
-          "text": "错误"
-        }
-      ],
-      "answerKeys": [
-        "A"
-      ],
-      "answerText": [
-        "正确"
-      ],
-      "topic": "第三章 坚持党的全面领导",
-      "category": "第三章 坚持党的全面领导",
-      "score": 1,
-      "analysis": "",
-      "id": "xsd-full-0146",
-      "number": 146,
-      "volume": 1
-    },
-    {
-      "type": "judge",
-      "typeLabel": "判断题",
-      "question": "维护党中央权威和集中统一领导同坚持民主集中制是完全一致的。 （ ）",
-      "options": [
-        {
-          "key": "A",
-          "text": "正确"
-        },
-        {
-          "key": "B",
-          "text": "错误"
-        }
-      ],
-      "answerKeys": [
-        "A"
-      ],
-      "answerText": [
-        "正确"
-      ],
-      "topic": "第三章 坚持党的全面领导",
-      "category": "第三章 坚持党的全面领导",
-      "score": 1,
-      "analysis": "",
       "id": "xsd-full-0147",
       "number": 147,
       "volume": 1
@@ -5249,7 +5269,7 @@
     {
       "type": "judge",
       "typeLabel": "判断题",
-      "question": "党的任何组织和成员必须以实际行动维护党中央的权威，必须服从党中央集中统一领导，这是党的领导的最高原则。 （ ）",
+      "question": "中国共产党是最高政治领导力量。 （ ）",
       "options": [
         {
           "key": "A",
@@ -5277,7 +5297,7 @@
     {
       "type": "judge",
       "typeLabel": "判断题",
-      "question": "坚决维护习近平总书记党中央的核心、全党的核心地位，必须自觉同以习近平同志为核心的党中央保持高度一致，在思想上高度认同，政治上坚决维护，组织上自觉服从，行动上紧紧跟随，把“四个意识”落实到一言一行之中。 （ ）",
+      "question": "民主是正确集中的前提和基础，离开民主讲集中，集中就成了个人专权专断。集中是民主的必然要求和归宿，离开集中搞民主，就会导致极端民主化和无政府状态。（ ）",
       "options": [
         {
           "key": "A",
@@ -5305,7 +5325,7 @@
     {
       "type": "judge",
       "typeLabel": "判断题",
-      "question": "改革开放是决定当代中国命运的关键一招，也是实现“两个一百年”奋斗目标、实现中华民族伟大复兴的关键一招。 （ ）",
+      "question": "维护党中央权威和集中统一领导同坚持民主集中制是完全一致的。 （ ）",
       "options": [
         {
           "key": "A",
@@ -5333,7 +5353,7 @@
     {
       "type": "judge",
       "typeLabel": "判断题",
-      "question": "我们既不走封闭僵化的老路，也不走改旗易帜的邪路，要坚定不移走中国特色社会主义道路。 （ ）",
+      "question": "党的任何组织和成员必须以实际行动维护党中央的权威，必须服从党中央集中统一领导，这是党的领导的最高原则。 （ ）",
       "options": [
         {
           "key": "A",
@@ -5361,6 +5381,90 @@
     {
       "type": "judge",
       "typeLabel": "判断题",
+      "question": "坚决维护习近平总书记党中央的核心、全党的核心地位，必须自觉同以习近平同志为核心的党中央保持高度一致，在思想上高度认同，政治上坚决维护，组织上自觉服从，行动上紧紧跟随，把“四个意识”落实到一言一行之中。 （ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "正确"
+      ],
+      "topic": "第三章 坚持党的全面领导",
+      "category": "第三章 坚持党的全面领导",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-full-0152",
+      "number": 152,
+      "volume": 1
+    },
+    {
+      "type": "judge",
+      "typeLabel": "判断题",
+      "question": "改革开放是决定当代中国命运的关键一招，也是实现“两个一百年”奋斗目标、实现中华民族伟大复兴的关键一招。 （ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "正确"
+      ],
+      "topic": "第三章 坚持党的全面领导",
+      "category": "第三章 坚持党的全面领导",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-full-0153",
+      "number": 153,
+      "volume": 1
+    },
+    {
+      "type": "judge",
+      "typeLabel": "判断题",
+      "question": "我们既不走封闭僵化的老路，也不走改旗易帜的邪路，要坚定不移走中国特色社会主义道路。 （ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "正确"
+      ],
+      "topic": "第三章 坚持党的全面领导",
+      "category": "第三章 坚持党的全面领导",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-full-0154",
+      "number": 154,
+      "volume": 1
+    },
+    {
+      "type": "judge",
+      "typeLabel": "判断题",
       "question": "中国特色社会主义最大的优势是人民民主专政。 （ ）",
       "options": [
         {
@@ -5382,8 +5486,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0152",
-      "number": 152,
+      "id": "xsd-full-0155",
+      "number": 155,
       "volume": 1
     },
     {
@@ -5410,8 +5514,44 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0153",
-      "number": 153,
+      "id": "xsd-full-0156",
+      "number": 156,
+      "volume": 1
+    },
+    {
+      "type": "single",
+      "typeLabel": "单选题",
+      "question": "（ ）是中国共产党人的根本政治立场，是我们区别于其他政党的显著标志。",
+      "options": [
+        {
+          "key": "A",
+          "text": "人民立场"
+        },
+        {
+          "key": "B",
+          "text": "资本立场"
+        },
+        {
+          "key": "C",
+          "text": "实事求是"
+        },
+        {
+          "key": "D",
+          "text": "深化改革"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "人民立场"
+      ],
+      "topic": "第四章 坚持以人民为中心",
+      "category": "第四章 坚持以人民为中心",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-full-0157",
+      "number": 157,
       "volume": 1
     },
     {
@@ -5446,8 +5586,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0154",
-      "number": 154,
+      "id": "xsd-full-0158",
+      "number": 158,
       "volume": 1
     },
     {
@@ -5482,8 +5622,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0155",
-      "number": 155,
+      "id": "xsd-full-0159",
+      "number": 159,
       "volume": 1
     },
     {
@@ -5518,8 +5658,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0156",
-      "number": 156,
+      "id": "xsd-full-0160",
+      "number": 160,
       "volume": 1
     },
     {
@@ -5554,8 +5694,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0157",
-      "number": 157,
+      "id": "xsd-full-0161",
+      "number": 161,
       "volume": 1
     },
     {
@@ -5590,8 +5730,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0158",
-      "number": 158,
+      "id": "xsd-full-0162",
+      "number": 162,
       "volume": 1
     },
     {
@@ -5626,8 +5766,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0159",
-      "number": 159,
+      "id": "xsd-full-0163",
+      "number": 163,
       "volume": 1
     },
     {
@@ -5662,8 +5802,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0160",
-      "number": 160,
+      "id": "xsd-full-0164",
+      "number": 164,
       "volume": 1
     },
     {
@@ -5698,8 +5838,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0161",
-      "number": 161,
+      "id": "xsd-full-0165",
+      "number": 165,
       "volume": 1
     },
     {
@@ -5734,8 +5874,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0162",
-      "number": 162,
+      "id": "xsd-full-0166",
+      "number": 166,
       "volume": 1
     },
     {
@@ -5770,8 +5910,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0163",
-      "number": 163,
+      "id": "xsd-full-0167",
+      "number": 167,
       "volume": 1
     },
     {
@@ -5806,8 +5946,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0164",
-      "number": 164,
+      "id": "xsd-full-0168",
+      "number": 168,
       "volume": 1
     },
     {
@@ -5842,8 +5982,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0165",
-      "number": 165,
+      "id": "xsd-full-0169",
+      "number": 169,
       "volume": 1
     },
     {
@@ -5878,8 +6018,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0166",
-      "number": 166,
+      "id": "xsd-full-0170",
+      "number": 170,
       "volume": 1
     },
     {
@@ -5914,8 +6054,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0167",
-      "number": 167,
+      "id": "xsd-full-0171",
+      "number": 171,
       "volume": 1
     },
     {
@@ -5950,8 +6090,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0168",
-      "number": 168,
+      "id": "xsd-full-0172",
+      "number": 172,
       "volume": 1
     },
     {
@@ -5986,8 +6126,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0169",
-      "number": 169,
+      "id": "xsd-full-0173",
+      "number": 173,
       "volume": 1
     },
     {
@@ -6022,8 +6162,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0170",
-      "number": 170,
+      "id": "xsd-full-0174",
+      "number": 174,
       "volume": 1
     },
     {
@@ -6058,8 +6198,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0171",
-      "number": 171,
+      "id": "xsd-full-0175",
+      "number": 175,
       "volume": 1
     },
     {
@@ -6094,8 +6234,212 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0172",
-      "number": 172,
+      "id": "xsd-full-0176",
+      "number": 176,
+      "volume": 1
+    },
+    {
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "question": "对“江山就是人民，人民就是江山”的理解正确的是（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "始终闪耀着历史唯物主义的真理光辉"
+        },
+        {
+          "key": "B",
+          "text": "充分说明我国国体和政体的人民性"
+        },
+        {
+          "key": "C",
+          "text": "人民是我们党的生命之根、执政之基、力量之源"
+        },
+        {
+          "key": "D",
+          "text": "这是由我们党的性质和宗旨来决定的"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answerText": [
+        "始终闪耀着历史唯物主义的真理光辉",
+        "充分说明我国国体和政体的人民性",
+        "人民是我们党的生命之根、执政之基、力量之源",
+        "这是由我们党的性质和宗旨来决定的"
+      ],
+      "topic": "第四章 坚持以人民为中心",
+      "category": "第四章 坚持以人民为中心",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-full-0177",
+      "number": 177,
+      "volume": 1
+    },
+    {
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "question": "历史唯物主义群众史观认为，人民是（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "社会物质财富的创造者"
+        },
+        {
+          "key": "B",
+          "text": "社会精神财富的创造者"
+        },
+        {
+          "key": "C",
+          "text": "社会变革的决定力量"
+        },
+        {
+          "key": "D",
+          "text": "历史发展的辅助者"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C"
+      ],
+      "answerText": [
+        "社会物质财富的创造者",
+        "社会精神财富的创造者",
+        "社会变革的决定力量"
+      ],
+      "topic": "第四章 坚持以人民为中心",
+      "category": "第四章 坚持以人民为中心",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-full-0178",
+      "number": 178,
+      "volume": 1
+    },
+    {
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "question": "为坚守中国共产党人的初心和使命，我们要做到（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "以坚定的理想信念坚守初心"
+        },
+        {
+          "key": "B",
+          "text": "以真挚的人民情怀滋养初心"
+        },
+        {
+          "key": "C",
+          "text": "以牢固的公仆意识践行初心"
+        },
+        {
+          "key": "D",
+          "text": "追逐特殊利益"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C"
+      ],
+      "answerText": [
+        "以坚定的理想信念坚守初心",
+        "以真挚的人民情怀滋养初心",
+        "以牢固的公仆意识践行初心"
+      ],
+      "topic": "第四章 坚持以人民为中心",
+      "category": "第四章 坚持以人民为中心",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-full-0179",
+      "number": 179,
+      "volume": 1
+    },
+    {
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "question": "坚持人民立场，就要做到（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "热爱人民"
+        },
+        {
+          "key": "B",
+          "text": "尊重人民"
+        },
+        {
+          "key": "C",
+          "text": "敬畏人民"
+        },
+        {
+          "key": "D",
+          "text": "始终保持同人民群众的血肉联系"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answerText": [
+        "热爱人民",
+        "尊重人民",
+        "敬畏人民",
+        "始终保持同人民群众的血肉联系"
+      ],
+      "topic": "第四章 坚持以人民为中心",
+      "category": "第四章 坚持以人民为中心",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-full-0180",
+      "number": 180,
+      "volume": 1
+    },
+    {
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "question": "以人民为中心的发展思想要求（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "发展为了人民"
+        },
+        {
+          "key": "B",
+          "text": "发展依靠人民"
+        },
+        {
+          "key": "C",
+          "text": "发展成果由人民共享"
+        },
+        {
+          "key": "D",
+          "text": "发展成果由政府分配"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C"
+      ],
+      "answerText": [
+        "发展为了人民",
+        "发展依靠人民",
+        "发展成果由人民共享"
+      ],
+      "topic": "第四章 坚持以人民为中心",
+      "category": "第四章 坚持以人民为中心",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-full-0181",
+      "number": 181,
       "volume": 1
     },
     {
@@ -6136,8 +6480,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0173",
-      "number": 173,
+      "id": "xsd-full-0182",
+      "number": 182,
       "volume": 1
     },
     {
@@ -6178,8 +6522,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0174",
-      "number": 174,
+      "id": "xsd-full-0183",
+      "number": 183,
       "volume": 1
     },
     {
@@ -6220,8 +6564,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0175",
-      "number": 175,
+      "id": "xsd-full-0184",
+      "number": 184,
       "volume": 1
     },
     {
@@ -6262,8 +6606,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0176",
-      "number": 176,
+      "id": "xsd-full-0185",
+      "number": 185,
       "volume": 1
     },
     {
@@ -6302,8 +6646,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0177",
-      "number": 177,
+      "id": "xsd-full-0186",
+      "number": 186,
       "volume": 1
     },
     {
@@ -6330,8 +6674,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0178",
-      "number": 178,
+      "id": "xsd-full-0187",
+      "number": 187,
       "volume": 1
     },
     {
@@ -6358,8 +6702,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0179",
-      "number": 179,
+      "id": "xsd-full-0188",
+      "number": 188,
       "volume": 1
     },
     {
@@ -6386,8 +6730,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0180",
-      "number": 180,
+      "id": "xsd-full-0189",
+      "number": 189,
       "volume": 1
     },
     {
@@ -6414,8 +6758,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0181",
-      "number": 181,
+      "id": "xsd-full-0190",
+      "number": 190,
       "volume": 1
     },
     {
@@ -6442,8 +6786,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0182",
-      "number": 182,
+      "id": "xsd-full-0191",
+      "number": 191,
       "volume": 1
     },
     {
@@ -6470,8 +6814,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0183",
-      "number": 183,
+      "id": "xsd-full-0192",
+      "number": 192,
       "volume": 1
     },
     {
@@ -6498,8 +6842,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0184",
-      "number": 184,
+      "id": "xsd-full-0193",
+      "number": 193,
       "volume": 1
     },
     {
@@ -6526,8 +6870,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0185",
-      "number": 185,
+      "id": "xsd-full-0194",
+      "number": 194,
       "volume": 1
     },
     {
@@ -6554,8 +6898,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0186",
-      "number": 186,
+      "id": "xsd-full-0195",
+      "number": 195,
       "volume": 1
     },
     {
@@ -6582,8 +6926,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0187",
-      "number": 187,
+      "id": "xsd-full-0196",
+      "number": 196,
       "volume": 1
     },
     {
@@ -6618,8 +6962,8 @@
       "category": "第五章 全面深化改革",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0188",
-      "number": 188,
+      "id": "xsd-full-0197",
+      "number": 197,
       "volume": 1
     },
     {
@@ -6654,8 +6998,8 @@
       "category": "第五章 全面深化改革",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0189",
-      "number": 189,
+      "id": "xsd-full-0198",
+      "number": 198,
       "volume": 1
     },
     {
@@ -6690,8 +7034,8 @@
       "category": "第五章 全面深化改革",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0190",
-      "number": 190,
+      "id": "xsd-full-0199",
+      "number": 199,
       "volume": 1
     },
     {
@@ -6726,8 +7070,8 @@
       "category": "第五章 全面深化改革",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0191",
-      "number": 191,
+      "id": "xsd-full-0200",
+      "number": 200,
       "volume": 1
     },
     {
@@ -6762,8 +7106,8 @@
       "category": "第五章 全面深化改革",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0192",
-      "number": 192,
+      "id": "xsd-full-0201",
+      "number": 201,
       "volume": 1
     },
     {
@@ -6798,8 +7142,8 @@
       "category": "第五章 全面深化改革",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0193",
-      "number": 193,
+      "id": "xsd-full-0202",
+      "number": 202,
       "volume": 1
     },
     {
@@ -6834,8 +7178,8 @@
       "category": "第五章 全面深化改革",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0194",
-      "number": 194,
+      "id": "xsd-full-0203",
+      "number": 203,
       "volume": 1
     },
     {
@@ -6870,8 +7214,8 @@
       "category": "第五章 全面深化改革",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0195",
-      "number": 195,
+      "id": "xsd-full-0204",
+      "number": 204,
       "volume": 1
     },
     {
@@ -6906,8 +7250,8 @@
       "category": "第五章 全面深化改革",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0196",
-      "number": 196,
+      "id": "xsd-full-0205",
+      "number": 205,
       "volume": 1
     },
     {
@@ -6942,8 +7286,8 @@
       "category": "第五章 全面深化改革",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0197",
-      "number": 197,
+      "id": "xsd-full-0206",
+      "number": 206,
       "volume": 1
     },
     {
@@ -6978,8 +7322,8 @@
       "category": "第五章 全面深化改革",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0198",
-      "number": 198,
+      "id": "xsd-full-0207",
+      "number": 207,
       "volume": 1
     },
     {
@@ -7014,8 +7358,8 @@
       "category": "第五章 全面深化改革",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0199",
-      "number": 199,
+      "id": "xsd-full-0208",
+      "number": 208,
       "volume": 1
     },
     {
@@ -7050,8 +7394,8 @@
       "category": "第五章 全面深化改革",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0200",
-      "number": 200,
+      "id": "xsd-full-0209",
+      "number": 209,
       "volume": 1
     },
     {
@@ -7086,8 +7430,8 @@
       "category": "第五章 全面深化改革",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0201",
-      "number": 201,
+      "id": "xsd-full-0210",
+      "number": 210,
       "volume": 1
     },
     {
@@ -7122,8 +7466,8 @@
       "category": "第五章 全面深化改革",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0202",
-      "number": 202,
+      "id": "xsd-full-0211",
+      "number": 211,
       "volume": 1
     },
     {
@@ -7133,7 +7477,7 @@
       "options": [
         {
           "key": "A",
-          "text": "消除绝对贫困"
+          "text": "消除绝对贫困????????????????"
         },
         {
           "key": "B",
@@ -7141,7 +7485,7 @@
         },
         {
           "key": "C",
-          "text": "跳出历史周期律"
+          "text": "跳出历史周期律??????????????"
         },
         {
           "key": "D",
@@ -7158,8 +7502,8 @@
       "category": "第五章 全面深化改革",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0203",
-      "number": 203,
+      "id": "xsd-full-0212",
+      "number": 212,
       "volume": 1
     },
     {
@@ -7169,7 +7513,7 @@
       "options": [
         {
           "key": "A",
-          "text": "不断开辟发展新领域新赛道"
+          "text": "不断开辟发展新领域新赛道?????"
         },
         {
           "key": "B",
@@ -7177,7 +7521,7 @@
         },
         {
           "key": "C",
-          "text": "坚持守正创新"
+          "text": "坚持守正创新????????????????"
         },
         {
           "key": "D",
@@ -7194,8 +7538,8 @@
       "category": "第五章 全面深化改革",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0204",
-      "number": 204,
+      "id": "xsd-full-0213",
+      "number": 213,
       "volume": 1
     },
     {
@@ -7205,7 +7549,7 @@
       "options": [
         {
           "key": "A",
-          "text": "重要领域和关键环节改革"
+          "text": "重要领域和关键环节改革??????"
         },
         {
           "key": "B",
@@ -7213,7 +7557,7 @@
         },
         {
           "key": "C",
-          "text": "制度建设"
+          "text": "制度建设????????????????????"
         },
         {
           "key": "D",
@@ -7230,14 +7574,14 @@
       "category": "第五章 全面深化改革",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0205",
-      "number": 205,
+      "id": "xsd-full-0214",
+      "number": 214,
       "volume": 1
     },
     {
       "type": "single",
       "typeLabel": "单选题",
-      "question": "全面深化改革总目标是一个内涵丰富的有机整体，其中（ ）规定了在根本方向指引下完善和发展中国特色社会主义制度的鲜明指向。",
+      "question": "全面深化改革总目标是一个内涵丰富的有机整体，其中（?? ）规定了在根本方向指引下完善和发展中国特色社会主义制度的鲜明指向。",
       "options": [
         {
           "key": "A",
@@ -7266,8 +7610,8 @@
       "category": "第五章 全面深化改革",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0206",
-      "number": 206,
+      "id": "xsd-full-0215",
+      "number": 215,
       "volume": 1
     },
     {
@@ -7302,8 +7646,8 @@
       "category": "第五章 全面深化改革",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0207",
-      "number": 207,
+      "id": "xsd-full-0216",
+      "number": 216,
       "volume": 1
     },
     {
@@ -7344,8 +7688,8 @@
       "category": "第五章 全面深化改革",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0208",
-      "number": 208,
+      "id": "xsd-full-0217",
+      "number": 217,
       "volume": 1
     },
     {
@@ -7386,8 +7730,8 @@
       "category": "第五章 全面深化改革",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0209",
-      "number": 209,
+      "id": "xsd-full-0218",
+      "number": 218,
       "volume": 1
     },
     {
@@ -7424,8 +7768,8 @@
       "category": "第五章 全面深化改革",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0210",
-      "number": 210,
+      "id": "xsd-full-0219",
+      "number": 219,
       "volume": 1
     },
     {
@@ -7472,8 +7816,8 @@
       "category": "第五章 全面深化改革",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0211",
-      "number": 211,
+      "id": "xsd-full-0220",
+      "number": 220,
       "volume": 1
     },
     {
@@ -7512,8 +7856,8 @@
       "category": "第五章 全面深化改革",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0212",
-      "number": 212,
+      "id": "xsd-full-0221",
+      "number": 221,
       "volume": 1
     },
     {
@@ -7560,8 +7904,8 @@
       "category": "第五章 全面深化改革",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0213",
-      "number": 213,
+      "id": "xsd-full-0222",
+      "number": 222,
       "volume": 1
     },
     {
@@ -7598,8 +7942,8 @@
       "category": "第五章 全面深化改革",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0214",
-      "number": 214,
+      "id": "xsd-full-0223",
+      "number": 223,
       "volume": 1
     },
     {
@@ -7640,8 +7984,8 @@
       "category": "第五章 全面深化改革",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0215",
-      "number": 215,
+      "id": "xsd-full-0224",
+      "number": 224,
       "volume": 1
     },
     {
@@ -7682,8 +8026,8 @@
       "category": "第五章 全面深化改革",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0216",
-      "number": 216,
+      "id": "xsd-full-0225",
+      "number": 225,
       "volume": 1
     },
     {
@@ -7730,8 +8074,8 @@
       "category": "第五章 全面深化改革",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0217",
-      "number": 217,
+      "id": "xsd-full-0226",
+      "number": 226,
       "volume": 1
     },
     {
@@ -7758,8 +8102,8 @@
       "category": "第五章 全面深化改革",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0218",
-      "number": 218,
+      "id": "xsd-full-0227",
+      "number": 227,
       "volume": 1
     },
     {
@@ -7786,8 +8130,8 @@
       "category": "第五章 全面深化改革",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0219",
-      "number": 219,
+      "id": "xsd-full-0228",
+      "number": 228,
       "volume": 1
     },
     {
@@ -7814,8 +8158,8 @@
       "category": "第五章 全面深化改革",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0220",
-      "number": 220,
+      "id": "xsd-full-0229",
+      "number": 229,
       "volume": 1
     },
     {
@@ -7842,8 +8186,8 @@
       "category": "第五章 全面深化改革",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0221",
-      "number": 221,
+      "id": "xsd-full-0230",
+      "number": 230,
       "volume": 1
     },
     {
@@ -7870,8 +8214,8 @@
       "category": "第五章 全面深化改革",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0222",
-      "number": 222,
+      "id": "xsd-full-0231",
+      "number": 231,
       "volume": 1
     },
     {
@@ -7898,8 +8242,8 @@
       "category": "第五章 全面深化改革",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0223",
-      "number": 223,
+      "id": "xsd-full-0232",
+      "number": 232,
       "volume": 1
     },
     {
@@ -7926,8 +8270,8 @@
       "category": "第五章 全面深化改革",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0224",
-      "number": 224,
+      "id": "xsd-full-0233",
+      "number": 233,
       "volume": 1
     },
     {
@@ -7954,8 +8298,8 @@
       "category": "第五章 全面深化改革",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0225",
-      "number": 225,
+      "id": "xsd-full-0234",
+      "number": 234,
       "volume": 1
     },
     {
@@ -7982,8 +8326,8 @@
       "category": "第五章 全面深化改革",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0226",
-      "number": 226,
+      "id": "xsd-full-0235",
+      "number": 235,
       "volume": 1
     },
     {
@@ -8018,8 +8362,8 @@
       "category": "第六章 推动高质量发展",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0227",
-      "number": 227,
+      "id": "xsd-full-0236",
+      "number": 236,
       "volume": 1
     },
     {
@@ -8054,8 +8398,8 @@
       "category": "第六章 推动高质量发展",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0228",
-      "number": 228,
+      "id": "xsd-full-0237",
+      "number": 237,
       "volume": 1
     },
     {
@@ -8090,8 +8434,8 @@
       "category": "第六章 推动高质量发展",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0229",
-      "number": 229,
+      "id": "xsd-full-0238",
+      "number": 238,
       "volume": 1
     },
     {
@@ -8126,8 +8470,8 @@
       "category": "第六章 推动高质量发展",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0230",
-      "number": 230,
+      "id": "xsd-full-0239",
+      "number": 239,
       "volume": 1
     },
     {
@@ -8162,8 +8506,8 @@
       "category": "第六章 推动高质量发展",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0231",
-      "number": 231,
+      "id": "xsd-full-0240",
+      "number": 240,
       "volume": 1
     },
     {
@@ -8198,8 +8542,8 @@
       "category": "第六章 推动高质量发展",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0232",
-      "number": 232,
+      "id": "xsd-full-0241",
+      "number": 241,
       "volume": 1
     },
     {
@@ -8234,8 +8578,8 @@
       "category": "第六章 推动高质量发展",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0233",
-      "number": 233,
+      "id": "xsd-full-0242",
+      "number": 242,
       "volume": 1
     },
     {
@@ -8270,8 +8614,8 @@
       "category": "第六章 推动高质量发展",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0234",
-      "number": 234,
+      "id": "xsd-full-0243",
+      "number": 243,
       "volume": 1
     },
     {
@@ -8306,8 +8650,8 @@
       "category": "第六章 推动高质量发展",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0235",
-      "number": 235,
+      "id": "xsd-full-0244",
+      "number": 244,
       "volume": 1
     },
     {
@@ -8342,8 +8686,8 @@
       "category": "第六章 推动高质量发展",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0236",
-      "number": 236,
+      "id": "xsd-full-0245",
+      "number": 245,
       "volume": 1
     },
     {
@@ -8378,8 +8722,8 @@
       "category": "第六章 推动高质量发展",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0237",
-      "number": 237,
+      "id": "xsd-full-0246",
+      "number": 246,
       "volume": 1
     },
     {
@@ -8414,8 +8758,8 @@
       "category": "第六章 推动高质量发展",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0238",
-      "number": 238,
+      "id": "xsd-full-0247",
+      "number": 247,
       "volume": 1
     },
     {
@@ -8450,8 +8794,8 @@
       "category": "第六章 推动高质量发展",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0239",
-      "number": 239,
+      "id": "xsd-full-0248",
+      "number": 248,
       "volume": 1
     },
     {
@@ -8486,8 +8830,8 @@
       "category": "第六章 推动高质量发展",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0240",
-      "number": 240,
+      "id": "xsd-full-0249",
+      "number": 249,
       "volume": 1
     },
     {
@@ -8522,8 +8866,8 @@
       "category": "第六章 推动高质量发展",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0241",
-      "number": 241,
+      "id": "xsd-full-0250",
+      "number": 250,
       "volume": 1
     },
     {
@@ -8558,8 +8902,8 @@
       "category": "第六章 推动高质量发展",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0242",
-      "number": 242,
+      "id": "xsd-full-0251",
+      "number": 251,
       "volume": 1
     },
     {
@@ -8594,8 +8938,8 @@
       "category": "第六章 推动高质量发展",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0243",
-      "number": 243,
+      "id": "xsd-full-0252",
+      "number": 252,
       "volume": 1
     },
     {
@@ -8630,8 +8974,8 @@
       "category": "第六章 推动高质量发展",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0244",
-      "number": 244,
+      "id": "xsd-full-0253",
+      "number": 253,
       "volume": 1
     },
     {
@@ -8666,8 +9010,8 @@
       "category": "第六章 推动高质量发展",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0245",
-      "number": 245,
+      "id": "xsd-full-0254",
+      "number": 254,
       "volume": 1
     },
     {
@@ -8702,8 +9046,8 @@
       "category": "第六章 推动高质量发展",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0246",
-      "number": 246,
+      "id": "xsd-full-0255",
+      "number": 255,
       "volume": 1
     },
     {
@@ -8748,8 +9092,8 @@
       "category": "第六章 推动高质量发展",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0247",
-      "number": 247,
+      "id": "xsd-full-0256",
+      "number": 256,
       "volume": 1
     },
     {
@@ -8788,8 +9132,8 @@
       "category": "第六章 推动高质量发展",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0248",
-      "number": 248,
+      "id": "xsd-full-0257",
+      "number": 257,
       "volume": 1
     },
     {
@@ -8830,8 +9174,8 @@
       "category": "第六章 推动高质量发展",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0249",
-      "number": 249,
+      "id": "xsd-full-0258",
+      "number": 258,
       "volume": 1
     },
     {
@@ -8870,8 +9214,8 @@
       "category": "第六章 推动高质量发展",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0250",
-      "number": 250,
+      "id": "xsd-full-0259",
+      "number": 259,
       "volume": 1
     },
     {
@@ -8910,8 +9254,8 @@
       "category": "第六章 推动高质量发展",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0251",
-      "number": 251,
+      "id": "xsd-full-0260",
+      "number": 260,
       "volume": 1
     },
     {
@@ -8948,8 +9292,8 @@
       "category": "第六章 推动高质量发展",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0252",
-      "number": 252,
+      "id": "xsd-full-0261",
+      "number": 261,
       "volume": 1
     },
     {
@@ -8986,8 +9330,8 @@
       "category": "第六章 推动高质量发展",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0253",
-      "number": 253,
+      "id": "xsd-full-0262",
+      "number": 262,
       "volume": 1
     },
     {
@@ -9024,8 +9368,8 @@
       "category": "第六章 推动高质量发展",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0254",
-      "number": 254,
+      "id": "xsd-full-0263",
+      "number": 263,
       "volume": 1
     },
     {
@@ -9062,8 +9406,8 @@
       "category": "第六章 推动高质量发展",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0255",
-      "number": 255,
+      "id": "xsd-full-0264",
+      "number": 264,
       "volume": 1
     },
     {
@@ -9100,8 +9444,8 @@
       "category": "第六章 推动高质量发展",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0256",
-      "number": 256,
+      "id": "xsd-full-0265",
+      "number": 265,
       "volume": 1
     },
     {
@@ -9128,8 +9472,8 @@
       "category": "第六章 推动高质量发展",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0257",
-      "number": 257,
+      "id": "xsd-full-0266",
+      "number": 266,
       "volume": 1
     },
     {
@@ -9156,8 +9500,8 @@
       "category": "第六章 推动高质量发展",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0258",
-      "number": 258,
+      "id": "xsd-full-0267",
+      "number": 267,
       "volume": 1
     },
     {
@@ -9184,8 +9528,8 @@
       "category": "第六章 推动高质量发展",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0259",
-      "number": 259,
+      "id": "xsd-full-0268",
+      "number": 268,
       "volume": 1
     },
     {
@@ -9212,8 +9556,8 @@
       "category": "第六章 推动高质量发展",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0260",
-      "number": 260,
+      "id": "xsd-full-0269",
+      "number": 269,
       "volume": 1
     },
     {
@@ -9240,8 +9584,8 @@
       "category": "第六章 推动高质量发展",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0261",
-      "number": 261,
+      "id": "xsd-full-0270",
+      "number": 270,
       "volume": 1
     },
     {
@@ -9268,14 +9612,14 @@
       "category": "第六章 推动高质量发展",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0262",
-      "number": 262,
+      "id": "xsd-full-0271",
+      "number": 271,
       "volume": 1
     },
     {
       "type": "judge",
       "typeLabel": "判断题",
-      "question": "坚持全民共享、全面共享、共建共享、渐进共享，使全体人民有更多获得感、幸福感、安全感，朝着共同富裕方向稳步前进。（ ） 国有企业是中国特色社会主义的重要物质基础和政治基础，是我们党执政兴国的重要支柱和依靠力量。（ ） 使市场在资源配置中起基础性作用，更好地发挥政府作用，这是我们党对中国特色社会主义建设规律认识的一个新突破。（ ） 宏观调控是党和国家治理经济的重要方式，其主要任务是保持经济总量平衡，促进重大经济结构协调和生产力布局优化。（ ）",
+      "question": "坚持全民共享、全面共享、共建共享、渐进共享，使全体人民有更多获得感、幸福感、安全感，朝着共同富裕方向稳步前进。（ ）",
       "options": [
         {
           "key": "A",
@@ -9296,8 +9640,92 @@
       "category": "第六章 推动高质量发展",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0263",
-      "number": 263,
+      "id": "xsd-full-0272",
+      "number": 272,
+      "volume": 1
+    },
+    {
+      "type": "judge",
+      "typeLabel": "判断题",
+      "question": "国有企业是中国特色社会主义的重要物质基础和政治基础，是我们党执政兴国的重要支柱和依靠力量。（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "正确"
+      ],
+      "topic": "第六章 推动高质量发展",
+      "category": "第六章 推动高质量发展",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-full-0273",
+      "number": 273,
+      "volume": 1
+    },
+    {
+      "type": "judge",
+      "typeLabel": "判断题",
+      "question": "使市场在资源配置中起基础性作用，更好地发挥政府作用，这是我们党对中国特色社会主义建设规律认识的一个新突破。（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "错误"
+      ],
+      "topic": "第六章 推动高质量发展",
+      "category": "第六章 推动高质量发展",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-full-0274",
+      "number": 274,
+      "volume": 1
+    },
+    {
+      "type": "judge",
+      "typeLabel": "判断题",
+      "question": "宏观调控是党和国家治理经济的重要方式，其主要任务是保持经济总量平衡，促进重大经济结构协调和生产力布局优化。（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "正确"
+      ],
+      "topic": "第六章 推动高质量发展",
+      "category": "第六章 推动高质量发展",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-full-0275",
+      "number": 275,
       "volume": 1
     },
     {
@@ -9332,8 +9760,8 @@
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0264",
-      "number": 264,
+      "id": "xsd-full-0276",
+      "number": 276,
       "volume": 1
     },
     {
@@ -9368,8 +9796,8 @@
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0265",
-      "number": 265,
+      "id": "xsd-full-0277",
+      "number": 277,
       "volume": 1
     },
     {
@@ -9404,8 +9832,8 @@
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0266",
-      "number": 266,
+      "id": "xsd-full-0278",
+      "number": 278,
       "volume": 1
     },
     {
@@ -9440,8 +9868,8 @@
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0267",
-      "number": 267,
+      "id": "xsd-full-0279",
+      "number": 279,
       "volume": 1
     },
     {
@@ -9476,8 +9904,8 @@
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0268",
-      "number": 268,
+      "id": "xsd-full-0280",
+      "number": 280,
       "volume": 1
     },
     {
@@ -9512,8 +9940,8 @@
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0269",
-      "number": 269,
+      "id": "xsd-full-0281",
+      "number": 281,
       "volume": 1
     },
     {
@@ -9548,8 +9976,8 @@
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0270",
-      "number": 270,
+      "id": "xsd-full-0282",
+      "number": 282,
       "volume": 1
     },
     {
@@ -9584,8 +10012,8 @@
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0271",
-      "number": 271,
+      "id": "xsd-full-0283",
+      "number": 283,
       "volume": 1
     },
     {
@@ -9620,8 +10048,8 @@
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0272",
-      "number": 272,
+      "id": "xsd-full-0284",
+      "number": 284,
       "volume": 1
     },
     {
@@ -9656,8 +10084,8 @@
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0273",
-      "number": 273,
+      "id": "xsd-full-0285",
+      "number": 285,
       "volume": 1
     },
     {
@@ -9692,8 +10120,8 @@
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0274",
-      "number": 274,
+      "id": "xsd-full-0286",
+      "number": 286,
       "volume": 1
     },
     {
@@ -9728,8 +10156,8 @@
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0275",
-      "number": 275,
+      "id": "xsd-full-0287",
+      "number": 287,
       "volume": 1
     },
     {
@@ -9764,8 +10192,8 @@
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0276",
-      "number": 276,
+      "id": "xsd-full-0288",
+      "number": 288,
       "volume": 1
     },
     {
@@ -9800,8 +10228,8 @@
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0277",
-      "number": 277,
+      "id": "xsd-full-0289",
+      "number": 289,
       "volume": 1
     },
     {
@@ -9836,8 +10264,8 @@
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0278",
-      "number": 278,
+      "id": "xsd-full-0290",
+      "number": 290,
       "volume": 1
     },
     {
@@ -9872,8 +10300,8 @@
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0279",
-      "number": 279,
+      "id": "xsd-full-0291",
+      "number": 291,
       "volume": 1
     },
     {
@@ -9908,8 +10336,8 @@
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0280",
-      "number": 280,
+      "id": "xsd-full-0292",
+      "number": 292,
       "volume": 1
     },
     {
@@ -9944,8 +10372,8 @@
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0281",
-      "number": 281,
+      "id": "xsd-full-0293",
+      "number": 293,
       "volume": 1
     },
     {
@@ -9980,8 +10408,8 @@
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0282",
-      "number": 282,
+      "id": "xsd-full-0294",
+      "number": 294,
       "volume": 1
     },
     {
@@ -10016,8 +10444,8 @@
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0283",
-      "number": 283,
+      "id": "xsd-full-0295",
+      "number": 295,
       "volume": 1
     },
     {
@@ -10056,8 +10484,8 @@
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0284",
-      "number": 284,
+      "id": "xsd-full-0296",
+      "number": 296,
       "volume": 1
     },
     {
@@ -10096,8 +10524,8 @@
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0285",
-      "number": 285,
+      "id": "xsd-full-0297",
+      "number": 297,
       "volume": 1
     },
     {
@@ -10136,8 +10564,8 @@
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0286",
-      "number": 286,
+      "id": "xsd-full-0298",
+      "number": 298,
       "volume": 1
     },
     {
@@ -10178,8 +10606,8 @@
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0287",
-      "number": 287,
+      "id": "xsd-full-0299",
+      "number": 299,
       "volume": 1
     },
     {
@@ -10220,8 +10648,8 @@
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0288",
-      "number": 288,
+      "id": "xsd-full-0300",
+      "number": 300,
       "volume": 1
     },
     {
@@ -10262,8 +10690,8 @@
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0289",
-      "number": 289,
+      "id": "xsd-full-0301",
+      "number": 301,
       "volume": 1
     },
     {
@@ -10304,8 +10732,8 @@
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0290",
-      "number": 290,
+      "id": "xsd-full-0302",
+      "number": 302,
       "volume": 1
     },
     {
@@ -10346,8 +10774,8 @@
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0291",
-      "number": 291,
+      "id": "xsd-full-0303",
+      "number": 303,
       "volume": 1
     },
     {
@@ -10388,8 +10816,8 @@
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0292",
-      "number": 292,
+      "id": "xsd-full-0304",
+      "number": 304,
       "volume": 1
     },
     {
@@ -10430,8 +10858,8 @@
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0293",
-      "number": 293,
+      "id": "xsd-full-0305",
+      "number": 305,
       "volume": 1
     },
     {
@@ -10458,8 +10886,8 @@
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0294",
-      "number": 294,
+      "id": "xsd-full-0306",
+      "number": 306,
       "volume": 1
     },
     {
@@ -10486,8 +10914,8 @@
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0295",
-      "number": 295,
+      "id": "xsd-full-0307",
+      "number": 307,
       "volume": 1
     },
     {
@@ -10514,8 +10942,8 @@
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0296",
-      "number": 296,
+      "id": "xsd-full-0308",
+      "number": 308,
       "volume": 1
     },
     {
@@ -10542,8 +10970,8 @@
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0297",
-      "number": 297,
+      "id": "xsd-full-0309",
+      "number": 309,
       "volume": 1
     },
     {
@@ -10570,8 +10998,8 @@
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0298",
-      "number": 298,
+      "id": "xsd-full-0310",
+      "number": 310,
       "volume": 1
     },
     {
@@ -10598,8 +11026,8 @@
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0299",
-      "number": 299,
+      "id": "xsd-full-0311",
+      "number": 311,
       "volume": 1
     },
     {
@@ -10626,8 +11054,8 @@
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0300",
-      "number": 300,
+      "id": "xsd-full-0312",
+      "number": 312,
       "volume": 1
     },
     {
@@ -10654,8 +11082,8 @@
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0301",
-      "number": 301,
+      "id": "xsd-full-0313",
+      "number": 313,
       "volume": 1
     },
     {
@@ -10682,8 +11110,8 @@
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0302",
-      "number": 302,
+      "id": "xsd-full-0314",
+      "number": 314,
       "volume": 1
     },
     {
@@ -10718,8 +11146,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0303",
-      "number": 303,
+      "id": "xsd-full-0315",
+      "number": 315,
       "volume": 1
     },
     {
@@ -10754,8 +11182,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0304",
-      "number": 304,
+      "id": "xsd-full-0316",
+      "number": 316,
       "volume": 1
     },
     {
@@ -10790,8 +11218,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0305",
-      "number": 305,
+      "id": "xsd-full-0317",
+      "number": 317,
       "volume": 1
     },
     {
@@ -10826,8 +11254,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0306",
-      "number": 306,
+      "id": "xsd-full-0318",
+      "number": 318,
       "volume": 1
     },
     {
@@ -10862,8 +11290,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0307",
-      "number": 307,
+      "id": "xsd-full-0319",
+      "number": 319,
       "volume": 1
     },
     {
@@ -10898,8 +11326,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0308",
-      "number": 308,
+      "id": "xsd-full-0320",
+      "number": 320,
       "volume": 1
     },
     {
@@ -10934,8 +11362,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0309",
-      "number": 309,
+      "id": "xsd-full-0321",
+      "number": 321,
       "volume": 1
     },
     {
@@ -10970,8 +11398,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0310",
-      "number": 310,
+      "id": "xsd-full-0322",
+      "number": 322,
       "volume": 1
     },
     {
@@ -11006,8 +11434,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0311",
-      "number": 311,
+      "id": "xsd-full-0323",
+      "number": 323,
       "volume": 1
     },
     {
@@ -11042,8 +11470,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0312",
-      "number": 312,
+      "id": "xsd-full-0324",
+      "number": 324,
       "volume": 1
     },
     {
@@ -11078,8 +11506,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0313",
-      "number": 313,
+      "id": "xsd-full-0325",
+      "number": 325,
       "volume": 1
     },
     {
@@ -11114,8 +11542,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0314",
-      "number": 314,
+      "id": "xsd-full-0326",
+      "number": 326,
       "volume": 1
     },
     {
@@ -11150,8 +11578,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0315",
-      "number": 315,
+      "id": "xsd-full-0327",
+      "number": 327,
       "volume": 1
     },
     {
@@ -11186,8 +11614,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0316",
-      "number": 316,
+      "id": "xsd-full-0328",
+      "number": 328,
       "volume": 1
     },
     {
@@ -11222,8 +11650,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0317",
-      "number": 317,
+      "id": "xsd-full-0329",
+      "number": 329,
       "volume": 1
     },
     {
@@ -11258,8 +11686,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0318",
-      "number": 318,
+      "id": "xsd-full-0330",
+      "number": 330,
       "volume": 1
     },
     {
@@ -11294,8 +11722,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0319",
-      "number": 319,
+      "id": "xsd-full-0331",
+      "number": 331,
       "volume": 1
     },
     {
@@ -11330,8 +11758,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0320",
-      "number": 320,
+      "id": "xsd-full-0332",
+      "number": 332,
       "volume": 1
     },
     {
@@ -11366,8 +11794,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0321",
-      "number": 321,
+      "id": "xsd-full-0333",
+      "number": 333,
       "volume": 1
     },
     {
@@ -11406,8 +11834,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0322",
-      "number": 322,
+      "id": "xsd-full-0334",
+      "number": 334,
       "volume": 1
     },
     {
@@ -11446,8 +11874,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0323",
-      "number": 323,
+      "id": "xsd-full-0335",
+      "number": 335,
       "volume": 1
     },
     {
@@ -11488,8 +11916,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0324",
-      "number": 324,
+      "id": "xsd-full-0336",
+      "number": 336,
       "volume": 1
     },
     {
@@ -11530,8 +11958,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0325",
-      "number": 325,
+      "id": "xsd-full-0337",
+      "number": 337,
       "volume": 1
     },
     {
@@ -11568,8 +11996,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0326",
-      "number": 326,
+      "id": "xsd-full-0338",
+      "number": 338,
       "volume": 1
     },
     {
@@ -11610,8 +12038,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0327",
-      "number": 327,
+      "id": "xsd-full-0339",
+      "number": 339,
       "volume": 1
     },
     {
@@ -11652,8 +12080,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0328",
-      "number": 328,
+      "id": "xsd-full-0340",
+      "number": 340,
       "volume": 1
     },
     {
@@ -11700,8 +12128,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0329",
-      "number": 329,
+      "id": "xsd-full-0341",
+      "number": 341,
       "volume": 1
     },
     {
@@ -11748,8 +12176,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0330",
-      "number": 330,
+      "id": "xsd-full-0342",
+      "number": 342,
       "volume": 1
     },
     {
@@ -11790,8 +12218,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0331",
-      "number": 331,
+      "id": "xsd-full-0343",
+      "number": 343,
       "volume": 1
     },
     {
@@ -11832,8 +12260,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0332",
-      "number": 332,
+      "id": "xsd-full-0344",
+      "number": 344,
       "volume": 1
     },
     {
@@ -11860,8 +12288,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0333",
-      "number": 333,
+      "id": "xsd-full-0345",
+      "number": 345,
       "volume": 1
     },
     {
@@ -11888,8 +12316,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0334",
-      "number": 334,
+      "id": "xsd-full-0346",
+      "number": 346,
       "volume": 1
     },
     {
@@ -11916,8 +12344,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0335",
-      "number": 335,
+      "id": "xsd-full-0347",
+      "number": 347,
       "volume": 1
     },
     {
@@ -11944,8 +12372,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0336",
-      "number": 336,
+      "id": "xsd-full-0348",
+      "number": 348,
       "volume": 1
     },
     {
@@ -11972,8 +12400,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0337",
-      "number": 337,
+      "id": "xsd-full-0349",
+      "number": 349,
       "volume": 1
     },
     {
@@ -12000,8 +12428,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0338",
-      "number": 338,
+      "id": "xsd-full-0350",
+      "number": 350,
       "volume": 1
     },
     {
@@ -12028,8 +12456,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0339",
-      "number": 339,
+      "id": "xsd-full-0351",
+      "number": 351,
       "volume": 1
     },
     {
@@ -12056,8 +12484,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0340",
-      "number": 340,
+      "id": "xsd-full-0352",
+      "number": 352,
       "volume": 1
     },
     {
@@ -12084,8 +12512,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0341",
-      "number": 341,
+      "id": "xsd-full-0353",
+      "number": 353,
       "volume": 1
     },
     {
@@ -12112,8 +12540,8 @@
       "category": "第八章 发展全过程人民民主",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0342",
-      "number": 342,
+      "id": "xsd-full-0354",
+      "number": 354,
       "volume": 1
     },
     {
@@ -12148,8 +12576,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0343",
-      "number": 343,
+      "id": "xsd-full-0355",
+      "number": 355,
       "volume": 1
     },
     {
@@ -12184,8 +12612,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0344",
-      "number": 344,
+      "id": "xsd-full-0356",
+      "number": 356,
       "volume": 1
     },
     {
@@ -12220,8 +12648,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0345",
-      "number": 345,
+      "id": "xsd-full-0357",
+      "number": 357,
       "volume": 1
     },
     {
@@ -12252,8 +12680,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0346",
-      "number": 346,
+      "id": "xsd-full-0358",
+      "number": 358,
       "volume": 1
     },
     {
@@ -12288,8 +12716,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0347",
-      "number": 347,
+      "id": "xsd-full-0359",
+      "number": 359,
       "volume": 1
     },
     {
@@ -12324,8 +12752,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0348",
-      "number": 348,
+      "id": "xsd-full-0360",
+      "number": 360,
       "volume": 1
     },
     {
@@ -12360,8 +12788,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0349",
-      "number": 349,
+      "id": "xsd-full-0361",
+      "number": 361,
       "volume": 1
     },
     {
@@ -12396,8 +12824,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0350",
-      "number": 350,
+      "id": "xsd-full-0362",
+      "number": 362,
       "volume": 1
     },
     {
@@ -12432,8 +12860,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0351",
-      "number": 351,
+      "id": "xsd-full-0363",
+      "number": 363,
       "volume": 1
     },
     {
@@ -12468,8 +12896,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0352",
-      "number": 352,
+      "id": "xsd-full-0364",
+      "number": 364,
       "volume": 1
     },
     {
@@ -12504,8 +12932,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0353",
-      "number": 353,
+      "id": "xsd-full-0365",
+      "number": 365,
       "volume": 1
     },
     {
@@ -12540,8 +12968,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0354",
-      "number": 354,
+      "id": "xsd-full-0366",
+      "number": 366,
       "volume": 1
     },
     {
@@ -12576,8 +13004,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0355",
-      "number": 355,
+      "id": "xsd-full-0367",
+      "number": 367,
       "volume": 1
     },
     {
@@ -12612,8 +13040,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0356",
-      "number": 356,
+      "id": "xsd-full-0368",
+      "number": 368,
       "volume": 1
     },
     {
@@ -12648,8 +13076,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0357",
-      "number": 357,
+      "id": "xsd-full-0369",
+      "number": 369,
       "volume": 1
     },
     {
@@ -12684,8 +13112,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0358",
-      "number": 358,
+      "id": "xsd-full-0370",
+      "number": 370,
       "volume": 1
     },
     {
@@ -12720,8 +13148,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0359",
-      "number": 359,
+      "id": "xsd-full-0371",
+      "number": 371,
       "volume": 1
     },
     {
@@ -12756,8 +13184,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0360",
-      "number": 360,
+      "id": "xsd-full-0372",
+      "number": 372,
       "volume": 1
     },
     {
@@ -12792,8 +13220,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0361",
-      "number": 361,
+      "id": "xsd-full-0373",
+      "number": 373,
       "volume": 1
     },
     {
@@ -12828,8 +13256,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0362",
-      "number": 362,
+      "id": "xsd-full-0374",
+      "number": 374,
       "volume": 1
     },
     {
@@ -12870,8 +13298,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0363",
-      "number": 363,
+      "id": "xsd-full-0375",
+      "number": 375,
       "volume": 1
     },
     {
@@ -12910,8 +13338,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0364",
-      "number": 364,
+      "id": "xsd-full-0376",
+      "number": 376,
       "volume": 1
     },
     {
@@ -12948,8 +13376,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0365",
-      "number": 365,
+      "id": "xsd-full-0377",
+      "number": 377,
       "volume": 1
     },
     {
@@ -12988,8 +13416,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0366",
-      "number": 366,
+      "id": "xsd-full-0378",
+      "number": 378,
       "volume": 1
     },
     {
@@ -13036,8 +13464,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0367",
-      "number": 367,
+      "id": "xsd-full-0379",
+      "number": 379,
       "volume": 1
     },
     {
@@ -13084,8 +13512,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0368",
-      "number": 368,
+      "id": "xsd-full-0380",
+      "number": 380,
       "volume": 1
     },
     {
@@ -13122,8 +13550,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0369",
-      "number": 369,
+      "id": "xsd-full-0381",
+      "number": 381,
       "volume": 1
     },
     {
@@ -13170,8 +13598,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0370",
-      "number": 370,
+      "id": "xsd-full-0382",
+      "number": 382,
       "volume": 1
     },
     {
@@ -13210,8 +13638,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0371",
-      "number": 371,
+      "id": "xsd-full-0383",
+      "number": 383,
       "volume": 1
     },
     {
@@ -13252,8 +13680,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0372",
-      "number": 372,
+      "id": "xsd-full-0384",
+      "number": 384,
       "volume": 1
     },
     {
@@ -13280,8 +13708,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0373",
-      "number": 373,
+      "id": "xsd-full-0385",
+      "number": 385,
       "volume": 1
     },
     {
@@ -13308,8 +13736,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0374",
-      "number": 374,
+      "id": "xsd-full-0386",
+      "number": 386,
       "volume": 1
     },
     {
@@ -13336,8 +13764,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0375",
-      "number": 375,
+      "id": "xsd-full-0387",
+      "number": 387,
       "volume": 1
     },
     {
@@ -13364,8 +13792,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0376",
-      "number": 376,
+      "id": "xsd-full-0388",
+      "number": 388,
       "volume": 1
     },
     {
@@ -13392,8 +13820,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0377",
-      "number": 377,
+      "id": "xsd-full-0389",
+      "number": 389,
       "volume": 1
     },
     {
@@ -13420,8 +13848,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0378",
-      "number": 378,
+      "id": "xsd-full-0390",
+      "number": 390,
       "volume": 1
     },
     {
@@ -13448,8 +13876,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0379",
-      "number": 379,
+      "id": "xsd-full-0391",
+      "number": 391,
       "volume": 1
     },
     {
@@ -13476,8 +13904,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0380",
-      "number": 380,
+      "id": "xsd-full-0392",
+      "number": 392,
       "volume": 1
     },
     {
@@ -13504,8 +13932,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0381",
-      "number": 381,
+      "id": "xsd-full-0393",
+      "number": 393,
       "volume": 1
     },
     {
@@ -13532,8 +13960,8 @@
       "category": "第九章 全面依法治国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0382",
-      "number": 382,
+      "id": "xsd-full-0394",
+      "number": 394,
       "volume": 1
     },
     {
@@ -13568,8 +13996,8 @@
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0383",
-      "number": 383,
+      "id": "xsd-full-0395",
+      "number": 395,
       "volume": 1
     },
     {
@@ -13604,8 +14032,8 @@
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0384",
-      "number": 384,
+      "id": "xsd-full-0396",
+      "number": 396,
       "volume": 1
     },
     {
@@ -13640,8 +14068,8 @@
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0385",
-      "number": 385,
+      "id": "xsd-full-0397",
+      "number": 397,
       "volume": 1
     },
     {
@@ -13676,8 +14104,8 @@
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0386",
-      "number": 386,
+      "id": "xsd-full-0398",
+      "number": 398,
       "volume": 1
     },
     {
@@ -13712,8 +14140,8 @@
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0387",
-      "number": 387,
+      "id": "xsd-full-0399",
+      "number": 399,
       "volume": 1
     },
     {
@@ -13748,8 +14176,8 @@
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0388",
-      "number": 388,
+      "id": "xsd-full-0400",
+      "number": 400,
       "volume": 1
     },
     {
@@ -13784,8 +14212,8 @@
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0389",
-      "number": 389,
+      "id": "xsd-full-0401",
+      "number": 401,
       "volume": 1
     },
     {
@@ -13820,8 +14248,8 @@
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0390",
-      "number": 390,
+      "id": "xsd-full-0402",
+      "number": 402,
       "volume": 1
     },
     {
@@ -13856,8 +14284,8 @@
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0391",
-      "number": 391,
+      "id": "xsd-full-0403",
+      "number": 403,
       "volume": 1
     },
     {
@@ -13892,8 +14320,8 @@
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0392",
-      "number": 392,
+      "id": "xsd-full-0404",
+      "number": 404,
       "volume": 1
     },
     {
@@ -13928,8 +14356,8 @@
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0393",
-      "number": 393,
+      "id": "xsd-full-0405",
+      "number": 405,
       "volume": 1
     },
     {
@@ -13964,8 +14392,8 @@
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0394",
-      "number": 394,
+      "id": "xsd-full-0406",
+      "number": 406,
       "volume": 1
     },
     {
@@ -14000,8 +14428,8 @@
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0395",
-      "number": 395,
+      "id": "xsd-full-0407",
+      "number": 407,
       "volume": 1
     },
     {
@@ -14036,8 +14464,8 @@
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0396",
-      "number": 396,
+      "id": "xsd-full-0408",
+      "number": 408,
       "volume": 1
     },
     {
@@ -14072,8 +14500,8 @@
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0397",
-      "number": 397,
+      "id": "xsd-full-0409",
+      "number": 409,
       "volume": 1
     },
     {
@@ -14114,8 +14542,8 @@
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0398",
-      "number": 398,
+      "id": "xsd-full-0410",
+      "number": 410,
       "volume": 1
     },
     {
@@ -14154,8 +14582,8 @@
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0399",
-      "number": 399,
+      "id": "xsd-full-0411",
+      "number": 411,
       "volume": 1
     },
     {
@@ -14196,8 +14624,8 @@
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0400",
-      "number": 400,
+      "id": "xsd-full-0412",
+      "number": 412,
       "volume": 1
     },
     {
@@ -14236,8 +14664,8 @@
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0401",
-      "number": 401,
+      "id": "xsd-full-0413",
+      "number": 413,
       "volume": 1
     },
     {
@@ -14274,8 +14702,8 @@
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0402",
-      "number": 402,
+      "id": "xsd-full-0414",
+      "number": 414,
       "volume": 1
     },
     {
@@ -14316,8 +14744,8 @@
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0403",
-      "number": 403,
+      "id": "xsd-full-0415",
+      "number": 415,
       "volume": 1
     },
     {
@@ -14358,8 +14786,8 @@
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0404",
-      "number": 404,
+      "id": "xsd-full-0416",
+      "number": 416,
       "volume": 1
     },
     {
@@ -14400,8 +14828,8 @@
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0405",
-      "number": 405,
+      "id": "xsd-full-0417",
+      "number": 417,
       "volume": 1
     },
     {
@@ -14442,8 +14870,8 @@
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0406",
-      "number": 406,
+      "id": "xsd-full-0418",
+      "number": 418,
       "volume": 1
     },
     {
@@ -14484,8 +14912,8 @@
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0407",
-      "number": 407,
+      "id": "xsd-full-0419",
+      "number": 419,
       "volume": 1
     },
     {
@@ -14526,8 +14954,8 @@
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0408",
-      "number": 408,
+      "id": "xsd-full-0420",
+      "number": 420,
       "volume": 1
     },
     {
@@ -14566,8 +14994,8 @@
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0409",
-      "number": 409,
+      "id": "xsd-full-0421",
+      "number": 421,
       "volume": 1
     },
     {
@@ -14608,8 +15036,8 @@
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0410",
-      "number": 410,
+      "id": "xsd-full-0422",
+      "number": 422,
       "volume": 1
     },
     {
@@ -14648,8 +15076,8 @@
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0411",
-      "number": 411,
+      "id": "xsd-full-0423",
+      "number": 423,
       "volume": 1
     },
     {
@@ -14676,8 +15104,8 @@
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0412",
-      "number": 412,
+      "id": "xsd-full-0424",
+      "number": 424,
       "volume": 1
     },
     {
@@ -14704,8 +15132,8 @@
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0413",
-      "number": 413,
+      "id": "xsd-full-0425",
+      "number": 425,
       "volume": 1
     },
     {
@@ -14732,8 +15160,8 @@
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0414",
-      "number": 414,
+      "id": "xsd-full-0426",
+      "number": 426,
       "volume": 1
     },
     {
@@ -14760,8 +15188,8 @@
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0415",
-      "number": 415,
+      "id": "xsd-full-0427",
+      "number": 427,
       "volume": 1
     },
     {
@@ -14788,8 +15216,8 @@
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0416",
-      "number": 416,
+      "id": "xsd-full-0428",
+      "number": 428,
       "volume": 1
     },
     {
@@ -14824,8 +15252,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0417",
-      "number": 417,
+      "id": "xsd-full-0429",
+      "number": 429,
       "volume": 1
     },
     {
@@ -14860,8 +15288,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0418",
-      "number": 418,
+      "id": "xsd-full-0430",
+      "number": 430,
       "volume": 1
     },
     {
@@ -14896,8 +15324,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0419",
-      "number": 419,
+      "id": "xsd-full-0431",
+      "number": 431,
       "volume": 1
     },
     {
@@ -14932,8 +15360,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0420",
-      "number": 420,
+      "id": "xsd-full-0432",
+      "number": 432,
       "volume": 1
     },
     {
@@ -14968,8 +15396,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0421",
-      "number": 421,
+      "id": "xsd-full-0433",
+      "number": 433,
       "volume": 1
     },
     {
@@ -15004,8 +15432,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0422",
-      "number": 422,
+      "id": "xsd-full-0434",
+      "number": 434,
       "volume": 1
     },
     {
@@ -15040,8 +15468,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0423",
-      "number": 423,
+      "id": "xsd-full-0435",
+      "number": 435,
       "volume": 1
     },
     {
@@ -15076,8 +15504,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0424",
-      "number": 424,
+      "id": "xsd-full-0436",
+      "number": 436,
       "volume": 1
     },
     {
@@ -15112,8 +15540,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0425",
-      "number": 425,
+      "id": "xsd-full-0437",
+      "number": 437,
       "volume": 1
     },
     {
@@ -15148,8 +15576,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0426",
-      "number": 426,
+      "id": "xsd-full-0438",
+      "number": 438,
       "volume": 1
     },
     {
@@ -15184,8 +15612,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0427",
-      "number": 427,
+      "id": "xsd-full-0439",
+      "number": 439,
       "volume": 1
     },
     {
@@ -15220,8 +15648,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0428",
-      "number": 428,
+      "id": "xsd-full-0440",
+      "number": 440,
       "volume": 1
     },
     {
@@ -15256,8 +15684,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0429",
-      "number": 429,
+      "id": "xsd-full-0441",
+      "number": 441,
       "volume": 1
     },
     {
@@ -15292,8 +15720,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0430",
-      "number": 430,
+      "id": "xsd-full-0442",
+      "number": 442,
       "volume": 1
     },
     {
@@ -15328,8 +15756,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0431",
-      "number": 431,
+      "id": "xsd-full-0443",
+      "number": 443,
       "volume": 1
     },
     {
@@ -15364,8 +15792,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0432",
-      "number": 432,
+      "id": "xsd-full-0444",
+      "number": 444,
       "volume": 1
     },
     {
@@ -15400,26 +15828,98 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0433",
-      "number": 433,
+      "id": "xsd-full-0445",
+      "number": 445,
       "volume": 1
     },
     {
       "type": "single",
       "typeLabel": "单选题",
-      "question": "习近平指出：“（ ）是最大的民生工程、民心工程、根基工程，必须抓紧抓实抓好。” （ ）是民生之源，是改善民生、实现发展成果由人民共享最重要最直接的方式。 近平指出，保障和改善民生没有终点，只有连续不断的新起点，要采取针对性更强、覆盖面更大、作用更直接、效果更明显的举措，实实在在帮群众解难题、为群众增福祉、让群众享公平。保障和改善民生没有终点，只有连续不断的新起点，对于其措施，下列表述不当的是（ ） 。",
+      "question": "习近平指出：“（ ）是最大的民生工程、民心工程、根基工程，必须抓紧抓实抓好。”",
+      "options": [
+        {
+          "key": "A",
+          "text": "教育"
+        },
+        {
+          "key": "C",
+          "text": "医疗"
+        },
+        {
+          "key": "B",
+          "text": "住房"
+        },
+        {
+          "key": "D",
+          "text": "就业"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "就业"
+      ],
+      "topic": "第十一章 以保障和改善民生为重点加强社会建设",
+      "category": "第十一章 以保障和改善民生为重点加强社会建设",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-full-0446",
+      "number": 446,
+      "volume": 1
+    },
+    {
+      "type": "single",
+      "typeLabel": "单选题",
+      "question": "（ ）是民生之源，是改善民生、实现发展成果由人民共享最重要最直接的方式。",
+      "options": [
+        {
+          "key": "A",
+          "text": "收入"
+        },
+        {
+          "key": "C",
+          "text": "就业"
+        },
+        {
+          "key": "B",
+          "text": "经济发展"
+        },
+        {
+          "key": "D",
+          "text": "依法治国"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "收入"
+      ],
+      "topic": "第十一章 以保障和改善民生为重点加强社会建设",
+      "category": "第十一章 以保障和改善民生为重点加强社会建设",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-full-0447",
+      "number": 447,
+      "volume": 1
+    },
+    {
+      "type": "single",
+      "typeLabel": "单选题",
+      "question": "近平指出，保障和改善民生没有终点，只有连续不断的新起点，要采取针对性更强、覆盖面更大、作用更直接、效果更明显的举措，实实在在帮群众解难题、为群众增福祉、让群众享公平。保障和改善民生没有终点，只有连续不断的新起点，对于其措施，下列表述不当的是（ ） 。",
       "options": [
         {
           "key": "A",
           "text": "我们要形成的是共建、共治、共享的社会保障体系"
         },
         {
-          "key": "C",
-          "text": "改善民生是国家繁荣发展的必由之路"
-        },
-        {
           "key": "B",
           "text": "构建初次分配、再分配、三次分配协调配套的基础性制度安排"
+        },
+        {
+          "key": "C",
+          "text": "改善民生是国家繁荣发展的必由之路"
         },
         {
           "key": "D",
@@ -15436,8 +15936,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0434",
-      "number": 434,
+      "id": "xsd-full-0448",
+      "number": 448,
       "volume": 1
     },
     {
@@ -15476,8 +15976,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0435",
-      "number": 435,
+      "id": "xsd-full-0449",
+      "number": 449,
       "volume": 1
     },
     {
@@ -15518,8 +16018,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0436",
-      "number": 436,
+      "id": "xsd-full-0450",
+      "number": 450,
       "volume": 1
     },
     {
@@ -15560,8 +16060,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0437",
-      "number": 437,
+      "id": "xsd-full-0451",
+      "number": 451,
       "volume": 1
     },
     {
@@ -15600,8 +16100,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0438",
-      "number": 438,
+      "id": "xsd-full-0452",
+      "number": 452,
       "volume": 1
     },
     {
@@ -15642,8 +16142,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0439",
-      "number": 439,
+      "id": "xsd-full-0453",
+      "number": 453,
       "volume": 1
     },
     {
@@ -15684,8 +16184,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0440",
-      "number": 440,
+      "id": "xsd-full-0454",
+      "number": 454,
       "volume": 1
     },
     {
@@ -15732,8 +16232,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0441",
-      "number": 441,
+      "id": "xsd-full-0455",
+      "number": 455,
       "volume": 1
     },
     {
@@ -15780,8 +16280,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0442",
-      "number": 442,
+      "id": "xsd-full-0456",
+      "number": 456,
       "volume": 1
     },
     {
@@ -15822,8 +16322,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0443",
-      "number": 443,
+      "id": "xsd-full-0457",
+      "number": 457,
       "volume": 1
     },
     {
@@ -15860,8 +16360,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0444",
-      "number": 444,
+      "id": "xsd-full-0458",
+      "number": 458,
       "volume": 1
     },
     {
@@ -15898,8 +16398,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0445",
-      "number": 445,
+      "id": "xsd-full-0459",
+      "number": 459,
       "volume": 1
     },
     {
@@ -15946,8 +16446,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0446",
-      "number": 446,
+      "id": "xsd-full-0460",
+      "number": 460,
       "volume": 1
     },
     {
@@ -15994,8 +16494,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0447",
-      "number": 447,
+      "id": "xsd-full-0461",
+      "number": 461,
       "volume": 1
     },
     {
@@ -16032,8 +16532,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0448",
-      "number": 448,
+      "id": "xsd-full-0462",
+      "number": 462,
       "volume": 1
     },
     {
@@ -16074,8 +16574,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0449",
-      "number": 449,
+      "id": "xsd-full-0463",
+      "number": 463,
       "volume": 1
     },
     {
@@ -16114,8 +16614,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0450",
-      "number": 450,
+      "id": "xsd-full-0464",
+      "number": 464,
       "volume": 1
     },
     {
@@ -16156,8 +16656,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0451",
-      "number": 451,
+      "id": "xsd-full-0465",
+      "number": 465,
       "volume": 1
     },
     {
@@ -16198,8 +16698,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0452",
-      "number": 452,
+      "id": "xsd-full-0466",
+      "number": 466,
       "volume": 1
     },
     {
@@ -16240,8 +16740,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0453",
-      "number": 453,
+      "id": "xsd-full-0467",
+      "number": 467,
       "volume": 1
     },
     {
@@ -16282,8 +16782,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0454",
-      "number": 454,
+      "id": "xsd-full-0468",
+      "number": 468,
       "volume": 1
     },
     {
@@ -16310,8 +16810,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0455",
-      "number": 455,
+      "id": "xsd-full-0469",
+      "number": 469,
       "volume": 1
     },
     {
@@ -16338,8 +16838,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0456",
-      "number": 456,
+      "id": "xsd-full-0470",
+      "number": 470,
       "volume": 1
     },
     {
@@ -16366,8 +16866,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0457",
-      "number": 457,
+      "id": "xsd-full-0471",
+      "number": 471,
       "volume": 1
     },
     {
@@ -16394,8 +16894,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0458",
-      "number": 458,
+      "id": "xsd-full-0472",
+      "number": 472,
       "volume": 1
     },
     {
@@ -16422,8 +16922,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0459",
-      "number": 459,
+      "id": "xsd-full-0473",
+      "number": 473,
       "volume": 1
     },
     {
@@ -16450,8 +16950,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0460",
-      "number": 460,
+      "id": "xsd-full-0474",
+      "number": 474,
       "volume": 1
     },
     {
@@ -16478,8 +16978,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0461",
-      "number": 461,
+      "id": "xsd-full-0475",
+      "number": 475,
       "volume": 1
     },
     {
@@ -16506,8 +17006,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0462",
-      "number": 462,
+      "id": "xsd-full-0476",
+      "number": 476,
       "volume": 1
     },
     {
@@ -16534,8 +17034,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0463",
-      "number": 463,
+      "id": "xsd-full-0477",
+      "number": 477,
       "volume": 1
     },
     {
@@ -16562,8 +17062,8 @@
       "category": "第十一章 以保障和改善民生为重点加强社会建设",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0464",
-      "number": 464,
+      "id": "xsd-full-0478",
+      "number": 478,
       "volume": 1
     },
     {
@@ -16598,8 +17098,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0465",
-      "number": 465,
+      "id": "xsd-full-0479",
+      "number": 479,
       "volume": 1
     },
     {
@@ -16634,8 +17134,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0466",
-      "number": 466,
+      "id": "xsd-full-0480",
+      "number": 480,
       "volume": 1
     },
     {
@@ -16670,8 +17170,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0467",
-      "number": 467,
+      "id": "xsd-full-0481",
+      "number": 481,
       "volume": 1
     },
     {
@@ -16706,8 +17206,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0468",
-      "number": 468,
+      "id": "xsd-full-0482",
+      "number": 482,
       "volume": 1
     },
     {
@@ -16742,8 +17242,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0469",
-      "number": 469,
+      "id": "xsd-full-0483",
+      "number": 483,
       "volume": 1
     },
     {
@@ -16778,8 +17278,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0470",
-      "number": 470,
+      "id": "xsd-full-0484",
+      "number": 484,
       "volume": 1
     },
     {
@@ -16814,8 +17314,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0471",
-      "number": 471,
+      "id": "xsd-full-0485",
+      "number": 485,
       "volume": 1
     },
     {
@@ -16850,8 +17350,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0472",
-      "number": 472,
+      "id": "xsd-full-0486",
+      "number": 486,
       "volume": 1
     },
     {
@@ -16886,8 +17386,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0473",
-      "number": 473,
+      "id": "xsd-full-0487",
+      "number": 487,
       "volume": 1
     },
     {
@@ -16922,8 +17422,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0474",
-      "number": 474,
+      "id": "xsd-full-0488",
+      "number": 488,
       "volume": 1
     },
     {
@@ -16958,8 +17458,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0475",
-      "number": 475,
+      "id": "xsd-full-0489",
+      "number": 489,
       "volume": 1
     },
     {
@@ -16994,8 +17494,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0476",
-      "number": 476,
+      "id": "xsd-full-0490",
+      "number": 490,
       "volume": 1
     },
     {
@@ -17030,8 +17530,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0477",
-      "number": 477,
+      "id": "xsd-full-0491",
+      "number": 491,
       "volume": 1
     },
     {
@@ -17066,8 +17566,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0478",
-      "number": 478,
+      "id": "xsd-full-0492",
+      "number": 492,
       "volume": 1
     },
     {
@@ -17102,8 +17602,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0479",
-      "number": 479,
+      "id": "xsd-full-0493",
+      "number": 493,
       "volume": 1
     },
     {
@@ -17138,8 +17638,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0480",
-      "number": 480,
+      "id": "xsd-full-0494",
+      "number": 494,
       "volume": 1
     },
     {
@@ -17174,8 +17674,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0481",
-      "number": 481,
+      "id": "xsd-full-0495",
+      "number": 495,
       "volume": 1
     },
     {
@@ -17216,8 +17716,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0482",
-      "number": 482,
+      "id": "xsd-full-0496",
+      "number": 496,
       "volume": 1
     },
     {
@@ -17258,8 +17758,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0483",
-      "number": 483,
+      "id": "xsd-full-0497",
+      "number": 497,
       "volume": 1
     },
     {
@@ -17300,8 +17800,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0484",
-      "number": 484,
+      "id": "xsd-full-0498",
+      "number": 498,
       "volume": 1
     },
     {
@@ -17336,8 +17836,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0485",
-      "number": 485,
+      "id": "xsd-full-0499",
+      "number": 499,
       "volume": 1
     },
     {
@@ -17384,8 +17884,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0486",
-      "number": 486,
+      "id": "xsd-full-0500",
+      "number": 500,
       "volume": 1
     },
     {
@@ -17426,8 +17926,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0487",
-      "number": 487,
+      "id": "xsd-full-0501",
+      "number": 501,
       "volume": 1
     },
     {
@@ -17468,8 +17968,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0488",
-      "number": 488,
+      "id": "xsd-full-0502",
+      "number": 502,
       "volume": 1
     },
     {
@@ -17514,8 +18014,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0489",
-      "number": 489,
+      "id": "xsd-full-0503",
+      "number": 503,
       "volume": 1
     },
     {
@@ -17562,8 +18062,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0490",
-      "number": 490,
+      "id": "xsd-full-0504",
+      "number": 504,
       "volume": 1
     },
     {
@@ -17610,8 +18110,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0491",
-      "number": 491,
+      "id": "xsd-full-0505",
+      "number": 505,
       "volume": 1
     },
     {
@@ -17656,8 +18156,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0492",
-      "number": 492,
+      "id": "xsd-full-0506",
+      "number": 506,
       "volume": 1
     },
     {
@@ -17698,8 +18198,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0493",
-      "number": 493,
+      "id": "xsd-full-0507",
+      "number": 507,
       "volume": 1
     },
     {
@@ -17738,8 +18238,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0494",
-      "number": 494,
+      "id": "xsd-full-0508",
+      "number": 508,
       "volume": 1
     },
     {
@@ -17776,8 +18276,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0495",
-      "number": 495,
+      "id": "xsd-full-0509",
+      "number": 509,
       "volume": 1
     },
     {
@@ -17814,8 +18314,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0496",
-      "number": 496,
+      "id": "xsd-full-0510",
+      "number": 510,
       "volume": 1
     },
     {
@@ -17842,8 +18342,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0497",
-      "number": 497,
+      "id": "xsd-full-0511",
+      "number": 511,
       "volume": 1
     },
     {
@@ -17870,8 +18370,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0498",
-      "number": 498,
+      "id": "xsd-full-0512",
+      "number": 512,
       "volume": 1
     },
     {
@@ -17898,8 +18398,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0499",
-      "number": 499,
+      "id": "xsd-full-0513",
+      "number": 513,
       "volume": 1
     },
     {
@@ -17926,8 +18426,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0500",
-      "number": 500,
+      "id": "xsd-full-0514",
+      "number": 514,
       "volume": 1
     },
     {
@@ -17954,8 +18454,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0501",
-      "number": 501,
+      "id": "xsd-full-0515",
+      "number": 515,
       "volume": 1
     },
     {
@@ -17982,8 +18482,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0502",
-      "number": 502,
+      "id": "xsd-full-0516",
+      "number": 516,
       "volume": 1
     },
     {
@@ -18010,8 +18510,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0503",
-      "number": 503,
+      "id": "xsd-full-0517",
+      "number": 517,
       "volume": 1
     },
     {
@@ -18038,8 +18538,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0504",
-      "number": 504,
+      "id": "xsd-full-0518",
+      "number": 518,
       "volume": 1
     },
     {
@@ -18066,8 +18566,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0505",
-      "number": 505,
+      "id": "xsd-full-0519",
+      "number": 519,
       "volume": 1
     },
     {
@@ -18094,8 +18594,8 @@
       "category": "第十二章 建设社会主义生态文明",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0506",
-      "number": 506,
+      "id": "xsd-full-0520",
+      "number": 520,
       "volume": 1
     },
     {
@@ -18130,8 +18630,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0507",
-      "number": 507,
+      "id": "xsd-full-0521",
+      "number": 521,
       "volume": 1
     },
     {
@@ -18166,8 +18666,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0508",
-      "number": 508,
+      "id": "xsd-full-0522",
+      "number": 522,
       "volume": 1
     },
     {
@@ -18202,8 +18702,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0509",
-      "number": 509,
+      "id": "xsd-full-0523",
+      "number": 523,
       "volume": 1
     },
     {
@@ -18238,8 +18738,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0510",
-      "number": 510,
+      "id": "xsd-full-0524",
+      "number": 524,
       "volume": 1
     },
     {
@@ -18274,8 +18774,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0511",
-      "number": 511,
+      "id": "xsd-full-0525",
+      "number": 525,
       "volume": 1
     },
     {
@@ -18310,8 +18810,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0512",
-      "number": 512,
+      "id": "xsd-full-0526",
+      "number": 526,
       "volume": 1
     },
     {
@@ -18346,8 +18846,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0513",
-      "number": 513,
+      "id": "xsd-full-0527",
+      "number": 527,
       "volume": 1
     },
     {
@@ -18382,8 +18882,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0514",
-      "number": 514,
+      "id": "xsd-full-0528",
+      "number": 528,
       "volume": 1
     },
     {
@@ -18418,8 +18918,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0515",
-      "number": 515,
+      "id": "xsd-full-0529",
+      "number": 529,
       "volume": 1
     },
     {
@@ -18454,8 +18954,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0516",
-      "number": 516,
+      "id": "xsd-full-0530",
+      "number": 530,
       "volume": 1
     },
     {
@@ -18490,8 +18990,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0517",
-      "number": 517,
+      "id": "xsd-full-0531",
+      "number": 531,
       "volume": 1
     },
     {
@@ -18526,8 +19026,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0518",
-      "number": 518,
+      "id": "xsd-full-0532",
+      "number": 532,
       "volume": 1
     },
     {
@@ -18562,8 +19062,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0519",
-      "number": 519,
+      "id": "xsd-full-0533",
+      "number": 533,
       "volume": 1
     },
     {
@@ -18598,8 +19098,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0520",
-      "number": 520,
+      "id": "xsd-full-0534",
+      "number": 534,
       "volume": 1
     },
     {
@@ -18634,8 +19134,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0521",
-      "number": 521,
+      "id": "xsd-full-0535",
+      "number": 535,
       "volume": 1
     },
     {
@@ -18670,8 +19170,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0522",
-      "number": 522,
+      "id": "xsd-full-0536",
+      "number": 536,
       "volume": 1
     },
     {
@@ -18706,8 +19206,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0523",
-      "number": 523,
+      "id": "xsd-full-0537",
+      "number": 537,
       "volume": 1
     },
     {
@@ -18742,8 +19242,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0524",
-      "number": 524,
+      "id": "xsd-full-0538",
+      "number": 538,
       "volume": 1
     },
     {
@@ -18778,8 +19278,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0525",
-      "number": 525,
+      "id": "xsd-full-0539",
+      "number": 539,
       "volume": 1
     },
     {
@@ -18814,8 +19314,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0526",
-      "number": 526,
+      "id": "xsd-full-0540",
+      "number": 540,
       "volume": 1
     },
     {
@@ -18850,8 +19350,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0527",
-      "number": 527,
+      "id": "xsd-full-0541",
+      "number": 541,
       "volume": 1
     },
     {
@@ -18892,8 +19392,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0528",
-      "number": 528,
+      "id": "xsd-full-0542",
+      "number": 542,
       "volume": 1
     },
     {
@@ -18934,8 +19434,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0529",
-      "number": 529,
+      "id": "xsd-full-0543",
+      "number": 543,
       "volume": 1
     },
     {
@@ -18974,8 +19474,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0530",
-      "number": 530,
+      "id": "xsd-full-0544",
+      "number": 544,
       "volume": 1
     },
     {
@@ -19016,8 +19516,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0531",
-      "number": 531,
+      "id": "xsd-full-0545",
+      "number": 545,
       "volume": 1
     },
     {
@@ -19064,8 +19564,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0532",
-      "number": 532,
+      "id": "xsd-full-0546",
+      "number": 546,
       "volume": 1
     },
     {
@@ -19106,8 +19606,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0533",
-      "number": 533,
+      "id": "xsd-full-0547",
+      "number": 547,
       "volume": 1
     },
     {
@@ -19148,8 +19648,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0534",
-      "number": 534,
+      "id": "xsd-full-0548",
+      "number": 548,
       "volume": 1
     },
     {
@@ -19186,8 +19686,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0535",
-      "number": 535,
+      "id": "xsd-full-0549",
+      "number": 549,
       "volume": 1
     },
     {
@@ -19228,8 +19728,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0536",
-      "number": 536,
+      "id": "xsd-full-0550",
+      "number": 550,
       "volume": 1
     },
     {
@@ -19266,8 +19766,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0537",
-      "number": 537,
+      "id": "xsd-full-0551",
+      "number": 551,
       "volume": 1
     },
     {
@@ -19294,8 +19794,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0538",
-      "number": 538,
+      "id": "xsd-full-0552",
+      "number": 552,
       "volume": 1
     },
     {
@@ -19322,8 +19822,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0539",
-      "number": 539,
+      "id": "xsd-full-0553",
+      "number": 553,
       "volume": 1
     },
     {
@@ -19350,8 +19850,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0540",
-      "number": 540,
+      "id": "xsd-full-0554",
+      "number": 554,
       "volume": 1
     },
     {
@@ -19378,8 +19878,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0541",
-      "number": 541,
+      "id": "xsd-full-0555",
+      "number": 555,
       "volume": 1
     },
     {
@@ -19406,8 +19906,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0542",
-      "number": 542,
+      "id": "xsd-full-0556",
+      "number": 556,
       "volume": 1
     },
     {
@@ -19434,8 +19934,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0543",
-      "number": 543,
+      "id": "xsd-full-0557",
+      "number": 557,
       "volume": 1
     },
     {
@@ -19462,8 +19962,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0544",
-      "number": 544,
+      "id": "xsd-full-0558",
+      "number": 558,
       "volume": 1
     },
     {
@@ -19490,8 +19990,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0545",
-      "number": 545,
+      "id": "xsd-full-0559",
+      "number": 559,
       "volume": 1
     },
     {
@@ -19518,8 +20018,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0546",
-      "number": 546,
+      "id": "xsd-full-0560",
+      "number": 560,
       "volume": 1
     },
     {
@@ -19546,8 +20046,8 @@
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0547",
-      "number": 547,
+      "id": "xsd-full-0561",
+      "number": 561,
       "volume": 1
     },
     {
@@ -19582,8 +20082,8 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0548",
-      "number": 548,
+      "id": "xsd-full-0562",
+      "number": 562,
       "volume": 1
     },
     {
@@ -19618,8 +20118,8 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0549",
-      "number": 549,
+      "id": "xsd-full-0563",
+      "number": 563,
       "volume": 1
     },
     {
@@ -19654,8 +20154,8 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0550",
-      "number": 550,
+      "id": "xsd-full-0564",
+      "number": 564,
       "volume": 1
     },
     {
@@ -19690,8 +20190,8 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0551",
-      "number": 551,
+      "id": "xsd-full-0565",
+      "number": 565,
       "volume": 1
     },
     {
@@ -19726,8 +20226,8 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0552",
-      "number": 552,
+      "id": "xsd-full-0566",
+      "number": 566,
       "volume": 1
     },
     {
@@ -19762,8 +20262,8 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0553",
-      "number": 553,
+      "id": "xsd-full-0567",
+      "number": 567,
       "volume": 1
     },
     {
@@ -19798,8 +20298,8 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0554",
-      "number": 554,
+      "id": "xsd-full-0568",
+      "number": 568,
       "volume": 1
     },
     {
@@ -19817,7 +20317,7 @@
         },
         {
           "key": "C",
-          "text": "淡泊名利"
+          "text": "淡泊名利?"
         },
         {
           "key": "D",
@@ -19834,8 +20334,8 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0555",
-      "number": 555,
+      "id": "xsd-full-0569",
+      "number": 569,
       "volume": 1
     },
     {
@@ -19845,7 +20345,7 @@
       "options": [
         {
           "key": "A",
-          "text": "全面实现；基本建成"
+          "text": "全面实现；基本建成?"
         },
         {
           "key": "B",
@@ -19853,7 +20353,7 @@
         },
         {
           "key": "C",
-          "text": "基本实现；基本建成"
+          "text": "基本实现；基本建成 ?"
         },
         {
           "key": "D",
@@ -19870,8 +20370,8 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0556",
-      "number": 556,
+      "id": "xsd-full-0570",
+      "number": 570,
       "volume": 1
     },
     {
@@ -19906,8 +20406,8 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0557",
-      "number": 557,
+      "id": "xsd-full-0571",
+      "number": 571,
       "volume": 1
     },
     {
@@ -19942,8 +20442,8 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0558",
-      "number": 558,
+      "id": "xsd-full-0572",
+      "number": 572,
       "volume": 1
     },
     {
@@ -19978,8 +20478,8 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0559",
-      "number": 559,
+      "id": "xsd-full-0573",
+      "number": 573,
       "volume": 1
     },
     {
@@ -20014,14 +20514,14 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0560",
-      "number": 560,
+      "id": "xsd-full-0574",
+      "number": 574,
       "volume": 1
     },
     {
       "type": "single",
       "typeLabel": "单选题",
-      "question": "（ ）是实现富国和强军相统一的重要政治保障。",
+      "question": "（? ）是实现富国和强军相统一的重要政治保障。",
       "options": [
         {
           "key": "A",
@@ -20050,14 +20550,14 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0561",
-      "number": 561,
+      "id": "xsd-full-0575",
+      "number": 575,
       "volume": 1
     },
     {
       "type": "single",
       "typeLabel": "单选题",
-      "question": "坚持从严治军铁律，坚持抓住领导干部这个（ ）……",
+      "question": "坚持从严治军铁律，坚持抓住领导干部这个（? ）……",
       "options": [
         {
           "key": "A",
@@ -20086,14 +20586,14 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0562",
-      "number": 562,
+      "id": "xsd-full-0576",
+      "number": 576,
       "volume": 1
     },
     {
       "type": "single",
       "typeLabel": "单选题",
-      "question": "坚持（ ），是马克思主义建党建军的一条基本原则。",
+      "question": "坚持（? ），是马克思主义建党建军的一条基本原则。",
       "options": [
         {
           "key": "A",
@@ -20122,14 +20622,14 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0563",
-      "number": 563,
+      "id": "xsd-full-0577",
+      "number": 577,
       "volume": 1
     },
     {
       "type": "single",
       "typeLabel": "单选题",
-      "question": "（ ）是人民军队的立军之本。",
+      "question": "（? ）是人民军队的立军之本。",
       "options": [
         {
           "key": "A",
@@ -20158,14 +20658,14 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0564",
-      "number": 564,
+      "id": "xsd-full-0578",
+      "number": 578,
       "volume": 1
     },
     {
       "type": "single",
       "typeLabel": "单选题",
-      "question": "（ ）是提高实战能力的重要途径和抓手，是最直接的军事斗争准备",
+      "question": "（? ）是提高实战能力的重要途径和抓手，是最直接的军事斗争准备",
       "options": [
         {
           "key": "A",
@@ -20194,14 +20694,14 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0565",
-      "number": 565,
+      "id": "xsd-full-0579",
+      "number": 579,
       "volume": 1
     },
     {
       "type": "single",
       "typeLabel": "单选题",
-      "question": "党的十九大提出，到（ ）把人民军队全面建成世界一流军队。",
+      "question": "党的十九大提出，到（? ）把人民军队全面建成世界一流军队。",
       "options": [
         {
           "key": "A",
@@ -20230,14 +20730,14 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0566",
-      "number": 566,
+      "id": "xsd-full-0580",
+      "number": 580,
       "volume": 1
     },
     {
       "type": "single",
       "typeLabel": "单选题",
-      "question": "（ ）是保证，关系军队的性质、宗旨、本色。",
+      "question": "（? ）是保证，关系军队的性质、宗旨、本色。",
       "options": [
         {
           "key": "A",
@@ -20266,8 +20766,8 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0567",
-      "number": 567,
+      "id": "xsd-full-0581",
+      "number": 581,
       "volume": 1
     },
     {
@@ -20314,8 +20814,8 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0568",
-      "number": 568,
+      "id": "xsd-full-0582",
+      "number": 582,
       "volume": 1
     },
     {
@@ -20356,8 +20856,8 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0569",
-      "number": 569,
+      "id": "xsd-full-0583",
+      "number": 583,
       "volume": 1
     },
     {
@@ -20398,8 +20898,8 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0570",
-      "number": 570,
+      "id": "xsd-full-0584",
+      "number": 584,
       "volume": 1
     },
     {
@@ -20440,8 +20940,8 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0571",
-      "number": 571,
+      "id": "xsd-full-0585",
+      "number": 585,
       "volume": 1
     },
     {
@@ -20480,8 +20980,8 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0572",
-      "number": 572,
+      "id": "xsd-full-0586",
+      "number": 586,
       "volume": 1
     },
     {
@@ -20520,8 +21020,8 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0573",
-      "number": 573,
+      "id": "xsd-full-0587",
+      "number": 587,
       "volume": 1
     },
     {
@@ -20562,8 +21062,8 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0574",
-      "number": 574,
+      "id": "xsd-full-0588",
+      "number": 588,
       "volume": 1
     },
     {
@@ -20602,8 +21102,8 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0575",
-      "number": 575,
+      "id": "xsd-full-0589",
+      "number": 589,
       "volume": 1
     },
     {
@@ -20650,14 +21150,14 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0576",
-      "number": 576,
+      "id": "xsd-full-0590",
+      "number": 590,
       "volume": 1
     },
     {
       "type": "multiple",
       "typeLabel": "多选题",
-      "question": "武器装备远程（ ）趋势更加明显，战争形态加速向信息化战争演变，智能化战争初现端倪。。",
+      "question": "武器装备远程（? ）趋势更加明显，战争形态加速向信息化战争演变，智能化战争初现端倪。。",
       "options": [
         {
           "key": "A",
@@ -20692,8 +21192,8 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0577",
-      "number": 577,
+      "id": "xsd-full-0591",
+      "number": 591,
       "volume": 1
     },
     {
@@ -20720,8 +21220,8 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0578",
-      "number": 578,
+      "id": "xsd-full-0592",
+      "number": 592,
       "volume": 1
     },
     {
@@ -20748,8 +21248,8 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0579",
-      "number": 579,
+      "id": "xsd-full-0593",
+      "number": 593,
       "volume": 1
     },
     {
@@ -20776,8 +21276,8 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0580",
-      "number": 580,
+      "id": "xsd-full-0594",
+      "number": 594,
       "volume": 1
     },
     {
@@ -20804,8 +21304,8 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0581",
-      "number": 581,
+      "id": "xsd-full-0595",
+      "number": 595,
       "volume": 1
     },
     {
@@ -20832,8 +21332,8 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0582",
-      "number": 582,
+      "id": "xsd-full-0596",
+      "number": 596,
       "volume": 1
     },
     {
@@ -20860,8 +21360,8 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0583",
-      "number": 583,
+      "id": "xsd-full-0597",
+      "number": 597,
       "volume": 1
     },
     {
@@ -20888,8 +21388,8 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0584",
-      "number": 584,
+      "id": "xsd-full-0598",
+      "number": 598,
       "volume": 1
     },
     {
@@ -20916,8 +21416,8 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0585",
-      "number": 585,
+      "id": "xsd-full-0599",
+      "number": 599,
       "volume": 1
     },
     {
@@ -20944,8 +21444,8 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0586",
-      "number": 586,
+      "id": "xsd-full-0600",
+      "number": 600,
       "volume": 1
     },
     {
@@ -20972,8 +21472,8 @@
       "category": "第十四章 建设巩固国防和强大人民军队",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0587",
-      "number": 587,
+      "id": "xsd-full-0601",
+      "number": 601,
       "volume": 1
     },
     {
@@ -21008,8 +21508,8 @@
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0588",
-      "number": 588,
+      "id": "xsd-full-0602",
+      "number": 602,
       "volume": 1
     },
     {
@@ -21044,8 +21544,8 @@
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0589",
-      "number": 589,
+      "id": "xsd-full-0603",
+      "number": 603,
       "volume": 1
     },
     {
@@ -21080,8 +21580,8 @@
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0590",
-      "number": 590,
+      "id": "xsd-full-0604",
+      "number": 604,
       "volume": 1
     },
     {
@@ -21116,8 +21616,8 @@
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0591",
-      "number": 591,
+      "id": "xsd-full-0605",
+      "number": 605,
       "volume": 1
     },
     {
@@ -21152,8 +21652,8 @@
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0592",
-      "number": 592,
+      "id": "xsd-full-0606",
+      "number": 606,
       "volume": 1
     },
     {
@@ -21188,8 +21688,8 @@
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0593",
-      "number": 593,
+      "id": "xsd-full-0607",
+      "number": 607,
       "volume": 1
     },
     {
@@ -21224,8 +21724,8 @@
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0594",
-      "number": 594,
+      "id": "xsd-full-0608",
+      "number": 608,
       "volume": 1
     },
     {
@@ -21264,8 +21764,8 @@
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0595",
-      "number": 595,
+      "id": "xsd-full-0609",
+      "number": 609,
       "volume": 1
     },
     {
@@ -21300,8 +21800,8 @@
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0596",
-      "number": 596,
+      "id": "xsd-full-0610",
+      "number": 610,
       "volume": 1
     },
     {
@@ -21336,8 +21836,8 @@
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0597",
-      "number": 597,
+      "id": "xsd-full-0611",
+      "number": 611,
       "volume": 1
     },
     {
@@ -21372,8 +21872,8 @@
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0598",
-      "number": 598,
+      "id": "xsd-full-0612",
+      "number": 612,
       "volume": 1
     },
     {
@@ -21408,8 +21908,8 @@
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0599",
-      "number": 599,
+      "id": "xsd-full-0613",
+      "number": 613,
       "volume": 1
     },
     {
@@ -21444,8 +21944,8 @@
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0600",
-      "number": 600,
+      "id": "xsd-full-0614",
+      "number": 614,
       "volume": 1
     },
     {
@@ -21480,8 +21980,8 @@
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0601",
-      "number": 601,
+      "id": "xsd-full-0615",
+      "number": 615,
       "volume": 1
     },
     {
@@ -21516,8 +22016,8 @@
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0602",
-      "number": 602,
+      "id": "xsd-full-0616",
+      "number": 616,
       "volume": 1
     },
     {
@@ -21552,8 +22052,8 @@
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0603",
-      "number": 603,
+      "id": "xsd-full-0617",
+      "number": 617,
       "volume": 1
     },
     {
@@ -21588,8 +22088,8 @@
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0604",
-      "number": 604,
+      "id": "xsd-full-0618",
+      "number": 618,
       "volume": 1
     },
     {
@@ -21624,8 +22124,8 @@
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0605",
-      "number": 605,
+      "id": "xsd-full-0619",
+      "number": 619,
       "volume": 1
     },
     {
@@ -21660,8 +22160,8 @@
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0606",
-      "number": 606,
+      "id": "xsd-full-0620",
+      "number": 620,
       "volume": 1
     },
     {
@@ -21696,8 +22196,8 @@
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0607",
-      "number": 607,
+      "id": "xsd-full-0621",
+      "number": 621,
       "volume": 1
     },
     {
@@ -21736,8 +22236,8 @@
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0608",
-      "number": 608,
+      "id": "xsd-full-0622",
+      "number": 622,
       "volume": 1
     },
     {
@@ -21778,8 +22278,8 @@
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0609",
-      "number": 609,
+      "id": "xsd-full-0623",
+      "number": 623,
       "volume": 1
     },
     {
@@ -21820,8 +22320,8 @@
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0610",
-      "number": 610,
+      "id": "xsd-full-0624",
+      "number": 624,
       "volume": 1
     },
     {
@@ -21862,8 +22362,8 @@
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0611",
-      "number": 611,
+      "id": "xsd-full-0625",
+      "number": 625,
       "volume": 1
     },
     {
@@ -21904,8 +22404,8 @@
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0612",
-      "number": 612,
+      "id": "xsd-full-0626",
+      "number": 626,
       "volume": 1
     },
     {
@@ -21946,8 +22446,8 @@
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0613",
-      "number": 613,
+      "id": "xsd-full-0627",
+      "number": 627,
       "volume": 1
     },
     {
@@ -21986,8 +22486,8 @@
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0614",
-      "number": 614,
+      "id": "xsd-full-0628",
+      "number": 628,
       "volume": 1
     },
     {
@@ -22028,8 +22528,8 @@
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0615",
-      "number": 615,
+      "id": "xsd-full-0629",
+      "number": 629,
       "volume": 1
     },
     {
@@ -22070,8 +22570,8 @@
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0616",
-      "number": 616,
+      "id": "xsd-full-0630",
+      "number": 630,
       "volume": 1
     },
     {
@@ -22108,8 +22608,8 @@
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0617",
-      "number": 617,
+      "id": "xsd-full-0631",
+      "number": 631,
       "volume": 1
     },
     {
@@ -22136,8 +22636,8 @@
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0618",
-      "number": 618,
+      "id": "xsd-full-0632",
+      "number": 632,
       "volume": 1
     },
     {
@@ -22164,8 +22664,8 @@
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0619",
-      "number": 619,
+      "id": "xsd-full-0633",
+      "number": 633,
       "volume": 1
     },
     {
@@ -22192,8 +22692,8 @@
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0620",
-      "number": 620,
+      "id": "xsd-full-0634",
+      "number": 634,
       "volume": 1
     },
     {
@@ -22220,8 +22720,8 @@
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0621",
-      "number": 621,
+      "id": "xsd-full-0635",
+      "number": 635,
       "volume": 1
     },
     {
@@ -22248,8 +22748,8 @@
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0622",
-      "number": 622,
+      "id": "xsd-full-0636",
+      "number": 636,
       "volume": 1
     },
     {
@@ -22276,14 +22776,14 @@
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0623",
-      "number": 623,
+      "id": "xsd-full-0637",
+      "number": 637,
       "volume": 1
     },
     {
       "type": "judge",
       "typeLabel": "判断题",
-      "question": "1999年7月1日，中国政府恢复对香港行使主权，香港回到了祖国的怀抱。1997年12月20日，澳门回到了祖国的怀抱。（ ） 党的十八大以来，以习近平同志为核心的党中央就对台工作提出一系列重要理念、重大政策主张，形成新时代党解决台湾问题的具体方略，为新时代解决台湾问题指明了方向。（ ） 坚持“一个中国原则”和“九二共识”，这是祖国统一的政治基础；坚持推动两岸关系和平发展、持续发展，这是祖国统一的实践途径。（ ）",
+      "question": "1999年7月1日，中国政府恢复对香港行使主权，香港回到了祖国的怀抱。1997年12月20日，澳门回到了祖国的怀抱。（ ）",
       "options": [
         {
           "key": "A",
@@ -22304,8 +22804,64 @@
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0624",
-      "number": 624,
+      "id": "xsd-full-0638",
+      "number": 638,
+      "volume": 1
+    },
+    {
+      "type": "judge",
+      "typeLabel": "判断题",
+      "question": "党的十八大以来，以习近平同志为核心的党中央就对台工作提出一系列重要理念、重大政策主张，形成新时代党解决台湾问题的具体方略，为新时代解决台湾问题指明了方向。（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "错误"
+      ],
+      "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
+      "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-full-0639",
+      "number": 639,
+      "volume": 1
+    },
+    {
+      "type": "judge",
+      "typeLabel": "判断题",
+      "question": "坚持“一个中国原则”和“九二共识”，这是祖国统一的政治基础；坚持推动两岸关系和平发展、持续发展，这是祖国统一的实践途径。（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "错误"
+      ],
+      "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
+      "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-full-0640",
+      "number": 640,
       "volume": 1
     },
     {
@@ -22332,8 +22888,8 @@
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0625",
-      "number": 625,
+      "id": "xsd-full-0641",
+      "number": 641,
       "volume": 1
     },
     {
@@ -22368,8 +22924,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0626",
-      "number": 626,
+      "id": "xsd-full-0642",
+      "number": 642,
       "volume": 1
     },
     {
@@ -22404,8 +22960,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0627",
-      "number": 627,
+      "id": "xsd-full-0643",
+      "number": 643,
       "volume": 1
     },
     {
@@ -22440,8 +22996,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0628",
-      "number": 628,
+      "id": "xsd-full-0644",
+      "number": 644,
       "volume": 1
     },
     {
@@ -22476,8 +23032,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0629",
-      "number": 629,
+      "id": "xsd-full-0645",
+      "number": 645,
       "volume": 1
     },
     {
@@ -22512,8 +23068,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0630",
-      "number": 630,
+      "id": "xsd-full-0646",
+      "number": 646,
       "volume": 1
     },
     {
@@ -22548,8 +23104,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0631",
-      "number": 631,
+      "id": "xsd-full-0647",
+      "number": 647,
       "volume": 1
     },
     {
@@ -22584,8 +23140,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0632",
-      "number": 632,
+      "id": "xsd-full-0648",
+      "number": 648,
       "volume": 1
     },
     {
@@ -22620,8 +23176,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0633",
-      "number": 633,
+      "id": "xsd-full-0649",
+      "number": 649,
       "volume": 1
     },
     {
@@ -22656,8 +23212,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0634",
-      "number": 634,
+      "id": "xsd-full-0650",
+      "number": 650,
       "volume": 1
     },
     {
@@ -22692,8 +23248,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0635",
-      "number": 635,
+      "id": "xsd-full-0651",
+      "number": 651,
       "volume": 1
     },
     {
@@ -22728,8 +23284,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0636",
-      "number": 636,
+      "id": "xsd-full-0652",
+      "number": 652,
       "volume": 1
     },
     {
@@ -22764,8 +23320,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0637",
-      "number": 637,
+      "id": "xsd-full-0653",
+      "number": 653,
       "volume": 1
     },
     {
@@ -22800,8 +23356,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0638",
-      "number": 638,
+      "id": "xsd-full-0654",
+      "number": 654,
       "volume": 1
     },
     {
@@ -22836,8 +23392,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0639",
-      "number": 639,
+      "id": "xsd-full-0655",
+      "number": 655,
       "volume": 1
     },
     {
@@ -22872,8 +23428,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0640",
-      "number": 640,
+      "id": "xsd-full-0656",
+      "number": 656,
       "volume": 1
     },
     {
@@ -22908,8 +23464,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0641",
-      "number": 641,
+      "id": "xsd-full-0657",
+      "number": 657,
       "volume": 1
     },
     {
@@ -22944,8 +23500,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0642",
-      "number": 642,
+      "id": "xsd-full-0658",
+      "number": 658,
       "volume": 1
     },
     {
@@ -22980,8 +23536,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0643",
-      "number": 643,
+      "id": "xsd-full-0659",
+      "number": 659,
       "volume": 1
     },
     {
@@ -23016,14 +23572,14 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0644",
-      "number": 644,
+      "id": "xsd-full-0660",
+      "number": 660,
       "volume": 1
     },
     {
       "type": "single",
       "typeLabel": "单选题",
-      "question": "新型国际关系“新”在（ ）。",
+      "question": "新型国际关系“新”在（??? ）。",
       "options": [
         {
           "key": "A",
@@ -23052,8 +23608,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0645",
-      "number": 645,
+      "id": "xsd-full-0661",
+      "number": 661,
       "volume": 1
     },
     {
@@ -23088,8 +23644,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0646",
-      "number": 646,
+      "id": "xsd-full-0662",
+      "number": 662,
       "volume": 1
     },
     {
@@ -23128,8 +23684,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0647",
-      "number": 647,
+      "id": "xsd-full-0663",
+      "number": 663,
       "volume": 1
     },
     {
@@ -23168,8 +23724,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0648",
-      "number": 648,
+      "id": "xsd-full-0664",
+      "number": 664,
       "volume": 1
     },
     {
@@ -23208,8 +23764,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0649",
-      "number": 649,
+      "id": "xsd-full-0665",
+      "number": 665,
       "volume": 1
     },
     {
@@ -23246,8 +23802,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0650",
-      "number": 650,
+      "id": "xsd-full-0666",
+      "number": 666,
       "volume": 1
     },
     {
@@ -23284,8 +23840,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0651",
-      "number": 651,
+      "id": "xsd-full-0667",
+      "number": 667,
       "volume": 1
     },
     {
@@ -23324,8 +23880,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0652",
-      "number": 652,
+      "id": "xsd-full-0668",
+      "number": 668,
       "volume": 1
     },
     {
@@ -23362,8 +23918,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0653",
-      "number": 653,
+      "id": "xsd-full-0669",
+      "number": 669,
       "volume": 1
     },
     {
@@ -23404,8 +23960,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0654",
-      "number": 654,
+      "id": "xsd-full-0670",
+      "number": 670,
       "volume": 1
     },
     {
@@ -23446,8 +24002,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0655",
-      "number": 655,
+      "id": "xsd-full-0671",
+      "number": 671,
       "volume": 1
     },
     {
@@ -23494,8 +24050,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0656",
-      "number": 656,
+      "id": "xsd-full-0672",
+      "number": 672,
       "volume": 1
     },
     {
@@ -23534,8 +24090,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0657",
-      "number": 657,
+      "id": "xsd-full-0673",
+      "number": 673,
       "volume": 1
     },
     {
@@ -23574,8 +24130,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0658",
-      "number": 658,
+      "id": "xsd-full-0674",
+      "number": 674,
       "volume": 1
     },
     {
@@ -23622,8 +24178,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0659",
-      "number": 659,
+      "id": "xsd-full-0675",
+      "number": 675,
       "volume": 1
     },
     {
@@ -23670,8 +24226,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0660",
-      "number": 660,
+      "id": "xsd-full-0676",
+      "number": 676,
       "volume": 1
     },
     {
@@ -23718,8 +24274,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0661",
-      "number": 661,
+      "id": "xsd-full-0677",
+      "number": 677,
       "volume": 1
     },
     {
@@ -23766,8 +24322,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0662",
-      "number": 662,
+      "id": "xsd-full-0678",
+      "number": 678,
       "volume": 1
     },
     {
@@ -23806,8 +24362,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0663",
-      "number": 663,
+      "id": "xsd-full-0679",
+      "number": 679,
       "volume": 1
     },
     {
@@ -23848,8 +24404,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0664",
-      "number": 664,
+      "id": "xsd-full-0680",
+      "number": 680,
       "volume": 1
     },
     {
@@ -23890,8 +24446,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0665",
-      "number": 665,
+      "id": "xsd-full-0681",
+      "number": 681,
       "volume": 1
     },
     {
@@ -23938,8 +24494,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0666",
-      "number": 666,
+      "id": "xsd-full-0682",
+      "number": 682,
       "volume": 1
     },
     {
@@ -23986,8 +24542,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0667",
-      "number": 667,
+      "id": "xsd-full-0683",
+      "number": 683,
       "volume": 1
     },
     {
@@ -24034,8 +24590,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0668",
-      "number": 668,
+      "id": "xsd-full-0684",
+      "number": 684,
       "volume": 1
     },
     {
@@ -24082,8 +24638,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0669",
-      "number": 669,
+      "id": "xsd-full-0685",
+      "number": 685,
       "volume": 1
     },
     {
@@ -24110,8 +24666,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0670",
-      "number": 670,
+      "id": "xsd-full-0686",
+      "number": 686,
       "volume": 1
     },
     {
@@ -24138,8 +24694,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0671",
-      "number": 671,
+      "id": "xsd-full-0687",
+      "number": 687,
       "volume": 1
     },
     {
@@ -24166,8 +24722,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0672",
-      "number": 672,
+      "id": "xsd-full-0688",
+      "number": 688,
       "volume": 1
     },
     {
@@ -24194,8 +24750,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0673",
-      "number": 673,
+      "id": "xsd-full-0689",
+      "number": 689,
       "volume": 1
     },
     {
@@ -24222,8 +24778,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0674",
-      "number": 674,
+      "id": "xsd-full-0690",
+      "number": 690,
       "volume": 1
     },
     {
@@ -24250,8 +24806,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0675",
-      "number": 675,
+      "id": "xsd-full-0691",
+      "number": 691,
       "volume": 1
     },
     {
@@ -24278,8 +24834,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0676",
-      "number": 676,
+      "id": "xsd-full-0692",
+      "number": 692,
       "volume": 1
     },
     {
@@ -24306,8 +24862,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0677",
-      "number": 677,
+      "id": "xsd-full-0693",
+      "number": 693,
       "volume": 1
     },
     {
@@ -24334,8 +24890,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0678",
-      "number": 678,
+      "id": "xsd-full-0694",
+      "number": 694,
       "volume": 1
     },
     {
@@ -24362,8 +24918,8 @@
       "category": "第十六章 中国特色大国外交和推动构建人类命运共同体",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0679",
-      "number": 679,
+      "id": "xsd-full-0695",
+      "number": 695,
       "volume": 1
     },
     {
@@ -24398,8 +24954,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0680",
-      "number": 680,
+      "id": "xsd-full-0696",
+      "number": 696,
       "volume": 1
     },
     {
@@ -24434,8 +24990,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0681",
-      "number": 681,
+      "id": "xsd-full-0697",
+      "number": 697,
       "volume": 1
     },
     {
@@ -24470,8 +25026,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0682",
-      "number": 682,
+      "id": "xsd-full-0698",
+      "number": 698,
       "volume": 1
     },
     {
@@ -24506,8 +25062,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0683",
-      "number": 683,
+      "id": "xsd-full-0699",
+      "number": 699,
       "volume": 1
     },
     {
@@ -24542,8 +25098,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0684",
-      "number": 684,
+      "id": "xsd-full-0700",
+      "number": 700,
       "volume": 1
     },
     {
@@ -24578,8 +25134,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0685",
-      "number": 685,
+      "id": "xsd-full-0701",
+      "number": 701,
       "volume": 1
     },
     {
@@ -24614,8 +25170,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0686",
-      "number": 686,
+      "id": "xsd-full-0702",
+      "number": 702,
       "volume": 1
     },
     {
@@ -24650,8 +25206,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0687",
-      "number": 687,
+      "id": "xsd-full-0703",
+      "number": 703,
       "volume": 1
     },
     {
@@ -24686,8 +25242,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0688",
-      "number": 688,
+      "id": "xsd-full-0704",
+      "number": 704,
       "volume": 1
     },
     {
@@ -24722,8 +25278,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0689",
-      "number": 689,
+      "id": "xsd-full-0705",
+      "number": 705,
       "volume": 1
     },
     {
@@ -24758,8 +25314,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0690",
-      "number": 690,
+      "id": "xsd-full-0706",
+      "number": 706,
       "volume": 1
     },
     {
@@ -24794,8 +25350,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0691",
-      "number": 691,
+      "id": "xsd-full-0707",
+      "number": 707,
       "volume": 1
     },
     {
@@ -24830,8 +25386,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0692",
-      "number": 692,
+      "id": "xsd-full-0708",
+      "number": 708,
       "volume": 1
     },
     {
@@ -24866,8 +25422,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0693",
-      "number": 693,
+      "id": "xsd-full-0709",
+      "number": 709,
       "volume": 1
     },
     {
@@ -24902,8 +25458,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0694",
-      "number": 694,
+      "id": "xsd-full-0710",
+      "number": 710,
       "volume": 1
     },
     {
@@ -24938,8 +25494,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0695",
-      "number": 695,
+      "id": "xsd-full-0711",
+      "number": 711,
       "volume": 1
     },
     {
@@ -24974,8 +25530,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0696",
-      "number": 696,
+      "id": "xsd-full-0712",
+      "number": 712,
       "volume": 1
     },
     {
@@ -25010,8 +25566,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0697",
-      "number": 697,
+      "id": "xsd-full-0713",
+      "number": 713,
       "volume": 1
     },
     {
@@ -25046,8 +25602,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0698",
-      "number": 698,
+      "id": "xsd-full-0714",
+      "number": 714,
       "volume": 1
     },
     {
@@ -25082,8 +25638,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0699",
-      "number": 699,
+      "id": "xsd-full-0715",
+      "number": 715,
       "volume": 1
     },
     {
@@ -25118,8 +25674,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0700",
-      "number": 700,
+      "id": "xsd-full-0716",
+      "number": 716,
       "volume": 1
     },
     {
@@ -25160,8 +25716,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0701",
-      "number": 701,
+      "id": "xsd-full-0717",
+      "number": 717,
       "volume": 1
     },
     {
@@ -25202,8 +25758,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0702",
-      "number": 702,
+      "id": "xsd-full-0718",
+      "number": 718,
       "volume": 1
     },
     {
@@ -25244,8 +25800,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0703",
-      "number": 703,
+      "id": "xsd-full-0719",
+      "number": 719,
       "volume": 1
     },
     {
@@ -25286,8 +25842,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0704",
-      "number": 704,
+      "id": "xsd-full-0720",
+      "number": 720,
       "volume": 1
     },
     {
@@ -25326,8 +25882,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0705",
-      "number": 705,
+      "id": "xsd-full-0721",
+      "number": 721,
       "volume": 1
     },
     {
@@ -25362,8 +25918,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0706",
-      "number": 706,
+      "id": "xsd-full-0722",
+      "number": 722,
       "volume": 1
     },
     {
@@ -25402,8 +25958,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0707",
-      "number": 707,
+      "id": "xsd-full-0723",
+      "number": 723,
       "volume": 1
     },
     {
@@ -25440,8 +25996,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0708",
-      "number": 708,
+      "id": "xsd-full-0724",
+      "number": 724,
       "volume": 1
     },
     {
@@ -25482,8 +26038,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0709",
-      "number": 709,
+      "id": "xsd-full-0725",
+      "number": 725,
       "volume": 1
     },
     {
@@ -25524,8 +26080,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0710",
-      "number": 710,
+      "id": "xsd-full-0726",
+      "number": 726,
       "volume": 1
     },
     {
@@ -25552,8 +26108,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0711",
-      "number": 711,
+      "id": "xsd-full-0727",
+      "number": 727,
       "volume": 1
     },
     {
@@ -25580,8 +26136,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0712",
-      "number": 712,
+      "id": "xsd-full-0728",
+      "number": 728,
       "volume": 1
     },
     {
@@ -25608,8 +26164,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0713",
-      "number": 713,
+      "id": "xsd-full-0729",
+      "number": 729,
       "volume": 1
     },
     {
@@ -25636,8 +26192,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0714",
-      "number": 714,
+      "id": "xsd-full-0730",
+      "number": 730,
       "volume": 1
     },
     {
@@ -25664,8 +26220,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0715",
-      "number": 715,
+      "id": "xsd-full-0731",
+      "number": 731,
       "volume": 1
     },
     {
@@ -25692,8 +26248,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0716",
-      "number": 716,
+      "id": "xsd-full-0732",
+      "number": 732,
       "volume": 1
     },
     {
@@ -25720,8 +26276,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0717",
-      "number": 717,
+      "id": "xsd-full-0733",
+      "number": 733,
       "volume": 1
     },
     {
@@ -25748,8 +26304,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0718",
-      "number": 718,
+      "id": "xsd-full-0734",
+      "number": 734,
       "volume": 1
     },
     {
@@ -25776,8 +26332,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0719",
-      "number": 719,
+      "id": "xsd-full-0735",
+      "number": 735,
       "volume": 1
     },
     {
@@ -25804,8 +26360,8 @@
       "category": "第十七章 全面从严治党",
       "score": 1,
       "analysis": "",
-      "id": "xsd-full-0720",
-      "number": 720,
+      "id": "xsd-full-0736",
+      "number": 736,
       "volume": 1
     },
     {
@@ -25823,8 +26379,8 @@
       "category": "第十七章 全面从严治党",
       "score": 0,
       "analysis": "",
-      "id": "xsd-full-0721",
-      "number": 721,
+      "id": "xsd-full-0737",
+      "number": 737,
       "volume": 1
     },
     {
@@ -25833,17 +26389,17 @@
       "question": "根据以下材料，请回答：\n材料一：“党兴方能国强。我们开展深入贯彻中央八项规定精神学习教育，徙木立信从严管党治党，去腐生肌推进自我革命，党风政风持续想好。要砥砺初心使命，持之以恒、久久为功，继续回答好延安‘窑洞之问’，书写无愧于人民的时代答卷。”\n摘自《人民日报》（2025年12月31日）\n材料二：习近平同志强调，要坚持和加强党的全面领导，以更高标准、更实举措推进全面从严治党，更加坚决有力地贯彻落实党中央重大决策部署，更加科学有效地把权力关进制度笼子，更加清醒坚定地推进反腐败斗争，为实现“十五五”时期目标任务提供坚强保障。\n把权力关进制度笼子是新时代全面从严治党的一项重要任务。党的十八大后，党中央以制定实施中央八项规定开局破题，立铁规矩、强硬约束，推动党风政风焕然一新。把权力关进制度笼子，既要不断完善制度规定，使制度密而不繁、有效管用，又要着力提高制度执行力，增强刚性约束。要坚持法规制度面前人人平等、遵守法规制度没有特权、执行法规制度没有例外，确保制度规定真正成为带电的高压线。“一把手”要带头执行制度。要加强法规制度宣传教育，引导党员、干部懂法纪、明规矩、知敬畏。要进一步提高党务、政务的透明度，让权力在阳光下运行。\n摘自《人民日报》（2026年1月12日）\n党的建设面临的“四大考验”和“四大危险”分别是什么？",
       "options": [],
       "answerKeys": [
-        "“四大考验”是‌执政考验、改革开放考验、市场经济考验、外部环境考验。“四大危险”是精神懈怠危险、能力不足危险、脱离群众危险、消极腐败危险。"
+        "“四大考验”是?执政考验、改革开放考验、市场经济考验、外部环境考验。“四大危险”是精神懈怠危险、能力不足危险、脱离群众危险、消极腐败危险。"
       ],
       "answerText": [
-        "“四大考验”是‌执政考验、改革开放考验、市场经济考验、外部环境考验。“四大危险”是精神懈怠危险、能力不足危险、脱离群众危险、消极腐败危险。"
+        "“四大考验”是?执政考验、改革开放考验、市场经济考验、外部环境考验。“四大危险”是精神懈怠危险、能力不足危险、脱离群众危险、消极腐败危险。"
       ],
       "topic": "第十七章 全面从严治党",
       "category": "第十七章 全面从严治党",
       "score": 0,
       "analysis": "",
-      "id": "xsd-full-0722",
-      "number": 722,
+      "id": "xsd-full-0738",
+      "number": 738,
       "volume": 1
     },
     {
@@ -25852,23 +26408,23 @@
       "question": "根据以下材料，请回答：\n材料一：“党兴方能国强。我们开展深入贯彻中央八项规定精神学习教育，徙木立信从严管党治党，去腐生肌推进自我革命，党风政风持续想好。要砥砺初心使命，持之以恒、久久为功，继续回答好延安‘窑洞之问’，书写无愧于人民的时代答卷。”\n摘自《人民日报》（2025年12月31日）\n材料二：习近平同志强调，要坚持和加强党的全面领导，以更高标准、更实举措推进全面从严治党，更加坚决有力地贯彻落实党中央重大决策部署，更加科学有效地把权力关进制度笼子，更加清醒坚定地推进反腐败斗争，为实现“十五五”时期目标任务提供坚强保障。\n把权力关进制度笼子是新时代全面从严治党的一项重要任务。党的十八大后，党中央以制定实施中央八项规定开局破题，立铁规矩、强硬约束，推动党风政风焕然一新。把权力关进制度笼子，既要不断完善制度规定，使制度密而不繁、有效管用，又要着力提高制度执行力，增强刚性约束。要坚持法规制度面前人人平等、遵守法规制度没有特权、执行法规制度没有例外，确保制度规定真正成为带电的高压线。“一把手”要带头执行制度。要加强法规制度宣传教育，引导党员、干部懂法纪、明规矩、知敬畏。要进一步提高党务、政务的透明度，让权力在阳光下运行。\n摘自《人民日报》（2026年1月12日）\n如何一体推进不敢腐、不能腐、不想腐，打赢反腐败斗争攻坚战持久战？",
       "options": [],
       "answerKeys": [
-        "①“不敢腐”是前提。保持零容忍震慑不变、高压惩治力量常在，强化“伸手必被捉”的刚性约束。\n②“不能腐”是关键‌。要科学配置、严格制约关键权力，推动党内法规与国家法律衔接协同，加强刚性制度约束，让腐败无机可乘。\n③“不想腐”是根本‌。用习近平新时代中国特色社会主义思想凝心铸魂，加强党性党风党纪教育，弘扬中华优秀传统文化和新时代廉洁文化，筑牢拒腐防变思想堤坝。\n④要在坚持党的全面领导下，打破“三不腐”割裂误区，运用“全周期管理”理念，在查办案件中挖掘制度与教育功能，在完善制度中融入震慑与教化元素，在思想教育中嵌入纪法约束。铲除腐败土壤，保障中国式现代化行稳致远。"
+        "①“不敢腐”是前提。保持零容忍震慑不变、高压惩治力量常在，强化“伸手必被捉”的刚性约束。\n②“不能腐”是关键。要科学配置、严格制约关键权力，推动党内法规与国家法律衔接协同，加强刚性制度约束，让腐败无机可乘。\n③“不想腐”是根本。用习近平新时代中国特色社会主义思想凝心铸魂，加强党性党风党纪教育，弘扬中华优秀传统文化和新时代廉洁文化，筑牢拒腐防变思想堤坝。\n④要在坚持党的全面领导下，打破“三不腐”割裂误区，运用“全周期管理”理念，在查办案件中挖掘制度与教育功能，在完善制度中融入震慑与教化元素，在思想教育中嵌入纪法约束。铲除腐败土壤，保障中国式现代化行稳致远。"
       ],
       "answerText": [
-        "①“不敢腐”是前提。保持零容忍震慑不变、高压惩治力量常在，强化“伸手必被捉”的刚性约束。\n②“不能腐”是关键‌。要科学配置、严格制约关键权力，推动党内法规与国家法律衔接协同，加强刚性制度约束，让腐败无机可乘。\n③“不想腐”是根本‌。用习近平新时代中国特色社会主义思想凝心铸魂，加强党性党风党纪教育，弘扬中华优秀传统文化和新时代廉洁文化，筑牢拒腐防变思想堤坝。\n④要在坚持党的全面领导下，打破“三不腐”割裂误区，运用“全周期管理”理念，在查办案件中挖掘制度与教育功能，在完善制度中融入震慑与教化元素，在思想教育中嵌入纪法约束。铲除腐败土壤，保障中国式现代化行稳致远。"
+        "①“不敢腐”是前提。保持零容忍震慑不变、高压惩治力量常在，强化“伸手必被捉”的刚性约束。\n②“不能腐”是关键。要科学配置、严格制约关键权力，推动党内法规与国家法律衔接协同，加强刚性制度约束，让腐败无机可乘。\n③“不想腐”是根本。用习近平新时代中国特色社会主义思想凝心铸魂，加强党性党风党纪教育，弘扬中华优秀传统文化和新时代廉洁文化，筑牢拒腐防变思想堤坝。\n④要在坚持党的全面领导下，打破“三不腐”割裂误区，运用“全周期管理”理念，在查办案件中挖掘制度与教育功能，在完善制度中融入震慑与教化元素，在思想教育中嵌入纪法约束。铲除腐败土壤，保障中国式现代化行稳致远。"
       ],
       "topic": "第十七章 全面从严治党",
       "category": "第十七章 全面从严治党",
       "score": 0,
       "analysis": "",
-      "id": "xsd-full-0723",
-      "number": 723,
+      "id": "xsd-full-0739",
+      "number": 739,
       "volume": 1
     },
     {
       "type": "material",
       "typeLabel": "材料分析题",
-      "question": "根据以下材料，请回答：\n材料一：“十五五”时期经济社会发展的指导思想。坚持马克思列宁主义、毛泽东思想、邓小平理论、“三个代表”重要思想、科学发展观，全面贯彻习近平新时代中国特色社会主义思想，深入贯彻党的二十大和二十届历次全会精神，围绕全面建成社会主义现代化强国、实现第二个百年奋斗目标，以中国式现代化全面推进中华民族伟大复兴，统筹推进“五位一体”总体布局，协调推进“四个全面”战略布局，统筹国内国际两个大局，完整准确全面贯彻新发展理念，加快构建新发展格局，坚持稳中求进工作总基调，坚持以经济建设为中心，以推动高质量发展为主题，以改革创新为根本动力，以满足人民日益增长的美好生活需要为根本目的，以全面从严治党为根本保障，推动经济实现质的有效提升和量的合理增长，推动人的全面发展、全体人民共同富裕迈出坚实步伐，确保基本实现社会主义现代化取得决定性进展。\n材料二：坚持高质量发展。以新发展理念引领发展，因地制宜发展新质生产力，做强国内大循环，畅通国内国际双循环，统筹扩大内需和深化供给侧结构性改革，加快培育新动能，促进经济结构优化升级，做优增量、盘活存量，推动经济持续健康发展和社会全面进步。\n材料一、二摘自《中共中央关于制定国民经济和社会发展第十五个五年规划的建议》‌‌‌‌\n如何理解新发展阶段和社会主义初级阶段的关系？",
+      "question": "根据以下材料，请回答：\n材料一：“十五五”时期经济社会发展的指导思想。坚持马克思列宁主义、毛泽东思想、邓小平理论、“三个代表”重要思想、科学发展观，全面贯彻习近平新时代中国特色社会主义思想，深入贯彻党的二十大和二十届历次全会精神，围绕全面建成社会主义现代化强国、实现第二个百年奋斗目标，以中国式现代化全面推进中华民族伟大复兴，统筹推进“五位一体”总体布局，协调推进“四个全面”战略布局，统筹国内国际两个大局，完整准确全面贯彻新发展理念，加快构建新发展格局，坚持稳中求进工作总基调，坚持以经济建设为中心，以推动高质量发展为主题，以改革创新为根本动力，以满足人民日益增长的美好生活需要为根本目的，以全面从严治党为根本保障，推动经济实现质的有效提升和量的合理增长，推动人的全面发展、全体人民共同富裕迈出坚实步伐，确保基本实现社会主义现代化取得决定性进展。\n材料二：坚持高质量发展。以新发展理念引领发展，因地制宜发展新质生产力，做强国内大循环，畅通国内国际双循环，统筹扩大内需和深化供给侧结构性改革，加快培育新动能，促进经济结构优化升级，做优增量、盘活存量，推动经济持续健康发展和社会全面进步。\n材料一、二摘自《中共中央关于制定国民经济和社会发展第十五个五年规划的建议》\n如何理解新发展阶段和社会主义初级阶段的关系？",
       "options": [],
       "answerKeys": [
         "①社会主义初级阶段包含两层含义。一是我们已经进入社会主义社会而不能偏离这一社会性质。二是我们的社会主义社会还处于初级阶段，要从这一实际出发，而不能超越这一阶段。\n②新发展阶段是开启全面建设社会主义现代化国家、向第二个百年奋斗目标进军的新阶段，是我们党带领人民迎来从站起来、富起来到强起来历史性跨越的新阶段，是在雄厚物质基础上开启的新阶段。\n③社会主义初级阶段不是一成不变的，它具有动态发展性。新发展阶段属于而没有超越社会主义初级阶段，是经过几十年积累、站到了新的起点上的一个阶段。"
@@ -25880,14 +26436,14 @@
       "category": "第十七章 全面从严治党",
       "score": 0,
       "analysis": "",
-      "id": "xsd-full-0724",
-      "number": 724,
+      "id": "xsd-full-0740",
+      "number": 740,
       "volume": 1
     },
     {
       "type": "material",
       "typeLabel": "材料分析题",
-      "question": "根据以下材料，请回答：\n材料一：“十五五”时期经济社会发展的指导思想。坚持马克思列宁主义、毛泽东思想、邓小平理论、“三个代表”重要思想、科学发展观，全面贯彻习近平新时代中国特色社会主义思想，深入贯彻党的二十大和二十届历次全会精神，围绕全面建成社会主义现代化强国、实现第二个百年奋斗目标，以中国式现代化全面推进中华民族伟大复兴，统筹推进“五位一体”总体布局，协调推进“四个全面”战略布局，统筹国内国际两个大局，完整准确全面贯彻新发展理念，加快构建新发展格局，坚持稳中求进工作总基调，坚持以经济建设为中心，以推动高质量发展为主题，以改革创新为根本动力，以满足人民日益增长的美好生活需要为根本目的，以全面从严治党为根本保障，推动经济实现质的有效提升和量的合理增长，推动人的全面发展、全体人民共同富裕迈出坚实步伐，确保基本实现社会主义现代化取得决定性进展。\n材料二：坚持高质量发展。以新发展理念引领发展，因地制宜发展新质生产力，做强国内大循环，畅通国内国际双循环，统筹扩大内需和深化供给侧结构性改革，加快培育新动能，促进经济结构优化升级，做优增量、盘活存量，推动经济持续健康发展和社会全面进步。\n材料一、二摘自《中共中央关于制定国民经济和社会发展第十五个五年规划的建议》‌‌‌‌\n党的十八大以来，以习近平同志为核心的党中央着眼于更好发挥社会主义制度优越性、推动高质量发展，对社会主义基本经济制度作出新概括，其中包括哪些内容？",
+      "question": "根据以下材料，请回答：\n材料一：“十五五”时期经济社会发展的指导思想。坚持马克思列宁主义、毛泽东思想、邓小平理论、“三个代表”重要思想、科学发展观，全面贯彻习近平新时代中国特色社会主义思想，深入贯彻党的二十大和二十届历次全会精神，围绕全面建成社会主义现代化强国、实现第二个百年奋斗目标，以中国式现代化全面推进中华民族伟大复兴，统筹推进“五位一体”总体布局，协调推进“四个全面”战略布局，统筹国内国际两个大局，完整准确全面贯彻新发展理念，加快构建新发展格局，坚持稳中求进工作总基调，坚持以经济建设为中心，以推动高质量发展为主题，以改革创新为根本动力，以满足人民日益增长的美好生活需要为根本目的，以全面从严治党为根本保障，推动经济实现质的有效提升和量的合理增长，推动人的全面发展、全体人民共同富裕迈出坚实步伐，确保基本实现社会主义现代化取得决定性进展。\n材料二：坚持高质量发展。以新发展理念引领发展，因地制宜发展新质生产力，做强国内大循环，畅通国内国际双循环，统筹扩大内需和深化供给侧结构性改革，加快培育新动能，促进经济结构优化升级，做优增量、盘活存量，推动经济持续健康发展和社会全面进步。\n材料一、二摘自《中共中央关于制定国民经济和社会发展第十五个五年规划的建议》\n党的十八大以来，以习近平同志为核心的党中央着眼于更好发挥社会主义制度优越性、推动高质量发展，对社会主义基本经济制度作出新概括，其中包括哪些内容？",
       "options": [],
       "answerKeys": [
         "党的十八大以来，以习近平同志为核心的党中央着眼于更好发挥社会主义制度优越性、推动高质量发展，对社会主义基本经济制度作出新概括，将公有制为主体、多种所有制经济共同发展，按劳分配为主体、多种分配方式并存，社会主义市场经济体制等共同作为社会主义基本经济制度。"
@@ -25899,14 +26455,14 @@
       "category": "第十七章 全面从严治党",
       "score": 0,
       "analysis": "",
-      "id": "xsd-full-0725",
-      "number": 725,
+      "id": "xsd-full-0741",
+      "number": 741,
       "volume": 1
     },
     {
       "type": "material",
       "typeLabel": "材料分析题",
-      "question": "根据以下材料，请回答：\n材料一：“十五五”时期经济社会发展的指导思想。坚持马克思列宁主义、毛泽东思想、邓小平理论、“三个代表”重要思想、科学发展观，全面贯彻习近平新时代中国特色社会主义思想，深入贯彻党的二十大和二十届历次全会精神，围绕全面建成社会主义现代化强国、实现第二个百年奋斗目标，以中国式现代化全面推进中华民族伟大复兴，统筹推进“五位一体”总体布局，协调推进“四个全面”战略布局，统筹国内国际两个大局，完整准确全面贯彻新发展理念，加快构建新发展格局，坚持稳中求进工作总基调，坚持以经济建设为中心，以推动高质量发展为主题，以改革创新为根本动力，以满足人民日益增长的美好生活需要为根本目的，以全面从严治党为根本保障，推动经济实现质的有效提升和量的合理增长，推动人的全面发展、全体人民共同富裕迈出坚实步伐，确保基本实现社会主义现代化取得决定性进展。\n材料二：坚持高质量发展。以新发展理念引领发展，因地制宜发展新质生产力，做强国内大循环，畅通国内国际双循环，统筹扩大内需和深化供给侧结构性改革，加快培育新动能，促进经济结构优化升级，做优增量、盘活存量，推动经济持续健康发展和社会全面进步。\n材料一、二摘自《中共中央关于制定国民经济和社会发展第十五个五年规划的建议》‌‌‌‌\n加快构建新发展格局有哪些基本要求？",
+      "question": "根据以下材料，请回答：\n材料一：“十五五”时期经济社会发展的指导思想。坚持马克思列宁主义、毛泽东思想、邓小平理论、“三个代表”重要思想、科学发展观，全面贯彻习近平新时代中国特色社会主义思想，深入贯彻党的二十大和二十届历次全会精神，围绕全面建成社会主义现代化强国、实现第二个百年奋斗目标，以中国式现代化全面推进中华民族伟大复兴，统筹推进“五位一体”总体布局，协调推进“四个全面”战略布局，统筹国内国际两个大局，完整准确全面贯彻新发展理念，加快构建新发展格局，坚持稳中求进工作总基调，坚持以经济建设为中心，以推动高质量发展为主题，以改革创新为根本动力，以满足人民日益增长的美好生活需要为根本目的，以全面从严治党为根本保障，推动经济实现质的有效提升和量的合理增长，推动人的全面发展、全体人民共同富裕迈出坚实步伐，确保基本实现社会主义现代化取得决定性进展。\n材料二：坚持高质量发展。以新发展理念引领发展，因地制宜发展新质生产力，做强国内大循环，畅通国内国际双循环，统筹扩大内需和深化供给侧结构性改革，加快培育新动能，促进经济结构优化升级，做优增量、盘活存量，推动经济持续健康发展和社会全面进步。\n材料一、二摘自《中共中央关于制定国民经济和社会发展第十五个五年规划的建议》\n加快构建新发展格局有哪些基本要求？",
       "options": [],
       "answerKeys": [
         "①构建新发展格局，涉及我国经济发展的各个方面、各个领域，要准确把握基本要求，加强整体协调和系统布局，推动国内循环和国际循环相互促进、良性互动。\n②构建新发展格局必须具备强大的国内经济循环体系和稳固的基本盘，保持国内经济持续健康发展，巩固和发展我国经济的强大竞争力。\n③构建新发展格局必须发挥比较优势，以国内大循环吸引全球资源要素。\n④构建新发展格局必须保证经济循环的畅通无阻，实现生产、分配、 流通、消费各环节有机衔接。"
@@ -25918,8 +26474,8 @@
       "category": "第十七章 全面从严治党",
       "score": 0,
       "analysis": "",
-      "id": "xsd-full-0726",
-      "number": 726,
+      "id": "xsd-full-0742",
+      "number": 742,
       "volume": 1
     },
     {
@@ -25937,8 +26493,8 @@
       "category": "第十七章 全面从严治党",
       "score": 0,
       "analysis": "",
-      "id": "xsd-full-0727",
-      "number": 727,
+      "id": "xsd-full-0743",
+      "number": 743,
       "volume": 1
     },
     {
@@ -25956,8 +26512,8 @@
       "category": "第十七章 全面从严治党",
       "score": 0,
       "analysis": "",
-      "id": "xsd-full-0728",
-      "number": 728,
+      "id": "xsd-full-0744",
+      "number": 744,
       "volume": 1
     },
     {
@@ -25975,8 +26531,8 @@
       "category": "第十七章 全面从严治党",
       "score": 0,
       "analysis": "",
-      "id": "xsd-full-0729",
-      "number": 729,
+      "id": "xsd-full-0745",
+      "number": 745,
       "volume": 1
     },
     {
@@ -25994,8 +26550,8 @@
       "category": "第十七章 全面从严治党",
       "score": 0,
       "analysis": "",
-      "id": "xsd-full-0730",
-      "number": 730,
+      "id": "xsd-full-0746",
+      "number": 746,
       "volume": 1
     },
     {
@@ -26013,8 +26569,8 @@
       "category": "第十七章 全面从严治党",
       "score": 0,
       "analysis": "",
-      "id": "xsd-full-0731",
-      "number": 731,
+      "id": "xsd-full-0747",
+      "number": 747,
       "volume": 1
     },
     {
@@ -26032,8 +26588,8 @@
       "category": "第十七章 全面从严治党",
       "score": 0,
       "analysis": "",
-      "id": "xsd-full-0732",
-      "number": 732,
+      "id": "xsd-full-0748",
+      "number": 748,
       "volume": 1
     },
     {
@@ -26051,8 +26607,8 @@
       "category": "第十七章 全面从严治党",
       "score": 0,
       "analysis": "",
-      "id": "xsd-full-0733",
-      "number": 733,
+      "id": "xsd-full-0749",
+      "number": 749,
       "volume": 1
     },
     {
@@ -26070,8 +26626,8 @@
       "category": "第十七章 全面从严治党",
       "score": 0,
       "analysis": "",
-      "id": "xsd-full-0734",
-      "number": 734,
+      "id": "xsd-full-0750",
+      "number": 750,
       "volume": 1
     },
     {
@@ -26089,8 +26645,8 @@
       "category": "第十七章 全面从严治党",
       "score": 0,
       "analysis": "",
-      "id": "xsd-full-0735",
-      "number": 735,
+      "id": "xsd-full-0751",
+      "number": 751,
       "volume": 1
     }
   ]

@@ -1,11 +1,47 @@
 {
   "meta": {
     "title": "习近平新时代中国特色社会主义思想概论-第四章",
-    "questionCount": 34,
+    "questionCount": 40,
     "volumes": 1,
     "sourceNote": "由 25-26-2 习概题库 Word 文档转换导入，主观题供自评。"
   },
   "questions": [
+    {
+      "type": "single",
+      "typeLabel": "单选题",
+      "question": "（ ）是中国共产党人的根本政治立场，是我们区别于其他政党的显著标志。",
+      "options": [
+        {
+          "key": "A",
+          "text": "人民立场"
+        },
+        {
+          "key": "B",
+          "text": "资本立场"
+        },
+        {
+          "key": "C",
+          "text": "实事求是"
+        },
+        {
+          "key": "D",
+          "text": "深化改革"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "人民立场"
+      ],
+      "topic": "第四章 坚持以人民为中心",
+      "category": "第四章 坚持以人民为中心",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-chapter5-0001",
+      "number": 1,
+      "volume": 1
+    },
     {
       "type": "single",
       "typeLabel": "单选题",
@@ -38,8 +74,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter5-0001",
-      "number": 1,
+      "id": "xsd-chapter5-0002",
+      "number": 2,
       "volume": 1
     },
     {
@@ -74,8 +110,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter5-0002",
-      "number": 2,
+      "id": "xsd-chapter5-0003",
+      "number": 3,
       "volume": 1
     },
     {
@@ -110,8 +146,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter5-0003",
-      "number": 3,
+      "id": "xsd-chapter5-0004",
+      "number": 4,
       "volume": 1
     },
     {
@@ -146,8 +182,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter5-0004",
-      "number": 4,
+      "id": "xsd-chapter5-0005",
+      "number": 5,
       "volume": 1
     },
     {
@@ -182,8 +218,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter5-0005",
-      "number": 5,
+      "id": "xsd-chapter5-0006",
+      "number": 6,
       "volume": 1
     },
     {
@@ -218,8 +254,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter5-0006",
-      "number": 6,
+      "id": "xsd-chapter5-0007",
+      "number": 7,
       "volume": 1
     },
     {
@@ -254,8 +290,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter5-0007",
-      "number": 7,
+      "id": "xsd-chapter5-0008",
+      "number": 8,
       "volume": 1
     },
     {
@@ -290,8 +326,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter5-0008",
-      "number": 8,
+      "id": "xsd-chapter5-0009",
+      "number": 9,
       "volume": 1
     },
     {
@@ -326,8 +362,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter5-0009",
-      "number": 9,
+      "id": "xsd-chapter5-0010",
+      "number": 10,
       "volume": 1
     },
     {
@@ -362,8 +398,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter5-0010",
-      "number": 10,
+      "id": "xsd-chapter5-0011",
+      "number": 11,
       "volume": 1
     },
     {
@@ -398,8 +434,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter5-0011",
-      "number": 11,
+      "id": "xsd-chapter5-0012",
+      "number": 12,
       "volume": 1
     },
     {
@@ -434,8 +470,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter5-0012",
-      "number": 12,
+      "id": "xsd-chapter5-0013",
+      "number": 13,
       "volume": 1
     },
     {
@@ -470,8 +506,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter5-0013",
-      "number": 13,
+      "id": "xsd-chapter5-0014",
+      "number": 14,
       "volume": 1
     },
     {
@@ -506,8 +542,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter5-0014",
-      "number": 14,
+      "id": "xsd-chapter5-0015",
+      "number": 15,
       "volume": 1
     },
     {
@@ -542,8 +578,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter5-0015",
-      "number": 15,
+      "id": "xsd-chapter5-0016",
+      "number": 16,
       "volume": 1
     },
     {
@@ -578,8 +614,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter5-0016",
-      "number": 16,
+      "id": "xsd-chapter5-0017",
+      "number": 17,
       "volume": 1
     },
     {
@@ -614,8 +650,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter5-0017",
-      "number": 17,
+      "id": "xsd-chapter5-0018",
+      "number": 18,
       "volume": 1
     },
     {
@@ -650,8 +686,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter5-0018",
-      "number": 18,
+      "id": "xsd-chapter5-0019",
+      "number": 19,
       "volume": 1
     },
     {
@@ -686,8 +722,212 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter5-0019",
-      "number": 19,
+      "id": "xsd-chapter5-0020",
+      "number": 20,
+      "volume": 1
+    },
+    {
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "question": "对“江山就是人民，人民就是江山”的理解正确的是（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "始终闪耀着历史唯物主义的真理光辉"
+        },
+        {
+          "key": "B",
+          "text": "充分说明我国国体和政体的人民性"
+        },
+        {
+          "key": "C",
+          "text": "人民是我们党的生命之根、执政之基、力量之源"
+        },
+        {
+          "key": "D",
+          "text": "这是由我们党的性质和宗旨来决定的"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answerText": [
+        "始终闪耀着历史唯物主义的真理光辉",
+        "充分说明我国国体和政体的人民性",
+        "人民是我们党的生命之根、执政之基、力量之源",
+        "这是由我们党的性质和宗旨来决定的"
+      ],
+      "topic": "第四章 坚持以人民为中心",
+      "category": "第四章 坚持以人民为中心",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-chapter5-0021",
+      "number": 21,
+      "volume": 1
+    },
+    {
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "question": "历史唯物主义群众史观认为，人民是（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "社会物质财富的创造者"
+        },
+        {
+          "key": "B",
+          "text": "社会精神财富的创造者"
+        },
+        {
+          "key": "C",
+          "text": "社会变革的决定力量"
+        },
+        {
+          "key": "D",
+          "text": "历史发展的辅助者"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C"
+      ],
+      "answerText": [
+        "社会物质财富的创造者",
+        "社会精神财富的创造者",
+        "社会变革的决定力量"
+      ],
+      "topic": "第四章 坚持以人民为中心",
+      "category": "第四章 坚持以人民为中心",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-chapter5-0022",
+      "number": 22,
+      "volume": 1
+    },
+    {
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "question": "为坚守中国共产党人的初心和使命，我们要做到（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "以坚定的理想信念坚守初心"
+        },
+        {
+          "key": "B",
+          "text": "以真挚的人民情怀滋养初心"
+        },
+        {
+          "key": "C",
+          "text": "以牢固的公仆意识践行初心"
+        },
+        {
+          "key": "D",
+          "text": "追逐特殊利益"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C"
+      ],
+      "answerText": [
+        "以坚定的理想信念坚守初心",
+        "以真挚的人民情怀滋养初心",
+        "以牢固的公仆意识践行初心"
+      ],
+      "topic": "第四章 坚持以人民为中心",
+      "category": "第四章 坚持以人民为中心",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-chapter5-0023",
+      "number": 23,
+      "volume": 1
+    },
+    {
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "question": "坚持人民立场，就要做到（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "热爱人民"
+        },
+        {
+          "key": "B",
+          "text": "尊重人民"
+        },
+        {
+          "key": "C",
+          "text": "敬畏人民"
+        },
+        {
+          "key": "D",
+          "text": "始终保持同人民群众的血肉联系"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answerText": [
+        "热爱人民",
+        "尊重人民",
+        "敬畏人民",
+        "始终保持同人民群众的血肉联系"
+      ],
+      "topic": "第四章 坚持以人民为中心",
+      "category": "第四章 坚持以人民为中心",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-chapter5-0024",
+      "number": 24,
+      "volume": 1
+    },
+    {
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "question": "以人民为中心的发展思想要求（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "发展为了人民"
+        },
+        {
+          "key": "B",
+          "text": "发展依靠人民"
+        },
+        {
+          "key": "C",
+          "text": "发展成果由人民共享"
+        },
+        {
+          "key": "D",
+          "text": "发展成果由政府分配"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C"
+      ],
+      "answerText": [
+        "发展为了人民",
+        "发展依靠人民",
+        "发展成果由人民共享"
+      ],
+      "topic": "第四章 坚持以人民为中心",
+      "category": "第四章 坚持以人民为中心",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-chapter5-0025",
+      "number": 25,
       "volume": 1
     },
     {
@@ -728,8 +968,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter5-0020",
-      "number": 20,
+      "id": "xsd-chapter5-0026",
+      "number": 26,
       "volume": 1
     },
     {
@@ -770,8 +1010,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter5-0021",
-      "number": 21,
+      "id": "xsd-chapter5-0027",
+      "number": 27,
       "volume": 1
     },
     {
@@ -812,8 +1052,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter5-0022",
-      "number": 22,
+      "id": "xsd-chapter5-0028",
+      "number": 28,
       "volume": 1
     },
     {
@@ -854,8 +1094,8 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter5-0023",
-      "number": 23,
+      "id": "xsd-chapter5-0029",
+      "number": 29,
       "volume": 1
     },
     {
@@ -894,174 +1134,6 @@
       "category": "第四章 坚持以人民为中心",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter5-0024",
-      "number": 24,
-      "volume": 1
-    },
-    {
-      "type": "judge",
-      "typeLabel": "判断题",
-      "question": "中国共产党的执政地位不是一劳永逸，现在拥有不等于永远拥有。 （ ）",
-      "options": [
-        {
-          "key": "A",
-          "text": "正确"
-        },
-        {
-          "key": "B",
-          "text": "错误"
-        }
-      ],
-      "answerKeys": [
-        "A"
-      ],
-      "answerText": [
-        "正确"
-      ],
-      "topic": "第四章 坚持以人民为中心",
-      "category": "第四章 坚持以人民为中心",
-      "score": 1,
-      "analysis": "",
-      "id": "xsd-chapter5-0025",
-      "number": 25,
-      "volume": 1
-    },
-    {
-      "type": "judge",
-      "typeLabel": "判断题",
-      "question": "在中国，党性可以脱离人民性而单独存在。 （ ）",
-      "options": [
-        {
-          "key": "A",
-          "text": "正确"
-        },
-        {
-          "key": "B",
-          "text": "错误"
-        }
-      ],
-      "answerKeys": [
-        "B"
-      ],
-      "answerText": [
-        "错误"
-      ],
-      "topic": "第四章 坚持以人民为中心",
-      "category": "第四章 坚持以人民为中心",
-      "score": 1,
-      "analysis": "",
-      "id": "xsd-chapter5-0026",
-      "number": 26,
-      "volume": 1
-    },
-    {
-      "type": "judge",
-      "typeLabel": "判断题",
-      "question": "“水能载舟，亦能覆舟”，赢得群众信任，党就能克服任何困难，反之，我们将一事无成，甚至走向衰败。 （ ）",
-      "options": [
-        {
-          "key": "A",
-          "text": "正确"
-        },
-        {
-          "key": "B",
-          "text": "错误"
-        }
-      ],
-      "answerKeys": [
-        "A"
-      ],
-      "answerText": [
-        "正确"
-      ],
-      "topic": "第四章 坚持以人民为中心",
-      "category": "第四章 坚持以人民为中心",
-      "score": 1,
-      "analysis": "",
-      "id": "xsd-chapter5-0027",
-      "number": 27,
-      "volume": 1
-    },
-    {
-      "type": "judge",
-      "typeLabel": "判断题",
-      "question": "我们是人民民主专政的社会主义国家，国家的一切权力属于人民。 （ ）",
-      "options": [
-        {
-          "key": "A",
-          "text": "正确"
-        },
-        {
-          "key": "B",
-          "text": "错误"
-        }
-      ],
-      "answerKeys": [
-        "A"
-      ],
-      "answerText": [
-        "正确"
-      ],
-      "topic": "第四章 坚持以人民为中心",
-      "category": "第四章 坚持以人民为中心",
-      "score": 1,
-      "analysis": "",
-      "id": "xsd-chapter5-0028",
-      "number": 28,
-      "volume": 1
-    },
-    {
-      "type": "judge",
-      "typeLabel": "判断题",
-      "question": "组织路线始终是党的生命线和根本工作路线，是我们党永葆青春活力和战斗力的重要传家宝。 （ ）",
-      "options": [
-        {
-          "key": "A",
-          "text": "正确"
-        },
-        {
-          "key": "B",
-          "text": "错误"
-        }
-      ],
-      "answerKeys": [
-        "B"
-      ],
-      "answerText": [
-        "错误"
-      ],
-      "topic": "第四章 坚持以人民为中心",
-      "category": "第四章 坚持以人民为中心",
-      "score": 1,
-      "analysis": "",
-      "id": "xsd-chapter5-0029",
-      "number": 29,
-      "volume": 1
-    },
-    {
-      "type": "judge",
-      "typeLabel": "判断题",
-      "question": "推进共同富裕要坚持同等富裕的原则。 （ ）",
-      "options": [
-        {
-          "key": "A",
-          "text": "正确"
-        },
-        {
-          "key": "B",
-          "text": "错误"
-        }
-      ],
-      "answerKeys": [
-        "B"
-      ],
-      "answerText": [
-        "错误"
-      ],
-      "topic": "第四章 坚持以人民为中心",
-      "category": "第四章 坚持以人民为中心",
-      "score": 1,
-      "analysis": "",
       "id": "xsd-chapter5-0030",
       "number": 30,
       "volume": 1
@@ -1069,7 +1141,7 @@
     {
       "type": "judge",
       "typeLabel": "判断题",
-      "question": "共同富裕既是人民物质生活和精神生活不断丰富的过程，更是促进人的全面发展的过程。 （ ）",
+      "question": "中国共产党的执政地位不是一劳永逸，现在拥有不等于永远拥有。 （ ）",
       "options": [
         {
           "key": "A",
@@ -1097,7 +1169,7 @@
     {
       "type": "judge",
       "typeLabel": "判断题",
-      "question": "中国共产党的根基在人民、血脉在人民、力量在人民。人民是我们党的生命之根、执政之基、力量之源。 （ ）",
+      "question": "在中国，党性可以脱离人民性而单独存在。 （ ）",
       "options": [
         {
           "key": "A",
@@ -1109,10 +1181,10 @@
         }
       ],
       "answerKeys": [
-        "A"
+        "B"
       ],
       "answerText": [
-        "正确"
+        "错误"
       ],
       "topic": "第四章 坚持以人民为中心",
       "category": "第四章 坚持以人民为中心",
@@ -1125,7 +1197,7 @@
     {
       "type": "judge",
       "typeLabel": "判断题",
-      "question": "实现共同富裕不仅是经济问题，而且是关系党的执政基础的重大政治问题。（ ）",
+      "question": "“水能载舟，亦能覆舟”，赢得群众信任，党就能克服任何困难，反之，我们将一事无成，甚至走向衰败。 （ ）",
       "options": [
         {
           "key": "A",
@@ -1153,7 +1225,7 @@
     {
       "type": "judge",
       "typeLabel": "判断题",
-      "question": "“富裕”是实现共同富裕的前提和关键，“共同”是实现共同富裕的目的和归宿。 （ ）",
+      "question": "我们是人民民主专政的社会主义国家，国家的一切权力属于人民。 （ ）",
       "options": [
         {
           "key": "A",
@@ -1176,6 +1248,174 @@
       "analysis": "",
       "id": "xsd-chapter5-0034",
       "number": 34,
+      "volume": 1
+    },
+    {
+      "type": "judge",
+      "typeLabel": "判断题",
+      "question": "组织路线始终是党的生命线和根本工作路线，是我们党永葆青春活力和战斗力的重要传家宝。 （ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "错误"
+      ],
+      "topic": "第四章 坚持以人民为中心",
+      "category": "第四章 坚持以人民为中心",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-chapter5-0035",
+      "number": 35,
+      "volume": 1
+    },
+    {
+      "type": "judge",
+      "typeLabel": "判断题",
+      "question": "推进共同富裕要坚持同等富裕的原则。 （ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "错误"
+      ],
+      "topic": "第四章 坚持以人民为中心",
+      "category": "第四章 坚持以人民为中心",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-chapter5-0036",
+      "number": 36,
+      "volume": 1
+    },
+    {
+      "type": "judge",
+      "typeLabel": "判断题",
+      "question": "共同富裕既是人民物质生活和精神生活不断丰富的过程，更是促进人的全面发展的过程。 （ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "正确"
+      ],
+      "topic": "第四章 坚持以人民为中心",
+      "category": "第四章 坚持以人民为中心",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-chapter5-0037",
+      "number": 37,
+      "volume": 1
+    },
+    {
+      "type": "judge",
+      "typeLabel": "判断题",
+      "question": "中国共产党的根基在人民、血脉在人民、力量在人民。人民是我们党的生命之根、执政之基、力量之源。 （ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "正确"
+      ],
+      "topic": "第四章 坚持以人民为中心",
+      "category": "第四章 坚持以人民为中心",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-chapter5-0038",
+      "number": 38,
+      "volume": 1
+    },
+    {
+      "type": "judge",
+      "typeLabel": "判断题",
+      "question": "实现共同富裕不仅是经济问题，而且是关系党的执政基础的重大政治问题。（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "正确"
+      ],
+      "topic": "第四章 坚持以人民为中心",
+      "category": "第四章 坚持以人民为中心",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-chapter5-0039",
+      "number": 39,
+      "volume": 1
+    },
+    {
+      "type": "judge",
+      "typeLabel": "判断题",
+      "question": "“富裕”是实现共同富裕的前提和关键，“共同”是实现共同富裕的目的和归宿。 （ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "正确"
+      ],
+      "topic": "第四章 坚持以人民为中心",
+      "category": "第四章 坚持以人民为中心",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-chapter5-0040",
+      "number": 40,
       "volume": 1
     }
   ]

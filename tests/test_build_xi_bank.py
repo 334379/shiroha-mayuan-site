@@ -151,6 +151,29 @@ D.丁
         self.assertIn("原因一", question["answerText"][0])
         self.assertEqual(0, report["blockingErrors"])
 
+    def test_question_mark_noise_around_inline_answers(self):
+        text = """导论
+一、单选题
+1.（?B?）是实现民族复兴的必由之路。
+A.改革开放
+B.中国特色社会主义
+C.社会主义现代化
+D.中国式现代化
+二、多选题
+1.?中国式现代化是人口规模巨大的现代化，这意味着（?ABD?）
+A.人口规模巨大的现代化
+B.全体人民共同富裕的现代化
+C.资本主义现代化
+D.走和平发展道路的现代化
+"""
+        chapters, report = parse_text(text)
+        questions = chapters["导论"]
+        self.assertEqual(["B"], questions[0]["answerKeys"])
+        self.assertEqual("（ ）是实现民族复兴的必由之路。", questions[0]["question"])
+        self.assertEqual(["A", "B", "D"], questions[1]["answerKeys"])
+        self.assertEqual("中国式现代化是人口规模巨大的现代化，这意味着（ ）", questions[1]["question"])
+        self.assertEqual(0, report["blockingErrors"])
+
 
 if __name__ == "__main__":
     unittest.main()

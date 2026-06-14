@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "习近平新时代中国特色社会主义思想概论-第三章",
-    "questionCount": 38,
+    "questionCount": 41,
     "volumes": 1,
     "sourceNote": "由 25-26-2 习概题库 Word 文档转换导入，主观题供自评。"
   },
@@ -113,7 +113,43 @@
     {
       "type": "single",
       "typeLabel": "单选题",
-      "question": "善于抓问题、想办法、（ ）是党的领导水平和执政本领的集中体现。 坚定走中国道路，把(",
+      "question": "善于抓问题、想办法、（ ）是党的领导水平和执政本领的集中体现。",
+      "options": [
+        {
+          "key": "A",
+          "text": "议而不决"
+        },
+        {
+          "key": "B",
+          "text": "决而不行"
+        },
+        {
+          "key": "C",
+          "text": "决断重大事项"
+        },
+        {
+          "key": "D",
+          "text": "不议不决"
+        }
+      ],
+      "answerKeys": [
+        "C"
+      ],
+      "answerText": [
+        "决断重大事项"
+      ],
+      "topic": "第三章 坚持党的全面领导",
+      "category": "第三章 坚持党的全面领导",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-chapter4-0004",
+      "number": 4,
+      "volume": 1
+    },
+    {
+      "type": "single",
+      "typeLabel": "单选题",
+      "question": "坚定走中国道路，把（ ）多人民凝聚成中国力量，焕发出中国精神，把新时代中国特色社会主义这篇大文章继续写好、写精彩，从根本上要靠党的全面领导，靠党把好方向盘。",
       "options": [
         {
           "key": "A",
@@ -142,8 +178,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter4-0004",
-      "number": 4,
+      "id": "xsd-chapter4-0005",
+      "number": 5,
       "volume": 1
     },
     {
@@ -178,8 +214,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter4-0005",
-      "number": 5,
+      "id": "xsd-chapter4-0006",
+      "number": 6,
       "volume": 1
     },
     {
@@ -214,8 +250,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter4-0006",
-      "number": 6,
+      "id": "xsd-chapter4-0007",
+      "number": 7,
       "volume": 1
     },
     {
@@ -250,8 +286,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter4-0007",
-      "number": 7,
+      "id": "xsd-chapter4-0008",
+      "number": 8,
       "volume": 1
     },
     {
@@ -286,8 +322,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter4-0008",
-      "number": 8,
+      "id": "xsd-chapter4-0009",
+      "number": 9,
       "volume": 1
     },
     {
@@ -322,8 +358,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter4-0009",
-      "number": 9,
+      "id": "xsd-chapter4-0010",
+      "number": 10,
       "volume": 1
     },
     {
@@ -358,8 +394,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter4-0010",
-      "number": 10,
+      "id": "xsd-chapter4-0011",
+      "number": 11,
       "volume": 1
     },
     {
@@ -394,8 +430,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter4-0011",
-      "number": 11,
+      "id": "xsd-chapter4-0012",
+      "number": 12,
       "volume": 1
     },
     {
@@ -426,8 +462,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter4-0012",
-      "number": 12,
+      "id": "xsd-chapter4-0013",
+      "number": 13,
       "volume": 1
     },
     {
@@ -462,8 +498,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter4-0013",
-      "number": 13,
+      "id": "xsd-chapter4-0014",
+      "number": 14,
       "volume": 1
     },
     {
@@ -498,8 +534,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter4-0014",
-      "number": 14,
+      "id": "xsd-chapter4-0015",
+      "number": 15,
       "volume": 1
     },
     {
@@ -534,8 +570,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter4-0015",
-      "number": 15,
+      "id": "xsd-chapter4-0016",
+      "number": 16,
       "volume": 1
     },
     {
@@ -570,8 +606,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter4-0016",
-      "number": 16,
+      "id": "xsd-chapter4-0017",
+      "number": 17,
       "volume": 1
     },
     {
@@ -606,14 +642,82 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter4-0017",
-      "number": 17,
+      "id": "xsd-chapter4-0018",
+      "number": 18,
       "volume": 1
     },
     {
       "type": "single",
       "typeLabel": "单选题",
-      "question": "从（ ）年开始，我国已经编制实施了14个五年规划，对我们创造出世所罕见的经济快速发展奇迹和社会长期稳定奇迹，发挥了卓有成效的作用。 “两个一百年”奋斗目标、已经实现了的是（ 全面建成小康社会 全面达到碳中和 中国共产党第十九届中央委员会第六次全体会议公报指出，党确立习近平同志党中央的核心、全党的核心地位，确立习近平新时代中国特色社会主义思想的指导地位，反映了全党全军全国各族人民共同心愿，对新时代党和国家事业发展、对推进中华民族伟大复兴历史进程具有（",
+      "question": "从（ ）年开始，我国已经编制实施了14个五年规划，对我们创造出世所罕见的经济快速发展奇迹和社会长期稳定奇迹，发挥了卓有成效的作用。",
+      "options": [
+        {
+          "key": "A",
+          "text": "1953"
+        },
+        {
+          "key": "B",
+          "text": "1992"
+        },
+        {
+          "key": "C",
+          "text": "1978"
+        },
+        {
+          "key": "D",
+          "text": "2012"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "1953"
+      ],
+      "topic": "第三章 坚持党的全面领导",
+      "category": "第三章 坚持党的全面领导",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-chapter4-0019",
+      "number": 19,
+      "volume": 1
+    },
+    {
+      "type": "single",
+      "typeLabel": "单选题",
+      "question": "“两个一百年”奋斗目标、已经实现了的是（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "全面建成小康社会"
+        },
+        {
+          "key": "B",
+          "text": "全面达到碳中和"
+        },
+        {
+          "key": "D",
+          "text": "全面达到碳达峰"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "全面建成小康社会"
+      ],
+      "topic": "第三章 坚持党的全面领导",
+      "category": "第三章 坚持党的全面领导",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-chapter4-0020",
+      "number": 20,
+      "volume": 1
+    },
+    {
+      "type": "single",
+      "typeLabel": "单选题",
+      "question": "中国共产党第十九届中央委员会第六次全体会议公报指出，党确立习近平同志党中央的核心、全党的核心地位，确立习近平新时代中国特色社会主义思想的指导地位，反映了全党全军全国各族人民共同心愿，对新时代党和国家事业发展、对推进中华民族伟大复兴历史进程具有（ ）意义。",
       "options": [
         {
           "key": "A",
@@ -633,17 +737,17 @@
         }
       ],
       "answerKeys": [
-        "A"
+        "C"
       ],
       "answerText": [
-        "基础性"
+        "决定性"
       ],
       "topic": "第三章 坚持党的全面领导",
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter4-0018",
-      "number": 18,
+      "id": "xsd-chapter4-0021",
+      "number": 21,
       "volume": 1
     },
     {
@@ -684,8 +788,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter4-0019",
-      "number": 19,
+      "id": "xsd-chapter4-0022",
+      "number": 22,
       "volume": 1
     },
     {
@@ -724,8 +828,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter4-0020",
-      "number": 20,
+      "id": "xsd-chapter4-0023",
+      "number": 23,
       "volume": 1
     },
     {
@@ -764,8 +868,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter4-0021",
-      "number": 21,
+      "id": "xsd-chapter4-0024",
+      "number": 24,
       "volume": 1
     },
     {
@@ -806,8 +910,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter4-0022",
-      "number": 22,
+      "id": "xsd-chapter4-0025",
+      "number": 25,
       "volume": 1
     },
     {
@@ -848,8 +952,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter4-0023",
-      "number": 23,
+      "id": "xsd-chapter4-0026",
+      "number": 26,
       "volume": 1
     },
     {
@@ -890,8 +994,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter4-0024",
-      "number": 24,
+      "id": "xsd-chapter4-0027",
+      "number": 27,
       "volume": 1
     },
     {
@@ -930,8 +1034,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter4-0025",
-      "number": 25,
+      "id": "xsd-chapter4-0028",
+      "number": 28,
       "volume": 1
     },
     {
@@ -972,8 +1076,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter4-0026",
-      "number": 26,
+      "id": "xsd-chapter4-0029",
+      "number": 29,
       "volume": 1
     },
     {
@@ -1012,8 +1116,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter4-0027",
-      "number": 27,
+      "id": "xsd-chapter4-0030",
+      "number": 30,
       "volume": 1
     },
     {
@@ -1054,8 +1158,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter4-0028",
-      "number": 28,
+      "id": "xsd-chapter4-0031",
+      "number": 31,
       "volume": 1
     },
     {
@@ -1082,90 +1186,6 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter4-0029",
-      "number": 29,
-      "volume": 1
-    },
-    {
-      "type": "judge",
-      "typeLabel": "判断题",
-      "question": "中国共产党是最高政治领导力量。 （ ）",
-      "options": [
-        {
-          "key": "A",
-          "text": "正确"
-        },
-        {
-          "key": "B",
-          "text": "错误"
-        }
-      ],
-      "answerKeys": [
-        "A"
-      ],
-      "answerText": [
-        "正确"
-      ],
-      "topic": "第三章 坚持党的全面领导",
-      "category": "第三章 坚持党的全面领导",
-      "score": 1,
-      "analysis": "",
-      "id": "xsd-chapter4-0030",
-      "number": 30,
-      "volume": 1
-    },
-    {
-      "type": "judge",
-      "typeLabel": "判断题",
-      "question": "民主是正确集中的前提和基础，离开民主讲集中，集中就成了个人专权专断。集中是民主的必然要求和归宿，离开集中搞民主，就会导致极端民主化和无政府状态。（ ）",
-      "options": [
-        {
-          "key": "A",
-          "text": "正确"
-        },
-        {
-          "key": "B",
-          "text": "错误"
-        }
-      ],
-      "answerKeys": [
-        "A"
-      ],
-      "answerText": [
-        "正确"
-      ],
-      "topic": "第三章 坚持党的全面领导",
-      "category": "第三章 坚持党的全面领导",
-      "score": 1,
-      "analysis": "",
-      "id": "xsd-chapter4-0031",
-      "number": 31,
-      "volume": 1
-    },
-    {
-      "type": "judge",
-      "typeLabel": "判断题",
-      "question": "维护党中央权威和集中统一领导同坚持民主集中制是完全一致的。 （ ）",
-      "options": [
-        {
-          "key": "A",
-          "text": "正确"
-        },
-        {
-          "key": "B",
-          "text": "错误"
-        }
-      ],
-      "answerKeys": [
-        "A"
-      ],
-      "answerText": [
-        "正确"
-      ],
-      "topic": "第三章 坚持党的全面领导",
-      "category": "第三章 坚持党的全面领导",
-      "score": 1,
-      "analysis": "",
       "id": "xsd-chapter4-0032",
       "number": 32,
       "volume": 1
@@ -1173,7 +1193,7 @@
     {
       "type": "judge",
       "typeLabel": "判断题",
-      "question": "党的任何组织和成员必须以实际行动维护党中央的权威，必须服从党中央集中统一领导，这是党的领导的最高原则。 （ ）",
+      "question": "中国共产党是最高政治领导力量。 （ ）",
       "options": [
         {
           "key": "A",
@@ -1201,7 +1221,7 @@
     {
       "type": "judge",
       "typeLabel": "判断题",
-      "question": "坚决维护习近平总书记党中央的核心、全党的核心地位，必须自觉同以习近平同志为核心的党中央保持高度一致，在思想上高度认同，政治上坚决维护，组织上自觉服从，行动上紧紧跟随，把“四个意识”落实到一言一行之中。 （ ）",
+      "question": "民主是正确集中的前提和基础，离开民主讲集中，集中就成了个人专权专断。集中是民主的必然要求和归宿，离开集中搞民主，就会导致极端民主化和无政府状态。（ ）",
       "options": [
         {
           "key": "A",
@@ -1229,7 +1249,7 @@
     {
       "type": "judge",
       "typeLabel": "判断题",
-      "question": "改革开放是决定当代中国命运的关键一招，也是实现“两个一百年”奋斗目标、实现中华民族伟大复兴的关键一招。 （ ）",
+      "question": "维护党中央权威和集中统一领导同坚持民主集中制是完全一致的。 （ ）",
       "options": [
         {
           "key": "A",
@@ -1257,7 +1277,7 @@
     {
       "type": "judge",
       "typeLabel": "判断题",
-      "question": "我们既不走封闭僵化的老路，也不走改旗易帜的邪路，要坚定不移走中国特色社会主义道路。 （ ）",
+      "question": "党的任何组织和成员必须以实际行动维护党中央的权威，必须服从党中央集中统一领导，这是党的领导的最高原则。 （ ）",
       "options": [
         {
           "key": "A",
@@ -1285,6 +1305,90 @@
     {
       "type": "judge",
       "typeLabel": "判断题",
+      "question": "坚决维护习近平总书记党中央的核心、全党的核心地位，必须自觉同以习近平同志为核心的党中央保持高度一致，在思想上高度认同，政治上坚决维护，组织上自觉服从，行动上紧紧跟随，把“四个意识”落实到一言一行之中。 （ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "正确"
+      ],
+      "topic": "第三章 坚持党的全面领导",
+      "category": "第三章 坚持党的全面领导",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-chapter4-0037",
+      "number": 37,
+      "volume": 1
+    },
+    {
+      "type": "judge",
+      "typeLabel": "判断题",
+      "question": "改革开放是决定当代中国命运的关键一招，也是实现“两个一百年”奋斗目标、实现中华民族伟大复兴的关键一招。 （ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "正确"
+      ],
+      "topic": "第三章 坚持党的全面领导",
+      "category": "第三章 坚持党的全面领导",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-chapter4-0038",
+      "number": 38,
+      "volume": 1
+    },
+    {
+      "type": "judge",
+      "typeLabel": "判断题",
+      "question": "我们既不走封闭僵化的老路，也不走改旗易帜的邪路，要坚定不移走中国特色社会主义道路。 （ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "正确"
+      ],
+      "topic": "第三章 坚持党的全面领导",
+      "category": "第三章 坚持党的全面领导",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-chapter4-0039",
+      "number": 39,
+      "volume": 1
+    },
+    {
+      "type": "judge",
+      "typeLabel": "判断题",
       "question": "中国特色社会主义最大的优势是人民民主专政。 （ ）",
       "options": [
         {
@@ -1306,8 +1410,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter4-0037",
-      "number": 37,
+      "id": "xsd-chapter4-0040",
+      "number": 40,
       "volume": 1
     },
     {
@@ -1334,8 +1438,8 @@
       "category": "第三章 坚持党的全面领导",
       "score": 1,
       "analysis": "",
-      "id": "xsd-chapter4-0038",
-      "number": 38,
+      "id": "xsd-chapter4-0041",
+      "number": 41,
       "volume": 1
     }
   ]

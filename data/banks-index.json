@@ -65,7 +65,7 @@
   {
     "id": "xsd-full",
     "name": "习近平新时代中国特色社会主义思想概论",
-    "count": 735,
+    "count": 751,
     "file": "data/xsd-full.json",
     "description": "由 25-26-2 习概题库 Word 文档转换导入，含客观题、材料分析题和论述题。"
   },
@@ -93,14 +93,14 @@
   {
     "id": "xsd-chapter4",
     "name": "习近平新时代中国特色社会主义思想概论-第三章",
-    "count": 38,
+    "count": 41,
     "file": "data/xsd-chapter4.json",
     "description": "由 25-26-2 习概题库 Word 文档转换导入，含客观题、材料分析题和论述题。"
   },
   {
     "id": "xsd-chapter5",
     "name": "习近平新时代中国特色社会主义思想概论-第四章",
-    "count": 34,
+    "count": 40,
     "file": "data/xsd-chapter5.json",
     "description": "由 25-26-2 习概题库 Word 文档转换导入，含客观题、材料分析题和论述题。"
   },
@@ -114,7 +114,7 @@
   {
     "id": "xsd-chapter7",
     "name": "习近平新时代中国特色社会主义思想概论-第六章",
-    "count": 37,
+    "count": 40,
     "file": "data/xsd-chapter7.json",
     "description": "由 25-26-2 习概题库 Word 文档转换导入，含客观题、材料分析题和论述题。"
   },
@@ -149,7 +149,7 @@
   {
     "id": "xsd-chapter12",
     "name": "习近平新时代中国特色社会主义思想概论-第十一章",
-    "count": 48,
+    "count": 50,
     "file": "data/xsd-chapter12.json",
     "description": "由 25-26-2 习概题库 Word 文档转换导入，含客观题、材料分析题和论述题。"
   },
@@ -177,7 +177,7 @@
   {
     "id": "xsd-chapter16",
     "name": "习近平新时代中国特色社会主义思想概论-第十五章",
-    "count": 38,
+    "count": 40,
     "file": "data/xsd-chapter16.json",
     "description": "由 25-26-2 习概题库 Word 文档转换导入，含客观题、材料分析题和论述题。"
   },

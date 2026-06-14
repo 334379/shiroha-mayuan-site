@@ -27,7 +27,7 @@ class GeneratedAssetsTests(unittest.TestCase):
             if item["id"].startswith("xsd-chapter"):
                 chapter_sum += len(payload["questions"])
         self.assertEqual(by_id["xsd-full"]["count"], chapter_sum)
-        self.assertEqual(735, by_id["xsd-full"]["count"])
+        self.assertEqual(751, by_id["xsd-full"]["count"])
 
     def test_questions_are_valid(self):
         index = json.loads((ROOT / "data" / "banks-index.json").read_text(encoding="utf-8"))
