@@ -4,9 +4,14 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
   <meta name="theme-color" content="#F6F7FB" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+  <meta name="apple-mobile-web-app-title" content="Shiroha Quiz" />
   <title>Shiroha Quiz - V29：基本完成版</title>
+  <link rel="manifest" href="./manifest.webmanifest" />
   <link rel="icon" type="image/png" href="./app-icon.png" />
-  <link rel="apple-touch-icon" href="./app-icon.png" />
+  <link rel="apple-touch-icon" sizes="512x512" href="./app-icon.png" />
   <link rel="preload" as="image" href="./media/peeking.webp" />
   <link rel="stylesheet" href="./styles.css" />
   <link rel="preload" as="image" href="./media/home_welcome_avatar.webp" />
@@ -228,7 +233,7 @@ C. 判断题
             <img src="./media/quiz_in_progress_study.webp" alt="刷题学习素材" />
           </div>
           <div class="form-grid">
-            <label>题型<select id="practice-type"><option value="all">全部</option><option value="single">单选</option><option value="multiple">多选</option><option value="multi">多选兼容</option><option value="judge">判断</option><option value="blank">填空</option><option value="short">简答</option></select></label>
+            <label>题型<select id="practice-type"><option value="all">全部</option><option value="single">单选</option><option value="multiple">多选</option><option value="multi">多选兼容</option><option value="judge">判断</option><option value="blank">填空</option><option value="short">简答</option><option value="material">材料分析</option><option value="essay">论述</option></select></label>
             <label>来源<select id="practice-source"><option value="all">全部题目</option><option value="wrong">仅错题本</option><option value="favorite">仅收藏题</option></select></label>
             <label>顺序<select id="practice-order"><option value="sequence">顺序</option><option value="random">随机</option></select></label>
             <label>题量<select id="practice-limit"><option value="20">20题</option><option value="50">50题</option><option value="100">100题</option><option value="half">题库一半</option><option value="all">全部题库</option></select></label>
@@ -264,7 +269,7 @@ C. 判断题
             <label>判断分值<input id="score-judge" type="number" value="1" min="0" step="0.5" /></label>
             <label>填空分值<input id="score-blank" type="number" value="1" min="0" step="0.5" /></label>
             <label>简答分值<input id="score-short" type="number" value="5" min="0" step="0.5" /></label>
-            <label>题型范围<select id="exam-type"><option value="all">全部题型</option><option value="single">只考单选</option><option value="multiple">只考多选</option><option value="judge">只考判断</option><option value="blank">只考填空</option><option value="short">只考简答</option></select></label>
+            <label>题型范围<select id="exam-type"><option value="all">全部题型</option><option value="single">只考单选</option><option value="multiple">只考多选</option><option value="judge">只考判断</option><option value="blank">只考填空</option><option value="short">只考简答</option><option value="material">材料分析</option><option value="essay">论述</option></select></label>
             <label>抽题方式<select id="exam-order"><option value="random">随机抽题</option><option value="sequence">顺序抽题</option></select></label>
             <div class="settings-action-cell web-settings-action-cell">
               <span class="control-label">快捷操作</span>
@@ -297,7 +302,7 @@ C. 判断题
       </div>
       <input id="edit-index" type="hidden" />
       <div class="form-grid">
-        <label>题型<select id="edit-type"><option value="single">单选题</option><option value="multiple">多选题</option><option value="judge">判断题</option><option value="blank">填空题</option><option value="short">简答题</option></select></label>
+        <label>题型<select id="edit-type"><option value="single">单选题</option><option value="multiple">多选题</option><option value="judge">判断题</option><option value="blank">填空题</option><option value="short">简答题</option><option value="material">材料分析</option><option value="essay">论述</option></select></label>
         <label>答案<input id="edit-answer" placeholder="选择题填 D 或 ACD；判断题可填 A/B/正确/错误；填空/简答可填参考答案，多个等价答案用 || 分隔" /></label>
         <label>分类<input id="edit-category" placeholder="例如：基础知识 / 安全规范" /></label>
         <label>分值<input id="edit-score" type="number" min="0" step="0.5" placeholder="可空，考试时按题型默认分值" /></label>
@@ -332,6 +337,15 @@ C. 判断题
     })();
   </script>
   <script src="./app.js?v=quiz-20260602-auto"></script>
+  <script>
+    if ('serviceWorker' in navigator && (location.protocol === 'https:' || location.hostname === 'localhost')) {
+      window.addEventListener('load', function() {
+        navigator.serviceWorker.register('./service-worker.js').catch(function(error) {
+          console.warn('Service Worker registration failed:', error);
+        });
+      });
+    }
+  </script>
 
 </body>
 </html>

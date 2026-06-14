@@ -6,7 +6,7 @@ const CURRENT_SCHEMA_VERSION=1;
 const KEY='shiroha_quiz_state_v28_4_c1';
 const LEGACY_KEYS=[];
 const CLEAR_STORAGE_KEYS=['shiroha_quiz_state','uquiz_state_v8_c1'];
-const TYPE_LABEL={single:'单选题',multiple:'多选题',multi:'多选题',judge:'判断题',blank:'填空题',short:'简答题',short_answer:'简答题'};
+const TYPE_LABEL={single:'单选题',multiple:'多选题',multi:'多选题',judge:'判断题',blank:'填空题',short:'简答题',short_answer:'简答题',material:'材料分析题',essay:'论述题'};
 const state=loadState();
 let importCache=[];let tableImportResultV49=null;let importWarnings=[];let importReport='';let importDiagnostics=null;let importPreviewFilter='priority';let importSelected=new Set();let bankEditSessionV45=null;let exportBankSelectedV23=new Set();let backupImportModeV23='merge';let practiceAutoNextTimer=null;let practice={items:[],idx:0,answered:0,correct:0,wrong:0,start:0};let exam={items:[],answers:{},start:0,timer:null,deadline:0,submitted:false};
 const $=s=>document.querySelector(s);const $$=s=>[...document.querySelectorAll(s)];
@@ -275,7 +275,7 @@ function renderBankToolbarV28(){
   sel.value=old||state.activeBankId||'';
 }
 function renderBankPreview(){const qs=activeBank().questions.slice(0,300);$('#bank-preview tbody').innerHTML=qs.map((q,i)=>`<tr><td>${i+1}</td><td>${label(q.type)}</td><td>${esc(short(q.question,80))}</td><td>${esc((q.answer||q.answerKeys||[]).join(''))}</td><td>${esc(q.category||q.topic||'')}</td><td>${esc(q.score||'默认')}</td></tr>`).join('')}
-function countTypes(qs){return qs.reduce((a,q)=>{a[q.type]=(a[q.type]||0)+1;return a},{single:0,multiple:0,multi:0,judge:0,blank:0,short:0})}
+function countTypes(qs){return qs.reduce((a,q)=>{a[q.type]=(a[q.type]||0)+1;return a},{single:0,multiple:0,multi:0,judge:0,blank:0,short:0,material:0,essay:0})}
 function label(t){return TYPE_LABEL[t]||t||'未知'}
 function normalizeQuestion(q,i=0){
   let type=normalizeType(q.type||q.questionType||q.kind||'');
@@ -344,6 +344,8 @@ function toNativeQuestionType(type){
   if(value==='judge')return'JUDGE';
   if(value==='blank')return'BLANK';
   if(value==='short')return'SHORT';
+  if(value==='material')return'MATERIAL';
+  if(value==='essay')return'ESSAY';
   return'SINGLE';
 }
 function normalizeWebQuestionType(type){
@@ -352,7 +354,9 @@ function normalizeWebQuestionType(type){
   if(value==='multiple'||value==='multi'||value==='multiple_choice'||value==='multiplechoice'||value==='checkbox')return'multiple';
   if(value==='judge'||value==='judgement'||value==='judgment'||value==='true_false'||value==='truefalse'||value==='boolean')return'judge';
   if(value==='blank'||value==='fill'||value==='fill_blank'||value==='fillblank'||value==='fill_in_blank')return'blank';
-  if(value==='short'||value==='short_answer'||value==='essay'||value==='qa'||value==='subjective'||value==='question_answer')return'short';
+  if(value==='short'||value==='short_answer'||value==='qa'||value==='subjective'||value==='question_answer')return'short';
+  if(value==='material'||value==='material_analysis'||value==='case_analysis')return'material';
+  if(value==='essay'||value==='discussion'||value==='long_answer')return'essay';
   return'';
 }
 function serializeQuestionForCrossExportV53(q){
@@ -383,7 +387,8 @@ function normalizeType(t){
   if(normalized)return normalized;
   return mapType(raw)||'';
 }
-function isTextType(t){return t==='blank'||t==='short'||t==='short_answer'}
+function isSubjectiveType(t){return t==='short'||t==='short_answer'||t==='material'||t==='essay'}
+function isTextType(t){return t==='blank'||t==='material'||t==='essay'||isSubjectiveType(t)}
 function splitAnswerByType(s,type){
   if(isTextType(type))return splitTextAnswer(s);
   const a=splitAnswer(s);
@@ -4574,8 +4579,8 @@ function shouldUseDefaultImageOptions(question,options,answer,type,group=''){
 function questionHtml(q,examMode,idx=0){
   const meta=`<div class="qmeta"><span class="pill">${label(q.type)}</span><span class="pill">${esc(q.category||'未分类')}</span>${examMode?`<span class="pill">${scoreOf(q)}分</span>`:''}</div><div class="question-title">${examMode?idx+'. ':''}${renderQuestionBodyV83(q)}</div>`;
   if(isTextType(q.type)){
-    const placeholder=q.type==='short'?'请输入你的简答内容；提交后可对照参考答案。':'请输入答案；多个空可用分号分隔。';
-    const input=q.type==='short'?`<textarea class="text-answer" data-qid="${esc(q.id)}" placeholder="${placeholder}"></textarea>`:`<input class="text-answer" data-qid="${esc(q.id)}" placeholder="${placeholder}" />`;
+    const placeholder=isSubjectiveType(q.type)?'请输入你的作答内容；提交后可对照参考答案。':'请输入答案；多个空可用分号分隔。';
+    const input=isSubjectiveType(q.type)?`<textarea class="text-answer" data-qid="${esc(q.id)}" placeholder="${placeholder}"></textarea>`:`<input class="text-answer" data-qid="${esc(q.id)}" placeholder="${placeholder}" />`;
     return meta+`<div class="answer-input-wrap">${input}</div>`;
   }
   return meta+`<div class="options">${q.options.map(o=>`<label class="option" data-key="${esc(o.key)}"><input type="${q.type==='multiple'?'checkbox':'radio'}" name="q_${esc(q.id)}" value="${esc(o.key)}"><span class="option-key">${esc(o.key)}.</span><span class="option-text">${renderQuestionContent(o.text)}</span></label>`).join('')}</div>`;
@@ -4623,7 +4628,7 @@ function finishPractice(exited=false){
   renderAll();
 }
 
-function scoreOf(q){if(q.score)return q.score;return Number(q.type==='multiple'?$('#score-multiple').value:q.type==='judge'?$('#score-judge').value:q.type==='blank'?$('#score-blank').value:q.type==='short'?$('#score-short').value:$('#score-single').value)||0}
+function scoreOf(q){if(isSubjectiveType(q.type))return 0;if(q.score)return q.score;return Number(q.type==='multiple'?$('#score-multiple').value:q.type==='judge'?$('#score-judge').value:q.type==='blank'?$('#score-blank').value:$('#score-single').value)||0}
 function collectExamTextAnswers(){if(!exam.items)return;exam.items.forEach(q=>{if(!isTextType(q.type))return;const box=$(`#exam-card [data-qid="${CSS.escape(q.id)}"]`);const el=box&&box.querySelector('.text-answer');if(el)exam.answers[q.id]=el.value.trim()?[el.value.trim()]:[]})}
 function addWrongOnExam(id,isWrong){if(isWrong)addWrong(id);else markRight(id)}
 function renderRecords(){const list=$('#records-list');let rows=[...state.records];const mode=$('#record-mode-filter')?.value||'all';if(mode!=='all')rows=rows.filter(r=>r.mode===mode);const lim=$('#record-limit')?.value||'30';if(lim!=='all')rows=rows.slice(0,Number(lim));list.innerHTML=rows.length?rows.map((r,idx)=>{const detail=(r.details||[]).slice(0,8).map((d,i)=>`<tr><td>${i+1}</td><td>${esc(short(d.question,42))}</td><td>${esc((d.chosen||[]).join('')||'未答')}</td><td>${esc((d.answer||[]).join(''))}</td><td>${d.correct?'正确':'错误'}</td></tr>`).join('');const summary=`题数${r.total}｜已答${r.answered}｜正确${r.correct}｜错误${r.wrong}｜正确率${r.accuracy}%${r.score!=null?`｜得分${r.score}/${r.totalScore}${r.passScore!=null?`｜及格线${r.passScore}｜${r.passed?'合格':'未合格'}`:''}`:''}｜用时${r.duration}秒`;return `<div class="record-item"><b>${esc(r.name||r.mode)}｜${esc(r.bankName)}｜${fmt(r.date)}</b><p class="muted">${summary}</p>${detail?`<details><summary>查看作答明细（前8题 / 共${(r.details||[]).length}题）</summary><div class="table-wrap"><table><thead><tr><th>#</th><th>题干</th><th>你的答案</th><th>正确答案</th><th>结果</th></tr></thead><tbody>${detail}</tbody></table></div></details>`:''}</div>`}).join(''):'<p class="muted">暂无练习或考试记录。</p>'}
@@ -5019,7 +5024,7 @@ function renderPracticeNavV26(){
 }
 function submitPractice(q,reveal){
   const chosen=collectAnswer('#practice-card',q);if(!chosen.length&&!reveal){$('#p-feedback').innerHTML='<div class="feedback warn">请先作答，再提交。</div>';return}
-  if(q.type==='short'){showSubjectiveFeedback(q,chosen,reveal);return}
+  if(isSubjectiveType(q.type)){showSubjectiveFeedback(q,chosen,reveal);return}
   const ok=!reveal&&sameAnswerForQuestion(q,chosen,q.answer);
   if(!reveal)recordPracticeAnswer(q,chosen,ok);else setPracticeAnswerStateV26(q.id,{chosen,revealed:true,correct:null});
   markOptions('#practice-card',q,chosen);showAnsweredStateV26(q,getPracticeAnswerStateV26(q.id));refreshPracticeStatsV30();saveSilent();renderStats();
@@ -5033,7 +5038,7 @@ function showAnsweredStateV26(q,st){
 function showSubjectiveFeedback(q,chosen,reveal){
   const user=chosen.join('；')||'未填写';
   setPracticeAnswerStateV26(q.id,{chosen,revealed:!!reveal});
-  $('#p-feedback').innerHTML=`<div class="feedback warn">你的作答：${esc(user)}<br>参考答案：${esc(q.answer.join('；')||'未提供')}${q.analysis?'<br>解析：'+renderQuestionContent(q.analysis):''}<br><div class="actions"><button class="primary" id="p-self-right">判为正确</button><button class="danger" id="p-self-wrong">判为错误</button></div></div>`;
+  $('#p-feedback').innerHTML=`<div class="feedback warn">你的作答：${esc(user)}<br>参考答案：${esc(q.answer.join('；')||'未提供')}${q.analysis?'<br>解析：'+renderQuestionContent(q.analysis):''}<br><div class="actions"><button class="primary" id="p-self-right">掌握</button><button class="danger" id="p-self-wrong">未掌握</button></div></div>`;
   $('#p-submit').disabled=true;$('#p-reveal').disabled=true;
   $('#p-self-right').onclick=()=>{recordPracticeAnswer(q,chosen,true);$('#p-self-right').disabled=true;$('#p-self-wrong').disabled=true;saveSilent();renderStats();renderPracticeQuestion()};
   $('#p-self-wrong').onclick=()=>{recordPracticeAnswer(q,chosen,false);$('#p-self-right').disabled=true;$('#p-self-wrong').disabled=true;saveSilent();renderStats();renderPracticeQuestion()};
@@ -5214,7 +5219,7 @@ function updateTimer(){
 }
 function renderExamPaper(){
   const timerText=exam.deadline?($('#exam-timer')?.textContent||'计时中'):'不限时';
-  let html=`<main class="exam-focus-main-v31"><div class="exam-focus-head"><div><b>${esc(exam.name||'模拟考试')}</b><span id="exam-focus-timer">${esc(timerText)}</span></div><div class="exam-head-actions"><button class="ghost mini-btn focus-mini-btn" id="exam-exit-focus" type="button">退出考试</button><button class="danger focus-mini-btn" id="exam-submit-focus" type="button">交卷评分</button></div></div><div class="notice warn">考试中：多选题需完全一致才得分；填空/简答按参考答案规范化匹配评分，简答题建议交卷后人工核对。</div>`;
+  let html=`<main class="exam-focus-main-v31"><div class="exam-focus-head"><div><b>${esc(exam.name||'模拟考试')}</b><span id="exam-focus-timer">${esc(timerText)}</span></div><div class="exam-head-actions"><button class="ghost mini-btn focus-mini-btn" id="exam-exit-focus" type="button">退出考试</button><button class="danger focus-mini-btn" id="exam-submit-focus" type="button">交卷评分</button></div></div><div class="notice warn">考试中：客观题自动评分；材料分析题、论述题和简答题交卷后显示参考答案，不参与自动得分与正确率。</div>`;
   exam.items.forEach((q,i)=>{html+=`<div class="exam-q" data-qid="${esc(q.id)}" id="exam-q-${i+1}">${questionHtml(q,true,i+1)}</div>`});
   html+=`<div class="exam-focus-actions"><button class="danger" id="exam-submit-focus-bottom" type="button">交卷评分</button></div></main><aside class="exam-side-v31">${renderExamAnswerCardV30()}</aside>`;
   $('#exam-card').innerHTML=html;
@@ -5279,15 +5284,15 @@ function bindFocusRailToggleV34(){
 }
 function submitExam(auto){
   if(exam.submitted)return;
-  collectExamTextAnswers();exam.submitted=true;clearInterval(exam.timer);let got=0,total=0,correct=0;const details=[];const byType={};
-  exam.items.forEach(q=>{const sc=scoreOf(q);total+=sc;const ans=exam.answers[q.id]||[];const ok=sameAnswerForQuestion(q,ans,q.answer);if(ok){got+=sc;correct++} addWrongOnExam(q.id,!ok);details.push(makeAnswerDetail(q,ans,ok,sc,sc));const k=q.type||'single';byType[k]=byType[k]||{total:0,correct:0,score:0,fullScore:0};byType[k].total++;if(ok)byType[k].correct++;byType[k].score+=ok?sc:0;byType[k].fullScore+=sc;});
-  const acc=Math.round(correct/exam.items.length*100);const rec={id:'rec_'+Date.now(),name:exam.name||'模拟考试',mode:'考试',bankId:activeBank().id,bankName:activeBank().name,total:exam.items.length,answered:Object.keys(exam.answers).length,correct,wrong:exam.items.length-correct,accuracy:acc,score:got,totalScore:total,passScore:exam.passScore,passed:got>=Number(exam.passScore||0),autoSubmitted:!!auto,date:now(),duration:Math.round((Date.now()-exam.start)/1000),details,byType};
+  collectExamTextAnswers();exam.submitted=true;clearInterval(exam.timer);let got=0,total=0,correct=0,gradedTotal=0,pendingSubjective=0;const details=[];const byType={};
+  exam.items.forEach(q=>{const ans=exam.answers[q.id]||[];const k=q.type||'single';byType[k]=byType[k]||{total:0,correct:0,score:0,fullScore:0,pending:0};byType[k].total++;if(isSubjectiveType(q.type)){pendingSubjective++;byType[k].pending++;details.push({...makeAnswerDetail(q,ans,false,0,0),correct:null,pendingSelfReview:true});return}const sc=scoreOf(q);total+=sc;gradedTotal++;const ok=sameAnswerForQuestion(q,ans,q.answer);if(ok){got+=sc;correct++}addWrongOnExam(q.id,!ok);details.push(makeAnswerDetail(q,ans,ok,sc,sc));if(ok)byType[k].correct++;byType[k].score+=ok?sc:0;byType[k].fullScore+=sc;});
+  const acc=gradedTotal?Math.round(correct/gradedTotal*100):0;const rec={id:'rec_'+Date.now(),name:exam.name||'模拟考试',mode:'考试',bankId:activeBank().id,bankName:activeBank().name,total:exam.items.length,answered:Object.keys(exam.answers).length,correct,wrong:gradedTotal-correct,gradedTotal,pendingSubjective,accuracy:acc,score:got,totalScore:total,passScore:exam.passScore,passed:got>=Number(exam.passScore||0),autoSubmitted:!!auto,date:now(),duration:Math.round((Date.now()-exam.start)/1000),details,byType};
   state.records.unshift(rec);saveSilent();$('#submit-exam-btn').disabled=true;$('#exam-timer').textContent=auto?'已自动交卷':'已交卷';renderExamResult(rec);renderAll();
 }
 function renderExamResult(rec){
-  const typeRows=Object.entries(rec.byType||{}).map(([t,v])=>`<tr><td>${label(t)}</td><td>${v.correct}/${v.total}</td><td>${Number(v.score.toFixed? v.score.toFixed(1):v.score)}/${v.fullScore}</td></tr>`).join('');
-  let html=`<div class="exam-focus-head"><div><b>考试结果</b><span>${esc(rec.name||'模拟考试')}</span></div><div class="exam-head-actions"><button class="primary focus-mini-btn" id="exam-back-setup" type="button">返回考试设置</button></div></div><div class="score-card"><div class="metric"><span>得分</span><b>${rec.score}/${rec.totalScore}</b></div><div class="metric"><span>结果</span><b>${rec.passed?'合格':'未合格'}</b></div><div class="metric"><span>正确率</span><b>${rec.accuracy}%</b></div><div class="metric"><span>用时</span><b>${rec.duration}秒</b></div></div><div class="notice ${rec.passed?'ok':'warn'}">${esc(rec.name||'模拟考试')}：及格线 ${rec.passScore} 分，${rec.autoSubmitted?'系统已自动交卷。':'已交卷。'}</div>${typeRows?`<div class="table-wrap"><table><thead><tr><th>题型</th><th>正确</th><th>得分</th></tr></thead><tbody>${typeRows}</tbody></table></div>`:''}`;
-  exam.items.forEach((q,i)=>{const ans=exam.answers[q.id]||[];html+=`<div class="exam-q" data-result-qid="${esc(q.id)}">${questionHtml(q,true,i+1)}<div class="feedback ${sameAnswerForQuestion(q,ans,q.answer)?'ok':'bad'}">你的答案：${esc(ans.join('；')||'未作答')}｜参考答案：${esc(q.answer.join('；'))}${q.analysis?'<br>解析：'+renderQuestionContent(q.analysis):''}</div></div>`});
+  const typeRows=Object.entries(rec.byType||{}).map(([t,v])=>isSubjectiveType(t)?`<tr><td>${label(t)}</td><td>待自评 ${v.pending||v.total} 题</td><td>不计分</td></tr>`:`<tr><td>${label(t)}</td><td>${v.correct}/${v.total}</td><td>${Number(v.score.toFixed? v.score.toFixed(1):v.score)}/${v.fullScore}</td></tr>`).join('');
+  let html=`<div class="exam-focus-head"><div><b>考试结果</b><span>${esc(rec.name||'模拟考试')}</span></div><div class="exam-head-actions"><button class="primary focus-mini-btn" id="exam-back-setup" type="button">返回考试设置</button></div></div><div class="score-card"><div class="metric"><span>得分</span><b>${rec.score}/${rec.totalScore}</b></div><div class="metric"><span>结果</span><b>${rec.passed?'合格':'未合格'}</b></div><div class="metric"><span>客观题正确率</span><b>${rec.accuracy}%</b></div><div class="metric"><span>待自评主观题</span><b>${rec.pendingSubjective||0}</b></div><div class="metric"><span>用时</span><b>${rec.duration}秒</b></div></div><div class="notice ${rec.passed?'ok':'warn'}">${esc(rec.name||'模拟考试')}：及格线 ${rec.passScore} 分，${rec.autoSubmitted?'系统已自动交卷。':'已交卷。'}${rec.pendingSubjective?`另有 ${rec.pendingSubjective} 道主观题待自行核对。`:''}</div>${typeRows?`<div class="table-wrap"><table><thead><tr><th>题型</th><th>结果</th><th>得分</th></tr></thead><tbody>${typeRows}</tbody></table></div>`:''}`;
+  exam.items.forEach((q,i)=>{const ans=exam.answers[q.id]||[];const subjective=isSubjectiveType(q.type);const ok=!subjective&&sameAnswerForQuestion(q,ans,q.answer);html+=`<div class="exam-q" data-result-qid="${esc(q.id)}">${questionHtml(q,true,i+1)}<div class="feedback ${subjective?'warn':ok?'ok':'bad'}">${subjective?'待自评｜':''}你的答案：${esc(ans.join('；')||'未作答')}｜参考答案：${esc(q.answer.join('；'))}${q.analysis?'<br>解析：'+renderQuestionContent(q.analysis):''}</div></div>`});
   $('#exam-card').innerHTML=html;
   $('#exam-back-setup').onclick=()=>exitExamFocus();
   exam.items.forEach(q=>markOptions(`#exam-card [data-result-qid="${CSS.escape(q.id)}"]`,q,exam.answers[q.id]||[]));

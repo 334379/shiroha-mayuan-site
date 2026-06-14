@@ -1,0 +1,19 @@
+{
+  "name": "Shiroha Quiz",
+  "short_name": "Shiroha",
+  "description": "马原与习概刷题练习，支持 iPhone 添加到主屏幕使用。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F6F7FB",
+  "theme_color": "#F6F7FB",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

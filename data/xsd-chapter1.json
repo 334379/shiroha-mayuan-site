@@ -1,18 +1,15 @@
 {
   "meta": {
     "title": "习近平新时代中国特色社会主义思想概论-导论",
-    "questionCount": 42,
+    "questionCount": 44,
     "volumes": 1,
-    "sourceNote": "由习近平新时代中国特色社会主义思想概论期末复习题库 Word 文档转换导入。"
+    "sourceNote": "由 25-26-2 习概题库 Word 文档转换导入，主观题供自评。"
   },
   "questions": [
     {
-      "id": "xsd-chapter1-0001",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 1,
-      "question": "( )通过了关于《中国共产党章程（修正案）》的决议，把习近平新时代中国特色社会主义思想写入党章",
+      "question": "( )通过了关于《中国共产党章程（修正案）》的决议，把习近平新时代中国特色社会主义思想写入党章。",
       "options": [
         {
           "key": "A",
@@ -40,15 +37,15 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0001",
+      "number": 1,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0002",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 2,
-      "question": "（ ）是改革开放以来我们党全部理论和实践的鲜明主题",
+      "question": "（ ）是改革开放以来我们党全部理论和实践的鲜明主题。",
       "options": [
         {
           "key": "A",
@@ -76,15 +73,15 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0002",
+      "number": 2,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0003",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 3,
-      "question": "党的二十大提出的（ ），是习近平新时代中国特色社会主义思想的世界观、方法论和贯彻其中的立场观点方法的重要体现",
+      "question": "党的二十大提出的（ ），是习近平新时代中国特色社会主义思想的世界观、方法论和贯彻其中的立场观点方法的重要体现。",
       "options": [
         {
           "key": "A",
@@ -112,14 +109,14 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0003",
+      "number": 3,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0004",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 4,
       "question": "中国特色社会主义最本质的特征是（ ）。.",
       "options": [
         {
@@ -148,15 +145,15 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0004",
+      "number": 4,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0005",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 5,
-      "question": "坚持和发展中国特色社会主义，总任务是（ ）",
+      "question": "坚持和发展中国特色社会主义，总任务是（ ）。",
       "options": [
         {
           "key": "A",
@@ -184,15 +181,15 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0005",
+      "number": 5,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0006",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 6,
-      "question": "全面深化改革的总目标是（ ）",
+      "question": "全面深化改革的总目标是（ ）。",
       "options": [
         {
           "key": "A",
@@ -220,15 +217,15 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0006",
+      "number": 6,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0007",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 7,
-      "question": "世界未有之大变局正在加速演变。（ ）仍然是时代主题，但是不稳定不确定性更加突出",
+      "question": "世界未有之大变局正在加速演变。（ ）仍然是时代主题，但是不稳定不确定性更加突出。",
       "options": [
         {
           "key": "A",
@@ -256,14 +253,14 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0007",
+      "number": 7,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0008",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 8,
       "question": "中国特色社会主义的战略布局是（",
       "options": [
         {
@@ -292,15 +289,15 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0008",
+      "number": 8,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0009",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 9,
-      "question": "中国特色社会主义的总体布局是（ ）",
+      "question": "中国特色社会主义的总体布局是（ ）。",
       "options": [
         {
           "key": "A",
@@ -328,15 +325,15 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0009",
+      "number": 9,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0010",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 10,
-      "question": "习近平新时代中国特色社会主义思想内容十分丰富，涵盖改革发展稳定、内政外交国防、治党治国治军等各个领域、各个方面，构成了一个系统完整、逻辑严密、相互贯通的思想理论体系。下面是指导思想层面的表述的是（ ）",
+      "question": "习近平新时代中国特色社会主义思想内容十分丰富，涵盖改革发展稳定、内政外交国防、治党治国治军等各个领域、各个方面，构成了一个系统完整、逻辑严密、相互贯通的思想理论体系。下面是指导思想层面的表述的是（ ）。",
       "options": [
         {
           "key": "A",
@@ -364,14 +361,14 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0010",
+      "number": 10,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0011",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 11,
       "question": "马克思主义中国化时代化的最新成果是（ ）",
       "options": [
         {
@@ -400,14 +397,14 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0011",
+      "number": 11,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0012",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 12,
       "question": "进入新时代的重要依据是（ ）",
       "options": [
         {
@@ -436,14 +433,14 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0012",
+      "number": 12,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0013",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 13,
       "question": "中国特色社会主义事业总体布局是（ ）",
       "options": [
         {
@@ -472,14 +469,14 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0013",
+      "number": 13,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0014",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 14,
       "question": "习近平新时代中国特色社会主义思想创立的时代背景是（ ）",
       "options": [
         {
@@ -508,15 +505,15 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0014",
+      "number": 14,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0015",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 15,
-      "question": "如果把习近平新时代中国特色社会主义思想比作一座理论大厦，（ ）就是支撑整座大厦的主体部分",
+      "question": "如果把习近平新时代中国特色社会主义思想比作一座理论大厦，（ ）就是支撑整座大厦的主体部分。",
       "options": [
         {
           "key": "A",
@@ -544,15 +541,15 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0015",
+      "number": 15,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0016",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 16,
-      "question": "提出人与自然是和谐共生的生命共同体，绿水青山就是金山银山，是对（ ）的新发展",
+      "question": "提出人与自然是和谐共生的生命共同体，绿水青山就是金山银山，是对（ ）的新发展。",
       "options": [
         {
           "key": "A",
@@ -580,15 +577,15 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0016",
+      "number": 16,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0017",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 17,
-      "question": "习近平新时代中国特色社会主义思想深刻阐发了以( )为源头的中国共产党人的精神谱系",
+      "question": "习近平新时代中国特色社会主义思想深刻阐发了以( )为源头的中国共产党人的精神谱系。",
       "options": [
         {
           "key": "A",
@@ -616,15 +613,15 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0017",
+      "number": 17,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0018",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 18,
-      "question": "中华民族迎来了从站起来、富起来、强起来的伟大飞跃，实现（ ）进入了不可逆转的历史进程",
+      "question": "中华民族迎来了从站起来、富起来、强起来的伟大飞跃，实现（ ）进入了不可逆转的历史进程。",
       "options": [
         {
           "key": "A",
@@ -652,14 +649,14 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0018",
+      "number": 18,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0019",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 19,
       "question": "如何跳出治乱兴衰的历史周期率？经过百年奋斗特别是党的十八大以来新的实践，我们党给出了第二个答案，这就是（ ）",
       "options": [
         {
@@ -688,15 +685,15 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0019",
+      "number": 19,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0020",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 20,
-      "question": "习近平新时代中国特色社会主义思想续写了（ ）新篇章",
+      "question": "习近平新时代中国特色社会主义思想续写了（ ）新篇章。",
       "options": [
         {
           "key": "A",
@@ -724,15 +721,15 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0020",
+      "number": 20,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0021",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 21,
-      "question": "三大时代课题是理解习近平新时代中国特色社会主义思想的“理论之眼”，其中（ ）回答的是方向性质问题",
+      "question": "三大时代课题是理解习近平新时代中国特色社会主义思想的“理论之眼”，其中（ ）回答的是方向性质问题。",
       "options": [
         {
           "key": "A",
@@ -760,15 +757,15 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0021",
+      "number": 21,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0022",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 22,
-      "question": "新时代十年的伟大变革，在党史、新中国史、改革开放史、社会主义发展史、（ ）上具有里程碑意义",
+      "question": "新时代十年的伟大变革，在党史、新中国史、改革开放史、社会主义发展史、（ ）上具有里程碑意义。",
       "options": [
         {
           "key": "A",
@@ -796,14 +793,14 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0022",
+      "number": 22,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0023",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 23,
       "question": "习近平新时代中国特色社会主义思想创立的时代背景是（）",
       "options": [
         {
@@ -834,15 +831,15 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0023",
+      "number": 23,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0024",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 24,
-      "question": "新时代中国正处于中华民族伟大复兴的关键时期，因为（）",
+      "question": "新时代中国正处于中华民族伟大复兴的关键时期，因为（）。",
       "options": [
         {
           "key": "A",
@@ -876,14 +873,14 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0024",
+      "number": 24,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0025",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 25,
       "question": "习近平总书记为习近平新时代中国特色社会主义思想的创立发挥了决定性作用，（ ）",
       "options": [
         {
@@ -918,15 +915,15 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0025",
+      "number": 25,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0026",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 26,
-      "question": "习近平新时代中国特色社会主义思想回答了（ ）重大时代课题",
+      "question": "习近平新时代中国特色社会主义思想回答了（ ）重大时代课题。",
       "options": [
         {
           "key": "A",
@@ -958,15 +955,15 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0026",
+      "number": 26,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0027",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 27,
-      "question": "习近平新时代中国特色社会主义思想的主要内容包括（ ）",
+      "question": "习近平新时代中国特色社会主义思想的主要内容包括（ ）。",
       "options": [
         {
           "key": "A",
@@ -1000,15 +997,57 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0027",
+      "number": 27,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0028",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
+      "question": "“十四个坚持”的基本方略，（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "涵盖坚持党的领导和“五位一体”总体布局、“四个全面”战略布局"
+        },
+        {
+          "key": "B",
+          "text": "涵盖国防和军队建设、维护国家安全、对外战略"
+        },
+        {
+          "key": "C",
+          "text": "是对党的治国理政重大方针政策的最新概括"
+        },
+        {
+          "key": "D",
+          "text": "是实现“两个一百年”奋斗目标、实现中华民族伟大复兴中国梦的“路线图”和“方法论”。"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answerText": [
+        "涵盖坚持党的领导和“五位一体”总体布局、“四个全面”战略布局",
+        "涵盖国防和军队建设、维护国家安全、对外战略",
+        "是对党的治国理政重大方针政策的最新概括",
+        "是实现“两个一百年”奋斗目标、实现中华民族伟大复兴中国梦的“路线图”和“方法论”。"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-chapter1-0028",
       "number": 28,
-      "question": "习近平新时代中国特色社会主义思想是当代中国马克思主义、二十一世纪马克思主义，是（ ）的时代精华，实现了马克思主义中国化新的飞跃",
+      "volume": 1
+    },
+    {
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "question": "习近平新时代中国特色社会主义思想是当代中国马克思主义、二十一世纪马克思主义，是（ ）的时代精华，实现了马克思主义中国化新的飞跃。",
       "options": [
         {
           "key": "A",
@@ -1038,15 +1077,15 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0029",
+      "number": 29,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0029",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 29,
-      "question": "坚持把马克思主义基本原理同（ ）相结合，用马克思主义观察时代、把握时代、引领时代，继续发展当代中国马克思主义、21世纪马克思主义",
+      "question": "坚持把马克思主义基本原理同（ ）相结合，用马克思主义观察时代、把握时代、引领时代，继续发展当代中国马克思主义、21世纪马克思主义。",
       "options": [
         {
           "key": "A",
@@ -1076,15 +1115,15 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0030",
+      "number": 30,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0030",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 30,
-      "question": "中国特色社会主义事业总体布局是“五位一体”、战略布局是“四个全面”，强调坚定（ ）",
+      "question": "中国特色社会主义事业总体布局是“五位一体”、战略布局是“四个全面”，强调坚定（ ）。",
       "options": [
         {
           "key": "A",
@@ -1118,15 +1157,15 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0031",
+      "number": 31,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0031",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 31,
-      "question": "建设一支（ ），的人民军队，是实现“两个一百年”奋斗目标、实现中华民族伟大复兴的战略支撑",
+      "question": "建设一支（ ），的人民军队，是实现“两个一百年”奋斗目标、实现中华民族伟大复兴的战略支撑。",
       "options": [
         {
           "key": "A",
@@ -1158,15 +1197,15 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0032",
+      "number": 32,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0032",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 32,
-      "question": "“两个确立”形成的依据是（ ）",
+      "question": "“两个确立”形成的依据是（ ）。",
       "options": [
         {
           "key": "A",
@@ -1200,14 +1239,52 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0033",
+      "number": 33,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0033",
-      "volume": 1,
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "question": "“两个确立”是指（ ），反映了全党全军全国各族人民共同心愿。",
+      "options": [
+        {
+          "key": "A",
+          "text": "确立中国共产党的领导"
+        },
+        {
+          "key": "B",
+          "text": "确立中华民族伟大复兴的目标"
+        },
+        {
+          "key": "C",
+          "text": "确立习近平同志党中央的核心、全党的核心地位"
+        },
+        {
+          "key": "D",
+          "text": "确立习近平新时代中国特色社会主义思想的指导地位"
+        }
+      ],
+      "answerKeys": [
+        "C",
+        "D"
+      ],
+      "answerText": [
+        "确立习近平同志党中央的核心、全党的核心地位",
+        "确立习近平新时代中国特色社会主义思想的指导地位"
+      ],
+      "topic": "导论",
+      "category": "导论",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-chapter1-0034",
+      "number": 34,
+      "volume": 1
+    },
+    {
       "type": "judge",
       "typeLabel": "判断题",
-      "number": 33,
       "question": "新时代新征程，中国共产党的中心任务，就是团结带领全国各族人民全面建成社会主义现代化强国、实现第一个百年奋斗目标。（ ）",
       "options": [
         {
@@ -1228,14 +1305,14 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0035",
+      "number": 35,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0034",
-      "volume": 1,
       "type": "judge",
       "typeLabel": "判断题",
-      "number": 34,
       "question": "世界面临百年未有之大变局给中华民族伟大复兴带来重大机遇。（ ）",
       "options": [
         {
@@ -1256,14 +1333,14 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0036",
+      "number": 36,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0035",
-      "volume": 1,
       "type": "judge",
       "typeLabel": "判断题",
-      "number": 35,
       "question": "习近平新时代中国特色社会主义思想是马克思主义中国化的第一次历史性飞跃。（ ）",
       "options": [
         {
@@ -1284,14 +1361,14 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0037",
+      "number": 37,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0036",
-      "volume": 1,
       "type": "judge",
       "typeLabel": "判断题",
-      "number": 36,
       "question": "习近平新时代中国特色社会主义思想是在把握世界发展大势、应对全球共同挑战、维护人类共同利益的过程中创立并不断丰富发展的。（ ）",
       "options": [
         {
@@ -1312,14 +1389,14 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0038",
+      "number": 38,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0037",
-      "volume": 1,
       "type": "judge",
       "typeLabel": "判断题",
-      "number": 37,
       "question": "三个重大时代课题，是站在新时代历史节点上向中国共产党人提出的“时代三问”。（ ）",
       "options": [
         {
@@ -1340,14 +1417,14 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0039",
+      "number": 39,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0038",
-      "volume": 1,
       "type": "judge",
       "typeLabel": "判断题",
-      "number": 38,
       "question": "我们党的历史，就是一部不断推进马克思主义中国化的历史，就是一部不断推进理论创新、进行理论创造的历史。（ ）",
       "options": [
         {
@@ -1368,14 +1445,14 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0040",
+      "number": 40,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0039",
-      "volume": 1,
       "type": "judge",
       "typeLabel": "判断题",
-      "number": 39,
       "question": "习近平新时代中国特色社会主义思想系统全面、逻辑严密、博大精深。（ ）",
       "options": [
         {
@@ -1396,14 +1473,14 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0041",
+      "number": 41,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0040",
-      "volume": 1,
       "type": "judge",
       "typeLabel": "判断题",
-      "number": 40,
       "question": "“三个代表”重要思想是当代中国马克思主义、二十一世纪马克思主义，是中华文化和中国精神的时代精华，实现了马克思主义中国化时代化新的飞跃（ ）",
       "options": [
         {
@@ -1424,14 +1501,14 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0042",
+      "number": 42,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0041",
-      "volume": 1,
       "type": "judge",
       "typeLabel": "判断题",
-      "number": 41,
       "question": "必须坚持和完善社会主义基本经济制度，使市场在资源配置中起基础性作用，更好发挥政府作用。（ ）",
       "options": [
         {
@@ -1452,14 +1529,14 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0043",
+      "number": 43,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter1-0042",
-      "volume": 1,
       "type": "judge",
       "typeLabel": "判断题",
-      "number": 42,
       "question": "“两个确立”是确立习近平同志党中央的核心、全党的核心地位，确立习近平新时代中国特色社会主义思想的指导地位。（ ）",
       "options": [
         {
@@ -1480,7 +1557,10 @@
       "topic": "导论",
       "category": "导论",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter1-0044",
+      "number": 44,
+      "volume": 1
     }
   ]
 }

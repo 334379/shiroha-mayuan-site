@@ -1,18 +1,15 @@
 {
   "meta": {
     "title": "习近平新时代中国特色社会主义思想概论-第十章",
-    "questionCount": 31,
+    "questionCount": 34,
     "volumes": 1,
-    "sourceNote": "由习近平新时代中国特色社会主义思想概论期末复习题库 Word 文档转换导入。"
+    "sourceNote": "由 25-26-2 习概题库 Word 文档转换导入，主观题供自评。"
   },
   "questions": [
     {
-      "id": "xsd-chapter11-0001",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 1,
-      "question": "建设社会主义文化强国、推动社会主义文化繁荣兴盛，关键在于（）",
+      "question": "建设社会主义文化强国、推动社会主义文化繁荣兴盛，关键在于（）。",
       "options": [
         {
           "key": "A",
@@ -40,15 +37,15 @@
       "topic": "第十章 建设社会主义文化强国",
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter11-0001",
+      "number": 1,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter11-0002",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 2,
-      "question": "坚持马克思主义在意识形态领域指导地位的制度是中国特色社会主义制度体系的一项（ ）",
+      "question": "坚持马克思主义在意识形态领域指导地位的制度是中国特色社会主义制度体系的一项（ ）。",
       "options": [
         {
           "key": "A",
@@ -76,14 +73,14 @@
       "topic": "第十章 建设社会主义文化强国",
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter11-0002",
+      "number": 2,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter11-0003",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 3,
       "question": "建设中国特色社会主义文化，必须牢牢掌握( ).",
       "options": [
         {
@@ -112,15 +109,15 @@
       "topic": "第十章 建设社会主义文化强国",
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter11-0003",
+      "number": 3,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter11-0004",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 4,
-      "question": "培育和践行社会主义核心价值观，要把( )融入社会生活各个方面",
+      "question": "培育和践行社会主义核心价值观，要把( )融入社会生活各个方面。",
       "options": [
         {
           "key": "A",
@@ -148,15 +145,15 @@
       "topic": "第十章 建设社会主义文化强国",
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter11-0004",
+      "number": 4,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter11-0005",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 5,
-      "question": "( )是一个民族赖以维系的精神纽带，是一个国家共同的思想道德基础",
+      "question": "( )是一个民族赖以维系的精神纽带，是一个国家共同的思想道德基础。",
       "options": [
         {
           "key": "A",
@@ -184,15 +181,15 @@
       "topic": "第十章 建设社会主义文化强国",
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter11-0005",
+      "number": 5,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter11-0006",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 6,
-      "question": "建设社会主义文化强国，必须培养高度的( )",
+      "question": "建设社会主义文化强国，必须培养高度的( )。",
       "options": [
         {
           "key": "A",
@@ -220,15 +217,15 @@
       "topic": "第十章 建设社会主义文化强国",
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter11-0006",
+      "number": 6,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter11-0007",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 7,
-      "question": "构建中国特色哲学社会科学，是掌握意识形态工作领导权的内在要求，首要的是( )",
+      "question": "构建中国特色哲学社会科学，是掌握意识形态工作领导权的内在要求，首要的是( )。",
       "options": [
         {
           "key": "A",
@@ -256,15 +253,15 @@
       "topic": "第十章 建设社会主义文化强国",
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter11-0007",
+      "number": 7,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter11-0008",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 8,
-      "question": "下列观点和认识中，错误的是 ( )",
+      "question": "下列观点和认识中，错误的是 ( )。",
       "options": [
         {
           "key": "A",
@@ -292,15 +289,15 @@
       "topic": "第十章 建设社会主义文化强国",
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter11-0008",
+      "number": 8,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter11-0009",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 9,
-      "question": "（ ）是更基础、更广泛、更深厚的自信，是一个国家、一个民族发展中最基本、最深沉、最持久的力量",
+      "question": "（ ）是更基础、更广泛、更深厚的自信，是一个国家、一个民族发展中最基本、最深沉、最持久的力量。",
       "options": [
         {
           "key": "A",
@@ -328,15 +325,15 @@
       "topic": "第十章 建设社会主义文化强国",
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter11-0009",
+      "number": 9,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter11-0010",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 10,
-      "question": "一个国家、一个民族的强盛，总是以文化兴盛为支撑的，中华民族伟大复兴需要以（ ）发展繁荣为条件",
+      "question": "一个国家、一个民族的强盛，总是以文化兴盛为支撑的，中华民族伟大复兴需要以（ ）发展繁荣为条件。",
       "options": [
         {
           "key": "A",
@@ -364,15 +361,15 @@
       "topic": "第十章 建设社会主义文化强国",
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter11-0010",
+      "number": 10,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter11-0011",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 11,
-      "question": "( )是担负文化使命、实现中华民族伟大复兴的根本保证",
+      "question": "( )是担负文化使命、实现中华民族伟大复兴的根本保证。",
       "options": [
         {
           "key": "A",
@@ -400,15 +397,15 @@
       "topic": "第十章 建设社会主义文化强国",
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter11-0011",
+      "number": 11,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter11-0012",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 12,
-      "question": "( )是当代中国文化发展的灵魂",
+      "question": "( )是当代中国文化发展的灵魂。",
       "options": [
         {
           "key": "A",
@@ -436,15 +433,15 @@
       "topic": "第十章 建设社会主义文化强国",
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter11-0012",
+      "number": 12,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter11-0013",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 13,
-      "question": "( )提出社会主义核心价值观",
+      "question": "( )提出社会主义核心价值观。",
       "options": [
         {
           "key": "A",
@@ -472,15 +469,15 @@
       "topic": "第十章 建设社会主义文化强国",
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter11-0013",
+      "number": 13,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter11-0014",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 14,
-      "question": "( )是中华文明的智慧结晶和精华所在，是中华民族的根和魂，是我们在世界文化激荡中站稳脚跟的根基",
+      "question": "( )是中华文明的智慧结晶和精华所在，是中华民族的根和魂，是我们在世界文化激荡中站稳脚跟的根基。",
       "options": [
         {
           "key": "A",
@@ -508,15 +505,51 @@
       "topic": "第十章 建设社会主义文化强国",
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter11-0014",
+      "number": 14,
+      "volume": 1
     },
     {
+      "type": "single",
+      "typeLabel": "单选题",
+      "question": "新时代新征程，坚持马克思主义在意识形态领域指导地位的根本制度，必须牢牢掌握（ ），坚持以立为本、立破并举，提高政治自觉。",
+      "options": [
+        {
+          "key": "A",
+          "text": "马克思主义的科学理论"
+        },
+        {
+          "key": "B",
+          "text": "网络空间的治理和引导"
+        },
+        {
+          "key": "C",
+          "text": "中国特色社会主义科学体系的构建"
+        },
+        {
+          "key": "D",
+          "text": "党对意识形态工作领导权"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "党对意识形态工作领导权"
+      ],
+      "topic": "第十章 建设社会主义文化强国",
+      "category": "第十章 建设社会主义文化强国",
+      "score": 1,
+      "analysis": "",
       "id": "xsd-chapter11-0015",
-      "volume": 1,
+      "number": 15,
+      "volume": 1
+    },
+    {
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 15,
-      "question": "文化繁荣兴盛是（ ）",
+      "question": "文化繁荣兴盛是（ ）。",
       "options": [
         {
           "key": "A",
@@ -550,15 +583,15 @@
       "topic": "第十章 建设社会主义文化强国",
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter11-0016",
+      "number": 16,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter11-0016",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 16,
-      "question": "坚定中国特色社会主义文化自信的底气来自（ ）",
+      "question": "坚定中国特色社会主义文化自信的底气来自（ ）。",
       "options": [
         {
           "key": "A",
@@ -590,15 +623,15 @@
       "topic": "第十章 建设社会主义文化强国",
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter11-0017",
+      "number": 17,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter11-0017",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 17,
-      "question": "必须坚持中国特色社会主义文化发展道路，增强文化自信，必须（ ）",
+      "question": "必须坚持中国特色社会主义文化发展道路，增强文化自信，必须（ ）。",
       "options": [
         {
           "key": "A",
@@ -632,15 +665,55 @@
       "topic": "第十章 建设社会主义文化强国",
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter11-0018",
+      "number": 18,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter11-0018",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 18,
-      "question": "坚持中国特色社会主义文化建设的“二为”方向，“二为”是（）",
+      "question": "坚持举旗帜、聚民心、育新人、兴文化、展形象。举旗帜，就是要（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "高举马克思主义的旗帜"
+        },
+        {
+          "key": "B",
+          "text": "高举中国特色社会主义的旗帜"
+        },
+        {
+          "key": "C",
+          "text": "坚持不懈用习近平新时代中国特色社会主义思想武装全党、教育人民"
+        },
+        {
+          "key": "D",
+          "text": "高举无产阶级专政的旗帜"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C"
+      ],
+      "answerText": [
+        "高举马克思主义的旗帜",
+        "高举中国特色社会主义的旗帜",
+        "坚持不懈用习近平新时代中国特色社会主义思想武装全党、教育人民"
+      ],
+      "topic": "第十章 建设社会主义文化强国",
+      "category": "第十章 建设社会主义文化强国",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-chapter11-0019",
+      "number": 19,
+      "volume": 1
+    },
+    {
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "question": "坚持中国特色社会主义文化建设的“二为”方向，“二为”是（）。",
       "options": [
         {
           "key": "A",
@@ -670,15 +743,57 @@
       "topic": "第十章 建设社会主义文化强国",
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter11-0020",
+      "number": 20,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter11-0019",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 19,
-      "question": "意识形态工作( )",
+      "question": "坚持马克思主义在意识形态领域指导地位的根本制度，必须（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "牢牢掌握党对意识形态工作领导权"
+        },
+        {
+          "key": "B",
+          "text": "坚持以立为本、立破并举，提高政治自觉，把意识形态阵地建设和管理工作摆在重要位置，"
+        },
+        {
+          "key": "C",
+          "text": "全面落实意识形态工作责任制，压紧压实做好意识形态工作的政治责任。"
+        },
+        {
+          "key": "D",
+          "text": "要切实把坚持以马克思主义为指导体现到理论武装、舆论引导、思想道德建设、文化文艺等各方面"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answerText": [
+        "牢牢掌握党对意识形态工作领导权",
+        "坚持以立为本、立破并举，提高政治自觉，把意识形态阵地建设和管理工作摆在重要位置，",
+        "全面落实意识形态工作责任制，压紧压实做好意识形态工作的政治责任。",
+        "要切实把坚持以马克思主义为指导体现到理论武装、舆论引导、思想道德建设、文化文艺等各方面"
+      ],
+      "topic": "第十章 建设社会主义文化强国",
+      "category": "第十章 建设社会主义文化强国",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-chapter11-0021",
+      "number": 21,
+      "volume": 1
+    },
+    {
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "question": "意识形态工作( )。",
       "options": [
         {
           "key": "A",
@@ -712,15 +827,15 @@
       "topic": "第十章 建设社会主义文化强国",
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter11-0022",
+      "number": 22,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter11-0020",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 20,
-      "question": "100多年前，中国共产党的先驱们创建了中国共产党,形成了( )的伟大建党精神",
+      "question": "100多年前，中国共产党的先驱们创建了中国共产党，形成了( )的伟大建党精神。",
       "options": [
         {
           "key": "A",
@@ -754,15 +869,15 @@
       "topic": "第十章 建设社会主义文化强国",
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter11-0023",
+      "number": 23,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter11-0021",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 21,
-      "question": "中国共产党人精神谱系（ ）",
+      "question": "中国共产党人精神谱系（ ）。",
       "options": [
         {
           "key": "A",
@@ -778,7 +893,7 @@
         },
         {
           "key": "D",
-          "text": "成为民族精神和时代精神的重要组成部分"
+          "text": "成为民族精神和时代精神的重要组成部分。"
         }
       ],
       "answerKeys": [
@@ -791,20 +906,20 @@
         "集中体现了党的坚定信念、根本宗旨、优良作风",
         "凝聚着中国共产党人艰苦奋斗、牺牲奉献、开拓进取的伟大品格",
         "已经深深融入党、国家、民族、人民的血脉和灵魂",
-        "成为民族精神和时代精神的重要组成部分"
+        "成为民族精神和时代精神的重要组成部分。"
       ],
       "topic": "第十章 建设社会主义文化强国",
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter11-0024",
+      "number": 24,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter11-0022",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 22,
-      "question": "对待中华优秀传统文化的态度是（ ）",
+      "question": "对待中华优秀传统文化的态度是（ ）。",
       "options": [
         {
           "key": "A",
@@ -838,15 +953,15 @@
       "topic": "第十章 建设社会主义文化强国",
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter11-0025",
+      "number": 25,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter11-0023",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 23,
-      "question": "像爱惜自己的生命一样保护好文化遗产，守护好中华文脉。因为（）",
+      "question": "像爱惜自己的生命一样保护好文化遗产，守护好中华文脉。因为（）。",
       "options": [
         {
           "key": "A",
@@ -880,14 +995,14 @@
       "topic": "第十章 建设社会主义文化强国",
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter11-0026",
+      "number": 26,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter11-0024",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 24,
       "question": "社会主义核心价值观涉及国家、社会、公民三个层面的价值要求，具体表达为( )",
       "options": [
         {
@@ -920,14 +1035,14 @@
       "topic": "第十章 建设社会主义文化强国",
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter11-0027",
+      "number": 27,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter11-0025",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 25,
       "question": "建设社会主义文化强国，必须做到( )",
       "options": [
         {
@@ -962,15 +1077,15 @@
       "topic": "第十章 建设社会主义文化强国",
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter11-0028",
+      "number": 28,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter11-0026",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 26,
-      "question": "一个国家的文化软实力，从根本上说，取决于其核心价值观的( )",
+      "question": "一个国家的文化软实力，从根本上说，取决于其核心价值观的( )。",
       "options": [
         {
           "key": "A",
@@ -1002,14 +1117,14 @@
       "topic": "第十章 建设社会主义文化强国",
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter11-0029",
+      "number": 29,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter11-0027",
-      "volume": 1,
       "type": "judge",
       "typeLabel": "判断题",
-      "number": 27,
       "question": "中华文明形成了中国人看待世界、看待社会、看待人生的独特价值体系、文化内涵和精神品质，铸就了中华民族博采众长的文化自信。（ ）",
       "options": [
         {
@@ -1030,14 +1145,14 @@
       "topic": "第十章 建设社会主义文化强国",
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter11-0030",
+      "number": 30,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter11-0028",
-      "volume": 1,
       "type": "judge",
       "typeLabel": "判断题",
-      "number": 28,
       "question": "一个国家、一个民族的强盛，总是以文化兴盛为支撑的。（ ）",
       "options": [
         {
@@ -1058,14 +1173,14 @@
       "topic": "第十章 建设社会主义文化强国",
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter11-0031",
+      "number": 31,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter11-0029",
-      "volume": 1,
       "type": "judge",
       "typeLabel": "判断题",
-      "number": 29,
       "question": "一个政权的瓦解往往是从思想领域开始的，政治动荡、政权更迭可能在一夜之间发生，思想演化也是转瞬即变。（ ）",
       "options": [
         {
@@ -1086,14 +1201,14 @@
       "topic": "第十章 建设社会主义文化强国",
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter11-0032",
+      "number": 32,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter11-0030",
-      "volume": 1,
       "type": "judge",
       "typeLabel": "判断题",
-      "number": 30,
       "question": "文化软实力集中体现了一个国家基于文化而具有的凝聚力和生命力，以及由此产生的吸引力和影响力。在一个国家的总体实力中，国家的硬实力固然具有标志性、基础性作用（ ）",
       "options": [
         {
@@ -1114,14 +1229,14 @@
       "topic": "第十章 建设社会主义文化强国",
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter11-0033",
+      "number": 33,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter11-0031",
-      "volume": 1,
       "type": "judge",
       "typeLabel": "判断题",
-      "number": 31,
       "question": "文化的影响力首先是政治立场的影响力。（ ）",
       "options": [
         {
@@ -1142,7 +1257,10 @@
       "topic": "第十章 建设社会主义文化强国",
       "category": "第十章 建设社会主义文化强国",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter11-0034",
+      "number": 34,
+      "volume": 1
     }
   ]
 }

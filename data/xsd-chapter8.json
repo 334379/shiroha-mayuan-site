@@ -1,18 +1,15 @@
 {
   "meta": {
     "title": "习近平新时代中国特色社会主义思想概论-第七章",
-    "questionCount": 34,
+    "questionCount": 39,
     "volumes": 1,
-    "sourceNote": "由习近平新时代中国特色社会主义思想概论期末复习题库 Word 文档转换导入。"
+    "sourceNote": "由 25-26-2 习概题库 Word 文档转换导入，主观题供自评。"
   },
   "questions": [
     {
-      "id": "xsd-chapter8-0001",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 1,
-      "question": "（ ）、科技、人才是全面建设社会主义现代化国家的基础性、战略性支撑",
+      "question": "（ ）、科技、人才是全面建设社会主义现代化国家的基础性、战略性支撑。",
       "options": [
         {
           "key": "A",
@@ -40,15 +37,15 @@
       "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter8-0001",
+      "number": 1,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter8-0002",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 2,
-      "question": "全面建设社会主义现代化国家，教育是根本，（ ）是关键，人才是基础",
+      "question": "全面建设社会主义现代化国家，教育是根本，（ ）是关键，人才是基础。",
       "options": [
         {
           "key": "A",
@@ -76,15 +73,15 @@
       "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter8-0002",
+      "number": 2,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter8-0003",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 3,
-      "question": "必须坚持( )是第一生产力",
+      "question": "必须坚持( )是第一生产力。",
       "options": [
         {
           "key": "A",
@@ -112,15 +109,15 @@
       "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter8-0003",
+      "number": 3,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter8-0004",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 4,
-      "question": "（ ）是发展第一动力",
+      "question": "（ ）是发展第一动力。",
       "options": [
         {
           "key": "A",
@@ -148,15 +145,15 @@
       "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter8-0004",
+      "number": 4,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter8-0005",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 5,
-      "question": "（ ）是国之大计、党之大计",
+      "question": "（ ）是国之大计、党之大计。",
       "options": [
         {
           "key": "A",
@@ -184,15 +181,15 @@
       "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter8-0005",
+      "number": 5,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter8-0006",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 6,
-      "question": "（ ）提出“科学技术是第一生产力”",
+      "question": "（ ）提出“科学技术是第一生产力”。",
       "options": [
         {
           "key": "A",
@@ -220,15 +217,15 @@
       "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter8-0006",
+      "number": 6,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter8-0007",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 7,
-      "question": "科教兴国是我国的（ ）",
+      "question": "科教兴国是我国的（ ）。",
       "options": [
         {
           "key": "A",
@@ -256,19 +253,95 @@
       "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter8-0007",
+      "number": 7,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter8-0008",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 8,
-      "question": "（ ）是国家强盛之基、安全之要",
+      "question": "（ ）是民族振兴、社会进步的基石。",
       "options": [
         {
           "key": "A",
-          "text": "科技自立自强 B. 人才引进"
+          "text": "科技"
+        },
+        {
+          "key": "B",
+          "text": "教育"
+        },
+        {
+          "key": "C",
+          "text": "共同富裕"
+        },
+        {
+          "key": "D",
+          "text": "人才"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "教育"
+      ],
+      "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
+      "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-chapter8-0008",
+      "number": 8,
+      "volume": 1
+    },
+    {
+      "type": "single",
+      "typeLabel": "单选题",
+      "question": "（ ）是发展教育的根本尺度。",
+      "options": [
+        {
+          "key": "A",
+          "text": "科技突破"
+        },
+        {
+          "key": "B",
+          "text": "人民满意"
+        },
+        {
+          "key": "C",
+          "text": "实现共同富裕"
+        },
+        {
+          "key": "D",
+          "text": "发展生产力"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "人民满意"
+      ],
+      "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
+      "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-chapter8-0009",
+      "number": 9,
+      "volume": 1
+    },
+    {
+      "type": "single",
+      "typeLabel": "单选题",
+      "question": "（ ）是国家强盛之基、安全之要。",
+      "options": [
+        {
+          "key": "A",
+          "text": "科技自立自强"
+        },
+        {
+          "key": "B",
+          "text": "人才引进"
         },
         {
           "key": "C",
@@ -283,24 +356,28 @@
         "A"
       ],
       "answerText": [
-        "科技自立自强 B. 人才引进"
+        "科技自立自强"
       ],
       "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter8-0010",
+      "number": 10,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter8-0009",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 9,
-      "question": "（ ）是我们攀登世界科技高峰的必由之路",
+      "question": "（ ）是我们攀登世界科技高峰的必由之路。",
       "options": [
         {
           "key": "A",
-          "text": "自主创新 B. 脱贫攻坚"
+          "text": "自主创新"
+        },
+        {
+          "key": "B",
+          "text": "脱贫攻坚"
         },
         {
           "key": "C",
@@ -315,24 +392,28 @@
         "A"
       ],
       "answerText": [
-        "自主创新 B. 脱贫攻坚"
+        "自主创新"
       ],
       "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter8-0011",
+      "number": 11,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter8-0010",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 10,
-      "question": "必须坚持教育优先发展，把（ ）作为教育的根本任务，办好人民满意的教育",
+      "question": "必须坚持教育优先发展，把（ ）作为教育的根本任务，办好人民满意的教育。",
       "options": [
         {
           "key": "A",
-          "text": "立德树人 B. 社会实践"
+          "text": "立德树人"
+        },
+        {
+          "key": "B",
+          "text": "社会实践"
         },
         {
           "key": "C",
@@ -347,20 +428,56 @@
         "A"
       ],
       "answerText": [
-        "立德树人 B. 社会实践"
+        "立德树人"
       ],
       "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter8-0012",
+      "number": 12,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter8-0011",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 11,
-      "question": "坚持教育（ ）原则，把教育公平作为国家基本教育国策，以教育公平促进社会公平正义",
+      "question": "（ ）是科技创新的源头。我国面临的很多“卡脖子”技术问题，根子是基础理论研究跟不上。",
+      "options": [
+        {
+          "key": "A",
+          "text": "应用研究"
+        },
+        {
+          "key": "B",
+          "text": "国家实验室"
+        },
+        {
+          "key": "C",
+          "text": "经济特区"
+        },
+        {
+          "key": "D",
+          "text": "基础研究"
+        }
+      ],
+      "answerKeys": [
+        "D"
+      ],
+      "answerText": [
+        "基础研究"
+      ],
+      "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
+      "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-chapter8-0013",
+      "number": 13,
+      "volume": 1
+    },
+    {
+      "type": "single",
+      "typeLabel": "单选题",
+      "question": "坚持教育（ ）原则，把教育公平作为国家基本教育国策，以教育公平促进社会公平正义。",
       "options": [
         {
           "key": "A",
@@ -388,15 +505,15 @@
       "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter8-0014",
+      "number": 14,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter8-0012",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 12,
-      "question": "（ ）是推动党和国家各项事业发展的重要先手棋",
+      "question": "（ ）是推动党和国家各项事业发展的重要先手棋。",
       "options": [
         {
           "key": "A",
@@ -424,15 +541,15 @@
       "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter8-0015",
+      "number": 15,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter8-0013",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 13,
-      "question": "（ ）是落实立德树人根本任务的关键课程，要坚持不懈传播马克思主义科学理论，用党的创新理论武装学生，不断提高学生思想水平、政治觉悟、道德品质",
+      "question": "（ ）是落实立德树人根本任务的关键课程，要坚持不懈传播马克思主义科学理论，用党的创新理论武装学生，不断提高学生思想水平、政治觉悟、道德品质。",
       "options": [
         {
           "key": "A",
@@ -460,15 +577,15 @@
       "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter8-0016",
+      "number": 16,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter8-0014",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 14,
-      "question": "（ ）是各级各类教育的生命线",
+      "question": "（ ）是各级各类教育的生命线。",
       "options": [
         {
           "key": "A",
@@ -496,15 +613,15 @@
       "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter8-0017",
+      "number": 17,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter8-0015",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 15,
-      "question": "教育大计，（ ）为本",
+      "question": "教育大计，（ ）为本。",
       "options": [
         {
           "key": "A",
@@ -532,15 +649,15 @@
       "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter8-0018",
+      "number": 18,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter8-0016",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 16,
-      "question": "育人的根本在于（ ）",
+      "question": "育人的根本在于（ ）。",
       "options": [
         {
           "key": "A",
@@ -568,15 +685,15 @@
       "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter8-0019",
+      "number": 19,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter8-0017",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 17,
-      "question": "（ ）是国家强盛之基、安全之要",
+      "question": "（ ）是国家强盛之基、安全之要。",
       "options": [
         {
           "key": "A",
@@ -604,15 +721,95 @@
       "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter8-0020",
+      "number": 20,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter8-0018",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 18,
-      "question": "实施科教兴国战略，（ ）",
+      "question": "全面建设社会主义现代化国家，( )。",
+      "options": [
+        {
+          "key": "A",
+          "text": "教育是根本"
+        },
+        {
+          "key": "B",
+          "text": "科技是关键"
+        },
+        {
+          "key": "C",
+          "text": "人才是基础"
+        },
+        {
+          "key": "D",
+          "text": "改革是保证"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C"
+      ],
+      "answerText": [
+        "教育是根本",
+        "科技是关键",
+        "人才是基础"
+      ],
+      "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
+      "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-chapter8-0021",
+      "number": 21,
+      "volume": 1
+    },
+    {
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "question": "实施（ ）是增强综合国力、满足人民群众美好生活需要的必然要求，是建设教育强国、科技强国、人才强国的重大举措",
+      "options": [
+        {
+          "key": "A",
+          "text": "科教兴国战略"
+        },
+        {
+          "key": "B",
+          "text": "人才强国战略"
+        },
+        {
+          "key": "C",
+          "text": "创新驱动发展战略"
+        },
+        {
+          "key": "D",
+          "text": "“四个全面战略”"
+        }
+      ],
+      "answerKeys": [
+        "A",
+        "B",
+        "C"
+      ],
+      "answerText": [
+        "科教兴国战略",
+        "人才强国战略",
+        "创新驱动发展战略"
+      ],
+      "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
+      "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-chapter8-0022",
+      "number": 22,
+      "volume": 1
+    },
+    {
+      "type": "multiple",
+      "typeLabel": "多选题",
+      "question": "实施科教兴国战略，（ ）。",
       "options": [
         {
           "key": "A",
@@ -644,15 +841,15 @@
       "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter8-0023",
+      "number": 23,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter8-0019",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 19,
-      "question": "实施人才强国战略，（ ），实施更加积极、更加开放、更加有效的人才政策",
+      "question": "实施人才强国战略，（ ），实施更加积极、更加开放、更加有效的人才政策。",
       "options": [
         {
           "key": "A",
@@ -686,15 +883,15 @@
       "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter8-0024",
+      "number": 24,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter8-0020",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 20,
-      "question": "实施创新驱动发展战略，（ ），让创新成为全社会的共同行动",
+      "question": "实施创新驱动发展战略，（ ），让创新成为全社会的共同行动。",
       "options": [
         {
           "key": "A",
@@ -728,15 +925,15 @@
       "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter8-0025",
+      "number": 25,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter8-0021",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 21,
-      "question": "教育优先发展，要做到（ ），使我国教育越办越好",
+      "question": "教育优先发展，要做到（ ），使我国教育越办越好。",
       "options": [
         {
           "key": "A",
@@ -770,15 +967,15 @@
       "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter8-0026",
+      "number": 26,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter8-0022",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 22,
-      "question": "建设教育强国是（ ）",
+      "question": "建设教育强国是（ ）。",
       "options": [
         {
           "key": "A",
@@ -790,7 +987,7 @@
         },
         {
           "key": "C",
-          "text": "是以中国式现代化全面推进中华民族伟大复兴的基础工程"
+          "text": "是以中国式现代化全面推进中华民族伟大复兴的基础工程，"
         },
         {
           "key": "D",
@@ -806,21 +1003,21 @@
       "answerText": [
         "全面建成社会主义现代化强国的战略先导",
         "是实现高水平科技自立自强的重要支撑",
-        "是以中国式现代化全面推进中华民族伟大复兴的基础工程",
+        "是以中国式现代化全面推进中华民族伟大复兴的基础工程，",
         "必须把教育事业放在优先发展的战略位置"
       ],
       "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter8-0027",
+      "number": 27,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter8-0023",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 23,
-      "question": "必须坚持教育（ ）",
+      "question": "必须坚持教育（ ）。",
       "options": [
         {
           "key": "A",
@@ -854,15 +1051,15 @@
       "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter8-0028",
+      "number": 28,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter8-0024",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 24,
-      "question": "落实立德树人根本任务，必须着力解决好（ ）的问题，这是教育的根本问题，也是（ ）的核心课题",
+      "question": "落实立德树人根本任务，必须着力解决好（ ）的问题，这是教育的根本问题，也是（ ）的核心课题。",
       "options": [
         {
           "key": "A",
@@ -896,15 +1093,15 @@
       "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter8-0029",
+      "number": 29,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter8-0025",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 25,
-      "question": "我们培养的人，（ ）",
+      "question": "我们培养的人，（ ）。",
       "options": [
         {
           "key": "A",
@@ -938,127 +1135,15 @@
       "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
-      "analysis": ""
-    },
-    {
-      "id": "xsd-chapter8-0026",
-      "volume": 1,
-      "type": "judge",
-      "typeLabel": "判断题",
-      "number": 26,
-      "question": "实现高水平科技自立自强是国家强盛和民族复兴的战略基石",
-      "options": [
-        {
-          "key": "A",
-          "text": "正确"
-        },
-        {
-          "key": "B",
-          "text": "错误"
-        }
-      ],
-      "answerKeys": [
-        "A"
-      ],
-      "answerText": [
-        "正确"
-      ],
-      "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
-      "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
-      "score": 1,
-      "analysis": ""
-    },
-    {
-      "id": "xsd-chapter8-0027",
-      "volume": 1,
-      "type": "judge",
-      "typeLabel": "判断题",
-      "number": 27,
-      "question": "全面建成社会主义现代化强国关键看科技自立自强",
-      "options": [
-        {
-          "key": "A",
-          "text": "正确"
-        },
-        {
-          "key": "B",
-          "text": "错误"
-        }
-      ],
-      "answerKeys": [
-        "A"
-      ],
-      "answerText": [
-        "正确"
-      ],
-      "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
-      "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
-      "score": 1,
-      "analysis": ""
-    },
-    {
-      "id": "xsd-chapter8-0028",
-      "volume": 1,
-      "type": "judge",
-      "typeLabel": "判断题",
-      "number": 28,
-      "question": "科技创新是百年未有之大变局中的一个关键变量，世界主要国家纷纷把科技创新作为国际战略博弈的主要战场",
-      "options": [
-        {
-          "key": "A",
-          "text": "正确"
-        },
-        {
-          "key": "B",
-          "text": "错误"
-        }
-      ],
-      "answerKeys": [
-        "A"
-      ],
-      "answerText": [
-        "正确"
-      ],
-      "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
-      "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
-      "score": 1,
-      "analysis": ""
-    },
-    {
-      "id": "xsd-chapter8-0029",
-      "volume": 1,
-      "type": "judge",
-      "typeLabel": "判断题",
-      "number": 29,
-      "question": "把教育技术掌握在自己手中，才能真正掌握竞争和发展的主动权",
-      "options": [
-        {
-          "key": "A",
-          "text": "正确"
-        },
-        {
-          "key": "B",
-          "text": "错误"
-        }
-      ],
-      "answerKeys": [
-        "B"
-      ],
-      "answerText": [
-        "错误"
-      ],
-      "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
-      "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
-      "score": 1,
-      "analysis": ""
-    },
-    {
+      "analysis": "",
       "id": "xsd-chapter8-0030",
-      "volume": 1,
-      "type": "judge",
-      "typeLabel": "判断题",
       "number": 30,
-      "question": "培养入才是国家和民族长远发展大计",
+      "volume": 1
+    },
+    {
+      "type": "judge",
+      "typeLabel": "判断题",
+      "question": "实现高水平科技自立自强是国家强盛和民族复兴的战略基石。",
       "options": [
         {
           "key": "A",
@@ -1078,15 +1163,15 @@
       "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
-      "analysis": ""
-    },
-    {
+      "analysis": "",
       "id": "xsd-chapter8-0031",
-      "volume": 1,
-      "type": "judge",
-      "typeLabel": "判断题",
       "number": 31,
-      "question": "坚持党对人才工作的全面领导,这是做好人才工作的根本保证.",
+      "volume": 1
+    },
+    {
+      "type": "judge",
+      "typeLabel": "判断题",
+      "question": "全面建成社会主义现代化强国关键看科技自立自强。",
       "options": [
         {
           "key": "A",
@@ -1106,71 +1191,15 @@
       "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
-      "analysis": ""
-    },
-    {
+      "analysis": "",
       "id": "xsd-chapter8-0032",
-      "volume": 1,
-      "type": "judge",
-      "typeLabel": "判断题",
       "number": 32,
-      "question": "科技是富国之本、兴邦大计。科技已经成为推动社会发展最活跃、最积极的因素",
-      "options": [
-        {
-          "key": "A",
-          "text": "正确"
-        },
-        {
-          "key": "B",
-          "text": "错误"
-        }
-      ],
-      "answerKeys": [
-        "B"
-      ],
-      "answerText": [
-        "错误"
-      ],
-      "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
-      "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
-      "score": 1,
-      "analysis": ""
+      "volume": 1
     },
     {
-      "id": "xsd-chapter8-0033",
-      "volume": 1,
       "type": "judge",
       "typeLabel": "判断题",
-      "number": 33,
-      "question": "人才是国之大计、党之大计，是国家经济社会发展的支撑力量，在国家发展中始终具有基础性先导性全局性地位",
-      "options": [
-        {
-          "key": "A",
-          "text": "正确"
-        },
-        {
-          "key": "B",
-          "text": "错误"
-        }
-      ],
-      "answerKeys": [
-        "B"
-      ],
-      "answerText": [
-        "错误"
-      ],
-      "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
-      "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
-      "score": 1,
-      "analysis": ""
-    },
-    {
-      "id": "xsd-chapter8-0034",
-      "volume": 1,
-      "type": "judge",
-      "typeLabel": "判断题",
-      "number": 34,
-      "question": "关键核心技术可以通过购买使用，不必掌握在自己手中。 10人才是人力资源中能力和素质较高的劳动者，在国家发展中具有重要战略地位",
+      "question": "科技创新是百年未有之大变局中的一个关键变量，世界主要国家纷纷把科技创新作为国际战略博弈的主要战场。",
       "options": [
         {
           "key": "A",
@@ -1190,7 +1219,178 @@
       "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter8-0033",
+      "number": 33,
+      "volume": 1
+    },
+    {
+      "type": "judge",
+      "typeLabel": "判断题",
+      "question": "把教育技术掌握在自己手中，才能真正掌握竞争和发展的主动权。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "错误"
+      ],
+      "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
+      "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-chapter8-0034",
+      "number": 34,
+      "volume": 1
+    },
+    {
+      "type": "judge",
+      "typeLabel": "判断题",
+      "question": "培养入才是国家和民族长远发展大计。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "正确"
+      ],
+      "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
+      "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-chapter8-0035",
+      "number": 35,
+      "volume": 1
+    },
+    {
+      "type": "judge",
+      "typeLabel": "判断题",
+      "question": "坚持党对人才工作的全面领导，这是做好人才工作的根本保证.",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "正确"
+      ],
+      "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
+      "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-chapter8-0036",
+      "number": 36,
+      "volume": 1
+    },
+    {
+      "type": "judge",
+      "typeLabel": "判断题",
+      "question": "科技是富国之本、兴邦大计。科技已经成为推动社会发展最活跃、最积极的因素。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "错误"
+      ],
+      "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
+      "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-chapter8-0037",
+      "number": 37,
+      "volume": 1
+    },
+    {
+      "type": "judge",
+      "typeLabel": "判断题",
+      "question": "人才是国之大计、党之大计，是国家经济社会发展的支撑力量，在国家发展中始终具有基础性先导性全局性地位。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "B"
+      ],
+      "answerText": [
+        "错误"
+      ],
+      "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
+      "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-chapter8-0038",
+      "number": 38,
+      "volume": 1
+    },
+    {
+      "type": "judge",
+      "typeLabel": "判断题",
+      "question": "关键核心技术可以通过购买使用，不必掌握在自己手中。 10人才是人力资源中能力和素质较高的劳动者，在国家发展中具有重要战略地位。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "正确"
+      ],
+      "topic": "第七章 社会主义现代化建设的教育、科技、人才战略",
+      "category": "第七章 社会主义现代化建设的教育、科技、人才战略",
+      "score": 1,
+      "analysis": "",
+      "id": "xsd-chapter8-0039",
+      "number": 39,
+      "volume": 1
     }
   ]
 }

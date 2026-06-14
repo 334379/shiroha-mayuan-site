@@ -3,16 +3,13 @@
     "title": "习近平新时代中国特色社会主义思想概论-第十五章",
     "questionCount": 38,
     "volumes": 1,
-    "sourceNote": "由习近平新时代中国特色社会主义思想概论期末复习题库 Word 文档转换导入。"
+    "sourceNote": "由 25-26-2 习概题库 Word 文档转换导入，主观题供自评。"
   },
   "questions": [
     {
-      "id": "xsd-chapter16-0001",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 1,
-      "question": "“一国两制”伟大构想，最早是针对( )提出来的",
+      "question": "“一国两制”伟大构想，最早是针对( )提出来的。",
       "options": [
         {
           "key": "A",
@@ -40,15 +37,15 @@
       "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter16-0001",
+      "number": 1,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter16-0002",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 2,
-      "question": "“一国两制”的根本宗旨是( )",
+      "question": "“一国两制”的根本宗旨是( )。",
       "options": [
         {
           "key": "A",
@@ -60,7 +57,7 @@
         },
         {
           "key": "C",
-          "text": "维护国家主权、安全、发展利益，保持香港、澳门长期繁荣稳定"
+          "text": "维护国家主权、安全、发展利益，保持香港、澳门长期繁荣稳定。"
         },
         {
           "key": "D",
@@ -71,20 +68,20 @@
         "C"
       ],
       "answerText": [
-        "维护国家主权、安全、发展利益，保持香港、澳门长期繁荣稳定"
+        "维护国家主权、安全、发展利益，保持香港、澳门长期繁荣稳定。"
       ],
       "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter16-0002",
+      "number": 2,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter16-0003",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 3,
-      "question": "( )，这是实现祖国统一的战略思路",
+      "question": "( )，这是实现祖国统一的战略思路。",
       "options": [
         {
           "key": "A",
@@ -112,15 +109,15 @@
       "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter16-0003",
+      "number": 3,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter16-0004",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 4,
-      "question": "（ ）是两岸关系的政治基础",
+      "question": "（ ）是两岸关系的政治基础。",
       "options": [
         {
           "key": "A",
@@ -148,15 +145,15 @@
       "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter16-0004",
+      "number": 4,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter16-0005",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 5,
-      "question": "“一国两制”是一个完整的概念。“一国”是实行“两制”的（ ），“两制”从属和派生于“一国”并统一于“一国”之内",
+      "question": "“一国两制”是一个完整的概念。“一国”是实行“两制”的（ ），“两制”从属和派生于“一国”并统一于“一国”之内。",
       "options": [
         {
           "key": "A",
@@ -184,15 +181,15 @@
       "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter16-0005",
+      "number": 5,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter16-0006",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 6,
-      "question": "中央政府对特别行政区拥有（ ），这是特别行政区高度自治权的源头",
+      "question": "中央政府对特别行政区拥有（ ），这是特别行政区高度自治权的源头。",
       "options": [
         {
           "key": "A",
@@ -220,15 +217,15 @@
       "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter16-0006",
+      "number": 6,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter16-0007",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 7,
-      "question": "两岸关系和平发展的最大障碍是（ ）",
+      "question": "两岸关系和平发展的最大障碍是（ ）。",
       "options": [
         {
           "key": "A",
@@ -256,15 +253,15 @@
       "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter16-0007",
+      "number": 7,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter16-0008",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 8,
-      "question": "( )，这是实现祖国统一的战略支撑",
+      "question": "( )，这是实现祖国统一的战略支撑。",
       "options": [
         {
           "key": "A",
@@ -296,15 +293,15 @@
       "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter16-0008",
+      "number": 8,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter16-0009",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 9,
-      "question": "“一国两制”包含了中华文化中的（ ）理念，体现了尊重差异、求同存异的思维方式，是中华民族为世界和平与发展作出的新贡献",
+      "question": "“一国两制”包含了中华文化中的（ ）理念，体现了尊重差异、求同存异的思维方式，是中华民族为世界和平与发展作出的新贡献。",
       "options": [
         {
           "key": "A",
@@ -332,15 +329,15 @@
       "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter16-0009",
+      "number": 9,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter16-0010",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 10,
-      "question": "（ ），中国政府恢复对香港行使主权，香港回到了祖国的怀抱",
+      "question": "（ ），中国政府恢复对香港行使主权，香港回到了祖国的怀抱。",
       "options": [
         {
           "key": "A",
@@ -368,15 +365,15 @@
       "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter16-0010",
+      "number": 10,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter16-0011",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 11,
-      "question": "1987年4月13日，中葡两国政府关于澳门问题的联合声明在（ ）正式签署",
+      "question": "1987年4月13日，中葡两国政府关于澳门问题的联合声明在（ ）正式签署。",
       "options": [
         {
           "key": "A",
@@ -404,15 +401,15 @@
       "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter16-0011",
+      "number": 11,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter16-0012",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 12,
-      "question": "（ ），澳门回到了祖国的怀抱",
+      "question": "（ ），澳门回到了祖国的怀抱。",
       "options": [
         {
           "key": "A",
@@ -440,15 +437,15 @@
       "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter16-0012",
+      "number": 12,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter16-0013",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 13,
-      "question": "高度自治不是完全自治，也不是分权，而是（ ）授予的地方事务管理权",
+      "question": "高度自治不是完全自治，也不是分权，而是（ ）授予的地方事务管理权。",
       "options": [
         {
           "key": "A",
@@ -476,15 +473,15 @@
       "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter16-0013",
+      "number": 13,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter16-0014",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 14,
-      "question": "政权必须掌握在（ ）手中，这是世界通行的政治法则",
+      "question": "政权必须掌握在（ ）手中，这是世界通行的政治法则。",
       "options": [
         {
           "key": "A",
@@ -512,15 +509,15 @@
       "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter16-0014",
+      "number": 14,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter16-0015",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 15,
-      "question": "（ ）是国家根本大法，是特别行政区制度的法律渊源",
+      "question": "（ ）是国家根本大法，是特别行政区制度的法律渊源。",
       "options": [
         {
           "key": "A",
@@ -548,15 +545,15 @@
       "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter16-0015",
+      "number": 15,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter16-0016",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 16,
-      "question": "全面依法治国在港澳工作方面,集中体现为坚持（ ）",
+      "question": "全面依法治国在港澳工作方面，集中体现为坚持（ ）。",
       "options": [
         {
           "key": "A",
@@ -584,15 +581,15 @@
       "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter16-0016",
+      "number": 16,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter16-0017",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 17,
-      "question": "香港连续多次被评为全球最自由经济体（ ），在世界竞争力排名中长期位居前列",
+      "question": "香港连续多次被评为全球最自由经济体（ ），在世界竞争力排名中长期位居前列。",
       "options": [
         {
           "key": "A",
@@ -620,15 +617,15 @@
       "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter16-0017",
+      "number": 17,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter16-0018",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 18,
-      "question": "2022年12月，（ ）通过《关于〈中华人民共和国香港特别行政区维护国家安全法〉第十四条和第四十七条的解释》，及时妥善解决香港国安法实施中遇到的实际问题，确保香港国安法正确有效实施",
+      "question": "2022年12月，（ ）通过《关于〈中华人民共和国香港特别行政区维护国家安全法〉第十四条和第四十七条的解释》，及时妥善解决香港国安法实施中遇到的实际问题，确保香港国安法正确有效实施。",
       "options": [
         {
           "key": "A",
@@ -656,15 +653,15 @@
       "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter16-0018",
+      "number": 18,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter16-0019",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 19,
-      "question": "台湾前途在于（ ），台湾同胞福祉系于民族复兴",
+      "question": "台湾前途在于（ ），台湾同胞福祉系于民族复兴。",
       "options": [
         {
           "key": "A",
@@ -692,15 +689,15 @@
       "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter16-0019",
+      "number": 19,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter16-0020",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 20,
-      "question": "（ ）方针是实现两岸统一的最佳方式",
+      "question": "（ ）方针是实现两岸统一的最佳方式。",
       "options": [
         {
           "key": "A",
@@ -728,15 +725,15 @@
       "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter16-0020",
+      "number": 20,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter16-0021",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 21,
-      "question": "在“一国两制”之下，作为直辖于中央人民政府的香港、澳门特别行政区，享有高度自治权，包括（ ）",
+      "question": "在“一国两制”之下，作为直辖于中央人民政府的香港、澳门特别行政区，享有高度自治权，包括（ ）。",
       "options": [
         {
           "key": "A",
@@ -768,15 +765,15 @@
       "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter16-0021",
+      "number": 21,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter16-0022",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 22,
-      "question": "坚持和完善“一国两制”制度体系,要（ ）",
+      "question": "坚持和完善“一国两制”制度体系，要（ ）。",
       "options": [
         {
           "key": "A",
@@ -810,15 +807,15 @@
       "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter16-0022",
+      "number": 22,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter16-0023",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 23,
-      "question": "落实“爱国者治港”“爱国者治澳”原则,（ ）",
+      "question": "落实“爱国者治港”“爱国者治澳”原则，（ ）。",
       "options": [
         {
           "key": "A",
@@ -852,15 +849,15 @@
       "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter16-0023",
+      "number": 23,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter16-0024",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 24,
-      "question": "爱国者的标准是客观的、清晰的，就是（ ）",
+      "question": "爱国者的标准是客观的、清晰的，就是（ ）。",
       "options": [
         {
           "key": "A",
@@ -894,15 +891,15 @@
       "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter16-0024",
+      "number": 24,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter16-0025",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 25,
-      "question": "面对香港局势动荡变化，党中央审时度势，采取哪些标本兼治的举措,推动香港局势实现由乱到治的重大转折。（ ）",
+      "question": "面对香港局势动荡变化，党中央审时度势，采取哪些标本兼治的举措，推动香港局势实现由乱到治的重大转折。（ ）",
       "options": [
         {
           "key": "A",
@@ -936,15 +933,15 @@
       "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter16-0025",
+      "number": 25,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter16-0026",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 26,
-      "question": "在新时代国家改革开放进程中,香港、澳门应该如何抓住发展机遇，更好融入国家发展大局。（ ）",
+      "question": "在新时代国家改革开放进程中，香港、澳门应该如何抓住发展机遇，更好融入国家发展大局。（ ）",
       "options": [
         {
           "key": "A",
@@ -978,15 +975,15 @@
       "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter16-0026",
+      "number": 26,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter16-0027",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 27,
-      "question": "（ ）是我们解决台湾问题的最大底气",
+      "question": "（ ）是我们解决台湾问题的最大底气。",
       "options": [
         {
           "key": "A",
@@ -1018,15 +1015,15 @@
       "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter16-0027",
+      "number": 27,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter16-0028",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 28,
-      "question": "牢牢把握两岸关系主导权和主动权，要做到（ ）",
+      "question": "牢牢把握两岸关系主导权和主动权，要做到（ ）。",
       "options": [
         {
           "key": "A",
@@ -1060,19 +1057,19 @@
       "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter16-0028",
+      "number": 28,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter16-0029",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 29,
-      "question": "祖国完全统一一定要实现，也一定能够实现，因为（ ）",
+      "question": "祖国完全统一一定要实现，也一定能够实现，因为（ ）。",
       "options": [
         {
           "key": "A",
-          "text": "实现祖国完全统一是中华民族伟大复兴的必然要求,是不可阻挡的历史潮流"
+          "text": "实现祖国完全统一是中华民族伟大复兴的必然要求，是不可阻挡的历史潮流"
         },
         {
           "key": "B",
@@ -1080,11 +1077,11 @@
         },
         {
           "key": "C",
-          "text": "国家统一是大势所趋、大义所在、民心所向,台湾问题因民族弱乱而产生，必将随着民族复兴而解决"
+          "text": "国家统一是大势所趋、大义所在、民心所向，台湾问题因民族弱乱而产生，必将随着民族复兴而解决"
         },
         {
           "key": "D",
-          "text": "“台独”是历史逆流，是绝路,我们绝不为各种形式的“台独”分裂活动留下任何空间"
+          "text": "“台独”是历史逆流，是绝路，我们绝不为各种形式的“台独”分裂活动留下任何空间"
         }
       ],
       "answerKeys": [
@@ -1094,23 +1091,23 @@
         "D"
       ],
       "answerText": [
-        "实现祖国完全统一是中华民族伟大复兴的必然要求,是不可阻挡的历史潮流",
+        "实现祖国完全统一是中华民族伟大复兴的必然要求，是不可阻挡的历史潮流",
         "台湾前途在于国家统一，台湾同胞福祉系于民族复兴",
-        "国家统一是大势所趋、大义所在、民心所向,台湾问题因民族弱乱而产生，必将随着民族复兴而解决",
-        "“台独”是历史逆流，是绝路,我们绝不为各种形式的“台独”分裂活动留下任何空间"
+        "国家统一是大势所趋、大义所在、民心所向，台湾问题因民族弱乱而产生，必将随着民族复兴而解决",
+        "“台独”是历史逆流，是绝路，我们绝不为各种形式的“台独”分裂活动留下任何空间"
       ],
       "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter16-0029",
+      "number": 29,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter16-0030",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 30,
-      "question": "（ ）共同构成特别行政区的宪制基础",
+      "question": "（ ）共同构成特别行政区的宪制基础。",
       "options": [
         {
           "key": "A",
@@ -1140,14 +1137,14 @@
       "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter16-0030",
+      "number": 30,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter16-0031",
-      "volume": 1,
       "type": "judge",
       "typeLabel": "判断题",
-      "number": 31,
       "question": "对香港、澳门来说，“一国两制”是最大的优势，国家改革开放是最大的舞台，共建“一带一路”、粤港澳大湾区建设等国家战略实施新的重大机遇。（ ）",
       "options": [
         {
@@ -1168,14 +1165,14 @@
       "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter16-0031",
+      "number": 31,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter16-0032",
-      "volume": 1,
       "type": "judge",
       "typeLabel": "判断题",
-      "number": 32,
       "question": "两岸关系的政治基础是“一个中国”原则。（ ）",
       "options": [
         {
@@ -1196,14 +1193,14 @@
       "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter16-0032",
+      "number": 32,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter16-0033",
-      "volume": 1,
       "type": "judge",
       "typeLabel": "判断题",
-      "number": 33,
       "question": "香港是我国内地最大的外资来源地、对外投资最大目的地、对外贸易最大转口地，澳门是我国双向开放特别是与葡语国家经贸往来的重要平台。（ ）",
       "options": [
         {
@@ -1224,14 +1221,14 @@
       "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter16-0033",
+      "number": 33,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter16-0034",
-      "volume": 1,
       "type": "judge",
       "typeLabel": "判断题",
-      "number": 34,
       "question": "必须始终维护中央全面管治权，在任何时候，都不能将全面管治权和高度自治权对立起来；在任何情况下，特别行政区行使高度自治权都不得损害国家主权和全面管治权，更不能以高度自治权对抗全面管治权。（ ）",
       "options": [
         {
@@ -1252,14 +1249,14 @@
       "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter16-0034",
+      "number": 34,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter16-0035",
-      "volume": 1,
       "type": "judge",
       "typeLabel": "判断题",
-      "number": 35,
       "question": "台湾问题因民族弱乱而产生，必将随着民族复兴而解决。台湾前途在于国家统一，台湾同胞福祉系于民族复兴。（ ）",
       "options": [
         {
@@ -1280,14 +1277,14 @@
       "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter16-0035",
+      "number": 35,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter16-0036",
-      "volume": 1,
       "type": "judge",
       "typeLabel": "判断题",
-      "number": 36,
       "question": "一国两制是中国特色社会主义的伟大创举，是香港、澳门回归后保持长期繁荣稳定的最佳制度安排，必须长期坚持。（ ）",
       "options": [
         {
@@ -1308,14 +1305,14 @@
       "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter16-0036",
+      "number": 36,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter16-0037",
-      "volume": 1,
       "type": "judge",
       "typeLabel": "判断题",
-      "number": 37,
       "question": "1999年7月1日，中国政府恢复对香港行使主权，香港回到了祖国的怀抱。1997年12月20日，澳门回到了祖国的怀抱。（ ） 党的十八大以来，以习近平同志为核心的党中央就对台工作提出一系列重要理念、重大政策主张，形成新时代党解决台湾问题的具体方略，为新时代解决台湾问题指明了方向。（ ） 坚持“一个中国原则”和“九二共识”，这是祖国统一的政治基础；坚持推动两岸关系和平发展、持续发展，这是祖国统一的实践途径。（ ）",
       "options": [
         {
@@ -1336,14 +1333,14 @@
       "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter16-0037",
+      "number": 37,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter16-0038",
-      "volume": 1,
       "type": "judge",
       "typeLabel": "判断题",
-      "number": 38,
       "question": "“和平统一、一国两制”方针是实现两岸统一的最佳方式。（ ）",
       "options": [
         {
@@ -1364,7 +1361,10 @@
       "topic": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "category": "第十五章 坚持“一国两制”和推进祖国完全统一",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter16-0038",
+      "number": 38,
+      "volume": 1
     }
   ]
 }

@@ -3,15 +3,12 @@
     "title": "习近平新时代中国特色社会主义思想概论-第十三章",
     "questionCount": 41,
     "volumes": 1,
-    "sourceNote": "由习近平新时代中国特色社会主义思想概论期末复习题库 Word 文档转换导入。"
+    "sourceNote": "由 25-26-2 习概题库 Word 文档转换导入，主观题供自评。"
   },
   "questions": [
     {
-      "id": "xsd-chapter14-0001",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 1,
       "question": "习近平指出：“实现中华民族伟大复兴的中国梦，保证人民安居乐业，（ ）是头等大事。”",
       "options": [
         {
@@ -40,15 +37,15 @@
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter14-0001",
+      "number": 1,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter14-0002",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 2,
-      "question": "（ ）,习近平在中央国家安全委员会第一次会议上首次提出总体国家安全观，强调必须坚持总体国家安全观，走出一条中国特色国家安全道路",
+      "question": "（ ），习近平在中央国家安全委员会第一次会议上首次提出总体国家安全观，强调必须坚持总体国家安全观，走出一条中国特色国家安全道路。",
       "options": [
         {
           "key": "A",
@@ -76,14 +73,14 @@
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter14-0002",
+      "number": 2,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter14-0003",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 3,
       "question": "总体国家安全观以（ ）为宗旨……",
       "options": [
         {
@@ -112,15 +109,15 @@
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter14-0003",
+      "number": 3,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter14-0004",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 4,
-      "question": "总体国家安全观的关键是（ ）",
+      "question": "总体国家安全观的关键是（ ）。",
       "options": [
         {
           "key": "A",
@@ -148,15 +145,15 @@
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter14-0004",
+      "number": 4,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter14-0005",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 5,
-      "question": "国家安全法律制度体系加快形成，以（ ）为引领，制定出台国家情报法、反恐怖主义法、境外非政府组织境内活动管理法、反间谍法、网络安全法、核安全法、数据安全法等一系列国家安全法律法规",
+      "question": "国家安全法律制度体系加快形成，以（ ）为引领，制定出台国家情报法、反恐怖主义法、境外非政府组织境内活动管理法、反间谍法、网络安全法、核安全法、数据安全法等一系列国家安全法律法规。",
       "options": [
         {
           "key": "A",
@@ -184,15 +181,15 @@
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter14-0005",
+      "number": 5,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter14-0006",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 6,
-      "question": "要坚定不移走中国特色国家安全道路，统筹发展和安全，把维护（ ）放在首要位置，守好重点领域国家安全的主阵地、主战场，加快构建统筹各领域安全的新安全格局",
+      "question": "要坚定不移走中国特色国家安全道路，统筹发展和安全，把维护（ ）放在首要位置，守好重点领域国家安全的主阵地、主战场，加快构建统筹各领域安全的新安全格局。",
       "options": [
         {
           "key": "A",
@@ -212,23 +209,23 @@
         }
       ],
       "answerKeys": [
-        "C"
+        "B"
       ],
       "answerText": [
-        "经济安全"
+        "政治安全"
       ],
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter14-0006",
+      "number": 6,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter14-0007",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 7,
-      "question": "（ ）强调“统筹发展和安全”，并将其写入党章",
+      "question": "（ ）强调“统筹发展和安全”，并将其写入党章。",
       "options": [
         {
           "key": "A",
@@ -256,15 +253,15 @@
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter14-0007",
+      "number": 7,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter14-0008",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 8,
-      "question": "（ ）是国家安全的根本",
+      "question": "（ ）是国家安全的根本。",
       "options": [
         {
           "key": "A",
@@ -292,15 +289,15 @@
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter14-0008",
+      "number": 8,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter14-0009",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 9,
-      "question": "维护政权安全，就是要毫不动摇坚持和巩固（ ）和长期执政地位",
+      "question": "维护政权安全，就是要毫不动摇坚持和巩固（ ）和长期执政地位。",
       "options": [
         {
           "key": "A",
@@ -328,14 +325,14 @@
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter14-0009",
+      "number": 9,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter14-0010",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 10,
       "question": "维护意识形态安全，就是要毫不动摇坚持和巩固（ ）在意识形态领域的指导地位……",
       "options": [
         {
@@ -364,14 +361,14 @@
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter14-0010",
+      "number": 10,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter14-0011",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 11,
       "question": "习近平指出：“（ ）是老百姓解决温饱后的第一需求，是极重要的民生，也是最基本的发展环境。”",
       "options": [
         {
@@ -400,15 +397,15 @@
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter14-0011",
+      "number": 11,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter14-0012",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 12,
-      "question": "（ ），是全面建设社会主义现代化国家的重要内容和重要保障",
+      "question": "（ ），是全面建设社会主义现代化国家的重要内容和重要保障。",
       "options": [
         {
           "key": "A",
@@ -436,15 +433,15 @@
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter14-0012",
+      "number": 12,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter14-0013",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 13,
-      "question": "（ ），是检验更高水平的平安中国建设成效的重要标志",
+      "question": "（ ），是检验更高水平的平安中国建设成效的重要标志。",
       "options": [
         {
           "key": "A",
@@ -472,15 +469,15 @@
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter14-0013",
+      "number": 13,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter14-0014",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 14,
-      "question": "聚焦保障人民安宁，坚持以（ ）为导向，更快破大案、更多破小案、更准办好案、更好控发案，切实保护人民群众人身权、财产权、人格权",
+      "question": "聚焦保障人民安宁，坚持以（ ）为导向，更快破大案、更多破小案、更准办好案、更好控发案，切实保护人民群众人身权、财产权、人格权。",
       "options": [
         {
           "key": "A",
@@ -508,15 +505,15 @@
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter14-0014",
+      "number": 14,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter14-0015",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 15,
-      "question": "发展环境越是严峻复杂，越要坚定不移（ ），健全各方面制度，完善治理体系，促进制度建设和治理效能更好转化融合",
+      "question": "发展环境越是严峻复杂，越要坚定不移（ ），健全各方面制度，完善治理体系，促进制度建设和治理效能更好转化融合。",
       "options": [
         {
           "key": "A",
@@ -544,15 +541,15 @@
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter14-0015",
+      "number": 15,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter14-0016",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 16,
-      "question": "根据《中华人民共和国国家安全法》规定，国家安全工作应当坚持总体国家安全观，以( )为宗旨，以政治安全为根本，以经济安全为基础，以军事、文化、社会安全为保障，以促进国际安全为依托，维护各领域国家安全，构建国家安全体系，走中国特色国家安全道路",
+      "question": "根据《中华人民共和国国家安全法》规定，国家安全工作应当坚持总体国家安全观，以( )为宗旨，以政治安全为根本，以经济安全为基础，以军事、文化、社会安全为保障，以促进国际安全为依托，维护各领域国家安全，构建国家安全体系，走中国特色国家安全道路。",
       "options": [
         {
           "key": "A",
@@ -580,15 +577,15 @@
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter14-0016",
+      "number": 16,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter14-0017",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 17,
-      "question": "2014年4月15日，习近平总书记在( )会议上第一次提出总体国家安全观概念，强调走中国特色国家安全道路",
+      "question": "2014年4月15日，习近平总书记在( )会议上第一次提出总体国家安全观概念，强调走中国特色国家安全道路。",
       "options": [
         {
           "key": "A",
@@ -616,15 +613,15 @@
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter14-0017",
+      "number": 17,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter14-0018",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 18,
-      "question": "被称为我国首份指导国家安全工作的纲领性文件是( )",
+      "question": "被称为我国首份指导国家安全工作的纲领性文件是( )。",
       "options": [
         {
           "key": "A",
@@ -652,15 +649,15 @@
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter14-0018",
+      "number": 18,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter14-0019",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 19,
-      "question": "在防控新冠肺炎疫情中，新纳入国家安全体系的是( )",
+      "question": "在防控新冠肺炎疫情中，新纳入国家安全体系的是( )。",
       "options": [
         {
           "key": "A",
@@ -688,14 +685,14 @@
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter14-0019",
+      "number": 19,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter14-0020",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 20,
       "question": "习近平总书记针对国际安全问题指出:“既重视自身安全，又重视共同安全，打造( )，推动各方朝着互利互惠、共同安全的目标相向而行。”",
       "options": [
         {
@@ -724,15 +721,15 @@
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter14-0020",
+      "number": 20,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter14-0021",
-      "volume": 1,
       "type": "single",
       "typeLabel": "单选题",
-      "number": 21,
-      "question": "2015年7月1日，全国人大常委会通过的《中华人民共和国国家安全法》第十四条规定，每年（ ）为全民国家安全教育日",
+      "question": "2015年7月1日，全国人大常委会通过的《中华人民共和国国家安全法》第十四条规定，每年（ ）为全民国家安全教育日。",
       "options": [
         {
           "key": "A",
@@ -760,15 +757,15 @@
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter14-0021",
+      "number": 21,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter14-0022",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 22,
-      "question": "中国国家安全的战略性顶层设计是( )",
+      "question": "中国国家安全的战略性顶层设计是( )。",
       "options": [
         {
           "key": "A",
@@ -802,15 +799,15 @@
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter14-0022",
+      "number": 22,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter14-0023",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 23,
-      "question": "坚持总体国家安全观,要统筹（）",
+      "question": "坚持总体国家安全观，要统筹（）。",
       "options": [
         {
           "key": "A",
@@ -844,14 +841,14 @@
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter14-0023",
+      "number": 23,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter14-0024",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 24,
       "question": "国家安全工作的根本目的是（）",
       "options": [
         {
@@ -884,14 +881,14 @@
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter14-0024",
+      "number": 24,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter14-0025",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 25,
       "question": "以下哪些属于国家安全范畴",
       "options": [
         {
@@ -926,15 +923,15 @@
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter14-0025",
+      "number": 25,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter14-0026",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 26,
-      "question": "总体国家安全观的五大要素是什么",
+      "question": "总体国家安全观的五大要素是什么。",
       "options": [
         {
           "key": "A",
@@ -974,15 +971,15 @@
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter14-0026",
+      "number": 26,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter14-0027",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 27,
-      "question": "政治安全涉及国家（）的稳固，是一个国家最根本的需求",
+      "question": "政治安全涉及国家（）的稳固，是一个国家最根本的需求。",
       "options": [
         {
           "key": "A",
@@ -1016,14 +1013,14 @@
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter14-0027",
+      "number": 27,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter14-0028",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 28,
       "question": "维护政治安全，要（）",
       "options": [
         {
@@ -1058,14 +1055,14 @@
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter14-0028",
+      "number": 28,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter14-0029",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 29,
       "question": "国家安全的基本内涵（）",
       "options": [
         {
@@ -1096,34 +1093,30 @@
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter14-0029",
+      "number": 29,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter14-0030",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 30,
-      "question": "国家安全法明确规定了维护国家安全工作的基",
+      "question": "国家安全法明确规定了维护国家安全工作的基 本原则，包括（）",
       "options": [
         {
           "key": "A",
-          "text": "本原则，包括（）"
-        },
-        {
-          "key": "B",
           "text": "坚持中国共产党对国家安全工作的领导， 建立集中统一、高效权威的国家安全领导体制"
         },
         {
-          "key": "C",
+          "key": "B",
           "text": "坚持法治和保障人权原则"
         },
         {
-          "key": "D",
+          "key": "C",
           "text": "坚持维护国家安全与经济社会发展相协调、 统筹各领域安全原则"
         },
         {
-          "key": "E",
+          "key": "D",
           "text": "坚持预防为主、 标本兼治， 专门工作与群众路线相结合原则"
         }
       ],
@@ -1134,42 +1127,38 @@
         "D"
       ],
       "answerText": [
-        "本原则，包括（）",
         "坚持中国共产党对国家安全工作的领导， 建立集中统一、高效权威的国家安全领导体制",
         "坚持法治和保障人权原则",
-        "坚持维护国家安全与经济社会发展相协调、 统筹各领域安全原则"
+        "坚持维护国家安全与经济社会发展相协调、 统筹各领域安全原则",
+        "坚持预防为主、 标本兼治， 专门工作与群众路线相结合原则"
       ],
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter14-0030",
+      "number": 30,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter14-0031",
-      "volume": 1,
       "type": "multiple",
       "typeLabel": "多选题",
-      "number": 31,
-      "question": "党的十八大以来，国家安全工作取得历史性成",
+      "question": "党的十八大以来，国家安全工作取得历史性成 就，根本在于（）",
       "options": [
         {
           "key": "A",
-          "text": "就，根本在于（）"
-        },
-        {
-          "key": "B",
           "text": "集中统一、高效权威的国家安全领导体制"
         },
         {
-          "key": "C",
+          "key": "B",
           "text": "健全了国家安全法治体系"
         },
         {
-          "key": "D",
+          "key": "C",
           "text": "以习近平为核心的党中央的坚强领导"
         },
         {
-          "key": "E",
+          "key": "D",
           "text": "总体国家安全观的科学指导"
         }
       ],
@@ -1178,20 +1167,20 @@
         "D"
       ],
       "answerText": [
-        "健全了国家安全法治体系",
-        "以习近平为核心的党中央的坚强领导"
+        "以习近平为核心的党中央的坚强领导",
+        "总体国家安全观的科学指导"
       ],
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter14-0031",
+      "number": 31,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter14-0032",
-      "volume": 1,
       "type": "judge",
       "typeLabel": "判断题",
-      "number": 32,
       "question": "《中国共产党章程》总纲部分指出:坚持总体国家安全观，坚决维护国家主权安全发展利益。（ ）",
       "options": [
         {
@@ -1212,14 +1201,14 @@
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter14-0032",
+      "number": 32,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter14-0033",
-      "volume": 1,
       "type": "judge",
       "typeLabel": "判断题",
-      "number": 33,
       "question": "坚持总体国家安全观，以政治安全为根本。（）",
       "options": [
         {
@@ -1240,15 +1229,15 @@
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter14-0033",
+      "number": 33,
+      "volume": 1
     },
     {
-      "id": "xsd-chapter14-0034",
-      "volume": 1,
       "type": "judge",
       "typeLabel": "判断题",
-      "number": 34,
-      "question": "公安机关是反间谍工作的主管机关",
+      "question": "公安机关是反间谍工作的主管机关。",
       "options": [
         {
           "key": "A",
@@ -1268,15 +1257,43 @@
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter14-0034",
+      "number": 34,
+      "volume": 1
     },
     {
+      "type": "judge",
+      "typeLabel": "判断题",
+      "question": "中华人民共和国公民有维护国家的安全、荣誉和利益的义务，不得有危害国家的安全、荣誉和利益的行为。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answerKeys": [
+        "A"
+      ],
+      "answerText": [
+        "正确"
+      ],
+      "topic": "第十三章 维护和塑造国家安全",
+      "category": "第十三章 维护和塑造国家安全",
+      "score": 1,
+      "analysis": "",
       "id": "xsd-chapter14-0035",
-      "volume": 1,
-      "type": "judge",
-      "typeLabel": "判断题",
       "number": 35,
-      "question": "中华人民共和国公民有维护国家的安全、荣誉和利益的义务，不得有危害国家的安全、荣誉和利益的行为",
+      "volume": 1
+    },
+    {
+      "type": "judge",
+      "typeLabel": "判断题",
+      "question": "国家利益是广大人民最根本、最长远的利益，国家安全利益是国家的最高利益。",
       "options": [
         {
           "key": "A",
@@ -1296,15 +1313,15 @@
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
-    },
-    {
+      "analysis": "",
       "id": "xsd-chapter14-0036",
-      "volume": 1,
-      "type": "judge",
-      "typeLabel": "判断题",
       "number": 36,
-      "question": "国家利益是广大人民最根本、最长远的利益，国家安全利益是国家的最高利益",
+      "volume": 1
+    },
+    {
+      "type": "judge",
+      "typeLabel": "判断题",
+      "question": "国家利益与人民利益在根本上是一致的。",
       "options": [
         {
           "key": "A",
@@ -1324,15 +1341,15 @@
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
-    },
-    {
+      "analysis": "",
       "id": "xsd-chapter14-0037",
-      "volume": 1,
-      "type": "judge",
-      "typeLabel": "判断题",
       "number": 37,
-      "question": "国家利益与人民利益在根本上是一致的",
+      "volume": 1
+    },
+    {
+      "type": "judge",
+      "typeLabel": "判断题",
+      "question": "维护国家利益是每个公民的基本义务，我们要树立国家利益至上的观念。",
       "options": [
         {
           "key": "A",
@@ -1352,15 +1369,15 @@
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
-    },
-    {
+      "analysis": "",
       "id": "xsd-chapter14-0038",
-      "volume": 1,
-      "type": "judge",
-      "typeLabel": "判断题",
       "number": 38,
-      "question": "维护国家利益是每个公民的基本义务，我们要树立国家利益至上的观念",
+      "volume": 1
+    },
+    {
+      "type": "judge",
+      "typeLabel": "判断题",
+      "question": ".国家利益是一个主权国家在国际社会中生存需求和发展需求的总和。",
       "options": [
         {
           "key": "A",
@@ -1380,15 +1397,15 @@
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
-    },
-    {
+      "analysis": "",
       "id": "xsd-chapter14-0039",
-      "volume": 1,
-      "type": "judge",
-      "typeLabel": "判断题",
       "number": 39,
-      "question": ".国家利益是一个主权国家在国际社会中生存需求和发展需求的总和",
+      "volume": 1
+    },
+    {
+      "type": "judge",
+      "typeLabel": "判断题",
+      "question": "人们对美好生活的向往与企盼就是人民的切身利益，国家利益至上，人民利益高于一切，二者相辅相成。",
       "options": [
         {
           "key": "A",
@@ -1408,43 +1425,15 @@
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
-    },
-    {
+      "analysis": "",
       "id": "xsd-chapter14-0040",
-      "volume": 1,
-      "type": "judge",
-      "typeLabel": "判断题",
       "number": 40,
-      "question": "人们对美好生活的向往与企盼就是人民的切身利益，国家利益至上，人民利益高于一切，二者相辅相成",
-      "options": [
-        {
-          "key": "A",
-          "text": "正确"
-        },
-        {
-          "key": "B",
-          "text": "错误"
-        }
-      ],
-      "answerKeys": [
-        "A"
-      ],
-      "answerText": [
-        "正确"
-      ],
-      "topic": "第十三章 维护和塑造国家安全",
-      "category": "第十三章 维护和塑造国家安全",
-      "score": 1,
-      "analysis": ""
+      "volume": 1
     },
     {
-      "id": "xsd-chapter14-0041",
-      "volume": 1,
       "type": "judge",
       "typeLabel": "判断题",
-      "number": 41,
-      "question": "从根本上说，国家利益与集体利益、个人利益是一致的",
+      "question": "从根本上说，国家利益与集体利益、个人利益是一致的。",
       "options": [
         {
           "key": "A",
@@ -1464,7 +1453,10 @@
       "topic": "第十三章 维护和塑造国家安全",
       "category": "第十三章 维护和塑造国家安全",
       "score": 1,
-      "analysis": ""
+      "analysis": "",
+      "id": "xsd-chapter14-0041",
+      "number": 41,
+      "volume": 1
     }
   ]
 }
