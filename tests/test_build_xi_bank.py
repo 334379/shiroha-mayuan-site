@@ -174,6 +174,39 @@ D.走和平发展道路的现代化
         self.assertEqual("中国式现代化是人口规模巨大的现代化，这意味着（ ）", questions[1]["question"])
         self.assertEqual(0, report["blockingErrors"])
 
+    def test_ecological_civilization_strategic_position_answer_keeps_d(self):
+        text = """第十二章 建设社会主义生态文明
+一、多选题
+4.生态文明建设战略地位更加凸显，表现在（   ）。
+A.把“生态文明建设”纳入“五位一体”总体布局
+B.把“坚持人与自然和谐共生”纳入新时代坚持和发展中国特色社会主义的基本方略
+C.把“促进人与自然和谐共生”纳入中国式现代化的本质要求
+D.把“美丽中国”纳入社会主义现代化强国目标;把“绿色”纳入新发展理念
+答案：ABCD
+"""
+        chapters, report = parse_text(text)
+        question = chapters["第十二章 建设社会主义生态文明"][0]
+        self.assertEqual(["A", "B", "C", "D"], question["answerKeys"])
+        self.assertEqual(4, len(question["options"]))
+        self.assertTrue(any("把“美丽中国”纳入社会主义现代化强国目标" in item for item in question["answerText"]))
+        self.assertEqual(0, report["blockingErrors"])
+
+    def test_ecological_civilization_strategic_position_missing_d_option_is_restored(self):
+        text = """第十二章 建设社会主义生态文明
+一、多选题
+4.生态文明建设战略地位更加凸显，表现在（   ）。
+A.把“生态文明建设”纳入“五位一体”总体布局
+B.把“坚持人与自然和谐共生”纳入新时代坚持和发展中国特色社会主义的基本方略
+C.把“促进人与自然和谐共生”纳入中国式现代化的本质要求
+答案：ABCD
+"""
+        chapters, report = parse_text(text)
+        question = chapters["第十二章 建设社会主义生态文明"][0]
+        self.assertEqual(["A", "B", "C", "D"], question["answerKeys"])
+        self.assertEqual("把“美丽中国”纳入社会主义现代化强国目标;把“绿色”纳入新发展理念", question["options"][3]["text"])
+        self.assertTrue(any("把“美丽中国”纳入社会主义现代化强国目标" in item for item in question["answerText"]))
+        self.assertEqual(0, report["blockingErrors"])
+
 
 if __name__ == "__main__":
     unittest.main()

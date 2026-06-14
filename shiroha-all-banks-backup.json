@@ -5,7 +5,7 @@
   "richContentVersion": "shiroha-web-rich-v1",
   "richContentCapabilities": {},
   "exportType": "selected_banks",
-  "exportedAt": "2026-06-14T04:30:16.976Z",
+  "exportedAt": "2026-06-14T04:40:56.385Z",
   "banks": [
     {
       "id": "mayuan-full",
@@ -57668,12 +57668,17 @@
             {
               "key": "C",
               "text": "把“促进人与自然和谐共生”纳入中国式现代化的本质要求"
+            },
+            {
+              "key": "D",
+              "text": "把“美丽中国”纳入社会主义现代化强国目标;把“绿色”纳入新发展理念"
             }
           ],
           "answer": [
             "A",
             "B",
-            "C"
+            "C",
+            "D"
           ],
           "analysis": "",
           "category": "第十二章 建设社会主义生态文明",
@@ -80124,12 +80129,17 @@
             {
               "key": "C",
               "text": "把“促进人与自然和谐共生”纳入中国式现代化的本质要求"
+            },
+            {
+              "key": "D",
+              "text": "把“美丽中国”纳入社会主义现代化强国目标;把“绿色”纳入新发展理念"
             }
           ],
           "answer": [
             "A",
             "B",
-            "C"
+            "C",
+            "D"
           ],
           "analysis": "",
           "category": "第十二章 建设社会主义生态文明",

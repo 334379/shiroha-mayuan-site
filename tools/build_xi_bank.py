@@ -20,7 +20,11 @@ EMBEDDED_ANSWER_RE = re.compile(r"[（(][\s?]*([A-G]{1,7}|[√✓✔×XxVvFf]|�
 ANSWER_POINT_RE = re.compile(r"^(?:[①②③④⑤⑥⑦⑧⑨⑩]|第[一二三四五六七八九十]+[，、.]|[一二三四五六七八九十]+是)")
 SOURCE_ANSWER_OVERRIDES = {
     "“十四个坚持”的基本方略": ["A", "B", "C", "D"],
-    "生态文明建设战略地位更加凸显": ["A", "B", "C"],
+}
+SOURCE_OPTION_OVERRIDES = {
+    "生态文明建设战略地位更加凸显": {
+        "D": "把“美丽中国”纳入社会主义现代化强国目标;把“绿色”纳入新发展理念",
+    },
 }
 
 
@@ -278,10 +282,25 @@ def build_report(chapters: OrderedDict[str, list[dict]]) -> dict:
     issues: list[dict] = []
     corrections: list[dict] = []
     seen: dict[str, str] = {}
+
+    def refresh_objective_answer_text(question: dict) -> None:
+        if question["type"] in {"single", "multiple", "judge"}:
+            option_map = {option["key"]: option["text"] for option in question["options"]}
+            question["answerText"] = [option_map[key] for key in question["answerKeys"] if key in option_map]
+
     for chapter, questions in chapters.items():
         for question in questions:
             stem = question["question"]
             qtype = question["type"]
+            changed = False
+            for marker, options in SOURCE_OPTION_OVERRIDES.items():
+                if marker in stem:
+                    existing = {option["key"]: option["text"] for option in question["options"]}
+                    for key, text in options.items():
+                        if key not in existing:
+                            question["options"].append({"key": key, "text": text})
+                            changed = True
+                    break
             for marker, answer in SOURCE_ANSWER_OVERRIDES.items():
                 if marker in stem and question["answerKeys"] != answer:
                     corrections.append(
@@ -293,9 +312,10 @@ def build_report(chapters: OrderedDict[str, list[dict]]) -> dict:
                         }
                     )
                     question["answerKeys"] = answer
-                    option_map = {option["key"]: option["text"] for option in question["options"]}
-                    question["answerText"] = [option_map[key] for key in answer if key in option_map]
+                    changed = True
                     break
+            if changed:
+                refresh_objective_answer_text(question)
             if not stem:
                 issues.append({"severity": "error", "chapter": chapter, "question": stem, "message": "题干为空"})
             if qtype in {"single", "multiple", "judge"}:
