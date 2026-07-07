@@ -73,7 +73,7 @@ class GeneratedAssetsTests(unittest.TestCase):
             self.assertFalse(question.get("answerPending"))
             self.assertTrue(question["answerKeys"])
             self.assertEqual(4, len(question["options"]))
-        self.assertEqual(["封闭环"], blanks[0]["answerKeys"])
+        self.assertEqual(["封闭"], blanks[0]["answerKeys"])
         self.assertEqual(["相互关联 / 相互补偿"], blanks[-1]["answerKeys"])
         for question in blanks:
             self.assertFalse(question.get("answerPending"))

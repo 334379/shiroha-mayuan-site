@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "exportedAt": "2026-07-07T14:00:00.000Z",
+  "exportedAt": "2026-07-07T14:20:00.000Z",
   "banks": [
     {
       "id": "interchange-full",
       "name": "互换性与技术测量复习",
       "groupName": "互换性与技术测量",
       "createdAt": "2026-07-07T00:00:00.000Z",
-      "updatedAt": "2026-07-07T14:00:00.000Z",
+      "updatedAt": "2026-07-07T14:20:00.000Z",
       "meta": {
         "title": "互换性与技术测量复习",
         "questionCount": 49,
@@ -713,10 +713,10 @@
           "question": "在尺寸链中，公差值最大，精度最低的是＿环。",
           "options": [],
           "answerKeys": [
-            "封闭环"
+            "封闭"
           ],
           "answerText": [
-            "封闭环"
+            "封闭"
           ],
           "topic": "互换性与技术测量",
           "category": "填空题",
