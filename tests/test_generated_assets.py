@@ -12,10 +12,11 @@ class GeneratedAssetsTests(unittest.TestCase):
         index = json.loads((ROOT / "data" / "banks-index.json").read_text(encoding="utf-8"))
         ids = [item["id"] for item in index]
         self.assertTrue(ids)
-        self.assertTrue(all(item.startswith(("mayuan", "xsd")) for item in ids))
+        self.assertTrue(all(item.startswith(("mayuan", "xsd", "interchange")) for item in ids))
         self.assertFalse(any(item.startswith("c1") for item in ids))
         self.assertEqual(9, sum(item.startswith("mayuan") for item in ids))
         self.assertEqual(19, sum(item.startswith("xsd") for item in ids))
+        self.assertEqual(1, sum(item.startswith("interchange") for item in ids))
 
     def test_counts_and_chapter_sum_match(self):
         index = json.loads((ROOT / "data" / "banks-index.json").read_text(encoding="utf-8"))
@@ -41,8 +42,11 @@ class GeneratedAssetsTests(unittest.TestCase):
                 self.assertTrue(question["question"].strip())
                 if question["type"] in {"single", "multiple", "judge"}:
                     keys = {option["key"] for option in question["options"]}
-                    self.assertTrue(question["answerKeys"], question["id"])
-                    self.assertTrue(set(question["answerKeys"]).issubset(keys), question["id"])
+                    if question.get("answerPending"):
+                        self.assertFalse(question["answerKeys"], question["id"])
+                    else:
+                        self.assertTrue(question["answerKeys"], question["id"])
+                        self.assertTrue(set(question["answerKeys"]).issubset(keys), question["id"])
                 if question["type"] in {"material", "essay"}:
                     self.assertTrue(question["answerKeys"], question["id"])
                     self.assertFalse(question.get("score"), question["id"])
@@ -60,6 +64,19 @@ class GeneratedAssetsTests(unittest.TestCase):
     def test_c1_data_removed(self):
         self.assertFalse((ROOT / "data" / "c1-full.json").exists())
         self.assertNotIn("C1驾照", (ROOT / "question-bank.js").read_text(encoding="utf-8"))
+
+    def test_interchange_choice_bank_imported_without_answers(self):
+        index = json.loads((ROOT / "data" / "banks-index.json").read_text(encoding="utf-8"))
+        item = next(entry for entry in index if entry["id"] == "interchange-full")
+        self.assertEqual(19, item["count"])
+        payload = json.loads((ROOT / item["file"]).read_text(encoding="utf-8"))
+        self.assertEqual("互换性与技术测量-选择题", payload["meta"]["title"])
+        self.assertEqual(19, len(payload["questions"]))
+        for question in payload["questions"]:
+            self.assertEqual("single", question["type"])
+            self.assertTrue(question["answerPending"])
+            self.assertEqual([], question["answerKeys"])
+            self.assertEqual(4, len(question["options"]))
 
 
 if __name__ == "__main__":

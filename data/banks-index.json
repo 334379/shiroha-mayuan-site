@@ -194,5 +194,12 @@
     "count": 56,
     "file": "data/xsd-chapter18.json",
     "description": "由 25-26-2 习概题库 Word 文档转换导入，含客观题、材料分析题和论述题。"
+  },
+  {
+    "id": "interchange-full",
+    "name": "互换性与技术测量-选择题",
+    "count": 19,
+    "file": "data/interchange-full.json",
+    "description": "由“互换性与技术测量复习-格式调整版.docx”导入；原文未提供答案，待补。"
   }
 ]

@@ -1,4 +1,4 @@
-const CACHE_NAME = 'shiroha-quiz-pwa-20260614-3';
+const CACHE_NAME = 'shiroha-quiz-pwa-20260707-1';
 
 const APP_SHELL = [
   './',
@@ -53,7 +53,8 @@ const APP_SHELL = [
   './data/xsd-chapter15.json',
   './data/xsd-chapter16.json',
   './data/xsd-chapter17.json',
-  './data/xsd-chapter18.json'
+  './data/xsd-chapter18.json',
+  './data/interchange-full.json'
 ];
 
 self.addEventListener('install', function(event) {

@@ -1,0 +1,676 @@
+{
+  "meta": {
+    "title": "互换性与技术测量-选择题",
+    "questionCount": 19,
+    "volumes": 1,
+    "sourceNote": "由互换性与技术测量复习 Word 文档导入选择题；原文未提供答案，待补答案。",
+    "answerStatus": "pending"
+  },
+  "questions": [
+    {
+      "id": "interchange-full-0001",
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 1,
+      "volume": 1,
+      "question": "保证互换性生产的基础是 。",
+      "options": [
+        {
+          "key": "A",
+          "text": "标准化"
+        },
+        {
+          "key": "B",
+          "text": "生产现代化"
+        },
+        {
+          "key": "C",
+          "text": "大批量生产"
+        },
+        {
+          "key": "D",
+          "text": "协作化生产"
+        }
+      ],
+      "answerKeys": [],
+      "answerText": [
+        "原 Word 文档未提供答案，待补答案。"
+      ],
+      "answerPending": true,
+      "topic": "互换性与技术测量",
+      "category": "互换性与技术测量",
+      "score": 0,
+      "analysis": "原 Word 文档未提供答案，待补答案。"
+    },
+    {
+      "id": "interchange-full-0002",
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 2,
+      "volume": 1,
+      "question": "基本尺寸是由 。",
+      "options": [
+        {
+          "key": "A",
+          "text": "测量获得的"
+        },
+        {
+          "key": "B",
+          "text": "设计时给定的"
+        },
+        {
+          "key": "C",
+          "text": "加工时获得的"
+        },
+        {
+          "key": "D",
+          "text": "加工后获得的"
+        }
+      ],
+      "answerKeys": [],
+      "answerText": [
+        "原 Word 文档未提供答案，待补答案。"
+      ],
+      "answerPending": true,
+      "topic": "互换性与技术测量",
+      "category": "互换性与技术测量",
+      "score": 0,
+      "analysis": "原 Word 文档未提供答案，待补答案。"
+    },
+    {
+      "id": "interchange-full-0003",
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 3,
+      "volume": 1,
+      "question": "可以用普通螺纹中径公差限制 。",
+      "options": [
+        {
+          "key": "A",
+          "text": "螺距累积误差"
+        },
+        {
+          "key": "B",
+          "text": "牙型半角误差"
+        },
+        {
+          "key": "C",
+          "text": "大径误差"
+        },
+        {
+          "key": "D",
+          "text": "小径误差"
+        }
+      ],
+      "answerKeys": [],
+      "answerText": [
+        "原 Word 文档未提供答案，待补答案。"
+      ],
+      "answerPending": true,
+      "topic": "互换性与技术测量",
+      "category": "互换性与技术测量",
+      "score": 0,
+      "analysis": "原 Word 文档未提供答案，待补答案。"
+    },
+    {
+      "id": "interchange-full-0004",
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 4,
+      "volume": 1,
+      "question": "通过测量与被测几何量存在函数关系的几何量，经函数关系式运算而获得该被测几何量的量值的方法，称为 。",
+      "options": [
+        {
+          "key": "A",
+          "text": "相对测量法"
+        },
+        {
+          "key": "B",
+          "text": "间接测量法"
+        },
+        {
+          "key": "C",
+          "text": "被动测量法"
+        },
+        {
+          "key": "D",
+          "text": "综合测量法"
+        }
+      ],
+      "answerKeys": [],
+      "answerText": [
+        "原 Word 文档未提供答案，待补答案。"
+      ],
+      "answerPending": true,
+      "topic": "互换性与技术测量",
+      "category": "互换性与技术测量",
+      "score": 0,
+      "analysis": "原 Word 文档未提供答案，待补答案。"
+    },
+    {
+      "id": "interchange-full-0005",
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 5,
+      "volume": 1,
+      "question": "用立式光学比较仪测量Φ25m6轴的方法属于 。",
+      "options": [
+        {
+          "key": "A",
+          "text": "绝对测量"
+        },
+        {
+          "key": "B",
+          "text": "相对测量"
+        },
+        {
+          "key": "C",
+          "text": "综合测量"
+        },
+        {
+          "key": "D",
+          "text": "主动测量"
+        }
+      ],
+      "answerKeys": [],
+      "answerText": [
+        "原 Word 文档未提供答案，待补答案。"
+      ],
+      "answerPending": true,
+      "topic": "互换性与技术测量",
+      "category": "互换性与技术测量",
+      "score": 0,
+      "analysis": "原 Word 文档未提供答案，待补答案。"
+    },
+    {
+      "id": "interchange-full-0006",
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 6,
+      "volume": 1,
+      "question": "经测量合格的某一实际孔、轴在装配后得到了过盈，则当初的设计配合是 。",
+      "options": [
+        {
+          "key": "A",
+          "text": "一定是间隙配合"
+        },
+        {
+          "key": "B",
+          "text": "一定是过盈配合"
+        },
+        {
+          "key": "C",
+          "text": "一定是过渡配合"
+        },
+        {
+          "key": "D",
+          "text": "可能是过盈或过渡配合"
+        }
+      ],
+      "answerKeys": [],
+      "answerText": [
+        "原 Word 文档未提供答案，待补答案。"
+      ],
+      "answerPending": true,
+      "topic": "互换性与技术测量",
+      "category": "互换性与技术测量",
+      "score": 0,
+      "analysis": "原 Word 文档未提供答案，待补答案。"
+    },
+    {
+      "id": "interchange-full-0007",
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 7,
+      "volume": 1,
+      "question": "下列四组配合中配合性质与Φ50H7/k6相同的一组是 。",
+      "options": [
+        {
+          "key": "A",
+          "text": "Φ50H7/k7"
+        },
+        {
+          "key": "B",
+          "text": "Φ50K7/h7"
+        },
+        {
+          "key": "C",
+          "text": "Φ50K7/h6"
+        },
+        {
+          "key": "D",
+          "text": "Φ50H6/k6"
+        }
+      ],
+      "answerKeys": [],
+      "answerText": [
+        "原 Word 文档未提供答案，待补答案。"
+      ],
+      "answerPending": true,
+      "topic": "互换性与技术测量",
+      "category": "互换性与技术测量",
+      "score": 0,
+      "analysis": "原 Word 文档未提供答案，待补答案。"
+    },
+    {
+      "id": "interchange-full-0008",
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 8,
+      "volume": 1,
+      "question": "为了保证内、外矩形花键小径定心表面的配合性质，小径表面的形状公差与尺寸公差的关系应采用 。",
+      "options": [
+        {
+          "key": "A",
+          "text": "最大实体要求"
+        },
+        {
+          "key": "B",
+          "text": "最小实体要求"
+        },
+        {
+          "key": "C",
+          "text": "包容要求"
+        },
+        {
+          "key": "D",
+          "text": "独立原则"
+        }
+      ],
+      "answerKeys": [],
+      "answerText": [
+        "原 Word 文档未提供答案，待补答案。"
+      ],
+      "answerPending": true,
+      "topic": "互换性与技术测量",
+      "category": "互换性与技术测量",
+      "score": 0,
+      "analysis": "原 Word 文档未提供答案，待补答案。"
+    },
+    {
+      "id": "interchange-full-0009",
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 9,
+      "volume": 1,
+      "question": "滚动轴承内径公差带的特点是：它位于以内径公称直径为零线的 。",
+      "options": [
+        {
+          "key": "A",
+          "text": "上方且基本偏差为零"
+        },
+        {
+          "key": "B",
+          "text": "上方且基本偏差为正值"
+        },
+        {
+          "key": "C",
+          "text": "下方且基本偏差为零"
+        },
+        {
+          "key": "D",
+          "text": "下方且基本偏差为负值"
+        }
+      ],
+      "answerKeys": [],
+      "answerText": [
+        "原 Word 文档未提供答案，待补答案。"
+      ],
+      "answerPending": true,
+      "topic": "互换性与技术测量",
+      "category": "互换性与技术测量",
+      "score": 0,
+      "analysis": "原 Word 文档未提供答案，待补答案。"
+    },
+    {
+      "id": "interchange-full-0010",
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 10,
+      "volume": 1,
+      "question": "基本偏差代号F的基本偏差是 。",
+      "options": [
+        {
+          "key": "A",
+          "text": "ES"
+        },
+        {
+          "key": "B",
+          "text": "EI"
+        },
+        {
+          "key": "C",
+          "text": "es"
+        },
+        {
+          "key": "D",
+          "text": "ei"
+        }
+      ],
+      "answerKeys": [],
+      "answerText": [
+        "原 Word 文档未提供答案，待补答案。"
+      ],
+      "answerPending": true,
+      "topic": "互换性与技术测量",
+      "category": "互换性与技术测量",
+      "score": 0,
+      "analysis": "原 Word 文档未提供答案，待补答案。"
+    },
+    {
+      "id": "interchange-full-0011",
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 11,
+      "volume": 1,
+      "question": "如孔、轴间的联结既要求装拆方便，又要求对中性好时，应选用 。",
+      "options": [
+        {
+          "key": "A",
+          "text": "间隙配合"
+        },
+        {
+          "key": "B",
+          "text": "过盈配合"
+        },
+        {
+          "key": "C",
+          "text": "过渡配合"
+        },
+        {
+          "key": "D",
+          "text": "过渡配合或过盈配合"
+        }
+      ],
+      "answerKeys": [],
+      "answerText": [
+        "原 Word 文档未提供答案，待补答案。"
+      ],
+      "answerPending": true,
+      "topic": "互换性与技术测量",
+      "category": "互换性与技术测量",
+      "score": 0,
+      "analysis": "原 Word 文档未提供答案，待补答案。"
+    },
+    {
+      "id": "interchange-full-0012",
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 12,
+      "volume": 1,
+      "question": "当采用独立原则时，零件加工后经检测发现实际尺寸和形位误差中有一项超差，则该零件 。",
+      "options": [
+        {
+          "key": "A",
+          "text": "合格"
+        },
+        {
+          "key": "B",
+          "text": "不合格"
+        },
+        {
+          "key": "C",
+          "text": "尺寸最大"
+        },
+        {
+          "key": "D",
+          "text": "变形最小"
+        }
+      ],
+      "answerKeys": [],
+      "answerText": [
+        "原 Word 文档未提供答案，待补答案。"
+      ],
+      "answerPending": true,
+      "topic": "互换性与技术测量",
+      "category": "互换性与技术测量",
+      "score": 0,
+      "analysis": "原 Word 文档未提供答案，待补答案。"
+    },
+    {
+      "id": "interchange-full-0013",
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 13,
+      "volume": 1,
+      "question": "为了保证内、外矩形花键小径定心表面的配合性质，小径表面的形状公差与尺寸公差的关系应采用 。",
+      "options": [
+        {
+          "key": "A",
+          "text": "最大实体要求"
+        },
+        {
+          "key": "B",
+          "text": "最小实体要求"
+        },
+        {
+          "key": "C",
+          "text": "包容要求"
+        },
+        {
+          "key": "D",
+          "text": "独立原则"
+        }
+      ],
+      "answerKeys": [],
+      "answerText": [
+        "原 Word 文档未提供答案，待补答案。"
+      ],
+      "answerPending": true,
+      "topic": "互换性与技术测量",
+      "category": "互换性与技术测量",
+      "score": 0,
+      "analysis": "原 Word 文档未提供答案，待补答案。"
+    },
+    {
+      "id": "interchange-full-0014",
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 14,
+      "volume": 1,
+      "question": "在等精度精密测量中，多次重复测量同一量值是为了减小 的影响。",
+      "options": [
+        {
+          "key": "A",
+          "text": "系统误差"
+        },
+        {
+          "key": "B",
+          "text": "随机误差"
+        },
+        {
+          "key": "C",
+          "text": "粗大误差"
+        },
+        {
+          "key": "D",
+          "text": "绝对误差"
+        }
+      ],
+      "answerKeys": [],
+      "answerText": [
+        "原 Word 文档未提供答案，待补答案。"
+      ],
+      "answerPending": true,
+      "topic": "互换性与技术测量",
+      "category": "互换性与技术测量",
+      "score": 0,
+      "analysis": "原 Word 文档未提供答案，待补答案。"
+    },
+    {
+      "id": "interchange-full-0015",
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 15,
+      "volume": 1,
+      "question": "Φ40g6与Φ40g7二者的区别在于 。",
+      "options": [
+        {
+          "key": "A",
+          "text": "基本偏差不同"
+        },
+        {
+          "key": "B",
+          "text": "公差值相同"
+        },
+        {
+          "key": "C",
+          "text": "上偏差相同，而下偏差不同"
+        },
+        {
+          "key": "D",
+          "text": "下偏差相同，而上偏差不同"
+        }
+      ],
+      "answerKeys": [],
+      "answerText": [
+        "原 Word 文档未提供答案，待补答案。"
+      ],
+      "answerPending": true,
+      "topic": "互换性与技术测量",
+      "category": "互换性与技术测量",
+      "score": 0,
+      "analysis": "原 Word 文档未提供答案，待补答案。"
+    },
+    {
+      "id": "interchange-full-0016",
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 16,
+      "volume": 1,
+      "question": "公差要求是否实现需要通过 来判断。",
+      "options": [
+        {
+          "key": "A",
+          "text": "计算"
+        },
+        {
+          "key": "B",
+          "text": "考察"
+        },
+        {
+          "key": "C",
+          "text": "检测"
+        },
+        {
+          "key": "D",
+          "text": "实验"
+        }
+      ],
+      "answerKeys": [],
+      "answerText": [
+        "原 Word 文档未提供答案，待补答案。"
+      ],
+      "answerPending": true,
+      "topic": "互换性与技术测量",
+      "category": "互换性与技术测量",
+      "score": 0,
+      "analysis": "原 Word 文档未提供答案，待补答案。"
+    },
+    {
+      "id": "interchange-full-0017",
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 17,
+      "volume": 1,
+      "question": "对普通螺纹联接的主要要求是 。",
+      "options": [
+        {
+          "key": "A",
+          "text": "可旋合性"
+        },
+        {
+          "key": "B",
+          "text": "传动准确性"
+        },
+        {
+          "key": "C",
+          "text": "可旋合性与联接可靠性"
+        },
+        {
+          "key": "D",
+          "text": "密封性"
+        }
+      ],
+      "answerKeys": [],
+      "answerText": [
+        "原 Word 文档未提供答案，待补答案。"
+      ],
+      "answerPending": true,
+      "topic": "互换性与技术测量",
+      "category": "互换性与技术测量",
+      "score": 0,
+      "analysis": "原 Word 文档未提供答案，待补答案。"
+    },
+    {
+      "id": "interchange-full-0018",
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 18,
+      "volume": 1,
+      "question": "通常下列对表面粗糙度要求较高。",
+      "options": [
+        {
+          "key": "A",
+          "text": "Φ60H7"
+        },
+        {
+          "key": "B",
+          "text": "Φ50H7"
+        },
+        {
+          "key": "C",
+          "text": "Φ45H7"
+        },
+        {
+          "key": "D",
+          "text": "Φ35H7"
+        }
+      ],
+      "answerKeys": [],
+      "answerText": [
+        "原 Word 文档未提供答案，待补答案。"
+      ],
+      "answerPending": true,
+      "topic": "互换性与技术测量",
+      "category": "互换性与技术测量",
+      "score": 0,
+      "analysis": "原 Word 文档未提供答案，待补答案。"
+    },
+    {
+      "id": "interchange-full-0019",
+      "type": "single",
+      "typeLabel": "单选题",
+      "number": 19,
+      "volume": 1,
+      "question": "平键的＿是配合尺寸。",
+      "options": [
+        {
+          "key": "A",
+          "text": "键宽与槽宽"
+        },
+        {
+          "key": "B",
+          "text": "键高与槽深"
+        },
+        {
+          "key": "C",
+          "text": "键长与槽长"
+        },
+        {
+          "key": "D",
+          "text": "键宽和键高"
+        }
+      ],
+      "answerKeys": [],
+      "answerText": [
+        "原 Word 文档未提供答案，待补答案。"
+      ],
+      "answerPending": true,
+      "topic": "互换性与技术测量",
+      "category": "互换性与技术测量",
+      "score": 0,
+      "analysis": "原 Word 文档未提供答案，待补答案。"
+    }
+  ]
+}
