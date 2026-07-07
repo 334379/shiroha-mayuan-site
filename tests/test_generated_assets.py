@@ -13,7 +13,7 @@ class GeneratedAssetsTests(unittest.TestCase):
         ids = [item["id"] for item in index]
         self.assertEqual(["interchange-full"], ids)
 
-    def test_counts_and_chapter_sum_match(self):
+    def test_counts_match_payloads(self):
         index = json.loads((ROOT / "data" / "banks-index.json").read_text(encoding="utf-8"))
         for item in index:
             payload = json.loads((ROOT / item["file"]).read_text(encoding="utf-8"))
@@ -53,20 +53,29 @@ class GeneratedAssetsTests(unittest.TestCase):
 
     def test_c1_data_removed(self):
         self.assertFalse((ROOT / "data" / "c1-full.json").exists())
-        self.assertNotIn("C1驾照", (ROOT / "question-bank.js").read_text(encoding="utf-8"))
+        self.assertNotIn("C1", (ROOT / "question-bank.js").read_text(encoding="utf-8"))
 
-    def test_interchange_choice_bank_imported_without_answers(self):
+    def test_interchange_bank_imported_from_latest_docx(self):
         index = json.loads((ROOT / "data" / "banks-index.json").read_text(encoding="utf-8"))
         item = next(entry for entry in index if entry["id"] == "interchange-full")
-        self.assertEqual(19, item["count"])
+        self.assertEqual(49, item["count"])
         payload = json.loads((ROOT / item["file"]).read_text(encoding="utf-8"))
-        self.assertEqual("互换性与技术测量-选择题", payload["meta"]["title"])
-        self.assertEqual(19, len(payload["questions"]))
-        for question in payload["questions"]:
+        self.assertEqual("互换性与技术测量复习", payload["meta"]["title"])
+        self.assertEqual(49, len(payload["questions"]))
+        singles = [question for question in payload["questions"] if question["type"] == "single"]
+        blanks = [question for question in payload["questions"] if question["type"] == "blank"]
+        self.assertEqual(19, len(singles))
+        self.assertEqual(30, len(blanks))
+        self.assertEqual(["A"], singles[0]["answerKeys"])
+        self.assertEqual("保证互换性生产的基础是。", singles[0]["question"])
+        for question in singles:
             self.assertEqual("single", question["type"])
+            self.assertFalse(question.get("answerPending"))
+            self.assertTrue(question["answerKeys"])
+            self.assertEqual(4, len(question["options"]))
+        for question in blanks:
             self.assertTrue(question["answerPending"])
             self.assertEqual([], question["answerKeys"])
-            self.assertEqual(4, len(question["options"]))
 
 
 if __name__ == "__main__":
