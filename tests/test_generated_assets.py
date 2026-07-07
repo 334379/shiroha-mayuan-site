@@ -8,27 +8,17 @@ ROOT = Path(__file__).resolve().parents[1]
 
 
 class GeneratedAssetsTests(unittest.TestCase):
-    def test_index_contains_only_mayuan_and_xsd(self):
+    def test_index_contains_only_interchange(self):
         index = json.loads((ROOT / "data" / "banks-index.json").read_text(encoding="utf-8"))
         ids = [item["id"] for item in index]
-        self.assertTrue(ids)
-        self.assertTrue(all(item.startswith(("mayuan", "xsd", "interchange")) for item in ids))
-        self.assertFalse(any(item.startswith("c1") for item in ids))
-        self.assertEqual(9, sum(item.startswith("mayuan") for item in ids))
-        self.assertEqual(19, sum(item.startswith("xsd") for item in ids))
-        self.assertEqual(1, sum(item.startswith("interchange") for item in ids))
+        self.assertEqual(["interchange-full"], ids)
 
     def test_counts_and_chapter_sum_match(self):
         index = json.loads((ROOT / "data" / "banks-index.json").read_text(encoding="utf-8"))
-        by_id = {item["id"]: item for item in index}
-        chapter_sum = 0
         for item in index:
             payload = json.loads((ROOT / item["file"]).read_text(encoding="utf-8"))
             self.assertEqual(item["count"], len(payload["questions"]), item["id"])
-            if item["id"].startswith("xsd-chapter"):
-                chapter_sum += len(payload["questions"])
-        self.assertEqual(by_id["xsd-full"]["count"], chapter_sum)
-        self.assertEqual(751, by_id["xsd-full"]["count"])
+        self.assertEqual(1, len(index))
 
     def test_questions_are_valid(self):
         index = json.loads((ROOT / "data" / "banks-index.json").read_text(encoding="utf-8"))

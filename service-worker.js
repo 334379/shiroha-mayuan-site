@@ -1,4 +1,4 @@
-const CACHE_NAME = 'shiroha-quiz-pwa-20260707-1';
+const CACHE_NAME = 'shiroha-quiz-pwa-20260707-2';
 
 const APP_SHELL = [
   './',
@@ -26,34 +26,6 @@ const APP_SHELL = [
   './media/thinking_state_question.webp',
   './media/wrong_question_review_clipboard.webp',
   './data/banks-index.json',
-  './data/mayuan-full.json',
-  './data/mayuan-daolun.json',
-  './data/mayuan-chapter1.json',
-  './data/mayuan-chapter2.json',
-  './data/mayuan-chapter3.json',
-  './data/mayuan-chapter4.json',
-  './data/mayuan-chapter5.json',
-  './data/mayuan-chapter6.json',
-  './data/mayuan-chapter7.json',
-  './data/xsd-full.json',
-  './data/xsd-chapter1.json',
-  './data/xsd-chapter2.json',
-  './data/xsd-chapter3.json',
-  './data/xsd-chapter4.json',
-  './data/xsd-chapter5.json',
-  './data/xsd-chapter6.json',
-  './data/xsd-chapter7.json',
-  './data/xsd-chapter8.json',
-  './data/xsd-chapter9.json',
-  './data/xsd-chapter10.json',
-  './data/xsd-chapter11.json',
-  './data/xsd-chapter12.json',
-  './data/xsd-chapter13.json',
-  './data/xsd-chapter14.json',
-  './data/xsd-chapter15.json',
-  './data/xsd-chapter16.json',
-  './data/xsd-chapter17.json',
-  './data/xsd-chapter18.json',
   './data/interchange-full.json'
 ];
 
