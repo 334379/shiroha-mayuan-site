@@ -86,8 +86,13 @@ class GeneratedAssetsTests(unittest.TestCase):
         self.assertIn("PACKAGED_BANK_REPLACE_MODE=true", app)
         self.assertIn("state.banks=next", app)
         self.assertIn("state.banks = banks.map", index)
-        self.assertIn("quiz-20260707-interchange-only", index)
-        self.assertIn("quiz-20260707-interchange-only", sw)
+        self.assertIn("quiz-20260707-edit-answer-fix", index)
+        self.assertIn("quiz-20260707-edit-answer-fix", sw)
+
+    def test_editor_saves_blank_answers_as_text(self):
+        app = (ROOT / "app.js").read_text(encoding="utf-8")
+        self.assertIn("splitAnswerByType($('#edit-answer').value,type)", app)
+        self.assertIn("q.answer||q.answerKeys||q.answerText", app)
 
 
 if __name__ == "__main__":

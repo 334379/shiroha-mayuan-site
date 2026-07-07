@@ -4164,7 +4164,7 @@ function validateQuestion(q){
 }
 function openEditQuestion(i){
   const q=importCache[i];if(!q)return;
-  $('#edit-index').value=i;$('#edit-type').value=q.type||'single';$('#edit-question').value=q.question||'';$('#edit-answer').value=(q.answer||[]).join('');$('#edit-analysis').value=q.analysis||'';$('#edit-category').value=q.category||q.group||'';$('#edit-score').value=q.score||'';
+  $('#edit-index').value=i;$('#edit-type').value=q.type||'single';$('#edit-question').value=q.question||'';$('#edit-answer').value=(q.answer||q.answerKeys||q.answerText||[]).join(' || ');$('#edit-analysis').value=q.analysis||'';$('#edit-category').value=q.category||q.group||'';$('#edit-score').value=q.score||'';
   $('#edit-options').value=(q.options||[]).map(o=>`${o.key}. ${o.text}`).join('\n');
   $('#edit-status').textContent='可修改后保存。';$('#edit-status').className='notice';
   $('#edit-modal').classList.remove('hidden');$('#edit-modal').setAttribute('aria-hidden','false');
@@ -4185,7 +4185,8 @@ function parseOptionsText(text){
 function saveEditQuestion(){
   const i=Number($('#edit-index').value);if(!importCache[i])return;
   const options=parseOptionsText($('#edit-options').value);
-  const raw={...importCache[i],type:$('#edit-type').value,question:$('#edit-question').value.trim(),options,answer:splitAnswer($('#edit-answer').value),analysis:$('#edit-analysis').value.trim(),category:$('#edit-category').value.trim(),score:$('#edit-score').value};
+  const type=$('#edit-type').value;
+  const raw={...importCache[i],type,question:$('#edit-question').value.trim(),options,answer:splitAnswerByType($('#edit-answer').value,type),analysis:$('#edit-analysis').value.trim(),category:$('#edit-category').value.trim(),score:$('#edit-score').value};
   const q=normalizeQuestion(raw,i);
   importCache[i]=q;
   const status=validateQuestion(q);

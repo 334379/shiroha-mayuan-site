@@ -1,4 +1,4 @@
-const CACHE_NAME = 'shiroha-quiz-pwa-20260707-6';
+const CACHE_NAME = 'shiroha-quiz-pwa-20260707-7';
 
 const APP_SHELL = [
   './',
@@ -9,7 +9,7 @@ const APP_SHELL = [
   './question-bank.js',
   './question-bank.js?v=quiz-20260602',
   './app.js',
-  './app.js?v=quiz-20260707-interchange-only',
+  './app.js?v=quiz-20260707-edit-answer-fix',
   './libs/README.txt',
   './libs/pdf.min.mjs',
   './libs/pdf.worker.min.mjs',
