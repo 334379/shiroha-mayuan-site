@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "exportedAt": "2026-07-07T13:30:00.000Z",
+  "exportedAt": "2026-07-07T14:00:00.000Z",
   "banks": [
     {
       "id": "interchange-full",
       "name": "互换性与技术测量复习",
       "groupName": "互换性与技术测量",
       "createdAt": "2026-07-07T00:00:00.000Z",
-      "updatedAt": "2026-07-07T13:30:00.000Z",
+      "updatedAt": "2026-07-07T14:00:00.000Z",
       "meta": {
         "title": "互换性与技术测量复习",
         "questionCount": 49,
         "volumes": 1,
-        "sourceNote": "由互换性与技术测量复习-格式调整版.docx 重新导入；选择题答案来自题干内嵌选项，填空题原文未提供答案。",
-        "answerStatus": "choice-answered-blank-pending",
+        "sourceNote": "由互换性与技术测量复习-格式调整版.docx 重新导入；选择题答案来自题干内嵌选项，填空题答案由用户补充。",
+        "answerStatus": "answered",
         "typeCounts": {
           "single": 19,
           "blank": 30
@@ -712,15 +712,16 @@
           "volume": 1,
           "question": "在尺寸链中，公差值最大，精度最低的是＿环。",
           "options": [],
-          "answerKeys": [],
-          "answerText": [
-            "原 Word 文档未提供填空题答案，待补答案。"
+          "answerKeys": [
+            "封闭环"
           ],
-          "answerPending": true,
+          "answerText": [
+            "封闭环"
+          ],
           "topic": "互换性与技术测量",
           "category": "填空题",
-          "score": 0,
-          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
+          "score": 1,
+          "analysis": ""
         },
         {
           "id": "interchange-full-0021",
@@ -730,15 +731,16 @@
           "volume": 1,
           "question": "安全裕度A的值应按被检验工件的公差大小来确定，一般为工件公差的。",
           "options": [],
-          "answerKeys": [],
-          "answerText": [
-            "原 Word 文档未提供填空题答案，待补答案。"
+          "answerKeys": [
+            "1/10"
           ],
-          "answerPending": true,
+          "answerText": [
+            "1/10"
+          ],
           "topic": "互换性与技术测量",
           "category": "填空题",
-          "score": 0,
-          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
+          "score": 1,
+          "analysis": ""
         },
         {
           "id": "interchange-full-0022",
@@ -748,15 +750,16 @@
           "volume": 1,
           "question": "采用分组装配法时，公差增大的倍数应＿以后的分组数。",
           "options": [],
-          "answerKeys": [],
-          "answerText": [
-            "原 Word 文档未提供填空题答案，待补答案。"
+          "answerKeys": [
+            "等于"
           ],
-          "answerPending": true,
+          "answerText": [
+            "等于"
+          ],
           "topic": "互换性与技术测量",
           "category": "填空题",
-          "score": 0,
-          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
+          "score": 1,
+          "analysis": ""
         },
         {
           "id": "interchange-full-0023",
@@ -766,15 +769,16 @@
           "volume": 1,
           "question": "某一尺寸链总环数为n，采用概率法计算比用完全互换法计算可以使得封闭环的公差值扩大 倍。",
           "options": [],
-          "answerKeys": [],
-          "answerText": [
-            "原 Word 文档未提供填空题答案，待补答案。"
+          "answerKeys": [
+            "√(n-1)"
           ],
-          "answerPending": true,
+          "answerText": [
+            "√(n-1)"
+          ],
           "topic": "互换性与技术测量",
           "category": "填空题",
-          "score": 0,
-          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
+          "score": 1,
+          "analysis": ""
         },
         {
           "id": "interchange-full-0024",
@@ -784,15 +788,16 @@
           "volume": 1,
           "question": "尺寸公差带具有大小和位置两个特性，其位置由 决定。",
           "options": [],
-          "answerKeys": [],
-          "answerText": [
-            "原 Word 文档未提供填空题答案，待补答案。"
+          "answerKeys": [
+            "基本偏差"
           ],
-          "answerPending": true,
+          "answerText": [
+            "基本偏差"
+          ],
           "topic": "互换性与技术测量",
           "category": "填空题",
-          "score": 0,
-          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
+          "score": 1,
+          "analysis": ""
         },
         {
           "id": "interchange-full-0025",
@@ -802,15 +807,16 @@
           "volume": 1,
           "question": "花键键数为6，小径定心d=23H7/f7，大径D=26H10/all，键宽B=6H11/d10，则花键副为。",
           "options": [],
-          "answerKeys": [],
-          "answerText": [
-            "原 Word 文档未提供填空题答案，待补答案。"
+          "answerKeys": [
+            "6 × 23H7/f7 × 26H10/a11 × 6H11/d10"
           ],
-          "answerPending": true,
+          "answerText": [
+            "6 × 23H7/f7 × 26H10/a11 × 6H11/d10"
+          ],
           "topic": "互换性与技术测量",
           "category": "填空题",
-          "score": 0,
-          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
+          "score": 1,
+          "analysis": ""
         },
         {
           "id": "interchange-full-0026",
@@ -820,15 +826,16 @@
           "volume": 1,
           "question": "大径为20mm、螺距为1.5mm的普通内螺纹，中径和小径的公差带代号都为6H，长旋合长度，该螺纹代号是。",
           "options": [],
-          "answerKeys": [],
-          "answerText": [
-            "原 Word 文档未提供填空题答案，待补答案。"
+          "answerKeys": [
+            "M20 × 1.5 - 6H - L"
           ],
-          "answerPending": true,
+          "answerText": [
+            "M20 × 1.5 - 6H - L"
+          ],
           "topic": "互换性与技术测量",
           "category": "填空题",
-          "score": 0,
-          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
+          "score": 1,
+          "analysis": ""
         },
         {
           "id": "interchange-full-0027",
@@ -838,15 +845,16 @@
           "volume": 1,
           "question": "公称直径为20mm、螺距为2mm的普通外螺纹，中径和小径的公差带代号分别为7g 和6g，旋合长度24的左旋螺纹，其代号为。",
           "options": [],
-          "answerKeys": [],
-          "answerText": [
-            "原 Word 文档未提供填空题答案，待补答案。"
+          "answerKeys": [
+            "M20 × 2 - 7g6g - 24 - LH"
           ],
-          "answerPending": true,
+          "answerText": [
+            "M20 × 2 - 7g6g - 24 - LH"
+          ],
           "topic": "互换性与技术测量",
           "category": "填空题",
-          "score": 0,
-          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
+          "score": 1,
+          "analysis": ""
         },
         {
           "id": "interchange-full-0028",
@@ -856,15 +864,16 @@
           "volume": 1,
           "question": "图样上规定键槽对轴的对称度公差为0.05mm，则该键槽中心偏离轴的轴线距离不得大于 mm。",
           "options": [],
-          "answerKeys": [],
-          "answerText": [
-            "原 Word 文档未提供填空题答案，待补答案。"
+          "answerKeys": [
+            "0.025 mm"
           ],
-          "answerPending": true,
+          "answerText": [
+            "0.025 mm"
+          ],
           "topic": "互换性与技术测量",
           "category": "填空题",
-          "score": 0,
-          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
+          "score": 1,
+          "analysis": ""
         },
         {
           "id": "interchange-full-0029",
@@ -874,15 +883,16 @@
           "volume": 1,
           "question": "从83块一套量块中组合出尺寸为29.875mm的量块组选用： 等四块量块。",
           "options": [],
-          "answerKeys": [],
-          "answerText": [
-            "原 Word 文档未提供填空题答案，待补答案。"
+          "answerKeys": [
+            "1.005 mm、1.37 mm、7.5 mm、20 mm"
           ],
-          "answerPending": true,
+          "answerText": [
+            "1.005 mm、1.37 mm、7.5 mm、20 mm"
+          ],
           "topic": "互换性与技术测量",
           "category": "填空题",
-          "score": 0,
-          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
+          "score": 1,
+          "analysis": ""
         },
         {
           "id": "interchange-full-0030",
@@ -892,15 +902,16 @@
           "volume": 1,
           "question": "圆锥配合按内、外圆锥相对位置的确定方法可分为 和位移型两类圆锥配合。",
           "options": [],
-          "answerKeys": [],
-          "answerText": [
-            "原 Word 文档未提供填空题答案，待补答案。"
+          "answerKeys": [
+            "结构型"
           ],
-          "answerPending": true,
+          "answerText": [
+            "结构型"
+          ],
           "topic": "互换性与技术测量",
           "category": "填空题",
-          "score": 0,
-          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
+          "score": 1,
+          "analysis": ""
         },
         {
           "id": "interchange-full-0031",
@@ -910,15 +921,16 @@
           "volume": 1,
           "question": "作为标准件的平键，它与轮毂槽配合种类应是。",
           "options": [],
-          "answerKeys": [],
-          "answerText": [
-            "原 Word 文档未提供填空题答案，待补答案。"
+          "answerKeys": [
+            "基轴制配合"
           ],
-          "answerPending": true,
+          "answerText": [
+            "基轴制配合"
+          ],
           "topic": "互换性与技术测量",
           "category": "填空题",
-          "score": 0,
-          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
+          "score": 1,
+          "analysis": ""
         },
         {
           "id": "interchange-full-0032",
@@ -928,15 +940,16 @@
           "volume": 1,
           "question": "已知基本尺寸为Φ40的轴，其最小极限尺寸为Φ39.98，公差为0.01mm，则它的下偏差是mm",
           "options": [],
-          "answerKeys": [],
-          "answerText": [
-            "原 Word 文档未提供填空题答案，待补答案。"
+          "answerKeys": [
+            "-0.020 mm"
           ],
-          "answerPending": true,
+          "answerText": [
+            "-0.020 mm"
+          ],
           "topic": "互换性与技术测量",
           "category": "填空题",
-          "score": 0,
-          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
+          "score": 1,
+          "analysis": ""
         },
         {
           "id": "interchange-full-0033",
@@ -946,15 +959,16 @@
           "volume": 1,
           "question": "在测量中如果粗大误差已经产生，则应根据判断粗大误差的准则予以别除，通常用 准则来判断。",
           "options": [],
-          "answerKeys": [],
-          "answerText": [
-            "原 Word 文档未提供填空题答案，待补答案。"
+          "answerKeys": [
+            "3σ 准则"
           ],
-          "answerPending": true,
+          "answerText": [
+            "3σ 准则"
+          ],
           "topic": "互换性与技术测量",
           "category": "填空题",
-          "score": 0,
-          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
+          "score": 1,
+          "analysis": ""
         },
         {
           "id": "interchange-full-0034",
@@ -964,15 +978,16 @@
           "volume": 1,
           "question": "在键联结中， 是决定配合性质的主要互换性参数，是配合尺寸，应规定较小的公差。",
           "options": [],
-          "answerKeys": [],
-          "answerText": [
-            "原 Word 文档未提供填空题答案，待补答案。"
+          "answerKeys": [
+            "键宽 (b)"
           ],
-          "answerPending": true,
+          "answerText": [
+            "键宽 (b)"
+          ],
           "topic": "互换性与技术测量",
           "category": "填空题",
-          "score": 0,
-          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
+          "score": 1,
+          "analysis": ""
         },
         {
           "id": "interchange-full-0035",
@@ -982,15 +997,16 @@
           "volume": 1,
           "question": "从83块一套量块中组合出尺寸为65.365mm的量块组 mm.",
           "options": [],
-          "answerKeys": [],
-          "answerText": [
-            "原 Word 文档未提供填空题答案，待补答案。"
+          "answerKeys": [
+            "1.005 mm、1.36 mm、3 mm、60 mm"
           ],
-          "answerPending": true,
+          "answerText": [
+            "1.005 mm、1.36 mm、3 mm、60 mm"
+          ],
           "topic": "互换性与技术测量",
           "category": "填空题",
-          "score": 0,
-          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
+          "score": 1,
+          "analysis": ""
         },
         {
           "id": "interchange-full-0036",
@@ -1000,15 +1016,16 @@
           "volume": 1,
           "question": "孔、轴配合的最大过盈为-50μm，配合公差为40μm，则可以判断该配合属于 配合。",
           "options": [],
-          "answerKeys": [],
-          "answerText": [
-            "原 Word 文档未提供填空题答案，待补答案。"
+          "answerKeys": [
+            "过盈配合"
           ],
-          "answerPending": true,
+          "answerText": [
+            "过盈配合"
+          ],
           "topic": "互换性与技术测量",
           "category": "填空题",
-          "score": 0,
-          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
+          "score": 1,
+          "analysis": ""
         },
         {
           "id": "interchange-full-0037",
@@ -1018,15 +1035,16 @@
           "volume": 1,
           "question": "矩形花键配合应采用。",
           "options": [],
-          "answerKeys": [],
-          "answerText": [
-            "原 Word 文档未提供填空题答案，待补答案。"
+          "answerKeys": [
+            "基孔制"
           ],
-          "answerPending": true,
+          "answerText": [
+            "基孔制"
+          ],
           "topic": "互换性与技术测量",
           "category": "填空题",
-          "score": 0,
-          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
+          "score": 1,
+          "analysis": ""
         },
         {
           "id": "interchange-full-0038",
@@ -1036,15 +1054,16 @@
           "volume": 1,
           "question": "矩形花键联接的形位公差要求中，小径d的极限尺寸应遵守 .",
           "options": [],
-          "answerKeys": [],
-          "answerText": [
-            "原 Word 文档未提供填空题答案，待补答案。"
+          "answerKeys": [
+            "包容要求"
           ],
-          "answerPending": true,
+          "answerText": [
+            "包容要求"
+          ],
           "topic": "互换性与技术测量",
           "category": "填空题",
-          "score": 0,
-          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
+          "score": 1,
+          "analysis": ""
         },
         {
           "id": "interchange-full-0039",
@@ -1054,15 +1073,16 @@
           "volume": 1,
           "question": "某次测量的测得值为40.002mm，若已知标准偏差c=0.0002mm，置信概率取95.44%，则测量结果应为 mm。",
           "options": [],
-          "answerKeys": [],
-          "answerText": [
-            "原 Word 文档未提供填空题答案，待补答案。"
+          "answerKeys": [
+            "40.002 ± 0.0004 mm"
           ],
-          "answerPending": true,
+          "answerText": [
+            "40.002 ± 0.0004 mm"
+          ],
           "topic": "互换性与技术测量",
           "category": "填空题",
-          "score": 0,
-          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
+          "score": 1,
+          "analysis": ""
         },
         {
           "id": "interchange-full-0040",
@@ -1072,15 +1092,16 @@
           "volume": 1,
           "question": "量块生产企业按“级”向市场销售量块，用户则按量块的标称尺寸使用量块。因此，按“级”使用量块将把 带入测量结果。",
           "options": [],
-          "answerKeys": [],
-          "answerText": [
-            "原 Word 文档未提供填空题答案，待补答案。"
+          "answerKeys": [
+            "量块制造误差"
           ],
-          "answerPending": true,
+          "answerText": [
+            "量块制造误差"
+          ],
           "topic": "互换性与技术测量",
           "category": "填空题",
-          "score": 0,
-          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
+          "score": 1,
+          "analysis": ""
         },
         {
           "id": "interchange-full-0041",
@@ -1090,15 +1111,16 @@
           "volume": 1,
           "question": "按内缩方案验收工件，可使＿大大减小，这是保证产品质量的一种安全措施。",
           "options": [],
-          "answerKeys": [],
-          "answerText": [
-            "原 Word 文档未提供填空题答案，待补答案。"
+          "answerKeys": [
+            "误收率"
           ],
-          "answerPending": true,
+          "answerText": [
+            "误收率"
+          ],
           "topic": "互换性与技术测量",
           "category": "填空题",
-          "score": 0,
-          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
+          "score": 1,
+          "analysis": ""
         },
         {
           "id": "interchange-full-0042",
@@ -1108,15 +1130,16 @@
           "volume": 1,
           "question": "控制螺纹的作用中径是为了保证，控制螺纹的单一中径是为了保证连接强度。",
           "options": [],
-          "answerKeys": [],
-          "answerText": [
-            "原 Word 文档未提供填空题答案，待补答案。"
+          "answerKeys": [
+            "可旋合性"
           ],
-          "answerPending": true,
+          "answerText": [
+            "可旋合性"
+          ],
           "topic": "互换性与技术测量",
           "category": "填空题",
-          "score": 0,
-          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
+          "score": 1,
+          "analysis": ""
         },
         {
           "id": "interchange-full-0043",
@@ -1126,15 +1149,16 @@
           "volume": 1,
           "question": "公差原则中， 只能用于被测中心要素或基准中心要素，主要用来保证零件的强度和最小壁厚。",
           "options": [],
-          "answerKeys": [],
-          "answerText": [
-            "原 Word 文档未提供填空题答案，待补答案。"
+          "answerKeys": [
+            "最小实体要求"
           ],
-          "answerPending": true,
+          "answerText": [
+            "最小实体要求"
+          ],
           "topic": "互换性与技术测量",
           "category": "填空题",
-          "score": 0,
-          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
+          "score": 1,
+          "analysis": ""
         },
         {
           "id": "interchange-full-0044",
@@ -1144,15 +1168,16 @@
           "volume": 1,
           "question": "内螺纹加工困难，因此内螺纹中径公差为同级外螺纹中径公差的 倍。",
           "options": [],
-          "answerKeys": [],
-          "answerText": [
-            "原 Word 文档未提供填空题答案，待补答案。"
+          "answerKeys": [
+            "1.32"
           ],
-          "answerPending": true,
+          "answerText": [
+            "1.32"
+          ],
           "topic": "互换性与技术测量",
           "category": "填空题",
-          "score": 0,
-          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
+          "score": 1,
+          "analysis": ""
         },
         {
           "id": "interchange-full-0045",
@@ -1162,15 +1187,16 @@
           "volume": 1,
           "question": "螺纹的精度既与公差等级有关，也与 有关。",
           "options": [],
-          "answerKeys": [],
-          "answerText": [
-            "原 Word 文档未提供填空题答案，待补答案。"
+          "answerKeys": [
+            "旋合长度"
           ],
-          "answerPending": true,
+          "answerText": [
+            "旋合长度"
+          ],
           "topic": "互换性与技术测量",
           "category": "填空题",
-          "score": 0,
-          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
+          "score": 1,
+          "analysis": ""
         },
         {
           "id": "interchange-full-0046",
@@ -1180,15 +1206,16 @@
           "volume": 1,
           "question": "对于装配尺寸链，要遵守 原则。",
           "options": [],
-          "answerKeys": [],
-          "answerText": [
-            "原 Word 文档未提供填空题答案，待补答案。"
+          "answerKeys": [
+            "最短尺寸链原则"
           ],
-          "answerPending": true,
+          "answerText": [
+            "最短尺寸链原则"
+          ],
           "topic": "互换性与技术测量",
           "category": "填空题",
-          "score": 0,
-          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
+          "score": 1,
+          "analysis": ""
         },
         {
           "id": "interchange-full-0047",
@@ -1198,15 +1225,16 @@
           "volume": 1,
           "question": "Φ轴的基本偏差数值为 mm。",
           "options": [],
-          "answerKeys": [],
-          "answerText": [
-            "原 Word 文档未提供填空题答案，待补答案。"
+          "answerKeys": [
+            "-0.05 mm"
           ],
-          "answerPending": true,
+          "answerText": [
+            "-0.05 mm"
+          ],
           "topic": "互换性与技术测量",
           "category": "填空题",
-          "score": 0,
-          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
+          "score": 1,
+          "analysis": ""
         },
         {
           "id": "interchange-full-0048",
@@ -1216,15 +1244,16 @@
           "volume": 1,
           "question": "29．Φ350+0.021mm的孔与Φmm的轴配合，属子基孔制 配合。",
           "options": [],
-          "answerKeys": [],
-          "answerText": [
-            "原 Word 文档未提供填空题答案，待补答案。"
+          "answerKeys": [
+            "基孔制间隙配合"
           ],
-          "answerPending": true,
+          "answerText": [
+            "基孔制间隙配合"
+          ],
           "topic": "互换性与技术测量",
           "category": "填空题",
-          "score": 0,
-          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
+          "score": 1,
+          "analysis": ""
         },
         {
           "id": "interchange-full-0049",
@@ -1234,15 +1263,16 @@
           "volume": 1,
           "question": "相关要求实际上是要素的尺寸公差与形位公差 的一种公差要求。",
           "options": [],
-          "answerKeys": [],
-          "answerText": [
-            "原 Word 文档未提供填空题答案，待补答案。"
+          "answerKeys": [
+            "相互关联 / 相互补偿"
           ],
-          "answerPending": true,
+          "answerText": [
+            "相互关联 / 相互补偿"
+          ],
           "topic": "互换性与技术测量",
           "category": "填空题",
-          "score": 0,
-          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
+          "score": 1,
+          "analysis": ""
         }
       ]
     }
