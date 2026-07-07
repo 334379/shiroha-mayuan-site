@@ -329,14 +329,13 @@ C. 判断题
       state.records = Array.isArray(state.records) ? state.records : [];
       state.settings = state.settings && typeof state.settings === 'object' ? state.settings : {};
       state.favorites = state.favorites && typeof state.favorites === 'object' ? state.favorites : {};
-      var byId = new Map(state.banks.map(function(b){ return [String(b.id || ''), b]; }));
-      banks.forEach(function(bank){ byId.set(bank.id, bank); });
-      state.banks = Array.from(byId.values());
-      if (!state.activeBankId || !byId.has(state.activeBankId)) state.activeBankId = banks[0].id;
+      var allowedIds = new Set(banks.map(function(bank){ return String(bank.id || ''); }));
+      state.banks = banks.map(function(bank){ return JSON.parse(JSON.stringify(bank)); });
+      if (!allowedIds.has(String(state.activeBankId || ''))) state.activeBankId = banks[0].id;
       localStorage.setItem(KEY, JSON.stringify(state));
     })();
   </script>
-  <script src="./app.js?v=quiz-20260602-auto"></script>
+  <script src="./app.js?v=quiz-20260707-interchange-only"></script>
   <script>
     if ('serviceWorker' in navigator && (location.protocol === 'https:' || location.hostname === 'localhost')) {
       window.addEventListener('load', function() {

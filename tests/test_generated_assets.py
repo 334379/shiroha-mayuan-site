@@ -77,6 +77,16 @@ class GeneratedAssetsTests(unittest.TestCase):
             self.assertTrue(question["answerPending"])
             self.assertEqual([], question["answerKeys"])
 
+    def test_packaged_bank_replaces_old_local_banks(self):
+        app = (ROOT / "app.js").read_text(encoding="utf-8")
+        index = (ROOT / "index.html").read_text(encoding="utf-8")
+        sw = (ROOT / "service-worker.js").read_text(encoding="utf-8")
+        self.assertIn("PACKAGED_BANK_REPLACE_MODE=true", app)
+        self.assertIn("state.banks=next", app)
+        self.assertIn("state.banks = banks.map", index)
+        self.assertIn("quiz-20260707-interchange-only", index)
+        self.assertIn("quiz-20260707-interchange-only", sw)
+
 
 if __name__ == "__main__":
     unittest.main()

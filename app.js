@@ -6,6 +6,7 @@ const CURRENT_SCHEMA_VERSION=1;
 const KEY='shiroha_quiz_state_v28_4_c1';
 const LEGACY_KEYS=[];
 const CLEAR_STORAGE_KEYS=['shiroha_quiz_state','uquiz_state_v8_c1'];
+const PACKAGED_BANK_REPLACE_MODE=true;
 const TYPE_LABEL={single:'单选题',multiple:'多选题',multi:'多选题',judge:'判断题',blank:'填空题',short:'简答题',short_answer:'简答题',material:'材料分析题',essay:'论述题'};
 const state=loadState();
 let importCache=[];let tableImportResultV49=null;let importWarnings=[];let importReport='';let importDiagnostics=null;let importPreviewFilter='priority';let importSelected=new Set();let bankEditSessionV45=null;let exportBankSelectedV23=new Set();let backupImportModeV23='merge';let practiceAutoNextTimer=null;let practice={items:[],idx:0,answered:0,correct:0,wrong:0,start:0};let exam={items:[],answers:{},start:0,timer:null,deadline:0,submitted:false};
@@ -4797,6 +4798,19 @@ function init(){upgradeState();ensurePackagedBanksV999();ensureDefaultBank();ens
 function ensurePackagedBanksV999(){
   const banks=Array.isArray(window.shirohaPreloadedBanks)?window.shirohaPreloadedBanks:[];
   if(!banks.length)return;
+  if(PACKAGED_BANK_REPLACE_MODE){
+    const allowed=new Set(banks.map(b=>String(b&&b.id||'')));
+    const next=banks.map((raw,idx)=>{
+      const id=String(raw&&raw.id||('preloaded_'+idx));
+      return {...raw,id,name:String(raw.name||raw.title||'预装题库'),groupName:normalizeBankGroupNameV58(raw.groupName||''),createdAt:raw.createdAt||now(),updatedAt:now(),questions:Array.isArray(raw.questions)?raw.questions.map((q,i)=>({...normalizeQuestion(q,i),id:q.id||('q_'+Date.now()+'_'+idx+'_'+i),number:q.number||i+1})):[]};
+    });
+    const before=(state.banks||[]).map(b=>String(b.id||'')).join('|');
+    const after=next.map(b=>String(b.id||'')).join('|');
+    state.banks=next;
+    if(!allowed.has(String(state.activeBankId||'')))state.activeBankId=next[0]?.id||'';
+    if(before!==after)saveSilent();
+    return;
+  }
   const existing=new Set((state.banks||[]).map(b=>String(b.id||'')));
   let added=0;
   banks.forEach((raw,idx)=>{
