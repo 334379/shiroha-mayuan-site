@@ -1,4 +1,4 @@
-const CACHE_NAME = 'shiroha-quiz-pwa-20260709-2';
+const CACHE_NAME = 'shiroha-quiz-pwa-20260709-3';
 
 const APP_SHELL = [
   './',
@@ -26,8 +26,8 @@ const APP_SHELL = [
   './media/thinking_state_question.webp',
   './media/wrong_question_review_clipboard.webp',
   './data/banks-index.json',
-  './data/interchange-full.json',
-  './data/fluid-mechanics-full.json'
+  './data/fluid-mechanics-full.json',
+  './data/fluid-mechanics-terms.json'
 ];
 
 self.addEventListener('install', function(event) {

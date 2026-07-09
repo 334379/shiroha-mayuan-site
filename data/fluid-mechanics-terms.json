@@ -1,0 +1,342 @@
+{
+  "id": "fluid-mechanics-terms",
+  "name": "流体力学名词解释",
+  "groupName": "流体力学",
+  "createdAt": "2026-07-09T15:35:00.000Z",
+  "updatedAt": "2026-07-09T15:35:00.000Z",
+  "meta": {
+    "title": "流体力学名词解释",
+    "questionCount": 17,
+    "volumes": 1,
+    "sourceNote": "????.docx ????17???????",
+    "answerStatus": "answered",
+    "typeCounts": {
+      "short": 17
+    }
+  },
+  "questions": [
+    {
+      "id": "fluid-mechanics-terms-0001",
+      "type": "short",
+      "typeLabel": "名词解释",
+      "number": 1,
+      "volume": 1,
+      "question": "雷诺数",
+      "options": [],
+      "answerKeys": [
+        "是反应流体流动状态的数，雷诺数的大小反应了流体流动时，流体质点惯性力和粘性力的对比关系。"
+      ],
+      "answerText": [
+        "是反应流体流动状态的数，雷诺数的大小反应了流体流动时，流体质点惯性力和粘性力的对比关系。"
+      ],
+      "topic": "流体力学",
+      "category": "名词解释",
+      "score": 0,
+      "analysis": "是反应流体流动状态的数，雷诺数的大小反应了流体流动时，流体质点惯性力和粘性力的对比关系。"
+    },
+    {
+      "id": "fluid-mechanics-terms-0002",
+      "type": "short",
+      "typeLabel": "名词解释",
+      "number": 2,
+      "volume": 1,
+      "question": "流线",
+      "options": [],
+      "answerKeys": [
+        "流场中，在某一时刻，某点的切线方向与通过该点的流体质点的流速方向重合的空间曲线称为流线。"
+      ],
+      "answerText": [
+        "流场中，在某一时刻，某点的切线方向与通过该点的流体质点的流速方向重合的空间曲线称为流线。"
+      ],
+      "topic": "流体力学",
+      "category": "名词解释",
+      "score": 0,
+      "analysis": "流场中，在某一时刻，某点的切线方向与通过该点的流体质点的流速方向重合的空间曲线称为流线。"
+    },
+    {
+      "id": "fluid-mechanics-terms-0003",
+      "type": "short",
+      "typeLabel": "名词解释",
+      "number": 3,
+      "volume": 1,
+      "question": "压力体",
+      "options": [],
+      "answerKeys": [
+        "压力体是指三个面所封闭的流体体积，即底面是受压曲面，顶面是受压曲面边界线封闭的面积在自由面或者其延长面上的投影面，中间是通过受压曲面边界线所作的铅直投影面。"
+      ],
+      "answerText": [
+        "压力体是指三个面所封闭的流体体积，即底面是受压曲面，顶面是受压曲面边界线封闭的面积在自由面或者其延长面上的投影面，中间是通过受压曲面边界线所作的铅直投影面。"
+      ],
+      "topic": "流体力学",
+      "category": "名词解释",
+      "score": 0,
+      "analysis": "压力体是指三个面所封闭的流体体积，即底面是受压曲面，顶面是受压曲面边界线封闭的面积在自由面或者其延长面上的投影面，中间是通过受压曲面边界线所作的铅直投影面。"
+    },
+    {
+      "id": "fluid-mechanics-terms-0004",
+      "type": "short",
+      "typeLabel": "名词解释",
+      "number": 4,
+      "volume": 1,
+      "question": "牛顿流体",
+      "options": [],
+      "answerKeys": [
+        "把在作剪切运动时满足牛顿内摩擦定律的流体称为牛顿流体。"
+      ],
+      "answerText": [
+        "把在作剪切运动时满足牛顿内摩擦定律的流体称为牛顿流体。"
+      ],
+      "topic": "流体力学",
+      "category": "名词解释",
+      "score": 0,
+      "analysis": "把在作剪切运动时满足牛顿内摩擦定律的流体称为牛顿流体。"
+    },
+    {
+      "id": "fluid-mechanics-terms-0005",
+      "type": "short",
+      "typeLabel": "名词解释",
+      "number": 5,
+      "volume": 1,
+      "question": "欧拉法",
+      "options": [],
+      "answerKeys": [
+        "研究流体力学的一种方法，是指通过描述流体质点在空间的分布来研究流体运动的方法。"
+      ],
+      "answerText": [
+        "研究流体力学的一种方法，是指通过描述流体质点在空间的分布来研究流体运动的方法。"
+      ],
+      "topic": "流体力学",
+      "category": "名词解释",
+      "score": 0,
+      "analysis": "研究流体力学的一种方法，是指通过描述流体质点在空间的分布来研究流体运动的方法。"
+    },
+    {
+      "id": "fluid-mechanics-terms-0006",
+      "type": "short",
+      "typeLabel": "名词解释",
+      "number": 6,
+      "volume": 1,
+      "question": "拉格朗日法",
+      "options": [],
+      "answerKeys": [
+        "通过描述每一质点的运动达到了解流体运动的方法称为拉格朗日法。"
+      ],
+      "answerText": [
+        "通过描述每一质点的运动达到了解流体运动的方法称为拉格朗日法。"
+      ],
+      "topic": "流体力学",
+      "category": "名词解释",
+      "score": 0,
+      "analysis": "通过描述每一质点的运动达到了解流体运动的方法称为拉格朗日法。"
+    },
+    {
+      "id": "fluid-mechanics-terms-0007",
+      "type": "short",
+      "typeLabel": "名词解释",
+      "number": 7,
+      "volume": 1,
+      "question": "不可压缩流体",
+      "options": [],
+      "answerKeys": [
+        "流体密度不随温度与流动过程而变化的液体。"
+      ],
+      "answerText": [
+        "流体密度不随温度与流动过程而变化的液体。"
+      ],
+      "topic": "流体力学",
+      "category": "名词解释",
+      "score": 0,
+      "analysis": "流体密度不随温度与流动过程而变化的液体。"
+    },
+    {
+      "id": "fluid-mechanics-terms-0008",
+      "type": "short",
+      "typeLabel": "名词解释",
+      "number": 8,
+      "volume": 1,
+      "question": "理想流体",
+      "options": [],
+      "answerKeys": [
+        "实际的流体都是有粘性的，没有粘性的假想流体称为理想流体。"
+      ],
+      "answerText": [
+        "实际的流体都是有粘性的，没有粘性的假想流体称为理想流体。"
+      ],
+      "topic": "流体力学",
+      "category": "名词解释",
+      "score": 0,
+      "analysis": "实际的流体都是有粘性的，没有粘性的假想流体称为理想流体。"
+    },
+    {
+      "id": "fluid-mechanics-terms-0009",
+      "type": "short",
+      "typeLabel": "名词解释",
+      "number": 9,
+      "volume": 1,
+      "question": "量纲和谐",
+      "options": [],
+      "answerKeys": [
+        "只有量纲相同的物理量才能相加减，所以正确的物理关系式中各加和项的量纲必须是相同的，等式两边的量纲也必然是相同的。"
+      ],
+      "answerText": [
+        "只有量纲相同的物理量才能相加减，所以正确的物理关系式中各加和项的量纲必须是相同的，等式两边的量纲也必然是相同的。"
+      ],
+      "topic": "流体力学",
+      "category": "名词解释",
+      "score": 0,
+      "analysis": "只有量纲相同的物理量才能相加减，所以正确的物理关系式中各加和项的量纲必须是相同的，等式两边的量纲也必然是相同的。"
+    },
+    {
+      "id": "fluid-mechanics-terms-0010",
+      "type": "short",
+      "typeLabel": "名词解释",
+      "number": 10,
+      "volume": 1,
+      "question": "恒定流动",
+      "options": [],
+      "answerKeys": [
+        "流场中各空间点上所有物理参数均与时间变量无关，称作恒定流动。"
+      ],
+      "answerText": [
+        "流场中各空间点上所有物理参数均与时间变量无关，称作恒定流动。"
+      ],
+      "topic": "流体力学",
+      "category": "名词解释",
+      "score": 0,
+      "analysis": "流场中各空间点上所有物理参数均与时间变量无关，称作恒定流动。"
+    },
+    {
+      "id": "fluid-mechanics-terms-0011",
+      "type": "short",
+      "typeLabel": "名词解释",
+      "number": 11,
+      "volume": 1,
+      "question": "沿程阻力",
+      "options": [],
+      "answerKeys": [
+        "流体沿流动路程所受的阻碍称为沿程阻力。"
+      ],
+      "answerText": [
+        "流体沿流动路程所受的阻碍称为沿程阻力。"
+      ],
+      "topic": "流体力学",
+      "category": "名词解释",
+      "score": 0,
+      "analysis": "流体沿流动路程所受的阻碍称为沿程阻力。"
+    },
+    {
+      "id": "fluid-mechanics-terms-0012",
+      "type": "short",
+      "typeLabel": "名词解释",
+      "number": 12,
+      "volume": 1,
+      "question": "局部阻力",
+      "options": [],
+      "answerKeys": [
+        "流体流经各种局部障碍时，由于水流变形、方向变化、速度重新分布，质点间进行剧烈动量交换而产生的阻力。"
+      ],
+      "answerText": [
+        "流体流经各种局部障碍时，由于水流变形、方向变化、速度重新分布，质点间进行剧烈动量交换而产生的阻力。"
+      ],
+      "topic": "流体力学",
+      "category": "名词解释",
+      "score": 0,
+      "analysis": "流体流经各种局部障碍时，由于水流变形、方向变化、速度重新分布，质点间进行剧烈动量交换而产生的阻力。"
+    },
+    {
+      "id": "fluid-mechanics-terms-0013",
+      "type": "short",
+      "typeLabel": "名词解释",
+      "number": 13,
+      "volume": 1,
+      "question": "迹线",
+      "options": [],
+      "answerKeys": [
+        "流体质点在运动过程中，不同时刻位置连接形成的运动轨迹，是针对单个流体质点的运动描述。"
+      ],
+      "answerText": [
+        "流体质点在运动过程中，不同时刻位置连接形成的运动轨迹，是针对单个流体质点的运动描述。"
+      ],
+      "topic": "流体力学",
+      "category": "名词解释",
+      "score": 0,
+      "analysis": "流体质点在运动过程中，不同时刻位置连接形成的运动轨迹，是针对单个流体质点的运动描述。"
+    },
+    {
+      "id": "fluid-mechanics-terms-0014",
+      "type": "short",
+      "typeLabel": "名词解释",
+      "number": 14,
+      "volume": 1,
+      "question": "湿周",
+      "options": [],
+      "answerKeys": [
+        "管道过流断面上，流体与固体壁面相接触的边界总长度，不含自由液面长度，是水力计算核心参数。"
+      ],
+      "answerText": [
+        "管道过流断面上，流体与固体壁面相接触的边界总长度，不含自由液面长度，是水力计算核心参数。"
+      ],
+      "topic": "流体力学",
+      "category": "名词解释",
+      "score": 0,
+      "analysis": "管道过流断面上，流体与固体壁面相接触的边界总长度，不含自由液面长度，是水力计算核心参数。"
+    },
+    {
+      "id": "fluid-mechanics-terms-0015",
+      "type": "short",
+      "typeLabel": "名词解释",
+      "number": 15,
+      "volume": 1,
+      "question": "定常流动",
+      "options": [],
+      "answerKeys": [
+        "流场中任意空间点的流速、压强、密度等所有运动参数，均不随时间发生变化的流动。"
+      ],
+      "answerText": [
+        "流场中任意空间点的流速、压强、密度等所有运动参数，均不随时间发生变化的流动。"
+      ],
+      "topic": "流体力学",
+      "category": "名词解释",
+      "score": 0,
+      "analysis": "流场中任意空间点的流速、压强、密度等所有运动参数，均不随时间发生变化的流动。"
+    },
+    {
+      "id": "fluid-mechanics-terms-0016",
+      "type": "short",
+      "typeLabel": "名词解释",
+      "number": 16,
+      "volume": 1,
+      "question": "质量力",
+      "options": [],
+      "answerKeys": [
+        "作用于流体每个质点上、与流体质量成正比的力，无需接触即可作用，常见有重力、惯性力、离心力。"
+      ],
+      "answerText": [
+        "作用于流体每个质点上、与流体质量成正比的力，无需接触即可作用，常见有重力、惯性力、离心力。"
+      ],
+      "topic": "流体力学",
+      "category": "名词解释",
+      "score": 0,
+      "analysis": "作用于流体每个质点上、与流体质量成正比的力，无需接触即可作用，常见有重力、惯性力、离心力。"
+    },
+    {
+      "id": "fluid-mechanics-terms-0017",
+      "type": "short",
+      "typeLabel": "名词解释",
+      "number": 17,
+      "volume": 1,
+      "question": "粘滞性",
+      "options": [],
+      "answerKeys": [
+        "流体内部发生相对剪切变形时，产生内摩擦力抵抗变形的固有物理性质，是流动能量损失的根本原因，用粘度表征大小。"
+      ],
+      "answerText": [
+        "流体内部发生相对剪切变形时，产生内摩擦力抵抗变形的固有物理性质，是流动能量损失的根本原因，用粘度表征大小。"
+      ],
+      "topic": "流体力学",
+      "category": "名词解释",
+      "score": 0,
+      "analysis": "流体内部发生相对剪切变形时，产生内摩擦力抵抗变形的固有物理性质，是流动能量损失的根本原因，用粘度表征大小。"
+    }
+  ]
+}
