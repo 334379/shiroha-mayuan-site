@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-07-09T15:20:00.000Z",
+  "exportedAt": "2026-07-09T15:25:00.000Z",
   "banks": [
     {
       "id": "interchange-full",
@@ -1278,15 +1278,15 @@
     },
     {
       "id": "fluid-mechanics-full",
-      "name": "???????",
-      "groupName": "????",
+      "name": "流体力学选择题",
+      "groupName": "流体力学",
       "createdAt": "2026-07-09T15:15:00.000Z",
       "updatedAt": "2026-07-09T15:15:00.000Z",
       "meta": {
-        "title": "???????",
+        "title": "流体力学选择题",
         "questionCount": 35,
         "volumes": 1,
-        "sourceNote": "????????.docx ????????????????????????????",
+        "sourceNote": "由流体力学选择题.docx 导入；选择题答案来自题干内嵌选项，填空题原文未提供答案。",
         "answerStatus": "choice-answered-blank-pending",
         "typeCounts": {
           "single": 22,
@@ -1297,7 +1297,7 @@
         {
           "id": "fluid-mechanics-full-0001",
           "type": "single",
-          "typeLabel": "???",
+          "typeLabel": "单选题",
           "number": 1,
           "volume": 1,
           "question": "有一变直径管流小管直径d, 大管直径 d=2d, 则两断面雷诺数的关系是",
@@ -1325,15 +1325,15 @@
           "answerText": [
             "A"
           ],
-          "topic": "????",
-          "category": "???",
+          "topic": "流体力学",
+          "category": "选择题",
           "score": 1,
           "analysis": ""
         },
         {
           "id": "fluid-mechanics-full-0002",
           "type": "single",
-          "typeLabel": "???",
+          "typeLabel": "单选题",
           "number": 2,
           "volume": 1,
           "question": "速度v，密度ρ，压强p的无量纲集合是",
@@ -1361,15 +1361,15 @@
           "answerText": [
             "D"
           ],
-          "topic": "????",
-          "category": "???",
+          "topic": "流体力学",
+          "category": "选择题",
           "score": 1,
           "analysis": ""
         },
         {
           "id": "fluid-mechanics-full-0003",
           "type": "single",
-          "typeLabel": "???",
+          "typeLabel": "单选题",
           "number": 3,
           "volume": 1,
           "question": "雷诺效代表的是之比",
@@ -1397,15 +1397,15 @@
           "answerText": [
             "D"
           ],
-          "topic": "????",
-          "category": "???",
+          "topic": "流体力学",
+          "category": "选择题",
           "score": 1,
           "analysis": ""
         },
         {
           "id": "fluid-mechanics-full-0004",
           "type": "single",
-          "typeLabel": "???",
+          "typeLabel": "单选题",
           "number": 4,
           "volume": 1,
           "question": "以下哪种流体为非牛顿流体。",
@@ -1433,15 +1433,15 @@
           "answerText": [
             "C"
           ],
-          "topic": "????",
-          "category": "???",
+          "topic": "流体力学",
+          "category": "选择题",
           "score": 1,
           "analysis": ""
         },
         {
           "id": "fluid-mechanics-full-0005",
           "type": "single",
-          "typeLabel": "???",
+          "typeLabel": "单选题",
           "number": 5,
           "volume": 1,
           "question": "工程上计算流体在圆管内流动时，由层流变为湍流采用的临界雷诺数取为",
@@ -1469,15 +1469,15 @@
           "answerText": [
             "B"
           ],
-          "topic": "????",
-          "category": "???",
+          "topic": "流体力学",
+          "category": "选择题",
           "score": 1,
           "analysis": ""
         },
         {
           "id": "fluid-mechanics-full-0006",
           "type": "single",
-          "typeLabel": "???",
+          "typeLabel": "单选题",
           "number": 6,
           "volume": 1,
           "question": "牛顿内摩擦定律τ＝μdu/dy中的du/dy为运动流体的",
@@ -1505,15 +1505,15 @@
           "answerText": [
             "D"
           ],
-          "topic": "????",
-          "category": "???",
+          "topic": "流体力学",
+          "category": "选择题",
           "score": 1,
           "analysis": ""
         },
         {
           "id": "fluid-mechanics-full-0007",
           "type": "single",
-          "typeLabel": "???",
+          "typeLabel": "单选题",
           "number": 7,
           "volume": 1,
           "question": "液体钻度随温度的升高而（），气体粘度随温度的升高而",
@@ -1541,15 +1541,15 @@
           "answerText": [
             "A"
           ],
-          "topic": "????",
-          "category": "???",
+          "topic": "流体力学",
+          "category": "选择题",
           "score": 1,
           "analysis": ""
         },
         {
           "id": "fluid-mechanics-full-0008",
           "type": "single",
-          "typeLabel": "???",
+          "typeLabel": "单选题",
           "number": 8,
           "volume": 1,
           "question": "在研究流体运动时，按照是否考虑流体的粘性，可将流体分为",
@@ -1577,15 +1577,15 @@
           "answerText": [
             "D"
           ],
-          "topic": "????",
-          "category": "???",
+          "topic": "流体力学",
+          "category": "选择题",
           "score": 1,
           "analysis": ""
         },
         {
           "id": "fluid-mechanics-full-0009",
           "type": "single",
-          "typeLabel": "???",
+          "typeLabel": "单选题",
           "number": 9,
           "volume": 1,
           "question": "在流体力学中，单位质量力是指",
@@ -1613,15 +1613,15 @@
           "answerText": [
             "C"
           ],
-          "topic": "????",
-          "category": "???",
+          "topic": "流体力学",
+          "category": "选择题",
           "score": 1,
           "analysis": ""
         },
         {
           "id": "fluid-mechanics-full-0010",
           "type": "single",
-          "typeLabel": "???",
+          "typeLabel": "单选题",
           "number": 10,
           "volume": 1,
           "question": "在平衡液体中，质量力与等压面",
@@ -1649,15 +1649,15 @@
           "answerText": [
             "D"
           ],
-          "topic": "????",
-          "category": "???",
+          "topic": "流体力学",
+          "category": "选择题",
           "score": 1,
           "analysis": ""
         },
         {
           "id": "fluid-mechanics-full-0011",
           "type": "single",
-          "typeLabel": "???",
+          "typeLabel": "单选题",
           "number": 11,
           "volume": 1,
           "question": "有压管道的管径d与管流水力半径的比值d/R=",
@@ -1685,15 +1685,15 @@
           "answerText": [
             "B"
           ],
-          "topic": "????",
-          "category": "???",
+          "topic": "流体力学",
+          "category": "选择题",
           "score": 1,
           "analysis": ""
         },
         {
           "id": "fluid-mechanics-full-0012",
           "type": "single",
-          "typeLabel": "???",
+          "typeLabel": "单选题",
           "number": 12,
           "volume": 1,
           "question": "已知水流的沿程水力摩擦系数2√21 只与边界粗糙度有关，可判断该水流属于",
@@ -1721,15 +1721,15 @@
           "answerText": [
             "D"
           ],
-          "topic": "????",
-          "category": "???",
+          "topic": "流体力学",
+          "category": "选择题",
           "score": 1,
           "analysis": ""
         },
         {
           "id": "fluid-mechanics-full-0013",
           "type": "single",
-          "typeLabel": "???",
+          "typeLabel": "单选题",
           "number": 13,
           "volume": 1,
           "question": "液体中某点的绝对压强为100kN/m2，则该点的相对压强为",
@@ -1757,15 +1757,15 @@
           "answerText": [
             "B"
           ],
-          "topic": "????",
-          "category": "???",
+          "topic": "流体力学",
+          "category": "选择题",
           "score": 1,
           "analysis": ""
         },
         {
           "id": "fluid-mechanics-full-0014",
           "type": "single",
-          "typeLabel": "???",
+          "typeLabel": "单选题",
           "number": 14,
           "volume": 1,
           "question": "湍流的断面流速分布规律符合",
@@ -1793,15 +1793,15 @@
           "answerText": [
             "A"
           ],
-          "topic": "????",
-          "category": "???",
+          "topic": "流体力学",
+          "category": "选择题",
           "score": 1,
           "analysis": ""
         },
         {
           "id": "fluid-mechanics-full-0015",
           "type": "single",
-          "typeLabel": "???",
+          "typeLabel": "单选题",
           "number": 15,
           "volume": 1,
           "question": "层流断面流速分布规律符合",
@@ -1829,15 +1829,15 @@
           "answerText": [
             "C"
           ],
-          "topic": "????",
-          "category": "???",
+          "topic": "流体力学",
+          "category": "选择题",
           "score": 1,
           "analysis": ""
         },
         {
           "id": "fluid-mechanics-full-0016",
           "type": "single",
-          "typeLabel": "???",
+          "typeLabel": "单选题",
           "number": 16,
           "volume": 1,
           "question": "绝对压强pabs与相对压强p、真空度pv、当地大气压pa之间的关系是",
@@ -1865,15 +1865,15 @@
           "answerText": [
             "B"
           ],
-          "topic": "????",
-          "category": "???",
+          "topic": "流体力学",
+          "category": "选择题",
           "score": 1,
           "analysis": ""
         },
         {
           "id": "fluid-mechanics-full-0017",
           "type": "single",
-          "typeLabel": "???",
+          "typeLabel": "单选题",
           "number": 17,
           "volume": 1,
           "question": "下面四种有关流体的质量和重量的说法，正确而严格的说法是",
@@ -1901,15 +1901,15 @@
           "answerText": [
             "B"
           ],
-          "topic": "????",
-          "category": "???",
+          "topic": "流体力学",
+          "category": "选择题",
           "score": 1,
           "analysis": ""
         },
         {
           "id": "fluid-mechanics-full-0018",
           "type": "single",
-          "typeLabel": "???",
+          "typeLabel": "单选题",
           "number": 18,
           "volume": 1,
           "question": "流体是一种物质。",
@@ -1937,15 +1937,15 @@
           "answerText": [
             "C"
           ],
-          "topic": "????",
-          "category": "???",
+          "topic": "流体力学",
+          "category": "选择题",
           "score": 1,
           "analysis": ""
         },
         {
           "id": "fluid-mechanics-full-0019",
           "type": "single",
-          "typeLabel": "???",
+          "typeLabel": "单选题",
           "number": 19,
           "volume": 1,
           "question": "单位质量力的量纲是",
@@ -1973,15 +1973,15 @@
           "answerText": [
             "A"
           ],
-          "topic": "????",
-          "category": "???",
+          "topic": "流体力学",
+          "category": "选择题",
           "score": 1,
           "analysis": ""
         },
         {
           "id": "fluid-mechanics-full-0020",
           "type": "single",
-          "typeLabel": "???",
+          "typeLabel": "单选题",
           "number": 20,
           "volume": 1,
           "question": "流体力学中，单位质量力是指作用在单位（）液体上的质量力。",
@@ -2009,15 +2009,15 @@
           "answerText": [
             "C"
           ],
-          "topic": "????",
-          "category": "???",
+          "topic": "流体力学",
+          "category": "选择题",
           "score": 1,
           "analysis": ""
         },
         {
           "id": "fluid-mechanics-full-0021",
           "type": "single",
-          "typeLabel": "???",
+          "typeLabel": "单选题",
           "number": 21,
           "volume": 1,
           "question": "管路水力计算中的所谓长管是指",
@@ -2045,15 +2045,15 @@
           "answerText": [
             "C"
           ],
-          "topic": "????",
-          "category": "???",
+          "topic": "流体力学",
+          "category": "选择题",
           "score": 1,
           "analysis": ""
         },
         {
           "id": "fluid-mechanics-full-0022",
           "type": "single",
-          "typeLabel": "???",
+          "typeLabel": "单选题",
           "number": 22,
           "volume": 1,
           "question": "湍流中粘滞底层厚度d比绝对精造高度D大得多的壁面称为",
@@ -2081,244 +2081,244 @@
           "answerText": [
             "A"
           ],
-          "topic": "????",
-          "category": "???",
+          "topic": "流体力学",
+          "category": "选择题",
           "score": 1,
           "analysis": ""
         },
         {
           "id": "fluid-mechanics-full-0023",
           "type": "blank",
-          "typeLabel": "???",
+          "typeLabel": "填空题",
           "number": 23,
           "volume": 1,
           "question": "流体在管道中流动时，流动阻力包括 和 。",
           "options": [],
           "answerKeys": [],
           "answerText": [
-            "? Word ????????????????"
+            "原 Word 文档未提供填空题答案，待补答案。"
           ],
           "answerPending": true,
-          "topic": "????",
-          "category": "???",
+          "topic": "流体力学",
+          "category": "填空题",
           "score": 0,
-          "analysis": "? Word ????????????????"
+          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
         },
         {
           "id": "fluid-mechanics-full-0024",
           "type": "blank",
-          "typeLabel": "???",
+          "typeLabel": "填空题",
           "number": 24,
           "volume": 1,
           "question": "流体的主要力学模型是指 和 。",
           "options": [],
           "answerKeys": [],
           "answerText": [
-            "? Word ????????????????"
+            "原 Word 文档未提供填空题答案，待补答案。"
           ],
           "answerPending": true,
-          "topic": "????",
-          "category": "???",
+          "topic": "流体力学",
+          "category": "填空题",
           "score": 0,
-          "analysis": "? Word ????????????????"
+          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
         },
         {
           "id": "fluid-mechanics-full-0025",
           "type": "blank",
-          "typeLabel": "???",
+          "typeLabel": "填空题",
           "number": 25,
           "volume": 1,
           "question": "在工程流体力学中，常取的基本量纲为 。",
           "options": [],
           "answerKeys": [],
           "answerText": [
-            "? Word ????????????????"
+            "原 Word 文档未提供填空题答案，待补答案。"
           ],
           "answerPending": true,
-          "topic": "????",
-          "category": "???",
+          "topic": "流体力学",
+          "category": "填空题",
           "score": 0,
-          "analysis": "? Word ????????????????"
+          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
         },
         {
           "id": "fluid-mechanics-full-0026",
           "type": "blank",
-          "typeLabel": "???",
+          "typeLabel": "填空题",
           "number": 26,
           "volume": 1,
           "question": "力学相似的三个方面包括 、 与 。",
           "options": [],
           "answerKeys": [],
           "answerText": [
-            "? Word ????????????????"
+            "原 Word 文档未提供填空题答案，待补答案。"
           ],
           "answerPending": true,
-          "topic": "????",
-          "category": "???",
+          "topic": "流体力学",
+          "category": "填空题",
           "score": 0,
-          "analysis": "? Word ????????????????"
+          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
         },
         {
           "id": "fluid-mechanics-full-0027",
           "type": "blank",
-          "typeLabel": "???",
+          "typeLabel": "填空题",
           "number": 27,
           "volume": 1,
           "question": "动力粘度与运动粘度的关系 。",
           "options": [],
           "answerKeys": [],
           "answerText": [
-            "? Word ????????????????"
+            "原 Word 文档未提供填空题答案，待补答案。"
           ],
           "answerPending": true,
-          "topic": "????",
-          "category": "???",
+          "topic": "流体力学",
+          "category": "填空题",
           "score": 0,
-          "analysis": "? Word ????????????????"
+          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
         },
         {
           "id": "fluid-mechanics-full-0028",
           "type": "blank",
-          "typeLabel": "???",
+          "typeLabel": "填空题",
           "number": 28,
           "volume": 1,
           "question": "牛顿内摩擦定律适用的条件是 和 。",
           "options": [],
           "answerKeys": [],
           "answerText": [
-            "? Word ????????????????"
+            "原 Word 文档未提供填空题答案，待补答案。"
           ],
           "answerPending": true,
-          "topic": "????",
-          "category": "???",
+          "topic": "流体力学",
+          "category": "填空题",
           "score": 0,
-          "analysis": "? Word ????????????????"
+          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
         },
         {
           "id": "fluid-mechanics-full-0029",
           "type": "blank",
-          "typeLabel": "???",
+          "typeLabel": "填空题",
           "number": 29,
           "volume": 1,
           "question": "根据管道水头损失计算方法的不同，管道可以分为 和 。",
           "options": [],
           "answerKeys": [],
           "answerText": [
-            "? Word ????????????????"
+            "原 Word 文档未提供填空题答案，待补答案。"
           ],
           "answerPending": true,
-          "topic": "????",
-          "category": "???",
+          "topic": "流体力学",
+          "category": "填空题",
           "score": 0,
-          "analysis": "? Word ????????????????"
+          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
         },
         {
           "id": "fluid-mechanics-full-0030",
           "type": "blank",
-          "typeLabel": "???",
+          "typeLabel": "填空题",
           "number": 30,
           "volume": 1,
           "question": "单位体积液体的重量称为液体的 ，其单位",
           "options": [],
           "answerKeys": [],
           "answerText": [
-            "? Word ????????????????"
+            "原 Word 文档未提供填空题答案，待补答案。"
           ],
           "answerPending": true,
-          "topic": "????",
-          "category": "???",
+          "topic": "流体力学",
+          "category": "填空题",
           "score": 0,
-          "analysis": "? Word ????????????????"
+          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
         },
         {
           "id": "fluid-mechanics-full-0031",
           "type": "blank",
-          "typeLabel": "???",
+          "typeLabel": "填空题",
           "number": 31,
           "volume": 1,
           "question": "圆管均匀层流的最大流速为平均流速的 倍。",
           "options": [],
           "answerKeys": [],
           "answerText": [
-            "? Word ????????????????"
+            "原 Word 文档未提供填空题答案，待补答案。"
           ],
           "answerPending": true,
-          "topic": "????",
-          "category": "???",
+          "topic": "流体力学",
+          "category": "填空题",
           "score": 0,
-          "analysis": "? Word ????????????????"
+          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
         },
         {
           "id": "fluid-mechanics-full-0032",
           "type": "blank",
-          "typeLabel": "???",
+          "typeLabel": "填空题",
           "number": 32,
           "volume": 1,
           "question": "流体的主要力学性质有： 、 、 、 和 。",
           "options": [],
           "answerKeys": [],
           "answerText": [
-            "? Word ????????????????"
+            "原 Word 文档未提供填空题答案，待补答案。"
           ],
           "answerPending": true,
-          "topic": "????",
-          "category": "???",
+          "topic": "流体力学",
+          "category": "填空题",
           "score": 0,
-          "analysis": "? Word ????????????????"
+          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
         },
         {
           "id": "fluid-mechanics-full-0033",
           "type": "blank",
-          "typeLabel": "???",
+          "typeLabel": "填空题",
           "number": 33,
           "volume": 1,
           "question": "流体流动的状态分为 和 。",
           "options": [],
           "answerKeys": [],
           "answerText": [
-            "? Word ????????????????"
+            "原 Word 文档未提供填空题答案，待补答案。"
           ],
           "answerPending": true,
-          "topic": "????",
-          "category": "???",
+          "topic": "流体力学",
+          "category": "填空题",
           "score": 0,
-          "analysis": "? Word ????????????????"
+          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
         },
         {
           "id": "fluid-mechanics-full-0034",
           "type": "blank",
-          "typeLabel": "???",
+          "typeLabel": "填空题",
           "number": 34,
           "volume": 1,
           "question": "雷诺数是反映流体流动状态的准数，它反映了流体流动时 与 的对比关系。",
           "options": [],
           "answerKeys": [],
           "answerText": [
-            "? Word ????????????????"
+            "原 Word 文档未提供填空题答案，待补答案。"
           ],
           "answerPending": true,
-          "topic": "????",
-          "category": "???",
+          "topic": "流体力学",
+          "category": "填空题",
           "score": 0,
-          "analysis": "? Word ????????????????"
+          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
         },
         {
           "id": "fluid-mechanics-full-0035",
           "type": "blank",
-          "typeLabel": "???",
+          "typeLabel": "填空题",
           "number": 35,
           "volume": 1,
           "question": "流体质点的运动形式有 。",
           "options": [],
           "answerKeys": [],
           "answerText": [
-            "? Word ????????????????"
+            "原 Word 文档未提供填空题答案，待补答案。"
           ],
           "answerPending": true,
-          "topic": "????",
-          "category": "???",
+          "topic": "流体力学",
+          "category": "填空题",
           "score": 0,
-          "analysis": "? Word ????????????????"
+          "analysis": "原 Word 文档未提供填空题答案，待补答案。"
         }
       ]
     }

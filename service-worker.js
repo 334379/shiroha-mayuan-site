@@ -1,4 +1,4 @@
-const CACHE_NAME = 'shiroha-quiz-pwa-20260709-1';
+const CACHE_NAME = 'shiroha-quiz-pwa-20260709-2';
 
 const APP_SHELL = [
   './',
