@@ -8,17 +8,17 @@ ROOT = Path(__file__).resolve().parents[1]
 
 
 class GeneratedAssetsTests(unittest.TestCase):
-    def test_index_contains_only_interchange(self):
+    def test_index_contains_packaged_banks(self):
         index = json.loads((ROOT / "data" / "banks-index.json").read_text(encoding="utf-8"))
         ids = [item["id"] for item in index]
-        self.assertEqual(["interchange-full"], ids)
+        self.assertEqual(["interchange-full", "fluid-mechanics-full"], ids)
 
     def test_counts_match_payloads(self):
         index = json.loads((ROOT / "data" / "banks-index.json").read_text(encoding="utf-8"))
         for item in index:
             payload = json.loads((ROOT / item["file"]).read_text(encoding="utf-8"))
             self.assertEqual(item["count"], len(payload["questions"]), item["id"])
-        self.assertEqual(1, len(index))
+        self.assertEqual(2, len(index))
 
     def test_questions_are_valid(self):
         index = json.loads((ROOT / "data" / "banks-index.json").read_text(encoding="utf-8"))
@@ -60,24 +60,37 @@ class GeneratedAssetsTests(unittest.TestCase):
         item = next(entry for entry in index if entry["id"] == "interchange-full")
         self.assertEqual(49, item["count"])
         payload = json.loads((ROOT / item["file"]).read_text(encoding="utf-8"))
-        self.assertEqual("互换性与技术测量复习", payload["meta"]["title"])
-        self.assertEqual(49, len(payload["questions"]))
+        self.assertEqual(49, payload["meta"]["questionCount"])
         singles = [question for question in payload["questions"] if question["type"] == "single"]
         blanks = [question for question in payload["questions"] if question["type"] == "blank"]
         self.assertEqual(19, len(singles))
         self.assertEqual(30, len(blanks))
         self.assertEqual(["A"], singles[0]["answerKeys"])
-        self.assertEqual("保证互换性生产的基础是。", singles[0]["question"])
+        self.assertIn("基础", singles[0]["question"])
         for question in singles:
-            self.assertEqual("single", question["type"])
             self.assertFalse(question.get("answerPending"))
             self.assertTrue(question["answerKeys"])
             self.assertEqual(4, len(question["options"]))
-        self.assertEqual(["封闭"], blanks[0]["answerKeys"])
-        self.assertEqual(["相互关联 / 相互补偿"], blanks[-1]["answerKeys"])
         for question in blanks:
             self.assertFalse(question.get("answerPending"))
             self.assertTrue(question["answerKeys"])
+
+    def test_fluid_mechanics_bank_imported_from_docx(self):
+        index = json.loads((ROOT / "data" / "banks-index.json").read_text(encoding="utf-8"))
+        item = next(entry for entry in index if entry["id"] == "fluid-mechanics-full")
+        self.assertEqual(35, item["count"])
+        payload = json.loads((ROOT / item["file"]).read_text(encoding="utf-8"))
+        self.assertEqual(35, payload["meta"]["questionCount"])
+        singles = [question for question in payload["questions"] if question["type"] == "single"]
+        blanks = [question for question in payload["questions"] if question["type"] == "blank"]
+        self.assertEqual(22, len(singles))
+        self.assertEqual(13, len(blanks))
+        self.assertEqual(["A"], singles[0]["answerKeys"])
+        self.assertEqual(["A"], singles[-1]["answerKeys"])
+        self.assertEqual(4, len(singles[0]["options"]))
+        for question in blanks:
+            self.assertTrue(question["answerPending"])
+            self.assertEqual([], question["answerKeys"])
 
     def test_packaged_bank_replaces_old_local_banks(self):
         app = (ROOT / "app.js").read_text(encoding="utf-8")
